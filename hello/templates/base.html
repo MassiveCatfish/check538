@@ -72,7 +72,23 @@
 				{'a':code,'b':code,'c':region,   'csrfmiddlewaretoken': '{{ csrf_token }}',},
 				function(data, status){
 					// do something with returned data
-					$('#returnedData').html(data);
+					$('#candidateName').html(data.candidate);
+              
+                    // Graphing the lines 
+
+                    var plot = $.plot("#predictWiseHistoryGraph", 
+                        data.graphs, {
+                        series: {
+                            lines: {
+                                show: true
+                            },
+                            points: {
+                                show: true
+                            }
+                        },
+                    });
+
+                    
 				}
 			);
           }
@@ -112,7 +128,7 @@
 			grid: {
 				hoverable: true,
 				clickable: true
-			}
+			},
 		});
 
 		$("<div id='tooltip'></div>").css({

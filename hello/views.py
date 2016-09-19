@@ -631,12 +631,12 @@ def adddata(pollHistory, pollWhite, pollBlack, kitchenHistory, kitchenWhite, kit
         if not curCandidate in curpollHistory[0]:
             curpollHistory[0].append(curCandidate)
             curkitchenHistory[0].append(curCandidate)
-            curpollHistory.append([(curTime,curPoll)])
-            curkitchenHistory.append([(curTime,curKitchen)])
+            curpollHistory.append([[curTime,curPoll]])
+            curkitchenHistory.append([[curTime,curKitchen]])
         else:
             j = curpollHistory[0].index(curCandidate)
-            curpollHistory[j+1].append((curTime,curPoll))
-            curkitchenHistory[j+1].append((curTime,curKitchen))
+            curpollHistory[j+1].append([curTime,curPoll])
+            curkitchenHistory[j+1].append([curTime,curKitchen])
    
         i += 1
     pollHistory.append(curpollHistory)
@@ -676,10 +676,10 @@ def adddataPW(PWHistory, pwWhite, pwBlack, dataname):
 
             if not curCandidate in curPWHistory[0]:
                 curPWHistory[0].append(curCandidate)
-                curPWHistory.append([(curTime,curPW)])
+                curPWHistory.append([[curTime,curPW]])
             else:
                 j = curPWHistory[0].index(curCandidate)
-                curPWHistory[j+1].append((curTime,curPW))
+                curPWHistory[j+1].append([curTime,curPW])
 
     PWHistory.append(curPWHistory)
 
@@ -771,30 +771,35 @@ def GetPlots(state, candidate, pollHistory, kitchenHistory, PWHistory):
     In538 = state in dataNameList538
     InPW = state in dataNameListPW
 
+    threeGraphs = {'state':state, 'candidate':candidate, 'graphs':[]}
+    
     if In538:
         i = dataNameList538.index(state)
         if candidate in pollHistory[i][0]:
             j = pollHistory[i][0].index(candidate)
-            #print i
-            #print j
-            (tpoll,vpoll) =  tupleIntoLst2(pollHistory[i][j+1])
-            (tkitchen,vkitchen) =  tupleIntoLst2(kitchenHistory[i][j+1])
-            plt.plot(tpoll,vpoll, 'b-', tkitchen, vkitchen, 'g-')
+            threeGraphs['graphs'].append({'data': pollHistory[i][j+1], 'label':'538 Poll Only'})
+            threeGraphs['graphs'].append({'data': kitchenHistory[i][j+1], 'label':'538 Poll Plus'})
+            #(tpoll,vpoll) =  tupleIntoLst2(pollHistory[i][j+1])
+            #(tkitchen,vkitchen) =  tupleIntoLst2(kitchenHistory[i][j+1])
+            #plt.plot(tpoll,vpoll, 'b-', tkitchen, vkitchen, 'g-')
         
 
     if InPW:
         i = dataNameListPW.index(state)
         if candidate in PWHistory[i][0]:
             j = PWHistory[i][0].index(candidate)
-            #print i
-            #print j
-            (tPW, vPW) = tupleIntoLst2(PWHistory[i][j+1])
-            plt.plot(tPW, vPW, 'r-')
-    plt.title(str(state)+' '+str(candidate))
+            threeGraphs['graphs'].append({'data': PWHistory[i][j+1], 'label':'PredictWise'})
+            #(tPW, vPW) = tupleIntoLst2(PWHistory[i][j+1])
+            #plt.plot(tPW, vPW, 'r-')
+    #plt.title(str(state)+' '+str(candidate))
 
     ########print "Return if betting according to poll: "+str(calculateGains(state,candidate,pollHistory,PWHistory))
     #########print "Return if betting according to kitchen: "+str(calculateGains(state,candidate,kitchenHistory,PWHistory))
-    plt.show()
+    #plt.show()
+    #print "HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
+    #print threeGraphs
+    #print "NTTTTTTTTTTTTTTTTTTTTTTT"
+    return threeGraphs
 
 def GetPlotsNoPlot(state, candidate, pollHistory, kitchenHistory, PWHistory):
     In538 = state in dataNameList538
@@ -897,9 +902,9 @@ def AllStateGain(pollHistory, kitchenHistory, PWHistory):
     totalKitchenRisk = float(0)
     for i in range(len(dataNameList538)):
         state = dataNameList538[i]
-        print state
+        #print state
         for candidate in pollHistory[i][0]:
-            print candidate
+            #print candidate
             (curPollSpent, curPollReturn, curPollRisk) = calculateGains(state, candidate, pollHistory, PWHistory)
             normPoll = curPollRisk+0.00001 #normalization constant for each (state,candidate) pair, add .01 to avoid division by 0normalization
             totalPollSpent += curPollSpent/normPoll
@@ -910,14 +915,14 @@ def AllStateGain(pollHistory, kitchenHistory, PWHistory):
             totalKitchenSpent += curKitchenSpent/normKitchen
             totalKitchenReturn += curKitchenReturn/normKitchen
             totalKitchenRisk += curKitchenRisk/normKitchen
-            print "------------"
-            print str(state)+" "+str(candidate)+" Poll investment: " + str((curPollSpent, curPollReturn, curPollRisk))
-            print str(state)+" "+str(candidate)+" Kitchen investment: " + str((curKitchenSpent, curKitchenReturn, curKitchenRisk))
+            #print "------------"
+            #print str(state)+" "+str(candidate)+" Poll investment: " + str((curPollSpent, curPollReturn, curPollRisk))
+            #print str(state)+" "+str(candidate)+" Kitchen investment: " + str((curKitchenSpent, curKitchenReturn, curKitchenRisk))
     print "$$$$$$$$$$$$$$$$$$$"
     print "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk))
     print "All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
     return "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk))+" and All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
-	
+    
 def main4():
     pollWhite = []
     pollBlack = []
@@ -935,11 +940,12 @@ def main4():
         adddataPW(PWHistory, pwWhite, pwBlack, x)
     ########
      
-    stateAbbrev = 'NY_D'
-    candidate = 'Sanders'
-    GetPlotsNoPlot(stateAbbrev, candidate, pollHistory, kitchenHistory, PWHistory)
-    return AllStateGain(pollHistory, kitchenHistory, PWHistory)
-		
+    stateAbbrev = 'CA_D'
+    candidate = 'Clinton'
+    #GetPlotsNoPlot(stateAbbrev, candidate, pollHistory, kitchenHistory, PWHistory)
+    return GetPlots(stateAbbrev, candidate, pollHistory, kitchenHistory, PWHistory)
+    #return AllStateGain(pollHistory, kitchenHistory, PWHistory)
+        
 # Create your views here.
 def index(request):
     # return HttpResponse('Hello from Python!')
@@ -949,18 +955,16 @@ def index(request):
     #r = requests.get('http://httpbin.org/status/418')
     #print r.text
     #return HttpResponse('<pre>' + r.text + '</pre>')
-	data = [(0,1),(1,0.5),(2,1)]
-	data = [[1.0, -0.1438889007523827], [3.0, 2.5472694918443874], [5.0, 0.06880272011524013]]
-	
-	printstr = main4()
-	
-	if request.method == 'POST':
-		print request.POST
-		#return render(request, 'index.html', {"message":"yo it's post "+printstr, "mydata":data})
-		#return render(request, 'index.html', {"message": printstr, "mydata":data})
-		return HttpResponse(printstr)
-	else:
-		return render(request, 'index.html', {"message":"hi feilin "+printstr, "mydata":data})
+    data = [(0,1),(1,0.5),(2,1)]
+    data = [[1.0, -0.1438889007523827], [3.0, 2.5472694918443874], [5.0, 0.06880272011524013]]
+    
+    response_data = main4()
+    
+    if request.method == 'POST':
+        print request.POST
+        return HttpResponse(json.dumps(response_data), content_type="application/json")
+    else:
+        return render(request, 'index.html', {"message":"hi there ", "mydata":data})
 
 def db(request):
 
