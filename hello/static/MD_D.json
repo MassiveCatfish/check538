@@ -1,0 +1,5130 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "37.672573",
+      "pollonly_winprob": 3.61,
+      "pollonly_hi": "47.04895",
+      "pollonly_lo": "37.204826",
+      "pollonly_forecast": "40.944996",
+      "kitchen_winprob": 3.115,
+      "kitchen_hi": "46.33609",
+      "kitchen_lo": "35.607643",
+      "kitchen_forecast": "39.814964"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "52.874077",
+      "pollonly_winprob": 96.39000300000001,
+      "pollonly_hi": "62.817318",
+      "pollonly_lo": "52.968636",
+      "pollonly_forecast": "56.352039",
+      "kitchen_winprob": 96.885002,
+      "kitchen_hi": "64.385216",
+      "kitchen_lo": "53.674576",
+      "kitchen_forecast": "57.482071"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "37.672729",
+      "pollonly_winprob": 2.7249999000000003,
+      "pollonly_hi": "46.691124",
+      "pollonly_lo": "37.556831",
+      "pollonly_forecast": "40.944817",
+      "kitchen_winprob": 2.5149999,
+      "kitchen_hi": "46.119797",
+      "kitchen_lo": "35.996288",
+      "kitchen_forecast": "39.901642"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "52.874836",
+      "pollonly_winprob": 97.275001,
+      "pollonly_hi": "62.465775",
+      "pollonly_lo": "53.331169",
+      "pollonly_forecast": "56.352375",
+      "kitchen_winprob": 97.485,
+      "kitchen_hi": "63.996075",
+      "kitchen_lo": "53.890579",
+      "kitchen_forecast": "57.39555"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "32.461525",
+      "pollonly_winprob": 1.095,
+      "pollonly_hi": "43.182755",
+      "pollonly_lo": "31.584721",
+      "pollonly_forecast": "36.059189",
+      "kitchen_winprob": 0.7799999799999999,
+      "kitchen_hi": "41.404652",
+      "kitchen_lo": "28.680811",
+      "kitchen_forecast": "33.91346"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "56.807648",
+      "pollonly_winprob": 98.904997,
+      "pollonly_hi": "68.499893",
+      "pollonly_lo": "57.098263",
+      "pollonly_forecast": "61.102985",
+      "kitchen_winprob": 99.220002,
+      "kitchen_hi": "71.237358",
+      "kitchen_lo": "58.714146",
+      "kitchen_forecast": "63.248707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "32.468876",
+      "pollonly_winprob": 0.8150000100000001,
+      "pollonly_hi": "42.902294",
+      "pollonly_lo": "31.864841",
+      "pollonly_forecast": "36.062187",
+      "kitchen_winprob": 0.6500000100000001,
+      "kitchen_hi": "41.19828",
+      "kitchen_lo": "28.888945",
+      "kitchen_forecast": "33.910133"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "56.812847",
+      "pollonly_winprob": 99.185002,
+      "pollonly_hi": "68.226021",
+      "pollonly_lo": "57.395771",
+      "pollonly_forecast": "61.10223",
+      "kitchen_winprob": 99.349999,
+      "kitchen_hi": "71.028152",
+      "kitchen_lo": "58.929771",
+      "kitchen_forecast": "63.254276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "32.468876",
+      "pollonly_winprob": 0.63,
+      "pollonly_hi": "42.619415",
+      "pollonly_lo": "32.158569",
+      "pollonly_forecast": "36.062187",
+      "kitchen_winprob": 0.49999998999999995,
+      "kitchen_hi": "40.972",
+      "kitchen_lo": "29.096825",
+      "kitchen_forecast": "33.910034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "56.812847",
+      "pollonly_winprob": 99.370003,
+      "pollonly_hi": "67.943451",
+      "pollonly_lo": "57.684113",
+      "pollonly_forecast": "61.10223",
+      "kitchen_winprob": 99.5,
+      "kitchen_hi": "70.82634",
+      "kitchen_lo": "59.158875",
+      "kitchen_forecast": "63.254383"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "32.485409",
+      "pollonly_winprob": 0.45500002,
+      "pollonly_hi": "42.331722",
+      "pollonly_lo": "32.473122",
+      "pollonly_forecast": "36.079937",
+      "kitchen_winprob": 0.40500001,
+      "kitchen_hi": "40.772545",
+      "kitchen_lo": "29.334579",
+      "kitchen_forecast": "33.934258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "56.794716",
+      "pollonly_winprob": 99.54500200000001,
+      "pollonly_hi": "67.651047",
+      "pollonly_lo": "57.965202",
+      "pollonly_forecast": "61.084206",
+      "kitchen_winprob": 99.594998,
+      "kitchen_hi": "70.596428",
+      "kitchen_lo": "59.364906",
+      "kitchen_forecast": "63.229877"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "33.192219",
+      "pollonly_winprob": 1.5699999,
+      "pollonly_hi": "43.820816",
+      "pollonly_lo": "31.432367",
+      "pollonly_forecast": "36.358139",
+      "kitchen_winprob": 1.0250000000000001,
+      "kitchen_hi": "41.753548",
+      "kitchen_lo": "28.278332",
+      "kitchen_forecast": "33.966343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "57.545376",
+      "pollonly_winprob": 98.430002,
+      "pollonly_hi": "68.6586",
+      "pollonly_lo": "56.573799",
+      "pollonly_forecast": "61.13166",
+      "kitchen_winprob": 98.975003,
+      "kitchen_hi": "71.61171",
+      "kitchen_lo": "58.418228",
+      "kitchen_forecast": "63.523468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "34.183609",
+      "pollonly_winprob": 5.72,
+      "pollonly_hi": "47.225418",
+      "pollonly_lo": "30.523338",
+      "pollonly_forecast": "37.6362",
+      "kitchen_winprob": 3.325,
+      "kitchen_hi": "44.580837",
+      "kitchen_lo": "27.85384",
+      "kitchen_forecast": "35.163147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "56.671406",
+      "pollonly_winprob": 94.279999,
+      "pollonly_hi": "69.476151",
+      "pollonly_lo": "53.20752",
+      "pollonly_forecast": "60.086243",
+      "kitchen_winprob": 96.675003,
+      "kitchen_hi": "72.016281",
+      "kitchen_lo": "55.630058",
+      "kitchen_forecast": "62.559296"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "34.187527",
+      "pollonly_winprob": 5.5050001,
+      "pollonly_hi": "47.049301",
+      "pollonly_lo": "30.694452",
+      "pollonly_forecast": "37.63842",
+      "kitchen_winprob": 3.0649999,
+      "kitchen_hi": "44.442192",
+      "kitchen_lo": "27.977417",
+      "kitchen_forecast": "35.165733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "56.671875",
+      "pollonly_winprob": 94.494998,
+      "pollonly_hi": "69.309685",
+      "pollonly_lo": "53.400089",
+      "pollonly_forecast": "60.084698",
+      "kitchen_winprob": 96.93499800000001,
+      "kitchen_hi": "71.886902",
+      "kitchen_lo": "55.776588",
+      "kitchen_forecast": "62.557388"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "34.166752",
+      "pollonly_winprob": 5.085,
+      "pollonly_hi": "46.839966",
+      "pollonly_lo": "30.875889",
+      "pollonly_forecast": "37.618843",
+      "kitchen_winprob": 2.8850000000000002,
+      "kitchen_hi": "44.288658",
+      "kitchen_lo": "28.062481",
+      "kitchen_forecast": "35.133705"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "56.686188",
+      "pollonly_winprob": 94.915003,
+      "pollonly_hi": "69.148315",
+      "pollonly_lo": "53.609158",
+      "pollonly_forecast": "60.103283",
+      "kitchen_winprob": 97.114998,
+      "kitchen_hi": "71.780205",
+      "kitchen_lo": "55.933868",
+      "kitchen_forecast": "62.588413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "34.130104",
+      "pollonly_winprob": 4.7499999,
+      "pollonly_hi": "46.587868",
+      "pollonly_lo": "31.016953",
+      "pollonly_forecast": "37.575405",
+      "kitchen_winprob": 2.6350001,
+      "kitchen_hi": "44.105652",
+      "kitchen_lo": "28.174133",
+      "kitchen_forecast": "35.082375"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "56.731087",
+      "pollonly_winprob": 95.249999,
+      "pollonly_hi": "69.019051",
+      "pollonly_lo": "53.835194",
+      "pollonly_forecast": "60.147987",
+      "kitchen_winprob": 97.364998,
+      "kitchen_hi": "71.707863",
+      "kitchen_lo": "56.130234",
+      "kitchen_forecast": "62.641022"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "34.128117",
+      "pollonly_winprob": 4.38,
+      "pollonly_hi": "46.427238",
+      "pollonly_lo": "31.203211",
+      "pollonly_forecast": "37.572498",
+      "kitchen_winprob": 2.74,
+      "kitchen_hi": "43.954655",
+      "kitchen_lo": "28.277637",
+      "kitchen_forecast": "35.079216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "56.735271",
+      "pollonly_winprob": 95.62,
+      "pollonly_hi": "68.846886",
+      "pollonly_lo": "54.032265",
+      "pollonly_forecast": "60.151234",
+      "kitchen_winprob": 97.259998,
+      "kitchen_hi": "71.58374",
+      "kitchen_lo": "56.281754",
+      "kitchen_forecast": "62.644512"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "34.128117",
+      "pollonly_winprob": 4.2250000000000005,
+      "pollonly_hi": "46.244797",
+      "pollonly_lo": "31.38257",
+      "pollonly_forecast": "37.572498",
+      "kitchen_winprob": 2.4499999000000003,
+      "kitchen_hi": "43.813808",
+      "kitchen_lo": "28.417084",
+      "kitchen_forecast": "35.078968"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "56.735271",
+      "pollonly_winprob": 95.775002,
+      "pollonly_hi": "68.677292",
+      "pollonly_lo": "54.226334",
+      "pollonly_forecast": "60.151234",
+      "kitchen_winprob": 97.549999,
+      "kitchen_hi": "71.456261",
+      "kitchen_lo": "56.430237",
+      "kitchen_forecast": "62.644775"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "34.105885",
+      "pollonly_winprob": 3.94,
+      "pollonly_hi": "45.983498",
+      "pollonly_lo": "31.526279",
+      "pollonly_forecast": "37.517418",
+      "kitchen_winprob": 2.255,
+      "kitchen_hi": "43.607651",
+      "kitchen_lo": "28.481812",
+      "kitchen_forecast": "35.026955"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "56.835773",
+      "pollonly_winprob": 96.060002,
+      "pollonly_hi": "68.562988",
+      "pollonly_lo": "54.476921",
+      "pollonly_forecast": "60.218353",
+      "kitchen_winprob": 97.745001,
+      "kitchen_hi": "71.371346",
+      "kitchen_lo": "56.614178",
+      "kitchen_forecast": "62.708817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "36.67881",
+      "pollonly_winprob": 11.965,
+      "pollonly_hi": "50.655014",
+      "pollonly_lo": "31.423203",
+      "pollonly_forecast": "40.049919",
+      "kitchen_winprob": 5.5,
+      "kitchen_hi": "46.384838",
+      "kitchen_lo": "26.098167",
+      "kitchen_forecast": "35.197762"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "55.4706",
+      "pollonly_winprob": 88.034999,
+      "pollonly_hi": "68.676865",
+      "pollonly_lo": "49.414841",
+      "pollonly_forecast": "57.99633",
+      "kitchen_winprob": 94.499999,
+      "kitchen_hi": "73.845215",
+      "kitchen_lo": "53.753433",
+      "kitchen_forecast": "62.848484"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "36.706562",
+      "pollonly_winprob": 11.375,
+      "pollonly_hi": "50.476646",
+      "pollonly_lo": "31.600502",
+      "pollonly_forecast": "40.063984",
+      "kitchen_winprob": 5.26,
+      "kitchen_hi": "46.22419",
+      "kitchen_lo": "26.229265",
+      "kitchen_forecast": "35.219585"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "55.474033",
+      "pollonly_winprob": 88.625002,
+      "pollonly_hi": "68.509216",
+      "pollonly_lo": "49.556068",
+      "pollonly_forecast": "57.986576",
+      "kitchen_winprob": 94.739997,
+      "kitchen_hi": "73.719543",
+      "kitchen_lo": "53.858673",
+      "kitchen_forecast": "62.830982"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "36.714523",
+      "pollonly_winprob": 11.43,
+      "pollonly_hi": "50.346909",
+      "pollonly_lo": "31.762079",
+      "pollonly_forecast": "40.069302",
+      "kitchen_winprob": 5.2049998,
+      "kitchen_hi": "45.789742",
+      "kitchen_lo": "25.634382",
+      "kitchen_forecast": "34.670738"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "55.471912",
+      "pollonly_winprob": 88.569999,
+      "pollonly_hi": "68.353615",
+      "pollonly_lo": "49.713886",
+      "pollonly_forecast": "57.982071",
+      "kitchen_winprob": 94.795001,
+      "kitchen_hi": "74.311691",
+      "kitchen_lo": "54.344864",
+      "kitchen_forecast": "63.380642"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "36.720821",
+      "pollonly_winprob": 11.135,
+      "pollonly_hi": "50.202522",
+      "pollonly_lo": "31.911526",
+      "pollonly_forecast": "40.076031",
+      "kitchen_winprob": 4.7699999,
+      "kitchen_hi": "45.741257",
+      "kitchen_lo": "25.903069",
+      "kitchen_forecast": "34.806595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "55.46413",
+      "pollonly_winprob": 88.86500000000001,
+      "pollonly_hi": "68.214706",
+      "pollonly_lo": "49.883041",
+      "pollonly_forecast": "57.975136",
+      "kitchen_winprob": 95.230001,
+      "kitchen_hi": "74.038193",
+      "kitchen_lo": "54.380516",
+      "kitchen_forecast": "63.244572"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "36.720821",
+      "pollonly_winprob": 10.835,
+      "pollonly_hi": "50.050621",
+      "pollonly_lo": "32.072399",
+      "pollonly_forecast": "40.076031",
+      "kitchen_winprob": 4.639999899999999,
+      "kitchen_hi": "45.615189",
+      "kitchen_lo": "26.008595",
+      "kitchen_forecast": "34.805645"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "55.46413",
+      "pollonly_winprob": 89.165002,
+      "pollonly_hi": "68.067215",
+      "pollonly_lo": "50.049736",
+      "pollonly_forecast": "57.975136",
+      "kitchen_winprob": 95.359999,
+      "kitchen_hi": "73.916389",
+      "kitchen_lo": "54.483799",
+      "kitchen_forecast": "63.245522"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "36.846588",
+      "pollonly_winprob": 10.245,
+      "pollonly_hi": "49.875725",
+      "pollonly_lo": "32.220573",
+      "pollonly_forecast": "40.092564",
+      "kitchen_winprob": 4.715000099999999,
+      "kitchen_hi": "45.504734",
+      "kitchen_lo": "26.198172",
+      "kitchen_forecast": "34.86985"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "55.593777",
+      "pollonly_winprob": 89.754999,
+      "pollonly_hi": "67.900909",
+      "pollonly_lo": "50.216827",
+      "pollonly_forecast": "57.993759",
+      "kitchen_winprob": 95.284998,
+      "kitchen_hi": "73.74939",
+      "kitchen_lo": "54.572109",
+      "kitchen_forecast": "63.216473"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "26.327869",
+      "pollonly_winprob": 7.474999899999999,
+      "pollonly_hi": "47.969154",
+      "pollonly_lo": "17.493092",
+      "pollonly_forecast": "32.017979",
+      "kitchen_winprob": 3.3149999,
+      "kitchen_hi": "41.517776",
+      "kitchen_lo": "15.501805",
+      "kitchen_forecast": "26.915648"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "58.768162",
+      "pollonly_winprob": 92.524999,
+      "pollonly_hi": "79.397491",
+      "pollonly_lo": "53.738503",
+      "pollonly_forecast": "65.56897",
+      "kitchen_winprob": 96.684998,
+      "kitchen_hi": "83.790596",
+      "kitchen_lo": "59.326843",
+      "kitchen_forecast": "70.671295"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "26.403463",
+      "pollonly_winprob": 7.7249996,
+      "pollonly_hi": "48.05497",
+      "pollonly_lo": "17.488876",
+      "pollonly_forecast": "32.065464",
+      "kitchen_winprob": 3.345,
+      "kitchen_hi": "41.511696",
+      "kitchen_lo": "15.682928",
+      "kitchen_forecast": "27.00968"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "58.761955",
+      "pollonly_winprob": 92.27499999999999,
+      "pollonly_hi": "79.262848",
+      "pollonly_lo": "53.756775",
+      "pollonly_forecast": "65.533066",
+      "kitchen_winprob": 96.654999,
+      "kitchen_hi": "83.667313",
+      "kitchen_lo": "59.318588",
+      "kitchen_forecast": "70.58886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "26.40893",
+      "pollonly_winprob": 7.474999899999999,
+      "pollonly_hi": "47.950871",
+      "pollonly_lo": "17.547092",
+      "pollonly_forecast": "32.062958",
+      "kitchen_winprob": 3.1849998999999998,
+      "kitchen_hi": "41.391933",
+      "kitchen_lo": "15.751495",
+      "kitchen_forecast": "27.001524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "58.773903",
+      "pollonly_winprob": 92.524999,
+      "pollonly_hi": "79.194916",
+      "pollonly_lo": "53.859051",
+      "pollonly_forecast": "65.538483",
+      "kitchen_winprob": 96.81500199999999,
+      "kitchen_hi": "83.628571",
+      "kitchen_lo": "59.400314",
+      "kitchen_forecast": "70.599915"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "26.42309",
+      "pollonly_winprob": 7.1900003,
+      "pollonly_hi": "47.884686",
+      "pollonly_lo": "17.558678",
+      "pollonly_forecast": "32.061634",
+      "kitchen_winprob": 3.08,
+      "kitchen_hi": "41.32",
+      "kitchen_lo": "15.747726",
+      "kitchen_forecast": "26.984608"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "58.794041",
+      "pollonly_winprob": 92.809999,
+      "pollonly_hi": "79.12207",
+      "pollonly_lo": "53.967331",
+      "pollonly_forecast": "65.545509",
+      "kitchen_winprob": 96.92000200000001,
+      "kitchen_hi": "83.60495",
+      "kitchen_lo": "59.491745",
+      "kitchen_forecast": "70.622536"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "26.437534",
+      "pollonly_winprob": 7.305000000000001,
+      "pollonly_hi": "47.773819",
+      "pollonly_lo": "17.839357",
+      "pollonly_forecast": "32.069439",
+      "kitchen_winprob": 3.2550000000000003,
+      "kitchen_hi": "41.238617",
+      "kitchen_lo": "15.848124",
+      "kitchen_forecast": "27.012455"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "58.795502",
+      "pollonly_winprob": 92.694998,
+      "pollonly_hi": "79.044128",
+      "pollonly_lo": "54.059433",
+      "pollonly_forecast": "65.540344",
+      "kitchen_winprob": 96.745002,
+      "kitchen_hi": "83.53215",
+      "kitchen_lo": "59.546593",
+      "kitchen_forecast": "70.597336"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "26.401905",
+      "pollonly_winprob": 7.1500003,
+      "pollonly_hi": "47.669861",
+      "pollonly_lo": "17.81731",
+      "pollonly_forecast": "32.042999",
+      "kitchen_winprob": 3.105,
+      "kitchen_hi": "41.148556",
+      "kitchen_lo": "15.920272",
+      "kitchen_forecast": "27.009565"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "58.806911",
+      "pollonly_winprob": 92.85,
+      "pollonly_hi": "78.996201",
+      "pollonly_lo": "54.182564",
+      "pollonly_forecast": "65.562767",
+      "kitchen_winprob": 96.894997,
+      "kitchen_hi": "83.481064",
+      "kitchen_lo": "59.626617",
+      "kitchen_forecast": "70.596207"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "26.404724",
+      "pollonly_winprob": 6.8400003,
+      "pollonly_hi": "47.596725",
+      "pollonly_lo": "17.897892",
+      "pollonly_forecast": "32.049236",
+      "kitchen_winprob": 2.9200000999999998,
+      "kitchen_hi": "41.113602",
+      "kitchen_lo": "15.948627",
+      "kitchen_forecast": "27.014267"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "58.797359",
+      "pollonly_winprob": 93.159997,
+      "pollonly_hi": "78.92276",
+      "pollonly_lo": "54.268787",
+      "pollonly_forecast": "65.555405",
+      "kitchen_winprob": 97.079998,
+      "kitchen_hi": "83.433212",
+      "kitchen_lo": "59.689064",
+      "kitchen_forecast": "70.590378"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "26.456867",
+      "pollonly_winprob": 6.8800002,
+      "pollonly_hi": "47.509602",
+      "pollonly_lo": "18.191683",
+      "pollonly_forecast": "32.127209",
+      "kitchen_winprob": 2.935,
+      "kitchen_hi": "41.090218",
+      "kitchen_lo": "16.049377",
+      "kitchen_forecast": "27.054451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "58.698685",
+      "pollonly_winprob": 93.120003,
+      "pollonly_hi": "78.773697",
+      "pollonly_lo": "54.288223",
+      "pollonly_forecast": "65.469681",
+      "kitchen_winprob": 97.065002,
+      "kitchen_hi": "83.3452",
+      "kitchen_lo": "59.712532",
+      "kitchen_forecast": "70.542442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "26.366703",
+      "pollonly_winprob": 6.909999999999999,
+      "pollonly_hi": "47.38623",
+      "pollonly_lo": "18.108564",
+      "pollonly_forecast": "32.066776",
+      "kitchen_winprob": 2.9549999000000002,
+      "kitchen_hi": "40.995621",
+      "kitchen_lo": "15.550718",
+      "kitchen_forecast": "26.753139"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "58.714016",
+      "pollonly_winprob": 93.089998,
+      "pollonly_hi": "78.728172",
+      "pollonly_lo": "54.404938",
+      "pollonly_forecast": "65.517601",
+      "kitchen_winprob": 97.044998,
+      "kitchen_hi": "83.59581",
+      "kitchen_lo": "60.025803",
+      "kitchen_forecast": "70.83123"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "26.375425",
+      "pollonly_winprob": 6.645,
+      "pollonly_hi": "47.248581",
+      "pollonly_lo": "18.255844",
+      "pollonly_forecast": "32.06926",
+      "kitchen_winprob": 2.595,
+      "kitchen_hi": "40.366096",
+      "kitchen_lo": "14.87653",
+      "kitchen_forecast": "26.151039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "58.719559",
+      "pollonly_winprob": 93.355,
+      "pollonly_hi": "78.654312",
+      "pollonly_lo": "54.502052",
+      "pollonly_forecast": "65.517509",
+      "kitchen_winprob": 97.404999,
+      "kitchen_hi": "84.206497",
+      "kitchen_lo": "60.536224",
+      "kitchen_forecast": "71.43573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "26.366167",
+      "pollonly_winprob": 6.544999799999999,
+      "pollonly_hi": "47.173805",
+      "pollonly_lo": "18.404846",
+      "pollonly_forecast": "32.063812",
+      "kitchen_winprob": 2.6149999,
+      "kitchen_hi": "40.429134",
+      "kitchen_lo": "14.903809",
+      "kitchen_forecast": "26.146378"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "58.719555",
+      "pollonly_winprob": 93.454999,
+      "pollonly_hi": "78.58226",
+      "pollonly_lo": "54.605553",
+      "pollonly_forecast": "65.521408",
+      "kitchen_winprob": 97.385001,
+      "kitchen_hi": "84.163742",
+      "kitchen_lo": "60.614723",
+      "kitchen_forecast": "71.438843"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "26.366167",
+      "pollonly_winprob": 6.5949998999999995,
+      "pollonly_hi": "47.127663",
+      "pollonly_lo": "18.357821",
+      "pollonly_forecast": "32.063812",
+      "kitchen_winprob": 2.5749999999999997,
+      "kitchen_hi": "40.32402",
+      "kitchen_lo": "14.970091",
+      "kitchen_forecast": "26.146378"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "58.719555",
+      "pollonly_winprob": 93.40500200000001,
+      "pollonly_hi": "78.509766",
+      "pollonly_lo": "54.704247",
+      "pollonly_forecast": "65.521408",
+      "kitchen_winprob": 97.425002,
+      "kitchen_hi": "84.117325",
+      "kitchen_lo": "60.688522",
+      "kitchen_forecast": "71.438843"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "26.366167",
+      "pollonly_winprob": 6.520000099999999,
+      "pollonly_hi": "47.021835",
+      "pollonly_lo": "18.442719",
+      "pollonly_forecast": "32.063812",
+      "kitchen_winprob": 2.4800001,
+      "kitchen_hi": "40.250832",
+      "kitchen_lo": "15.020258",
+      "kitchen_forecast": "26.146378"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "58.719555",
+      "pollonly_winprob": 93.480003,
+      "pollonly_hi": "78.437119",
+      "pollonly_lo": "54.802914",
+      "pollonly_forecast": "65.521408",
+      "kitchen_winprob": 97.52,
+      "kitchen_hi": "84.070824",
+      "kitchen_lo": "60.762287",
+      "kitchen_forecast": "71.438843"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "26.366167",
+      "pollonly_winprob": 6.0350001,
+      "pollonly_hi": "46.897614",
+      "pollonly_lo": "18.594528",
+      "pollonly_forecast": "32.063812",
+      "kitchen_winprob": 2.335,
+      "kitchen_hi": "40.221569",
+      "kitchen_lo": "15.103951",
+      "kitchen_forecast": "26.146378"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "58.719555",
+      "pollonly_winprob": 93.965,
+      "pollonly_hi": "78.364334",
+      "pollonly_lo": "54.90155",
+      "pollonly_forecast": "65.521408",
+      "kitchen_winprob": 97.665,
+      "kitchen_hi": "83.991455",
+      "kitchen_lo": "60.784248",
+      "kitchen_forecast": "71.438843"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "26.37685",
+      "pollonly_winprob": 6.190000100000001,
+      "pollonly_hi": "46.857567",
+      "pollonly_lo": "18.769526",
+      "pollonly_forecast": "32.070103",
+      "kitchen_winprob": 2.53,
+      "kitchen_hi": "40.152458",
+      "kitchen_lo": "15.119287",
+      "kitchen_forecast": "26.163309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "58.719555",
+      "pollonly_winprob": 93.80999800000001,
+      "pollonly_hi": "78.264297",
+      "pollonly_lo": "54.971313",
+      "pollonly_forecast": "65.516907",
+      "kitchen_winprob": 97.46999699999999,
+      "kitchen_hi": "83.927979",
+      "kitchen_lo": "60.84433",
+      "kitchen_forecast": "71.423698"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "26.358772",
+      "pollonly_winprob": 5.945000100000001,
+      "pollonly_hi": "46.688118",
+      "pollonly_lo": "18.861542",
+      "pollonly_forecast": "32.037548",
+      "kitchen_winprob": 2.6350001,
+      "kitchen_hi": "40.895031",
+      "kitchen_lo": "15.651826",
+      "kitchen_forecast": "26.977249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "58.765297",
+      "pollonly_winprob": 94.055003,
+      "pollonly_hi": "78.219604",
+      "pollonly_lo": "55.096905",
+      "pollonly_forecast": "65.554077",
+      "kitchen_winprob": 97.364998,
+      "kitchen_hi": "82.972588",
+      "kitchen_lo": "60.343712",
+      "kitchen_forecast": "70.614388"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "26.36208",
+      "pollonly_winprob": 5.8449998,
+      "pollonly_hi": "46.578846",
+      "pollonly_lo": "18.928989",
+      "pollonly_forecast": "32.039009",
+      "kitchen_winprob": 2.5599998999999998,
+      "kitchen_hi": "40.864769",
+      "kitchen_lo": "15.693886",
+      "kitchen_forecast": "26.979549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "58.766319",
+      "pollonly_winprob": 94.155002,
+      "pollonly_hi": "78.14946",
+      "pollonly_lo": "55.188538",
+      "pollonly_forecast": "65.55336",
+      "kitchen_winprob": 97.439998,
+      "kitchen_hi": "82.890442",
+      "kitchen_lo": "60.368126",
+      "kitchen_forecast": "70.612816"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "26.3755",
+      "pollonly_winprob": 5.9749998,
+      "pollonly_hi": "46.490139",
+      "pollonly_lo": "18.881798",
+      "pollonly_forecast": "32.04427",
+      "kitchen_winprob": 2.6000001,
+      "kitchen_hi": "40.786697",
+      "kitchen_lo": "15.706194",
+      "kitchen_forecast": "26.987265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "58.771832",
+      "pollonly_winprob": 94.02499800000001,
+      "pollonly_hi": "78.063606",
+      "pollonly_lo": "55.282982",
+      "pollonly_forecast": "65.551247",
+      "kitchen_winprob": 97.399998,
+      "kitchen_hi": "82.8349",
+      "kitchen_lo": "60.435905",
+      "kitchen_forecast": "70.608253"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "26.37557",
+      "pollonly_winprob": 5.59,
+      "pollonly_hi": "46.380539",
+      "pollonly_lo": "19.068115",
+      "pollonly_forecast": "32.044216",
+      "kitchen_winprob": 2.6100000000000003,
+      "kitchen_hi": "40.747379",
+      "kitchen_lo": "15.816713",
+      "kitchen_forecast": "26.987228"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "58.772026",
+      "pollonly_winprob": 94.410002,
+      "pollonly_hi": "77.99437",
+      "pollonly_lo": "55.387135",
+      "pollonly_forecast": "65.551338",
+      "kitchen_winprob": 97.390002,
+      "kitchen_hi": "82.786034",
+      "kitchen_lo": "60.509853",
+      "kitchen_forecast": "70.60833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "26.380857",
+      "pollonly_winprob": 5.4949999,
+      "pollonly_hi": "46.303535",
+      "pollonly_lo": "19.095436",
+      "pollonly_forecast": "32.050022",
+      "kitchen_winprob": 2.3250001,
+      "kitchen_hi": "40.699638",
+      "kitchen_lo": "15.885162",
+      "kitchen_forecast": "26.992483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "58.766403",
+      "pollonly_winprob": 94.505,
+      "pollonly_hi": "77.9151",
+      "pollonly_lo": "55.479931",
+      "pollonly_forecast": "65.545479",
+      "kitchen_winprob": 97.675002,
+      "kitchen_hi": "82.732384",
+      "kitchen_lo": "60.578156",
+      "kitchen_forecast": "70.603027"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "26.380857",
+      "pollonly_winprob": 5.325,
+      "pollonly_hi": "46.251724",
+      "pollonly_lo": "19.217066",
+      "pollonly_forecast": "32.050022",
+      "kitchen_winprob": 2.4299999999999997,
+      "kitchen_hi": "40.66098",
+      "kitchen_lo": "15.893333",
+      "kitchen_forecast": "26.992483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "58.766403",
+      "pollonly_winprob": 94.674999,
+      "pollonly_hi": "77.841309",
+      "pollonly_lo": "55.578304",
+      "pollonly_forecast": "65.545479",
+      "kitchen_winprob": 97.570002,
+      "kitchen_hi": "82.683296",
+      "kitchen_lo": "60.651974",
+      "kitchen_forecast": "70.603027"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "26.3283",
+      "pollonly_winprob": 5.5,
+      "pollonly_hi": "46.101295",
+      "pollonly_lo": "19.200603",
+      "pollonly_forecast": "31.992643",
+      "kitchen_winprob": 2.4299999999999997,
+      "kitchen_hi": "40.543747",
+      "kitchen_lo": "15.904837",
+      "kitchen_forecast": "26.949055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "58.821556",
+      "pollonly_winprob": 94.499999,
+      "pollonly_hi": "77.793991",
+      "pollonly_lo": "55.693165",
+      "pollonly_forecast": "65.603294",
+      "kitchen_winprob": 97.570002,
+      "kitchen_hi": "82.670807",
+      "kitchen_lo": "60.774689",
+      "kitchen_forecast": "70.646873"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "26.357426",
+      "pollonly_winprob": 5.35,
+      "pollonly_hi": "46.003952",
+      "pollonly_lo": "19.371632",
+      "pollonly_forecast": "32.020309",
+      "kitchen_winprob": 2.31,
+      "kitchen_hi": "40.528065",
+      "kitchen_lo": "17.487591",
+      "kitchen_forecast": "27.628992"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "58.799622",
+      "pollonly_winprob": 94.65,
+      "pollonly_hi": "77.693466",
+      "pollonly_lo": "55.765293",
+      "pollonly_forecast": "65.576828",
+      "kitchen_winprob": 97.689998,
+      "kitchen_hi": "81.829224",
+      "kitchen_lo": "60.311371",
+      "kitchen_forecast": "69.968147"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "26.352564",
+      "pollonly_winprob": 5.3350002,
+      "pollonly_hi": "45.99958",
+      "pollonly_lo": "19.421806",
+      "pollonly_forecast": "32.022114",
+      "kitchen_winprob": 2.2399999,
+      "kitchen_hi": "40.433853",
+      "kitchen_lo": "17.580383",
+      "kitchen_forecast": "27.631229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "58.789883",
+      "pollonly_winprob": 94.665003,
+      "pollonly_hi": "77.624878",
+      "pollonly_lo": "55.861111",
+      "pollonly_forecast": "65.572586",
+      "kitchen_winprob": 97.75999800000001,
+      "kitchen_hi": "81.783356",
+      "kitchen_lo": "60.382587",
+      "kitchen_forecast": "69.96347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "26.466537",
+      "pollonly_winprob": 5.35,
+      "pollonly_hi": "45.938084",
+      "pollonly_lo": "19.732517",
+      "pollonly_forecast": "32.08337",
+      "kitchen_winprob": 2.1999999999999997,
+      "kitchen_hi": "40.512566",
+      "kitchen_lo": "17.33287",
+      "kitchen_forecast": "27.586117"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "58.802048",
+      "pollonly_winprob": 94.65,
+      "pollonly_hi": "77.496582",
+      "pollonly_lo": "55.90612",
+      "pollonly_forecast": "65.532318",
+      "kitchen_winprob": 97.799999,
+      "kitchen_hi": "81.790375",
+      "kitchen_lo": "60.477333",
+      "kitchen_forecast": "70.029579"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "26.625275",
+      "pollonly_winprob": 5.37,
+      "pollonly_hi": "45.895573",
+      "pollonly_lo": "19.853407",
+      "pollonly_forecast": "32.19492",
+      "kitchen_winprob": 2.255,
+      "kitchen_hi": "40.410145",
+      "kitchen_lo": "16.116749",
+      "kitchen_forecast": "27.105352"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "58.764202",
+      "pollonly_winprob": 94.630003,
+      "pollonly_hi": "77.318375",
+      "pollonly_lo": "55.902702",
+      "pollonly_forecast": "65.440773",
+      "kitchen_winprob": 97.745001,
+      "kitchen_hi": "82.318588",
+      "kitchen_lo": "60.860897",
+      "kitchen_forecast": "70.53035"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "26.617311",
+      "pollonly_winprob": 4.7800001000000005,
+      "pollonly_hi": "45.783813",
+      "pollonly_lo": "20.143986",
+      "pollonly_forecast": "32.18219",
+      "kitchen_winprob": 2.225,
+      "kitchen_hi": "40.352463",
+      "kitchen_lo": "16.041729",
+      "kitchen_forecast": "27.015221"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "58.780983",
+      "pollonly_winprob": 95.22,
+      "pollonly_hi": "77.257217",
+      "pollonly_lo": "56.014694",
+      "pollonly_forecast": "65.454956",
+      "kitchen_winprob": 97.775,
+      "kitchen_hi": "82.369186",
+      "kitchen_lo": "61.002384",
+      "kitchen_forecast": "70.621925"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "27.697786"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "56.822063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "27.683332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "56.848999"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "27.703764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "56.87006"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "27.696764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "56.884998"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "27.674326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "56.888054"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "27.709015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "56.893421"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "27.7055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "56.89283"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "27.705544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "56.893082"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "27.718182"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "56.889057"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "27.805716"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "56.87574"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "27.813356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "56.876022"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "27.911892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "56.952671"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "28.00152"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "56.981537"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "28.00152"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "56.981537"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "27.982599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "56.99004"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "27.987535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "56.995331"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "25.444738"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "42.847839"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "25.445854"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "42.854156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "25.486883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "42.929596"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "25.486883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "42.929596"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "25.497437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "42.925896"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "25.532249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "42.904991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "25.589634"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "42.963825"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "25.678425"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "42.921711"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "25.675726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "42.912647"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "25.673058"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "42.91819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "25.668308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "42.919613"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "25.669649"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "42.915997"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "25.67095"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "42.914452"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "25.677742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "42.912182"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "25.680063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "42.904694"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "25.67688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "42.899174"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "25.661184"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "42.924454"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "25.652225"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "42.949951"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "25.658588"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "42.948841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "25.654976"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "42.949883"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "25.667191"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "42.963428"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "25.66416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "42.966644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "25.660503"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "42.961647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "4.684895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "25.648952"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "42.972725"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "4.6867318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "25.644613"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "42.982498"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "4.686552"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "25.646349"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "42.996307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "4.6930566"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "25.616718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "43.004356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "4.6805224"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "25.657396"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "42.988121"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "4.6932607"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "25.650089"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "43.009525"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "4.7269764"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "25.651443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "43.013618"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "4.719377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "25.682177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "42.599308"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "4.748683"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "25.686506"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "42.591469"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "4.748548"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "25.686743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "42.59692"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "4.7474661"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "25.69409"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "42.612656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "4.7496409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "25.70723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "42.623039"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "4.7484641"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "20.56879"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "49.195721"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "4.9600601"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "20.731916"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "49.906452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "5.1052065"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "20.733696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "49.882011"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "5.1060619"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "20.731272"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "49.87566"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "5.1070695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "20.731272"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "49.87566"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "5.1070695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "20.740555"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "49.871895"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "5.1044793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "20.755165"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "49.881668"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "5.1085248"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "20.752747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "49.894386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "5.1119184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "20.765001"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "49.889721"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "5.1204906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "20.784853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "49.881222"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "5.1192122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "20.784853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "49.881226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "5.1192122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "20.784853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "49.881226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "5.1192122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "20.784853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "49.881226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "5.1192122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "20.779373"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "49.857418"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "5.1228981"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "20.786598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "49.859051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "5.1153588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "20.786598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "49.859051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "5.1153588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "20.786598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "49.859051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "5.1153588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "5.1214905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "20.756134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "49.859283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "5.121491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "20.758938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "49.85952"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "5.1204705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "20.758938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "49.859516"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "5.1204705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "20.758938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "49.85952"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "5.1204705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "20.758938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "49.85952"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "5.1204705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "20.758938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "49.85952"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "5.1204705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "20.771782"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "49.85408"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "5.1186662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "20.770611"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "49.853062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "5.1279721"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "20.766047"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "49.855362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "5.1320815"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "20.766047"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "49.855362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "5.1320815"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "20.766047"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "49.855362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "5.1320815"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "20.773975"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "49.87587"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "5.1298361"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "20.773975"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "49.87587"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "5.1298361"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "20.777424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "49.874096"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "5.1297531"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "20.777424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "49.8741"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "5.1297531"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "20.767168"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "49.882736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "5.1074343"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "20.767168"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "49.882736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "5.1074343"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "20.767168"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "49.882736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "5.1074343"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "20.756472"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "49.891582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "5.1116977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "20.744888"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "49.88876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "5.1134043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "20.743422"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "49.882927"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "5.114675"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "20.736574"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "49.892448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "5.1323619"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "20.756319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "49.853596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "5.1446619"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "20.756319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "49.853596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "5.1446619"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "20.761013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "49.859261"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "5.1471939"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "20.751801"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "49.864914"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "5.1440525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "20.762844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "49.865448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "5.1353827"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "20.762783"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "49.86153"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "5.1360984"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "49.853115"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "20.761223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "49.853119"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "5.1396914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "20.762745"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "49.853477"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "5.1393461"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "20.740055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "49.860817"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "5.1386342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "20.740055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "49.860817"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "5.1386342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "20.740055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "49.860817"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "5.1386342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "20.716885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "49.89196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "5.1480689"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "20.716885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "49.89196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "5.1480689"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "18.497458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "42.968819"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "3.1209731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "18.500128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "42.931156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "3.1265869"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "18.514009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "42.907478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "3.1242204"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "18.514009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "42.907478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "3.1242204"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "18.514832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "42.903652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "3.1183546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "18.514832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "42.903652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "3.1183546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "18.504887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "42.905617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "3.1176219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "18.513391"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "42.90279"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "3.1203949"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "18.516838"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "42.884071"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "3.1236279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "18.566574"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "43.012943"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "3.1237407"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "18.566574"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "43.012943"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "3.1237407"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "18.591019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "42.997807"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "3.1343393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "18.61305"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "43.008541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "3.1302142"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "18.601646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "42.992191"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "3.145318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "18.597519"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "43.011898"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "3.1457376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "18.573656"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "42.991451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "3.1531272"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "18.52178"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "42.864269"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "3.0602214"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "18.524443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "42.868805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "3.0620077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "18.524443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "42.868805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "3.0620077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "18.520704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "42.875217"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "3.0624325"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "18.520704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "42.875217"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "3.0624325"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "18.521227"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "42.869751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "3.0617313"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "18.506706"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "42.863831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "3.0692885"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "18.504789"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "42.891636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "3.0945609"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "18.545803"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "42.823643"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "3.074497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "18.602497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "42.83287"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "3.0789995"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "18.594534"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "42.888947"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "3.0837543"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "18.594534"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "42.888947"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.4648285"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "3.0837543"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "18.64147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "42.971237"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.4803456"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "3.0686691"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "18.63237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "42.951191"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.4839523"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "3.0847628"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "18.635576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "42.958408"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.4809277"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "3.0847883"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "18.950096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "42.963833"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.4774222"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "3.0775454"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "18.950096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "42.963833"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.4774222"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "3.0775454"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "18.942858"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "42.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.4818833"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "3.0760365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "18.942858"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "42.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.4818833"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "3.0760367"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "18.942858"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "42.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.4818833"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "3.0760365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "18.932079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "42.97279"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.4863217"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "3.073745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "17.323935"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "42.970829"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "2.0217705"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.9958377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "17.302128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "42.986633"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0325234"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0222731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "17.302128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "42.986633"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0325234"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0222731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "17.232876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "43.099854"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0474253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0173416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "17.232876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "43.099854"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0474253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0173416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "17.231159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "43.098869"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.0457952"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.0158091"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "17.276724"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "43.099697"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.0495286"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".0002297312"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.0413632"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "17.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "42.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.0544305"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".00097502023"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.0313163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "17.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "42.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.0544305"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".00097502023"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.0313163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Maryland",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "17.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Maryland",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "42.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Maryland",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.0544305"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Maryland",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".00097502023"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Maryland",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.0313163"
+    }
+  ],
+  "polls": [
+    {
+      "id": "62707",
+      "population": "lv",
+      "pollId": "42736",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "23",
+      "pollster": "American Research Group",
+      "startDate": "2016-04-21",
+      "endDate": "2016-04-24",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://americanresearchgroup.com/pres2016/primary/dem/mddem.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461593820,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".5173887610435486"
+    },
+    {
+      "id": "61306",
+      "population": "lv",
+      "pollId": "42350",
+      "cycle": "2016",
+      "sampleSize": "300",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "320",
+      "pollster": "Monmouth University",
+      "startDate": "2016-04-18",
+      "endDate": "2016-04-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.monmouth.edu/assets/0/32212254770/32212254991/32212254992/32212254994/32212254995/30064771087/e92b6e3e-96b0-401c-972f-1130cafd1370.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461246360,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "32.0"
+        }
+      ],
+      "weight": ".3152474761009216"
+    },
+    {
+      "id": "59681",
+      "population": "lv",
+      "pollId": "42190",
+      "cycle": "2016",
+      "sampleSize": "492",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-15",
+      "endDate": "2016-04-17",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_MD_41916.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461127860,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "33.0"
+        }
+      ],
+      "weight": ".1779387295246124"
+    },
+    {
+      "id": "52498",
+      "population": "lv",
+      "pollId": "36787",
+      "cycle": "2016",
+      "sampleSize": "775",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-04-05",
+      "endDate": "2016-04-09",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://msnbcmedia.msn.com/i/MSNBC/Sections/A_Politics/NBC4_Marist%20Poll_presidential.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1460536680,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "36.0"
+        }
+      ],
+      "weight": ".0341431349515915"
+    },
+    {
+      "id": "50515",
+      "population": "lv",
+      "pollId": "36701",
+      "cycle": "2016",
+      "sampleSize": "539",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "486",
+      "pollster": "The Washington Post",
+      "startDate": "2016-03-30",
+      "endDate": "2016-04-03",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://apps.washingtonpost.com/g/page/politics/washington-post-university-of-maryland-poll-march-30-april-3-2016/2008/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1460022900,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "55.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0041485563851893"
+    },
+    {
+      "id": "50201",
+      "population": "lv",
+      "pollId": "36588",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "43",
+      "pollster": "Opinion Works",
+      "startDate": "2016-03-04",
+      "endDate": "2016-03-08",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.baltimoresun.com/news/nation-world/presidential-elections/bs-md-poll-president-dem-online-20160310-story.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457693940,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "28.0"
+        }
+      ],
+      "weight": "8.76055491972e-06"
+    },
+    {
+      "id": "50200",
+      "population": "lv",
+      "pollId": "36587",
+      "cycle": "2016",
+      "sampleSize": "411",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "181",
+      "pollster": "Gonzales/Arscott Research",
+      "startDate": "2016-02-29",
+      "endDate": "2016-03-04",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.wbaltv.com/blob/view/-/38398588/data/1/-/ugwyur/-/Gonzales-Poll-March-2016.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457693760,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "26.0"
+        }
+      ],
+      "weight": "3.70096631741e-06"
+    },
+    {
+      "id": "49505",
+      "population": "lv",
+      "pollId": "36429",
+      "cycle": "2016",
+      "sampleSize": "307",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "1199",
+      "pollster": "Goucher College",
+      "startDate": "2016-02-13",
+      "endDate": "2016-02-18",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://2qtvrz46wjcg34jx1h1blgd2.wpengine.netdna-cdn.com/files/2016/02/Goucher-Poll-Release-Feb-24-Democrats-president-and-senate.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456307340,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "28.0"
+        }
+      ],
+      "weight": "1.23839626553e-07"
+    },
+    {
+      "id": "48226",
+      "population": "lv",
+      "pollId": "35883",
+      "cycle": "2016",
+      "sampleSize": "402",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "1232",
+      "pollster": "Gonzales Research",
+      "startDate": "2016-01-11",
+      "endDate": "2016-01-16",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/Gonzales_Maryland_Poll_January_2016.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1453228740,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "40.3"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.1"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.5"
+        }
+      ],
+      "weight": "1.92055984831e-12"
+    },
+    {
+      "id": "48080",
+      "population": "lv",
+      "pollId": "35821",
+      "cycle": "2016",
+      "sampleSize": "419",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "43",
+      "pollster": "Opinion Works",
+      "startDate": "2015-11-13",
+      "endDate": "2015-11-17",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.baltimoresun.com/news/maryland/politics/bs-md-sun-poll-president-20151124-story.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466320,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "23.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "7.0"
+        }
+      ],
+      "weight": "5.46823512059e-19"
+    },
+    {
+      "id": "43444",
+      "population": "rv",
+      "pollId": "34771",
+      "cycle": "2016",
+      "sampleSize": "490",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "972",
+      "pollster": "Abt SRBI",
+      "startDate": "2015-10-08",
+      "endDate": "2015-10-11",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://www.washingtonpost.com/news/post-politics/wp/2015/10/12/poll-omalley-gets-4-percent-support-from-home-state/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445331840,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "26.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "20.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "5.52788788862e-22"
+    },
+    {
+      "id": "43353",
+      "population": "lv",
+      "pollId": "34755",
+      "cycle": "2016",
+      "sampleSize": "300",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "1199",
+      "pollster": "Goucher College",
+      "startDate": "2015-09-26",
+      "endDate": "2015-10-01",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.goucher.edu/Documents/Poli_Sci/hughes/Fall%202015%20Goucher%20Poll%20Release%20(Tuesday)%20FINAL.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445330940,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "17.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "2.29147952873e-23"
+    },
+    {
+      "id": "62643",
+      "population": "lv",
+      "pollId": "42721",
+      "cycle": "2016",
+      "sampleSize": "538",
+      "state": "MD",
+      "officeType": "U.S. President",
+      "pollsterId": "486",
+      "pollster": "The Washington Post",
+      "startDate": "2014-02-13",
+      "endDate": "2014-02-16",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.washingtonpost.com/page/2010-2019/WashingtonPost/2014/02/18/National-Politics/Polling/release_295.xml?444",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461349320,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "9.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "72.0"
+        },
+        {
+          "choice": "Cuomo",
+          "pct": "2.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "6.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "3.0"
+        }
+      ],
+      "weight": "0"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "1.0192249e-07",
+          "1.4071478e-06",
+          "4.5987640e-06",
+          "8.8621800e-06",
+          ".000013238636",
+          ".000017088272",
+          ".000020090052",
+          ".000022148281",
+          ".000023303995",
+          ".000023669985",
+          ".000023388608",
+          ".000022605989",
+          ".000021457839",
+          ".000020062564",
+          ".000018518807",
+          ".000016905746",
+          ".000015284788",
+          ".000013701602",
+          ".000012188838",
+          ".000010768463",
+          "9.4537781e-06",
+          "8.2515699e-06",
+          "7.1634959e-06",
+          "6.1875726e-06",
+          "5.3192302e-06",
+          "4.5520978e-06",
+          "3.8788053e-06",
+          "3.2913538e-06",
+          "2.7816579e-06",
+          "2.3417062e-06",
+          "1.9637869e-06",
+          "1.6406766e-06",
+          "1.3656595e-06",
+          "1.1326279e-06",
+          "9.3633906e-07",
+          "7.7339342e-07",
+          "6.4666972e-07",
+          "5.8277089e-07",
+          "6.9401472e-07",
+          "1.3782198e-06",
+          "3.9016145e-06",
+          ".000011938322",
+          ".00003524049",
+          ".000097497425",
+          ".00025132825",
+          ".00060336047",
+          ".0013498974",
+          ".0028170664",
+          ".0054879747",
+          ".0099867284",
+          ".01698423",
+          ".027003435",
+          ".040143099",
+          ".05579821",
+          ".072503991",
+          ".088042483",
+          ".099857874",
+          ".10571262",
+          ".10436125",
+          ".095973238",
+          ".082108833",
+          ".065254256",
+          ".048088867",
+          ".032796454",
+          ".020652208",
+          ".011976937",
+          ".0063781557",
+          ".0031088814",
+          ".0013818975",
+          ".00055785599",
+          ".000203581",
+          ".000066814617",
+          ".000019605965",
+          "5.1103634e-06",
+          "1.1744894e-06",
+          "2.3602304e-07",
+          "4.1083108e-08",
+          "6.1282805e-09",
+          "7.7421880e-10",
+          "8.1935708e-11",
+          "7.3045563e-12",
+          "6.2953359e-13",
+          "9.8617708e-14",
+          "3.7012165e-14",
+          "1.7143193e-14",
+          "7.8439300e-15",
+          "3.4069086e-15",
+          "1.3937278e-15",
+          "5.3187835e-16",
+          "1.8701408e-16",
+          "5.9655333e-17",
+          "1.6884368e-17",
+          "4.1484932e-18",
+          "8.2969865e-19",
+          "1.6593973e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "9.4921306e-09",
+          "4.6412886e-08",
+          "8.6161741e-08",
+          "1.1840096e-07",
+          "1.4172048e-07",
+          "1.5699366e-07",
+          "1.6563001e-07",
+          "1.6903202e-07",
+          "1.6843062e-07",
+          "1.6484913e-07",
+          "1.5911604e-07",
+          "1.5188967e-07",
+          "1.4368668e-07",
+          "1.3490813e-07",
+          "1.2586140e-07",
+          "1.1677927e-07",
+          "1.0783564e-07",
+          "9.9156310e-08",
+          "9.0830675e-08",
+          "8.2919421e-08",
+          "7.5459759e-08",
+          "6.8472474e-08",
+          "6.1964180e-08",
+          "5.5931828e-08",
+          "5.0365113e-08",
+          "4.5247742e-08",
+          "4.0560302e-08",
+          "3.6280085e-08",
+          "3.2383706e-08",
+          "2.8846847e-08",
+          "2.5646370e-08",
+          "2.2768784e-08",
+          "2.0246990e-08",
+          "1.8332567e-08",
+          "1.8219724e-08",
+          "2.4824908e-08",
+          "5.6571821e-08",
+          "1.7699035e-07",
+          "5.8845444e-07",
+          "1.8878123e-06",
+          "5.7070147e-06",
+          ".000016187163",
+          ".000043083932",
+          ".00010772927",
+          ".00025338389",
+          ".00056125881",
+          ".0011720115",
+          ".0023092667",
+          ".0042964672",
+          ".0075526154",
+          ".01254964",
+          ".019717293",
+          ".029296806",
+          ".041168768",
+          ".054706082",
+          ".068726406",
+          ".081594206",
+          ".091497108",
+          ".096842341",
+          ".096663475",
+          ".090895712",
+          ".080424741",
+          ".066863291",
+          ".052147787",
+          ".03808324",
+          ".025988219",
+          ".016532227",
+          ".0097780563",
+          ".0053609149",
+          ".0027153906",
+          ".0012658879",
+          ".00054086588",
+          ".00021078474",
+          ".000074528703",
+          ".000023763459",
+          "6.7861424e-06",
+          "1.7222209e-06",
+          "3.8500437e-07",
+          "7.5052789e-08",
+          "1.2611483e-08",
+          "1.8030075e-09",
+          "2.1637779e-10",
+          "2.1739872e-11",
+          "2.0263118e-12",
+          "3.2511873e-13",
+          "1.4138894e-13",
+          "8.1949177e-14",
+          "4.7176259e-14",
+          "2.6099902e-14",
+          "1.3735581e-14",
+          "6.8097112e-15",
+          "3.1396911e-15",
+          "1.3228494e-15",
+          "4.9685232e-16",
+          "1.6036994e-16",
+          "4.2002058e-17",
+          "8.0996649e-18",
+          "9.5727120e-19",
+          "4.6032711e-20",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "5.8401184e-07",
+          "5.1271895e-06",
+          ".000012209361",
+          ".000018576025",
+          ".000022965738",
+          ".000025287483",
+          ".000025898717",
+          ".000025259305",
+          ".000023791456",
+          ".0000218348",
+          ".000019642664",
+          ".000017393244",
+          ".000015205054",
+          ".000013151644",
+          ".000011273966",
+          "9.5902396e-06",
+          "8.1034295e-06",
+          "6.8065897e-06",
+          "5.6869417e-06",
+          "4.7285944e-06",
+          "3.9143947e-06",
+          "3.2276860e-06",
+          "2.6558394e-06",
+          "2.2073989e-06",
+          "1.9934225e-06",
+          "2.5625784e-06",
+          "6.0789903e-06",
+          ".000019857473",
+          ".000065423614",
+          ".00019823026",
+          ".00054356107",
+          ".0013493759",
+          ".0030432376",
+          ".0062591233",
+          ".011782264",
+          ".02036537",
+          ".032416031",
+          ".047638144",
+          ".064783812",
+          ".081689708",
+          ".095678486",
+          ".10424847",
+          ".10580266",
+          ".10012988",
+          ".088442795",
+          ".072962314",
+          ".056246549",
+          ".040533122",
+          ".027309779",
+          ".017203668",
+          ".010131064",
+          ".0055754287",
+          ".0028660081",
+          ".0013752024",
+          ".00061542512",
+          ".00025660824",
+          ".000099569406",
+          ".000035903191",
+          ".000012011433",
+          "3.7215354e-06",
+          "1.0656681e-06",
+          "2.8140283e-07",
+          "6.8360478e-08",
+          "1.5244366e-08",
+          "3.1187228e-09",
+          "5.8918226e-10",
+          "1.0660939e-10",
+          "2.1267037e-11",
+          "6.2817512e-12",
+          "2.9859238e-12",
+          "1.7604881e-12",
+          "1.0844312e-12",
+          "6.6536002e-13",
+          "4.0251496e-13",
+          "2.3947890e-13",
+          "1.3989030e-13",
+          "8.0110980e-14",
+          "4.4899960e-14",
+          "2.4582107e-14",
+          "1.3117575e-14",
+          "6.8057395e-15",
+          "3.4230569e-15",
+          "1.6634664e-15",
+          "7.7798806e-16",
+          "3.4851523e-16",
+          "1.4873609e-16",
+          "6.0073205e-17",
+          "2.2767150e-17",
+          "7.9841921e-18",
+          "2.5800448e-18",
+          "7.6704034e-19",
+          "2.0919281e-19",
+          "3.4865469e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.0399008e-06",
+          "3.4958396e-06",
+          "5.0595095e-06",
+          "5.8062824e-06",
+          "6.0250113e-06",
+          "5.9228678e-06",
+          "5.6345707e-06",
+          "5.2459986e-06",
+          "4.8114966e-06",
+          "4.3650712e-06",
+          "3.9276138e-06",
+          "3.5114722e-06",
+          "3.1234476e-06",
+          "2.7667475e-06",
+          "2.4422679e-06",
+          "2.1494561e-06",
+          "1.8868902e-06",
+          "1.6526436e-06",
+          "1.4446978e-06",
+          "1.2620608e-06",
+          "1.1106099e-06",
+          "1.0320174e-06",
+          "1.2256829e-06",
+          "2.4880298e-06",
+          "7.5696735e-06",
+          ".000024784504",
+          ".000076272801",
+          ".00021419844",
+          ".00054753711",
+          ".001278065",
+          ".0027355179",
+          ".0053905952",
+          ".0098164473",
+          ".016574249",
+          ".026023768",
+          ".038099036",
+          ".052129373",
+          ".066801183",
+          ".080318511",
+          ".09075658",
+          ".096510991",
+          ".096703097",
+          ".091393486",
+          ".081539795",
+          ".068724126",
+          ".054748032",
+          ".041239515",
+          ".029380273",
+          ".01979888",
+          ".012619725",
+          ".0076069972",
+          ".0043350533",
+          ".002334523",
+          ".0011873238",
+          ".00056987558",
+          ".00025790188",
+          ".00010993504",
+          ".000044086199",
+          ".000016609647",
+          "5.8701335e-06",
+          "1.9428530e-06",
+          "6.0120800e-07",
+          "1.7372103e-07",
+          "4.6900190e-08",
+          "1.1918819e-08",
+          "2.9431910e-09",
+          "7.8351814e-10",
+          "2.7789873e-10",
+          "1.4717808e-10",
+          "9.9329031e-11",
+          "7.2343756e-11",
+          "5.3338486e-11",
+          "3.9140625e-11",
+          "2.8467824e-11",
+          "2.0492757e-11",
+          "1.4586636e-11",
+          "1.0256760e-11",
+          "7.1171814e-12",
+          "4.8678249e-12",
+          "3.2771446e-12",
+          "2.1683222e-12",
+          "1.4074657e-12",
+          "8.9440001e-13",
+          "5.5506446e-13",
+          "3.3544199e-13",
+          "1.9671771e-13",
+          "1.1148394e-13",
+          "6.0742589e-14",
+          "3.1616660e-14",
+          "1.5594622e-14",
+          "7.2134647e-15",
+          "3.0862327e-15",
+          "1.1986235e-15",
+          "4.1153419e-16",
+          "1.2011834e-16",
+          "2.8043501e-17",
+          "4.7224655e-18",
+          "4.7666004e-19",
+          "1.7654076e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

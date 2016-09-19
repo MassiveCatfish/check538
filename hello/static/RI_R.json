@@ -1,0 +1,2145 @@
+{
+  "model": [
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "55.733356",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "65.279839",
+      "pollonly_lo": "57.321011",
+      "pollonly_forecast": "59.763016",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "65.484283",
+      "kitchen_lo": "56.911407",
+      "kitchen_forecast": "59.672062"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "21.564983",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "29.378588",
+      "pollonly_lo": "21.112865",
+      "pollonly_forecast": "24.330326",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "30.83345",
+      "kitchen_lo": "21.526283",
+      "kitchen_forecast": "25.22526"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "11.2142",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "17.783241",
+      "pollonly_lo": "10.281345",
+      "pollonly_forecast": "13.34724",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "16.731125",
+      "kitchen_lo": "9.4650488",
+      "kitchen_forecast": "12.543259"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "55.731937",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "64.911758",
+      "pollonly_lo": "57.690567",
+      "pollonly_forecast": "59.760578",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "65.259987",
+      "kitchen_lo": "57.299706",
+      "kitchen_forecast": "59.743309"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "21.566769",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "29.063292",
+      "pollonly_lo": "21.426178",
+      "pollonly_forecast": "24.331762",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "30.550133",
+      "kitchen_lo": "21.751955",
+      "kitchen_forecast": "25.196554"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "11.215734",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "17.555571",
+      "pollonly_lo": "10.518057",
+      "pollonly_forecast": "13.348575",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "16.528282",
+      "kitchen_lo": "9.5622177",
+      "kitchen_forecast": "12.501055"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "36.287437"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "24.981693"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "13.850421"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "41.045696"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "12.905843"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "9.3341904"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "41.045696"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "12.905843"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "9.3341904"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "41.09869"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "12.888329"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "9.301239"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "41.088554"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "12.899878"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "9.2799778"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "41.085045"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "12.907791"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "9.2752075"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "41.083714"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "12.908993"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "9.2776651"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "41.088783"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "12.906117"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "9.2780933"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "41.178459"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "12.89887"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "9.2930403"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "41.179012"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "12.899289"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "9.2941961"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "41.176239"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "12.915288"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "9.2797346"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "41.181103"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "12.91841"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "9.2796736"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "41.228611"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "12.878378"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "9.2438478"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "41.209381"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "12.90033"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "9.2503176"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "41.209396"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "12.902715"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "9.249053"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "41.232796"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "12.912633"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "9.2220545"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "41.22686"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "12.909792"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "9.2193604"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "41.232533"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "12.900104"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "9.2386847"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "41.124332"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "12.873343"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "9.1434374"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "41.12167"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "12.896859"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "9.1573162"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "41.121159"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "12.900728"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "9.1686316"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "41.152077"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "12.908158"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "9.187705"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "41.1688"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "12.921091"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "9.2316599"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "41.159737"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "12.912517"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "9.2343988"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "41.159702"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "12.907447"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "9.2327919"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "41.18697"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "12.843287"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "9.3008547"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "41.188057"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "12.792972"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "9.1360712"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "41.157513"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "12.821501"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "9.1177931"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "41.133839"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "12.872506"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "9.1551437"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "41.128677"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "12.872882"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "9.1466227"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "41.128677"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "12.872882"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "9.1466227"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "41.1353"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "12.903161"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "9.179657"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "41.140846"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "12.873634"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "9.174161"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "41.168255"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "12.93396"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "9.2512274"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "41.168392"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "12.934113"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "9.2522144"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "41.174789"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "12.940449"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "9.2738056"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "41.164616"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "12.967937"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "9.2852707"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "41.143036"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "12.965582"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "9.2446547"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "41.143379"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "12.96549"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "9.247448"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "41.379189"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "12.862635"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "9.2643213"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "41.375683"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "12.862841"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "9.2649612"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "22.369131"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "41.380474"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "12.872096"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "22.367308"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "9.2772837"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "41.423424"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "12.871952"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "22.348867"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "9.3027782"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "41.445374"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "12.899932"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "22.328999"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "9.4282932"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "41.463661"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "12.897913"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "22.335749"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "9.4242077"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "41.458763"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "12.900192"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "22.332079"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "9.4347448"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "41.419262"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "12.941266"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "22.301943"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "9.4796228"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "41.486694"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "12.949934"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "22.303604"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "9.4720249"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "41.529598"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "12.896691"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "22.318867"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "9.4406967"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "41.516552"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "12.937231"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "22.295448"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "9.4462538"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "41.543468"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "12.941752"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "22.302275"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "9.4894533"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "41.586544"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "13.006809"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "22.290094"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "9.5328007"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "41.620014"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "13.050142"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "22.314445"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "9.5755234"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "41.628288"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "13.02815"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "22.318558"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "9.6131296"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "3.6622624"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "41.638596"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "13.032548"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "22.312693"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "9.6042604"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "3.6522458"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "41.63203"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "13.030531"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "22.319077"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "9.6181574"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "3.7256303"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "41.75946"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "13.003253"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "22.264704"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "9.6689653"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "3.7352908"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "41.771175"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "12.979313"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "22.273275"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "9.792737"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "3.7352908"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "41.771175"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "12.979313"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "22.273275"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "9.792737"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "3.734005"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "41.765656"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "12.976355"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "22.388306"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "9.8317795"
+    }
+  ],
+  "polls": [
+    {
+      "id": "62704",
+      "population": "lv",
+      "pollId": "42734",
+      "cycle": "2016",
+      "sampleSize": "566",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2016-04-23",
+      "endDate": "2016-04-24",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/ri-and-ct-gop-primary-poll-trump-leads-with-kasich-in-second/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461593820,
+      "votingAnswers": [
+        {
+          "choice": "Cruz",
+          "pct": "10.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "21.0"
+        },
+        {
+          "choice": "Trump",
+          "pct": "58.0"
+        }
+      ],
+      "weight": ".7775512933731079"
+    },
+    {
+      "id": "62696",
+      "population": "lv",
+      "pollId": "42730",
+      "cycle": "2016",
+      "sampleSize": "511",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-22",
+      "endDate": "2016-04-24",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/PPP_RI_GOP_April_2016.pdf",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461576600,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "13.0"
+        }
+      ],
+      "weight": ".8746606111526489"
+    },
+    {
+      "id": "62665",
+      "population": "lv",
+      "pollId": "42727",
+      "cycle": "2016",
+      "sampleSize": "164",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-04-19",
+      "endDate": "2016-04-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://news.brown.edu/files/Brown_Taubman_April_2016_Poll_Final.pdf",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461501300,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "37.5"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "14.3"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "25.3"
+        }
+      ],
+      "weight": ".150549128651619"
+    },
+    {
+      "id": "49536",
+      "population": "lv",
+      "pollId": "36443",
+      "cycle": "2016",
+      "sampleSize": "206",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://wpri.com/2016/02/25/poll-clinton-trump-on-top-in-ri-primary-races/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1456407780,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "42.7"
+        },
+        {
+          "choice": "Carson",
+          "pct": "3.4"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "10.2"
+        },
+        {
+          "choice": "Rubio",
+          "pct": "24.8"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "13.6"
+        }
+      ],
+      "weight": "5.53860886043e-08"
+    },
+    {
+      "id": "49537",
+      "population": "lv",
+      "pollId": "36444",
+      "cycle": "2016",
+      "sampleSize": "204",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-02-17",
+      "endDate": "2016-02-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://wpri.com/2016/02/25/poll-clinton-trump-on-top-in-ri-primary-races/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1456407840,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "40.7"
+        },
+        {
+          "choice": "Carson",
+          "pct": "4.4"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "8.3"
+        },
+        {
+          "choice": "Rubio",
+          "pct": "14.2"
+        },
+        {
+          "choice": "Bush",
+          "pct": "6.9"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "11.8"
+        }
+      ],
+      "weight": "9.95341231658e-09"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Cruz",
+      "probs": {
+        "pollonly": [
+          ".0062767388",
+          ".012341874",
+          ".010958707",
+          ".0083094891",
+          ".005988034",
+          ".0042366665",
+          ".0030356729",
+          ".0026939057",
+          ".0048819566",
+          ".013558459",
+          ".033396229",
+          ".065027408",
+          ".10146256",
+          ".13057466",
+          ".14227454",
+          ".13412328",
+          ".11133888",
+          ".082567975",
+          ".055354584",
+          ".033880908",
+          ".019089686",
+          ".0099705793",
+          ".0048564482",
+          ".0022175806",
+          ".00095391716",
+          ".00038846317",
+          ".00015065148",
+          ".000056132772",
+          ".000020413889",
+          "7.4665736e-06",
+          "2.8946795e-06",
+          "1.2738053e-06",
+          "6.6430181e-07",
+          "4.0238930e-07",
+          "2.6735580e-07",
+          "1.8564772e-07",
+          "1.3117625e-07",
+          "9.3196363e-08",
+          "6.6254756e-08",
+          "4.7042281e-08",
+          "3.3332942e-08",
+          "2.3562183e-08",
+          "1.6611560e-08",
+          "1.1678018e-08",
+          "8.1849203e-09",
+          "5.7182601e-09",
+          "3.9813424e-09",
+          "2.7620293e-09",
+          "1.9088389e-09",
+          "1.3138763e-09",
+          "9.0051261e-10",
+          "6.1442751e-10",
+          "4.1724307e-10",
+          "2.8192523e-10",
+          "1.8948648e-10",
+          "1.2664975e-10",
+          "8.4154184e-11",
+          "5.5571350e-11",
+          "3.6456914e-11",
+          "2.3752241e-11",
+          "1.5361976e-11",
+          "9.8590155e-12",
+          "6.2757325e-12",
+          "3.9603143e-12",
+          "2.4763048e-12",
+          "1.5333519e-12",
+          "9.3967195e-13",
+          "5.6953829e-13",
+          "3.4116752e-13",
+          "2.0182005e-13",
+          "1.1780210e-13",
+          "6.7781413e-14",
+          "3.8401933e-14",
+          "2.1403298e-14",
+          "1.1715625e-14",
+          "6.2905287e-15",
+          "3.3131840e-15",
+          "1.6985719e-15",
+          "8.5251521e-16",
+          "4.1979914e-16",
+          "1.9375345e-16",
+          "9.0418279e-17",
+          "4.5209139e-17",
+          "1.2916897e-17",
+          "6.4584484e-18",
+          "6.4584484e-18",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".00056719931",
+          ".00061862502",
+          ".00045563522",
+          ".00032655773",
+          ".00025700036",
+          ".00049959199",
+          ".0024264688",
+          ".009634343",
+          ".02683905",
+          ".055571377",
+          ".09060546",
+          ".12157928",
+          ".13881336",
+          ".13833247",
+          ".12272292",
+          ".098448932",
+          ".072310291",
+          ".049121983",
+          ".031118913",
+          ".018510021",
+          ".010396411",
+          ".0055401544",
+          ".0028123341",
+          ".0013646265",
+          ".00063484756",
+          ".00028393429",
+          ".00012241495",
+          ".00005103389",
+          ".000020662683",
+          "8.1854496e-06",
+          "3.2178812e-06",
+          "1.2899886e-06",
+          "5.5247705e-07",
+          "2.6813433e-07",
+          "1.5296395e-07",
+          "1.0082724e-07",
+          "7.2981059e-08",
+          "5.5418777e-08",
+          "4.2973255e-08",
+          "3.3589110e-08",
+          "2.6315050e-08",
+          "2.0615781e-08",
+          "1.6134564e-08",
+          "1.2608921e-08",
+          "9.8369100e-09",
+          "7.6598994e-09",
+          "5.9525274e-09",
+          "4.6156607e-09",
+          "3.5707199e-09",
+          "2.7554794e-09",
+          "2.1207691e-09",
+          "1.6276898e-09",
+          "1.2455390e-09",
+          "9.5011188e-10",
+          "7.2232831e-10",
+          "5.4721633e-10",
+          "4.1300405e-10",
+          "3.1047345e-10",
+          "2.3241702e-10",
+          "1.7321235e-10",
+          "1.2847981e-10",
+          "9.4824704e-11",
+          "6.9615251e-11",
+          "5.0820934e-11",
+          "3.6879472e-11",
+          "2.6593124e-11",
+          "1.9046376e-11",
+          "1.3543481e-11",
+          "9.5567824e-12",
+          "6.6885061e-12",
+          "4.6401667e-12",
+          "3.1889946e-12",
+          "2.1696078e-12",
+          "1.4601273e-12",
+          "9.7120174e-13",
+          "6.3785853e-13",
+          "4.1321219e-13",
+          "2.6371554e-13",
+          "1.6558608e-13",
+          "1.0213176e-13",
+          "6.1771280e-14",
+          "3.6560442e-14",
+          "2.1125773e-14",
+          "1.1884525e-14",
+          "6.4880458e-15",
+          "3.4232877e-15",
+          "1.7376868e-15",
+          "8.4391888e-16",
+          "3.8920605e-16",
+          "1.6871986e-16",
+          "6.8063127e-17",
+          "2.5244070e-17",
+          "8.3081748e-18",
+          "2.5563616e-18",
+          "6.3909039e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Kasich",
+      "probs": {
+        "pollonly": [
+          ".00027573283",
+          ".0012349912",
+          ".0018407231",
+          ".0019864663",
+          ".0018698772",
+          ".001639421",
+          ".001378765",
+          ".0011293462",
+          ".00090880529",
+          ".00072230073",
+          ".00056890829",
+          ".000445085",
+          ".00034670578",
+          ".00027196883",
+          ".00023331464",
+          ".00030326369",
+          ".00074095489",
+          ".002227647",
+          ".0061105201",
+          ".014345544",
+          ".028786736",
+          ".049863841",
+          ".075371295",
+          ".10040796",
+          ".11892658",
+          ".12620065",
+          ".12078793",
+          ".10488153",
+          ".083045073",
+          ".060230192",
+          ".040169992",
+          ".024721492",
+          ".014081195",
+          ".0074427659",
+          ".0036589687",
+          ".0016764018",
+          ".00071704562",
+          ".00028677844",
+          ".0001074049",
+          ".000037732796",
+          ".000012466871",
+          "3.8947455e-06",
+          "1.1658385e-06",
+          "3.4596073e-07",
+          "1.1009388e-07",
+          "4.2561535e-08",
+          "2.1486640e-08",
+          "1.3244401e-08",
+          "8.9468948e-09",
+          "6.2242091e-09",
+          "4.3542769e-09",
+          "3.0397007e-09",
+          "2.1125475e-09",
+          "1.4604787e-09",
+          "1.0039591e-09",
+          "6.8602884e-10",
+          "4.6584253e-10",
+          "3.1424502e-10",
+          "2.1051509e-10",
+          "1.4000030e-10",
+          "9.2391136e-11",
+          "6.0480509e-11",
+          "3.9254322e-11",
+          "2.5248619e-11",
+          "1.6085716e-11",
+          "1.0145047e-11",
+          "6.3300389e-12",
+          "3.9049736e-12",
+          "2.3799743e-12",
+          "1.4319403e-12",
+          "8.4976980e-13",
+          "4.9691956e-13",
+          "2.8603430e-13",
+          "1.6188140e-13",
+          "8.9962021e-14",
+          "4.9019359e-14",
+          "2.6146869e-14",
+          "1.3629201e-14",
+          "6.9255824e-15",
+          "3.4240767e-15",
+          "1.6432127e-15",
+          "7.6052357e-16",
+          "3.4068703e-16",
+          "1.4625453e-16",
+          "6.0222454e-17",
+          "2.4088982e-17",
+          "8.6032078e-18",
+          "1.7206416e-18",
+          "1.7206416e-18",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".00072696136",
+          ".0016309326",
+          ".0018218601",
+          ".0017380823",
+          ".0015593524",
+          ".0013579021",
+          ".0011633823",
+          ".00098725199",
+          ".00083288224",
+          ".00070003496",
+          ".00058696087",
+          ".0004914485",
+          ".00041185148",
+          ".00035056568",
+          ".00032779764",
+          ".00042330843",
+          ".00086867792",
+          ".0021881652",
+          ".0053151012",
+          ".011529282",
+          ".02206872",
+          ".037444498",
+          ".056756549",
+          ".077459253",
+          ".095867977",
+          ".108286",
+          ".11225274",
+          ".10731722",
+          ".095029548",
+          ".078235023",
+          ".060079969",
+          ".04316273",
+          ".029083341",
+          ".018420512",
+          ".010988426",
+          ".0061843358",
+          ".003288795",
+          ".0016549507",
+          ".00078913366",
+          ".00035715525",
+          ".00015380504",
+          ".000063308478",
+          ".000025145562",
+          "9.8404289e-06",
+          "3.9612623e-06",
+          "1.7630563e-06",
+          "9.3354123e-07",
+          "5.9450679e-07",
+          "4.2984971e-07",
+          "3.3077913e-07",
+          "2.6068724e-07",
+          "2.0684132e-07",
+          "1.6414644e-07",
+          "1.2997775e-07",
+          "1.0260247e-07",
+          "8.0711395e-08",
+          "6.3254213e-08",
+          "4.9377444e-08",
+          "3.8384787e-08",
+          "2.9708829e-08",
+          "2.2887381e-08",
+          "1.7546379e-08",
+          "1.3382490e-08",
+          "1.0151154e-08",
+          "7.6556823e-09",
+          "5.7384453e-09",
+          "4.2734234e-09",
+          "3.1605298e-09",
+          "2.3203319e-09",
+          "1.6901898e-09",
+          "1.2209124e-09",
+          "8.7406732e-10",
+          "6.1976679e-10",
+          "4.3494255e-10",
+          "3.0186079e-10",
+          "2.0699817e-10",
+          "1.4011288e-10",
+          "9.3508964e-11",
+          "6.1452732e-11",
+          "3.9710436e-11",
+          "2.5190109e-11",
+          "1.5656015e-11",
+          "9.5123909e-12",
+          "5.6353429e-12",
+          "3.2451370e-12",
+          "1.8097383e-12",
+          "9.7305920e-13",
+          "5.0168029e-13",
+          "2.4633732e-13",
+          "1.1421205e-13",
+          "4.9449075e-14",
+          "1.9704344e-14",
+          "7.0807194e-15",
+          "2.2335753e-15",
+          "5.9228996e-16",
+          "1.2488041e-16",
+          "1.7840059e-17",
+          "1.7840059e-18",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Trump",
+      "probs": {
+        "pollonly": [
+          "8.1639290e-10",
+          "1.5247551e-08",
+          "5.9843622e-08",
+          "1.3037790e-07",
+          "2.1293285e-07",
+          "2.9436194e-07",
+          "3.6555613e-07",
+          "4.2153161e-07",
+          "4.6051852e-07",
+          "4.8291605e-07",
+          "4.9041995e-07",
+          "4.8537140e-07",
+          "4.7031793e-07",
+          "4.4773597e-07",
+          "4.1987050e-07",
+          "3.8865886e-07",
+          "3.5570835e-07",
+          "3.2229946e-07",
+          "2.8941895e-07",
+          "2.5779590e-07",
+          "2.2793742e-07",
+          "2.0017355e-07",
+          "1.7468774e-07",
+          "1.5155248e-07",
+          "1.3075595e-07",
+          "1.1222290e-07",
+          "9.5836832e-08",
+          "8.1451375e-08",
+          "6.8906004e-08",
+          "5.8032160e-08",
+          "4.8660770e-08",
+          "4.0628525e-08",
+          "3.3779660e-08",
+          "2.7968570e-08",
+          "2.3061913e-08",
+          "1.8938209e-08",
+          "1.5488165e-08",
+          "1.2614822e-08",
+          "1.0232813e-08",
+          "8.2717735e-09",
+          "6.7068280e-09",
+          "5.7855178e-09",
+          "7.4780093e-09",
+          "2.3660581e-08",
+          "1.1695261e-07",
+          "5.8097737e-07",
+          "2.6432899e-06",
+          ".000010880445",
+          ".000040493298",
+          ".00013636764",
+          ".00041591938",
+          ".0011496469",
+          ".0028811425",
+          ".0065478259",
+          ".013493686",
+          ".025208363",
+          ".042667873",
+          ".065380991",
+          ".090600833",
+          ".11338647",
+          ".12794359",
+          ".1299168",
+          ".1184429",
+          ".096695267",
+          ".070476212",
+          ".045701478",
+          ".026264517",
+          ".013318612",
+          ".0059298505",
+          ".0023051668",
+          ".00077752018",
+          ".00022594875",
+          ".000056123132",
+          ".000011809512",
+          "2.0839466e-06",
+          "3.0488576e-07",
+          "3.6504147e-08",
+          "3.5243171e-09",
+          "2.6977007e-10",
+          "1.6060544e-11",
+          "7.2977350e-13",
+          "2.6218484e-14",
+          "1.4506621e-15",
+          "4.3029462e-16",
+          "1.9804457e-16",
+          "8.6828725e-17",
+          "3.6018849e-17",
+          "1.4021051e-17",
+          "5.0696982e-18",
+          "1.6801975e-18",
+          "5.0273628e-19",
+          "1.3229902e-19",
+          "2.9987779e-20",
+          "5.2919607e-21",
+          "8.8199345e-22",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.2414440e-08",
+          "6.9726831e-08",
+          "1.4097223e-07",
+          "2.0530196e-07",
+          "2.5670880e-07",
+          "2.9447793e-07",
+          "3.1982833e-07",
+          "3.3459770e-07",
+          "3.4070209e-07",
+          "3.3991313e-07",
+          "3.3378279e-07",
+          "3.2362581e-07",
+          "3.1053403e-07",
+          "2.9540038e-07",
+          "2.7894501e-07",
+          "2.6174237e-07",
+          "2.4424614e-07",
+          "2.2680649e-07",
+          "2.0969171e-07",
+          "1.9310292e-07",
+          "1.7718405e-07",
+          "1.6203678e-07",
+          "1.4772539e-07",
+          "1.3428672e-07",
+          "1.2173592e-07",
+          "1.1006951e-07",
+          "9.9272384e-08",
+          "8.9317659e-08",
+          "8.0173152e-08",
+          "7.1800635e-08",
+          "6.4158002e-08",
+          "5.7202513e-08",
+          "5.0889842e-08",
+          "4.5175309e-08",
+          "4.0015827e-08",
+          "3.5368977e-08",
+          "3.1193885e-08",
+          "2.7454089e-08",
+          "2.4129683e-08",
+          "2.1304082e-08",
+          "1.9672637e-08",
+          "2.3235421e-08",
+          "5.2054538e-08",
+          "1.9645320e-07",
+          "8.2342717e-07",
+          "3.2805920e-06",
+          ".000012040915",
+          ".000040516978",
+          ".00012498752",
+          ".00035372091",
+          ".00091904897",
+          ".0021935347",
+          ".0048110229",
+          ".0096981917",
+          ".017966969",
+          ".030583305",
+          ".047809165",
+          ".068588614",
+          ".090220213",
+          ".10868295",
+          ".11972887",
+          ".12041745",
+          ".11034984",
+          ".091929108",
+          ".069437847",
+          ".047414258",
+          ".029168684",
+          ".016105436",
+          ".0079470649",
+          ".003487546",
+          ".0013537884",
+          ".00046200285",
+          ".00013765894",
+          ".000035536181",
+          "7.8783323e-06",
+          "1.4852161e-06",
+          "2.3542803e-07",
+          "3.0984342e-08",
+          "3.3404941e-09",
+          "2.9328298e-10",
+          "2.2939773e-11",
+          "3.2289965e-12",
+          "1.4971443e-12",
+          "9.4742313e-13",
+          "5.9968659e-13",
+          "3.6947038e-13",
+          "2.2041670e-13",
+          "1.2671094e-13",
+          "6.9770504e-14",
+          "3.6517688e-14",
+          "1.7989752e-14",
+          "8.2329476e-15",
+          "3.4384710e-15",
+          "1.2779600e-15",
+          "4.0724119e-16",
+          "1.0496697e-16",
+          "1.9828519e-17",
+          "2.2786175e-18",
+          "1.0509816e-19",
+          "0"
+        ]
+      }
+    }
+  ]
+}

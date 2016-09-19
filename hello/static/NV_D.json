@@ -1,0 +1,7046 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "46.257259",
+      "pollonly_winprob": 36.340001,
+      "pollonly_hi": "55.83149",
+      "pollonly_lo": "40.233101",
+      "pollonly_forecast": "47.237602",
+      "kitchen_winprob": 28.63,
+      "kitchen_hi": "54.406967",
+      "kitchen_lo": "39.303413",
+      "kitchen_forecast": "46.029625"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "50.304058",
+      "pollonly_winprob": 63.660002000000006,
+      "pollonly_hi": "59.781677",
+      "pollonly_lo": "44.198936",
+      "pollonly_forecast": "51.193764",
+      "kitchen_winprob": 71.37,
+      "kitchen_hi": "60.741989",
+      "kitchen_lo": "45.661217",
+      "kitchen_forecast": "52.401749"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "46.257259",
+      "pollonly_winprob": 35.409999,
+      "pollonly_hi": "55.503838",
+      "pollonly_lo": "40.555614",
+      "pollonly_forecast": "47.237602",
+      "kitchen_winprob": 27.590000999999997,
+      "kitchen_hi": "54.152817",
+      "kitchen_lo": "39.547142",
+      "kitchen_forecast": "46.029625"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "50.304058",
+      "pollonly_winprob": 64.590001,
+      "pollonly_hi": "59.463596",
+      "pollonly_lo": "44.523605",
+      "pollonly_forecast": "51.193764",
+      "kitchen_winprob": 72.409999,
+      "kitchen_hi": "60.498047",
+      "kitchen_lo": "45.912766",
+      "kitchen_forecast": "52.401749"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "46.323116",
+      "pollonly_winprob": 35.315001,
+      "pollonly_hi": "55.228561",
+      "pollonly_lo": "40.923729",
+      "pollonly_forecast": "47.285908",
+      "kitchen_winprob": 25.035,
+      "kitchen_hi": "53.668564",
+      "kitchen_lo": "39.174408",
+      "kitchen_forecast": "45.578842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "50.276039",
+      "pollonly_winprob": 64.684999,
+      "pollonly_hi": "59.093674",
+      "pollonly_lo": "44.802826",
+      "pollonly_forecast": "51.149395",
+      "kitchen_winprob": 74.965,
+      "kitchen_hi": "60.887947",
+      "kitchen_lo": "46.426414",
+      "kitchen_forecast": "52.856464"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "45.294773",
+      "pollonly_winprob": 43.224999,
+      "pollonly_hi": "57.145287",
+      "pollonly_lo": "40.848396",
+      "pollonly_forecast": "47.985039",
+      "kitchen_winprob": 30.684999,
+      "kitchen_hi": "55.133553",
+      "kitchen_lo": "38.888779",
+      "kitchen_forecast": "45.962669"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "47.322754",
+      "pollonly_winprob": 56.774998,
+      "pollonly_hi": "59.178486",
+      "pollonly_lo": "42.896175",
+      "pollonly_forecast": "50.02412",
+      "kitchen_winprob": 69.314998,
+      "kitchen_hi": "61.152519",
+      "kitchen_lo": "44.976997",
+      "kitchen_forecast": "52.046486"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "44.849308",
+      "pollonly_winprob": 48.83,
+      "pollonly_hi": "60.491009",
+      "pollonly_lo": "39.246124",
+      "pollonly_forecast": "48.69976",
+      "kitchen_winprob": 49.700001,
+      "kitchen_hi": "59.385956",
+      "kitchen_lo": "40.636654",
+      "kitchen_forecast": "48.728657"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "45.183228",
+      "pollonly_winprob": 51.169997,
+      "pollonly_hi": "60.824883",
+      "pollonly_lo": "39.568954",
+      "pollonly_forecast": "49.026966",
+      "kitchen_winprob": 50.300002,
+      "kitchen_hi": "59.327271",
+      "kitchen_lo": "40.94342",
+      "kitchen_forecast": "48.998066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "44.846615",
+      "pollonly_winprob": 48.754999,
+      "pollonly_hi": "60.233025",
+      "pollonly_lo": "39.503334",
+      "pollonly_forecast": "48.702141",
+      "kitchen_winprob": 49.785000000000004,
+      "kitchen_hi": "59.16098",
+      "kitchen_lo": "40.854755",
+      "kitchen_forecast": "48.750088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "45.17416",
+      "pollonly_winprob": 51.244997999999995,
+      "pollonly_hi": "60.578857",
+      "pollonly_lo": "39.819836",
+      "pollonly_forecast": "49.022923",
+      "kitchen_winprob": 50.214999999999996,
+      "kitchen_hi": "59.116871",
+      "kitchen_lo": "41.109489",
+      "kitchen_forecast": "48.974964"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "44.84396",
+      "pollonly_winprob": 49.015,
+      "pollonly_hi": "59.981659",
+      "pollonly_lo": "39.743988",
+      "pollonly_forecast": "48.698166",
+      "kitchen_winprob": 49.785000000000004,
+      "kitchen_hi": "58.985855",
+      "kitchen_lo": "41.026062",
+      "kitchen_forecast": "48.731956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "45.179703",
+      "pollonly_winprob": 50.98500299999999,
+      "pollonly_hi": "60.318581",
+      "pollonly_lo": "40.069111",
+      "pollonly_forecast": "49.027309",
+      "kitchen_winprob": 50.214999999999996,
+      "kitchen_hi": "58.939201",
+      "kitchen_lo": "41.323898",
+      "kitchen_forecast": "48.993519"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "44.839211",
+      "pollonly_winprob": 49.55,
+      "pollonly_hi": "59.739323",
+      "pollonly_lo": "39.990616",
+      "pollonly_forecast": "48.694794",
+      "kitchen_winprob": 50.36000000000001,
+      "kitchen_hi": "58.908012",
+      "kitchen_lo": "41.103569",
+      "kitchen_forecast": "48.633629"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "45.181129",
+      "pollonly_winprob": 50.449997,
+      "pollonly_hi": "60.074696",
+      "pollonly_lo": "40.318062",
+      "pollonly_forecast": "49.030205",
+      "kitchen_winprob": 49.64,
+      "kitchen_hi": "58.821987",
+      "kitchen_lo": "41.639313",
+      "kitchen_forecast": "49.091373"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "44.840549",
+      "pollonly_winprob": 49.225,
+      "pollonly_hi": "59.493053",
+      "pollonly_lo": "40.248024",
+      "pollonly_forecast": "48.69714",
+      "kitchen_winprob": 50.319999,
+      "kitchen_hi": "58.474388",
+      "kitchen_lo": "41.530045",
+      "kitchen_forecast": "48.803089"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "45.177509",
+      "pollonly_winprob": 50.774997,
+      "pollonly_hi": "59.836525",
+      "pollonly_lo": "40.570625",
+      "pollonly_forecast": "49.027531",
+      "kitchen_winprob": 49.680001000000004,
+      "kitchen_hi": "58.499249",
+      "kitchen_lo": "41.621117",
+      "kitchen_forecast": "48.921585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "28.045488"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "50.31065"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "28.052401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "50.308804"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "28.05559"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "50.300495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "28.052404"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "50.294979"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "28.049795"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "50.314243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "28.156685"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "50.350319"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "28.189352"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "50.349991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "28.438498"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "50.431084"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "28.449533"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "50.442917"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "28.446278"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "50.446091"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "28.441519"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "50.439835"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-02-01",
+      "poll_avg": ".30299851"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "28.404541"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "50.464443"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-31",
+      "poll_avg": ".31307048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "28.389893"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "50.476711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-30",
+      "poll_avg": ".31315863"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "28.397694"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "50.500267"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-29",
+      "poll_avg": ".33023143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "28.366636"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "50.554131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-28",
+      "poll_avg": ".29959941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "28.381723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "50.553799"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-27",
+      "poll_avg": ".32128939"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "28.308294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "50.59671"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-26",
+      "poll_avg": ".33816847"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "28.290392"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "50.608932"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-25",
+      "poll_avg": ".35488343"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "28.292198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "50.17429"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-24",
+      "poll_avg": ".39827409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "28.274586"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "50.171055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-23",
+      "poll_avg": ".39220858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "28.243002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "50.186714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-22",
+      "poll_avg": ".40799934"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "28.242874"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "50.20763"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-21",
+      "poll_avg": ".40767285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "28.233154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "50.228649"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-20",
+      "poll_avg": ".42963085"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "28.163303"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "50.321556"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-19",
+      "poll_avg": ".40774089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "28.183838"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "50.342812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-18",
+      "poll_avg": ".42600363"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "28.182644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "50.319141"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-17",
+      "poll_avg": ".43061864"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "28.176722"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "50.315487"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-16",
+      "poll_avg": ".44128945"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "28.176722"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "50.315487"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-15",
+      "poll_avg": ".44128945"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "28.165283"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "50.31847"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-14",
+      "poll_avg": ".45639789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "28.161594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "50.341991"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-13",
+      "poll_avg": ".47420704"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "28.093443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "50.405201"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-12",
+      "poll_avg": ".51240158"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "28.104156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "50.406124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-11",
+      "poll_avg": ".52895367"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "28.068542"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "50.446049"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-10",
+      "poll_avg": ".5852586"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "28.068542"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "50.446049"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-09",
+      "poll_avg": ".5852586"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "28.068542"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "50.446049"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-08",
+      "poll_avg": ".5852586"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "28.068542"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "50.446049"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-07",
+      "poll_avg": ".58525854"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "28.051729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "50.426575"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-06",
+      "poll_avg": ".60091114"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "28.060541"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "50.427326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-05",
+      "poll_avg": ".59530187"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "28.060541"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "50.427326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-04",
+      "poll_avg": ".59530187"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "28.060541"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "50.427326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-03",
+      "poll_avg": ".59530187"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-02",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2016-01-01",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-31",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-30",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-29",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-28",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "28.027729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "50.425541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-27",
+      "poll_avg": ".60227805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "31.221436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "55.074162"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "1.6084622"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "31.221436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "55.074162"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "1.6084622"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "31.221436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "55.074162"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "1.6084623"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "31.221436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "55.074162"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "1.6084623"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "31.221436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "55.074162"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "1.6084623"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "31.234716"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "55.069069"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "1.6067652"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "31.241316"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "55.011513"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "1.5983016"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "31.236952"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "54.991074"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "1.6010494"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "31.236952"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "54.991074"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "1.6010494"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "31.236952"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "54.991074"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "1.6010494"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "31.222401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "55.011124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "1.5849304"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "31.222401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "55.011124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "1.5849304"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "31.200848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "54.965881"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "1.563329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "31.200848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "54.965881"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "1.5633289"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "31.165304"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "54.974861"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "1.5220351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "31.165304"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "54.974861"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "1.5220351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "31.165304"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "54.974861"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "1.5220351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "31.152983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "55.004215"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "1.5196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "31.11899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "55.00351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "1.5157996"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "31.095097"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "54.98679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "1.5020779"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "31.046114"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "54.971523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "1.5075011"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "31.029747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "54.948532"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "1.4914134"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "31.029747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "54.948532"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "1.4914134"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "31.021709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "54.946854"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "1.496461"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "31.04002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "54.956909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "1.4996612"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "31.051334"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "54.958359"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "1.4889544"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "31.038521"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "54.972431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "1.4804281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "31.03591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "54.955177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "1.4827518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "31.012966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "54.946728"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "1.4663001"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "30.984259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "54.960014"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "1.4630109"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "30.984259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "54.960014"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "1.463011"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "30.984259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "54.960014"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "1.4630109"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "30.923552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "54.984707"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "1.4596819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "30.923552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "54.984707"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "1.4596819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "30.890394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "54.924271"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "1.4191457"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "31.234022"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "49.403378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-15",
+      "poll_avg": ".26054701"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "31.295778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "49.423962"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-14",
+      "poll_avg": ".26117229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "31.295778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "49.423962"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-13",
+      "poll_avg": ".26117229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "31.298853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "49.417946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-12",
+      "poll_avg": ".25344005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "31.298853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "49.417946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-11",
+      "poll_avg": ".25344005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "31.293682"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "49.421635"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-10",
+      "poll_avg": ".25277144"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "31.295271"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "49.421288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-09",
+      "poll_avg": ".24489512"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "31.300848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "49.401115"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-08",
+      "poll_avg": ".2475332"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "31.331451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "49.29982"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-07",
+      "poll_avg": ".25146437"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "31.331451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "49.29982"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-06",
+      "poll_avg": ".25146437"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "31.342283"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "49.290394"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-05",
+      "poll_avg": ".24993511"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "31.364573"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "49.301159"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-04",
+      "poll_avg": ".24613576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "31.632174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "49.300022"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-03",
+      "poll_avg": ".13952751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "31.632679"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "49.314632"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-02",
+      "poll_avg": ".13625969"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "31.612844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "49.29179"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-11-01",
+      "poll_avg": ".14408304"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "31.561733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "48.796986"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".073334835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "31.552626"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "48.804001"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".075911708"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "31.552626"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "48.804001"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".075911708"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "31.556622"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "48.781334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".069600739"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "31.556622"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "48.781334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".069600739"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "31.560631"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "48.769482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".068383932"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "31.542513"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "48.764549"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".0729068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "31.545006"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "48.793869"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-24",
+      "poll_avg": ".089679249"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "31.586018"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "48.725876"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".24661188"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".071201123"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "31.728834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "48.882317"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".24661189"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".096261211"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "31.689577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "48.542988"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".2552413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".10364141"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "31.689577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "48.542988"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".11146277"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".2552413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".10364141"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "31.737261"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "48.623417"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".12696442"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".23158693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".090199754"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "31.728659"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "48.595905"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".13346449"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".24273951"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".10777444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "31.756102"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "48.572269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".13792677"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".24644989"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".11246095"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "32.221813"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "48.717007"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".15646298"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".24910739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".084571496"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "32.221813"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "48.717007"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".15646298"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".24910739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".084571496"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "32.215141"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "48.713272"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".15696435"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".25093633"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".077194713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "32.215141"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "48.713272"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".15696435"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".25093633"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".077194713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "32.215141"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "48.713272"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".15696433"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".25093633"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".077194713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "32.209244"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "48.702755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".16210221"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".25261348"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".076323301"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "32.219566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "48.700794"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".15806551"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".26480031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".077310227"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "18.477425"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "55.433216"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".65937495"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".70652372"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".026274694"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "18.477425"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "55.433216"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".65937495"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".70652372"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".026274692"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "18.393505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "55.542313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".67340136"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".74668509"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".026012583"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "18.393505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "55.542313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".67340136"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".74668509"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".026012579"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "18.349495"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "55.511692"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".65536296"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".74104035"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".025973449"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "18.389767"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "55.508774"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".67139637"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".7677688"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".02716667"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "18.418873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "55.346176"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".69297558"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".77400452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".027600419"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "18.418873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "55.346176"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".69297558"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".77400452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".027600417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "18.418873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "55.346176"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".69297558"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".77400452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".027600419"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "18.400543"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "55.288727"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".73896098"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".82755971"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".028288675"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "18.355345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "55.281361"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".74208081"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".82679296"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".02805832"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "18.350855"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "55.278927"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".74235857"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".82684547"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".027970137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "18.207529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "55.28352"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".73939323"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".83119357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".028128095"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "18.186787"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "55.178989"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".66032809"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".82367504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".023906546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "18.186787"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "55.178989"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".66032809"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".82367504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".023906549"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "18.186787"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "55.178989"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".66032809"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".82367504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".023906549"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "18.185413"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "55.153389"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".65645629"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".82367504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".023883769"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "18.167925"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "55.161423"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".65730011"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".82912624"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".02362027"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "18.1586"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "55.160358"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".65526152"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".82912624"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".023543598"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "18.09544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "55.149944"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".69226283"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".86875588"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".025043342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "18.083565"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "55.107586"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".67540574"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".85745019"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".025474938"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "18.124582"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "55.185509"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".67331088"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".85745019"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".02535422"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "18.089027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "55.152637"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".67978495"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".86804521"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".025568472"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "18.069616"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "55.178059"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".67978495"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".86804521"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".02556847"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "18.069616"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "55.178059"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".67978495"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".86804521"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".025568472"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "18.062037"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "55.179504"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".6817798"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".87043267"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".025596218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "18.107603"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "55.255627"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".66900402"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".85893321"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".025658704"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "18.121611"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "55.242062"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".65790337"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".85594815"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".025336031"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "18.121611"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "55.242062"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".65790337"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".85594815"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".025336031"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "18.051153"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "55.184772"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".64433521"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".81383812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".025486451"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "18.187019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "55.095436"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".62783027"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".77267468"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".024452057"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "18.187019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "55.095436"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".62783027"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".77267468"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".024452059"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "18.182926"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "55.238792"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".60425293"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".77267468"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".023562426"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "18.177969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "55.242603"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".6059978"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".77372509"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".023568511"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "18.177299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".59947968"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".76626366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".023294771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "18.177299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".59947968"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".76626366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".023294773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "18.177299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".59947968"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".76626366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".023294773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "18.177299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".59947968"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".76626366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".023294773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "18.14039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "55.285343"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".58948356"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".72420502"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".023821542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "18.176376"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "55.281418"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".57485545"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".73086578"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".023359505"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "17.919516"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "55.170589"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".52013266"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".73083377"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".0242585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "17.929731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "55.165737"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".51344031"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".75182128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".023710731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "17.929731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "55.165737"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".51344031"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".75182128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".023710733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "17.929731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "55.165737"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".51344031"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".75182128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".023710731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "17.907114"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "55.184219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".50972408"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".74940825"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".023068655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "17.796505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "55.243656"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".48735008"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".76113683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".021773135"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "17.780497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "55.284103"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".5001834"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".78005898"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".02209351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "17.739216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "55.319511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".49376321"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".75857341"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".021667294"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "17.739216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "55.319511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".49376321"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".75857341"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".021667292"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "17.737259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".43423507"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".72735381"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".021125723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "17.737259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".43423507"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".72735381"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".021125725"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "17.737259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".43423507"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".72735381"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".021125725"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "17.737259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "55.26918"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".43423507"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".72735381"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".021125723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "17.708572"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "55.281738"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".44129792"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".75330448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".021068869"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "17.708572"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "55.281738"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".44129792"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".75330448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".021068871"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "17.493031"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "55.284546"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".44107035"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".75445783"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".020679554"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "17.493031"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "55.284546"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".44107035"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".75445783"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".020679552"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "17.493031"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "55.284546"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".44107035"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".75445783"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".020679554"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "17.461287"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "55.293861"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".45208979"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".76796257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".020907646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "17.461287"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "55.293861"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".45208979"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".76796257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".020907648"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "17.395987"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "55.311604"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".43838608"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".76796257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".022047261"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "17.330006"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "55.332123"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".43399996"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".76871669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".022615883"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "17.315042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "55.317429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".39277828"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".77381676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".021168664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "17.315042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "55.317429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".39277828"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".77381676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".021168664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "17.315042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "55.317429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".39277828"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".77381676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".021168662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "17.315042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "55.317429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".39277828"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".77381676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".021168664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "17.316172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "55.31657"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".39371523"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".77381676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".02118442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "17.317043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "55.305687"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".40271941"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".77721596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".021460898"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "17.412127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "55.278942"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".40871832"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".70142084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".02064517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "17.411972"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "55.235538"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".4617382"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".70694721"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".022068787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "17.226265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "55.191071"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".71752816"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".821464"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".026653636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "17.226265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "55.191071"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".71752816"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".821464"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".026653636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "17.215092"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "55.169586"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".70519745"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".82638043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".026702316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "17.23056"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "55.136681"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".65540332"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".87606531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".027684554"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "17.242277"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "55.169949"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".61941171"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".86811644"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".028458837"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "17.249393"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "55.181313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".6263575"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".86714196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".029098885"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "17.249393"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "55.181313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".6263575"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".86714196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".029098883"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "17.238111"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "55.169373"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".62468439"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".86714196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".029032759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "17.238111"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "55.169373"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".62468439"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".86714196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".029032759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "17.248621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "55.175175"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".63706899"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".85966474"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".029760068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "17.248621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "55.175175"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".63706899"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".85966474"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".029760068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "17.205681"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "55.160168"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".62665361"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".80074799"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".029426238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "17.206499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "55.136791"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".60572892"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".80259931"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".028873103"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "17.216524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "55.144783"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".60087943"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".7978946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".028681751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "17.216524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "55.144783"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".60087943"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".7978946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".028681755"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "17.216524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "55.144783"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".60087949"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".7978946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".028681749"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "17.216524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "55.144783"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".60087943"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".7978946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".028681749"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "17.346533"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "55.032856"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".63290942"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".83066225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".028967479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "17.357622"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "55.032101"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".6329903"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Nevada",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".81673634"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".028770601"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "6.3315678"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "60.233273"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".488282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".6722694"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".48898679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".48898676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".48898676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".48898679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".4889867"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "6.3408594"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "60.268024"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".4889867"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".66955066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".48918629"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".48918629"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".48918629"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".48918629"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".48918623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".48918632"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "6.3348174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "60.249058"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".48918632"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".66431785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "6.2948866"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "60.300972"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".49280429"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".66359645"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "6.2967701"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "60.297287"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".49409553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".65926665"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "6.2967701"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "60.297287"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".49409553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".65926665"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "6.2967701"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "60.297287"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".4940955"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".65926665"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "6.2983623"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "60.312531"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".49988416"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".65926665"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "6.2647843"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "60.310936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".49925774"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".65670097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "6.2719803"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "60.319702"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".49944723"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".65686762"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "6.1840277"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "60.353432"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".49971196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".66585964"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "6.0842109"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "60.357948"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".49898052"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".63583243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "6.4023275"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "60.362766"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".49921703"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".55993456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "6.4023275"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "60.362766"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".49921706"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".55993456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "6.4163327"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "60.384434"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-17",
+      "poll_avg": ".49903199"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-17",
+      "poll_avg": ".5592705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "6.3736563"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "60.400982"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-16",
+      "poll_avg": ".49903193"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-16",
+      "poll_avg": ".50295043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "6.3736563"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "60.400982"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-15",
+      "poll_avg": ".49903193"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-15",
+      "poll_avg": ".50295043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "6.2893581"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "60.438217"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-14",
+      "poll_avg": ".50025415"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-14",
+      "poll_avg": ".50019175"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-13",
+      "poll_avg": ".50065434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-13",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-12",
+      "poll_avg": ".50065434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-12",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-11",
+      "poll_avg": ".50065428"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-11",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-10",
+      "poll_avg": ".50065434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-10",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-09",
+      "poll_avg": ".50065434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-09",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "6.2742176"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "60.448429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-08",
+      "poll_avg": ".50065434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-08",
+      "poll_avg": ".49681106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "6.2821283"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "60.445354"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-07",
+      "poll_avg": ".50649691"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-07",
+      "poll_avg": ".52000386"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "6.2857709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "60.446857"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-06",
+      "poll_avg": ".50615901"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-06",
+      "poll_avg": ".51550585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "6.2857709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "60.446857"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-05",
+      "poll_avg": ".50615895"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-05",
+      "poll_avg": ".51550591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "6.2857709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "60.446857"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-04",
+      "poll_avg": ".50615901"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-04",
+      "poll_avg": ".51550585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "6.2857709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "60.446857"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-03",
+      "poll_avg": ".50615901"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-03",
+      "poll_avg": ".51550591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "6.2857709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "60.446857"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-02",
+      "poll_avg": ".50615895"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-02",
+      "poll_avg": ".51550591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Nevada",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "6.2926078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Nevada",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "60.453979"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Nevada",
+      "forecastdate": "2015-06-01",
+      "poll_avg": ".50663865"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Nevada",
+      "forecastdate": "2015-06-01",
+      "poll_avg": ".51562655"
+    }
+  ],
+  "polls": [
+    {
+      "id": "49413",
+      "population": "lv",
+      "pollId": "36386",
+      "cycle": "2016",
+      "sampleSize": "516",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-15",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.oann.com/pollnevada/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455799680,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "53.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "47.0"
+        }
+      ],
+      "weight": ".4426136910915375"
+    },
+    {
+      "id": "49353",
+      "population": "lv",
+      "pollId": "36350",
+      "cycle": "2016",
+      "sampleSize": "282",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "100",
+      "pollster": "Opinion Research Corporation",
+      "startDate": "2016-02-10",
+      "endDate": "2016-02-15",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://i2.cdn.turner.com/cnn/2016/images/02/17/topnv1.pdf",
+      "stage": "caucus",
+      "party": "DEM",
+      "created_at": 1455699180,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "47.0"
+        }
+      ],
+      "weight": ".3303390741348267"
+    },
+    {
+      "id": "49327",
+      "population": "lv",
+      "pollId": "36336",
+      "cycle": "2016",
+      "sampleSize": "1236",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "467",
+      "pollster": "TargetPoint",
+      "startDate": "2016-02-08",
+      "endDate": "2016-02-10",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://freebeacon.com/wp-content/uploads/2016/02/nv-toplines.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455276540,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "45.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "45.0"
+        }
+      ],
+      "weight": ".0513479635119438"
+    },
+    {
+      "id": "47657",
+      "population": "lv",
+      "pollId": "35474",
+      "cycle": "2016",
+      "sampleSize": "326",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-12-23",
+      "endDate": "2015-12-27",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/gravis-marketing-latest-republican-and-democratic-polls-in-nevada",
+      "stage": "caucus",
+      "party": "DEM",
+      "created_at": 1451568540,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "9.86379760093e-08"
+    },
+    {
+      "id": "47329",
+      "population": "rv",
+      "pollId": "35395",
+      "cycle": "2016",
+      "sampleSize": "237",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "1189",
+      "pollster": "Morning Consult",
+      "startDate": "2015-11-10",
+      "endDate": "2015-11-16",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://morningconsult.com/wp-content/uploads/2015/11/151101_topline_NV_FINAL.pdf",
+      "stage": "caucus",
+      "party": "DEM",
+      "created_at": 1449492300,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": "4.05026186201e-11"
+    },
+    {
+      "id": "43421",
+      "population": "lv",
+      "pollId": "34768",
+      "cycle": "2016",
+      "sampleSize": "253",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "100",
+      "pollster": "Opinion Research Corporation",
+      "startDate": "2015-10-03",
+      "endDate": "2015-10-10",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.cnn.com/2015/10/12/politics/poll-south-carolina-nevada-hillary-clinton/index.html",
+      "stage": "caucus",
+      "party": "DEM",
+      "created_at": 1445331660,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "12.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "0.0"
+        }
+      ],
+      "weight": "2.68466974048e-14"
+    },
+    {
+      "id": "42748",
+      "population": "lv",
+      "pollId": "34611",
+      "cycle": "2016",
+      "sampleSize": "416",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-07-12",
+      "endDate": "2015-07-13",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/Gravis_Marketing_Nevada_July_12-13_Poll.pdf",
+      "stage": "caucus",
+      "party": "DEM",
+      "created_at": 1445277540,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "55.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "18.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "8.50082948571e-23"
+    },
+    {
+      "id": "43784",
+      "population": "lv",
+      "pollId": "34538",
+      "cycle": "2016",
+      "sampleSize": "319",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-03-27",
+      "endDate": "2015-03-27",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/current-nevada-polling/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332800,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Gore",
+          "pct": "3.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "7.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "15.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "0.0"
+        }
+      ],
+      "weight": "8.44399469182e-33"
+    },
+    {
+      "id": "43635",
+      "population": "lv",
+      "pollId": "34541",
+      "cycle": "2016",
+      "sampleSize": "324",
+      "state": "NV",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-02-21",
+      "endDate": "2015-02-22",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/current-nevada-polling-scott-walker-leads-bush-does-best-against-clinton/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332380,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "20.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "3.0"
+        }
+      ],
+      "weight": "5.88885038732e-36"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "3.4004242e-07",
+          "2.6048990e-06",
+          "5.9930053e-06",
+          "9.1850297e-06",
+          ".000011651229",
+          ".000013287691",
+          ".000014170773",
+          ".000014438357",
+          ".000014236358",
+          ".000013696381",
+          ".000012928381",
+          ".000012019832",
+          ".000011037916",
+          ".000010032625",
+          "9.0399371e-06",
+          "8.0847731e-06",
+          "7.1835275e-06",
+          "6.3460484e-06",
+          "5.5775099e-06",
+          "4.8800343e-06",
+          "4.2547108e-06",
+          "3.7056282e-06",
+          "3.2487642e-06",
+          "2.9331845e-06",
+          "2.8884717e-06",
+          "3.4244706e-06",
+          "5.2273567e-06",
+          "9.7189459e-06",
+          ".000019672774",
+          ".000040199775",
+          ".000080218022",
+          ".00015448932",
+          ".00028621149",
+          ".0005099987",
+          ".00087488332",
+          ".001446676",
+          ".0023087922",
+          ".0035606038",
+          ".0053121867",
+          ".0076749516",
+          ".010747834",
+          ".014600373",
+          ".01925372",
+          ".024662653",
+          ".030702755",
+          ".037164386",
+          ".043757338",
+          ".050128795",
+          ".055890732",
+          ".060656596",
+          ".064084031",
+          ".065912634",
+          ".065996423",
+          ".064322628",
+          ".061012343",
+          ".056310099",
+          ".050551251",
+          ".044125225",
+          ".037432592",
+          ".030845076",
+          ".024672424",
+          ".019143453",
+          ".01439623",
+          ".010483132",
+          ".0073839598",
+          ".0050249542",
+          ".0032994128",
+          ".0020872194",
+          ".0012700018",
+          ".00074189348",
+          ".00041522284",
+          ".00022213615",
+          ".00011329756",
+          ".000054932239",
+          ".000025235366",
+          ".00001094351",
+          "4.4611174e-06",
+          "1.7013562e-06",
+          "6.0372992e-07",
+          "1.9808833e-07",
+          "5.9664529e-08",
+          "1.6359474e-08",
+          "4.0435766e-09",
+          "8.9064617e-10",
+          "1.7245440e-10",
+          "2.8883920e-11",
+          "4.1068295e-12",
+          "4.8615653e-13",
+          "4.7670330e-14",
+          "4.1750923e-15",
+          "5.7458136e-16",
+          "1.1734466e-16",
+          "3.4406095e-17",
+          "8.5955381e-18",
+          "1.7238962e-18",
+          "2.6337304e-19",
+          "2.3943003e-20",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.2780039e-09",
+          "4.6621280e-09",
+          "7.2981594e-09",
+          "8.9691161e-09",
+          "9.8945669e-09",
+          "1.0286130e-08",
+          "1.0306521e-08",
+          "1.0074824e-08",
+          "9.6769908e-09",
+          "9.1746752e-09",
+          "8.6120036e-09",
+          "8.0203399e-09",
+          "7.4218143e-09",
+          "6.8318271e-09",
+          "6.2608509e-09",
+          "5.7158349e-09",
+          "5.2015219e-09",
+          "4.7229149e-09",
+          "4.2946962e-09",
+          "3.9790051e-09",
+          "4.0273855e-09",
+          "5.3648321e-09",
+          "1.1089704e-08",
+          "3.0727264e-08",
+          "9.1327834e-08",
+          "2.6423749e-07",
+          "7.2505350e-07",
+          "1.8786342e-06",
+          "4.6024938e-06",
+          ".000010689715",
+          ".000023602493",
+          ".000049670991",
+          ".000099869481",
+          ".00019225352",
+          ".00035503326",
+          ".00063004502",
+          ".0010761056",
+          ".001771458",
+          ".0028141283",
+          ".0043190024",
+          ".0064103352",
+          ".0092092883",
+          ".012816266",
+          ".017289501",
+          ".022623125",
+          ".028727299",
+          ".035415385",
+          ".042403404",
+          ".049322054",
+          ".055743866",
+          ".061224982",
+          ".065352157",
+          ".067793049",
+          ".068339236",
+          ".066932723",
+          ".063679218",
+          ".058831684",
+          ".052760798",
+          ".045908589",
+          ".038736448",
+          ".031673767",
+          ".025079418",
+          ".019213215",
+          ".01422748",
+          ".010172503",
+          ".0070140613",
+          ".004657458",
+          ".0029737621",
+          ".0018225971",
+          ".0010702028",
+          ".00060075393",
+          ".00032161479",
+          ".00016375745",
+          ".000079064106",
+          ".000036072717",
+          ".000015492376",
+          "6.2357844e-06",
+          "2.3406158e-06",
+          "8.1462906e-07",
+          "2.6117434e-07",
+          "7.6554642e-08",
+          "2.0336254e-08",
+          "4.8459516e-09",
+          "1.0234312e-09",
+          "1.8884279e-10",
+          "2.9928903e-11",
+          "3.9929024e-12",
+          "4.3878754e-13",
+          "3.9474297e-14",
+          "3.4940755e-15",
+          "5.9551117e-16",
+          "2.3316948e-16",
+          "1.0314022e-16",
+          "4.0970190e-17",
+          "1.4121632e-17",
+          "4.0022758e-18",
+          "8.5136406e-19",
+          "1.1434193e-19",
+          "6.5855407e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "1.9837112e-06",
+          ".000013780823",
+          ".000029608285",
+          ".000043130713",
+          ".000052529045",
+          ".000057888596",
+          ".000059921935",
+          ".000059453399",
+          ".00005722819",
+          ".000053855169",
+          ".000049804912",
+          ".000045426448",
+          ".00004096983",
+          ".000036607613",
+          ".00003245327",
+          ".000028576487",
+          ".000025015461",
+          ".000021786685",
+          ".000018895678",
+          ".000016351951",
+          ".000014198837",
+          ".000012580164",
+          ".000011882248",
+          ".000013020152",
+          ".000017970251",
+          ".000030686442",
+          ".000058556245",
+          ".00011452675",
+          ".00021994689",
+          ".00040798326",
+          ".00072719663",
+          ".0012445669",
+          ".0020468833",
+          ".0032392475",
+          ".0049396129",
+          ".0072683804",
+          ".01033305",
+          ".014209312",
+          ".018920092",
+          ".024416583",
+          ".030564165",
+          ".0371386",
+          ".043832835",
+          ".050276857",
+          ".056070816",
+          ".060823843",
+          ".064196371",
+          ".065940894",
+          ".065929607",
+          ".06416934",
+          ".060801547",
+          ".056082297",
+          ".05035207",
+          ".043996528",
+          ".037403993",
+          ".030930709",
+          ".024869397",
+          ".019433219",
+          ".014750071",
+          ".010867869",
+          ".007767438",
+          ".0053808428",
+          ".0036096196",
+          ".0023424188",
+          ".0014687905",
+          ".0008887733",
+          ".00051823643",
+          ".0002907271",
+          ".00015663443",
+          ".00008088562",
+          ".000039946284",
+          ".000018820469",
+          "8.4357671e-06",
+          "3.5860862e-06",
+          "1.4407896e-06",
+          "5.4494978e-07",
+          "1.9317778e-07",
+          "6.3857314e-08",
+          "1.9571404e-08",
+          "5.5250200e-09",
+          "1.4259468e-09",
+          "3.3361575e-10",
+          "7.0107309e-11",
+          "1.3120754e-11",
+          "2.1836829e-12",
+          "3.3315795e-13",
+          "5.3453105e-14",
+          "1.1988226e-14",
+          "3.8798619e-15",
+          "1.4376883e-15",
+          "5.1859867e-16",
+          "1.6853993e-16",
+          "4.8207242e-17",
+          "1.1588279e-17",
+          "2.3176559e-18",
+          "3.7082494e-19",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000032643562",
+          ".00010529436",
+          ".00015208499",
+          ".00017636496",
+          ".00018581563",
+          ".00018587413",
+          ".0001801316",
+          ".00017094288",
+          ".0001598558",
+          ".00014788701",
+          ".00013570166",
+          ".00012372814",
+          ".00011223523",
+          ".00010138335",
+          ".000091259084",
+          ".000081899365",
+          ".000073308554",
+          ".000065469801",
+          ".000058358044",
+          ".000051957297",
+          ".000046296795",
+          ".000041537616",
+          ".000038161139",
+          ".000037359812",
+          ".000041774674",
+          ".000056775356",
+          ".000092498522",
+          ".00016680289",
+          ".00030915067",
+          ".00056510797",
+          ".0010007335",
+          ".0017056802",
+          ".0027933624",
+          ".0043964391",
+          ".0066563603",
+          ".0097061954",
+          ".013647642",
+          ".018525241",
+          ".024300994",
+          ".030835595",
+          ".037880197",
+          ".045084964",
+          ".052022781",
+          ".058228672",
+          ".063251518",
+          ".066706099",
+          ".068320639",
+          ".067972906",
+          ".065703265",
+          ".061707664",
+          ".056312252",
+          ".049928933",
+          ".043006219",
+          ".035979457",
+          ".029227706",
+          ".023046592",
+          ".017631948",
+          ".013081337",
+          ".009405924",
+          ".0065501276",
+          ".0044141449",
+          ".0028761539",
+          ".0018101153",
+          ".0010991048",
+          ".00064307771",
+          ".00036205229",
+          ".00019582894",
+          ".00010158638",
+          ".00005044389",
+          ".000023926174",
+          ".000010814734",
+          "4.6466425e-06",
+          "1.8927000e-06",
+          "7.2900815e-07",
+          "2.6500376e-07",
+          "9.0943537e-08",
+          "2.9662505e-08",
+          "9.4147206e-09",
+          "3.0899874e-09",
+          "1.1685303e-09",
+          "5.5542188e-10",
+          "3.2023378e-10",
+          "2.0216252e-10",
+          "1.3015644e-10",
+          "8.2848464e-11",
+          "5.1504558e-11",
+          "3.1078307e-11",
+          "1.8107947e-11",
+          "1.0128597e-11",
+          "5.3995111e-12",
+          "2.7178780e-12",
+          "1.2758592e-12",
+          "5.4924815e-13",
+          "2.1173539e-13",
+          "7.0568937e-14",
+          "1.9244787e-14",
+          "3.9119747e-15",
+          "4.9706609e-16",
+          "2.6436414e-17",
+          "0"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,7290 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "36.895241",
+      "pollonly_winprob": 0.034999999,
+      "pollonly_hi": "42.366684",
+      "pollonly_lo": "36.320755",
+      "pollonly_forecast": "38.307098",
+      "kitchen_winprob": 0.0099999997,
+      "kitchen_hi": "41.369476",
+      "kitchen_lo": "35.709846",
+      "kitchen_forecast": "37.491203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "58.18821",
+      "pollonly_winprob": 99.965,
+      "pollonly_hi": "63.716766",
+      "pollonly_lo": "57.687614",
+      "pollonly_forecast": "59.218899",
+      "kitchen_winprob": 99.989998,
+      "kitchen_hi": "64.354195",
+      "kitchen_lo": "58.728409",
+      "kitchen_forecast": "60.034786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "36.753361",
+      "pollonly_winprob": 0.0099999997,
+      "pollonly_hi": "42.220238",
+      "pollonly_lo": "36.179146",
+      "pollonly_forecast": "38.173691",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "41.171669",
+      "kitchen_lo": "35.532906",
+      "kitchen_forecast": "37.340775"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "58.326164",
+      "pollonly_winprob": 99.989998,
+      "pollonly_hi": "63.85025",
+      "pollonly_lo": "57.826965",
+      "pollonly_forecast": "59.351696",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "64.504593",
+      "kitchen_lo": "58.885513",
+      "kitchen_forecast": "60.184612"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "37.199505",
+      "pollonly_winprob": 0.069999998,
+      "pollonly_hi": "43.020332",
+      "pollonly_lo": "36.94521",
+      "pollonly_forecast": "38.897484",
+      "kitchen_winprob": 0.019999999,
+      "kitchen_hi": "41.628551",
+      "kitchen_lo": "35.424652",
+      "kitchen_forecast": "37.462746"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "57.131145",
+      "pollonly_winprob": 99.92999999999999,
+      "pollonly_hi": "63.092537",
+      "pollonly_lo": "57.036957",
+      "pollonly_forecast": "58.543667",
+      "kitchen_winprob": 99.980003,
+      "kitchen_hi": "64.627266",
+      "kitchen_lo": "58.433914",
+      "kitchen_forecast": "59.978409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "35.231762",
+      "pollonly_winprob": 0.0099999997,
+      "pollonly_hi": "40.952969",
+      "pollonly_lo": "34.947685",
+      "pollonly_forecast": "36.886703",
+      "kitchen_winprob": 0.055,
+      "kitchen_hi": "40.322361",
+      "kitchen_lo": "32.148232",
+      "kitchen_forecast": "35.20533"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "59.253994",
+      "pollonly_winprob": 99.989998,
+      "pollonly_hi": "65.115112",
+      "pollonly_lo": "59.151348",
+      "pollonly_forecast": "60.578903",
+      "kitchen_winprob": 99.945003,
+      "kitchen_hi": "67.896164",
+      "kitchen_lo": "59.770287",
+      "kitchen_forecast": "62.260277"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "34.372971",
+      "pollonly_winprob": 0.29500001,
+      "pollonly_hi": "42.176712",
+      "pollonly_lo": "33.113419",
+      "pollonly_forecast": "36.264694",
+      "kitchen_winprob": 0.33,
+      "kitchen_hi": "40.325577",
+      "kitchen_lo": "28.872211",
+      "kitchen_forecast": "33.327991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "58.995342",
+      "pollonly_winprob": 99.704999,
+      "pollonly_hi": "67.100655",
+      "pollonly_lo": "58.301762",
+      "pollonly_forecast": "61.100487",
+      "kitchen_winprob": 99.669999,
+      "kitchen_hi": "71.197708",
+      "kitchen_lo": "60.121902",
+      "kitchen_forecast": "64.037186"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "34.373016",
+      "pollonly_winprob": 0.185,
+      "pollonly_hi": "41.878342",
+      "pollonly_lo": "33.424461",
+      "pollonly_forecast": "36.264633",
+      "kitchen_winprob": 0.29500001,
+      "kitchen_hi": "40.098923",
+      "kitchen_lo": "29.088739",
+      "kitchen_forecast": "33.314434"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "58.995598",
+      "pollonly_winprob": 99.814999,
+      "pollonly_hi": "66.824173",
+      "pollonly_lo": "58.599503",
+      "pollonly_forecast": "61.100597",
+      "kitchen_winprob": 99.704999,
+      "kitchen_hi": "71.014153",
+      "kitchen_lo": "60.358444",
+      "kitchen_forecast": "64.050789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "36.358772",
+      "pollonly_winprob": 3.7950001999999996,
+      "pollonly_hi": "46.831524",
+      "pollonly_lo": "35.315594",
+      "pollonly_forecast": "39.639751",
+      "kitchen_winprob": 2.2949998999999996,
+      "kitchen_hi": "44.474586",
+      "kitchen_lo": "30.452976",
+      "kitchen_forecast": "35.830841"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "54.103977",
+      "pollonly_winprob": 96.205002,
+      "pollonly_hi": "64.794579",
+      "pollonly_lo": "53.388191",
+      "pollonly_forecast": "57.359219",
+      "kitchen_winprob": 97.705001,
+      "kitchen_hi": "69.774376",
+      "kitchen_lo": "56.080559",
+      "kitchen_forecast": "61.168121"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "36.458099",
+      "pollonly_winprob": 3.585,
+      "pollonly_hi": "46.646313",
+      "pollonly_lo": "35.622086",
+      "pollonly_forecast": "39.707268",
+      "kitchen_winprob": 2.2500001,
+      "kitchen_hi": "44.265133",
+      "kitchen_lo": "31.032448",
+      "kitchen_forecast": "36.314693"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "54.089832",
+      "pollonly_winprob": 96.415001,
+      "pollonly_hi": "64.503571",
+      "pollonly_lo": "53.570564",
+      "pollonly_forecast": "57.307026",
+      "kitchen_winprob": 97.75000200000001,
+      "kitchen_hi": "68.987679",
+      "kitchen_lo": "55.93074",
+      "kitchen_forecast": "60.6996"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "36.476749",
+      "pollonly_winprob": 3.1199999,
+      "pollonly_hi": "46.41045",
+      "pollonly_lo": "35.862267",
+      "pollonly_forecast": "39.717751",
+      "kitchen_winprob": 1.9649999,
+      "kitchen_hi": "44.2155",
+      "kitchen_lo": "31.471464",
+      "kitchen_forecast": "36.508671"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "54.092213",
+      "pollonly_winprob": 96.88000100000001,
+      "pollonly_hi": "64.259712",
+      "pollonly_lo": "53.795815",
+      "pollonly_forecast": "57.300323",
+      "kitchen_winprob": 98.035002,
+      "kitchen_hi": "68.553345",
+      "kitchen_lo": "55.973526",
+      "kitchen_forecast": "60.509403"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "37.020302",
+      "pollonly_winprob": 5.72,
+      "pollonly_hi": "48.004372",
+      "pollonly_lo": "35.798248",
+      "pollonly_forecast": "40.507271",
+      "kitchen_winprob": 2.9100001,
+      "kitchen_hi": "44.91716",
+      "kitchen_lo": "30.153961",
+      "kitchen_forecast": "36.21772"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "53.397892",
+      "pollonly_winprob": 94.279999,
+      "pollonly_hi": "64.361366",
+      "pollonly_lo": "52.212158",
+      "pollonly_forecast": "56.607559",
+      "kitchen_winprob": 97.09,
+      "kitchen_hi": "69.842865",
+      "kitchen_lo": "55.288162",
+      "kitchen_forecast": "60.897102"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "37.102776",
+      "pollonly_winprob": 5.48,
+      "pollonly_hi": "47.840862",
+      "pollonly_lo": "36.045895",
+      "pollonly_forecast": "40.55154",
+      "kitchen_winprob": 2.74,
+      "kitchen_hi": "44.460045",
+      "kitchen_lo": "29.505932",
+      "kitchen_forecast": "35.597286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "53.412666",
+      "pollonly_winprob": 94.520003,
+      "pollonly_hi": "64.123573",
+      "pollonly_lo": "52.376839",
+      "pollonly_forecast": "56.580261",
+      "kitchen_winprob": 97.259998,
+      "kitchen_hi": "70.553101",
+      "kitchen_lo": "55.838303",
+      "kitchen_forecast": "61.534515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "37.102776",
+      "pollonly_winprob": 5.0799999,
+      "pollonly_hi": "47.638206",
+      "pollonly_lo": "36.234825",
+      "pollonly_forecast": "40.55154",
+      "kitchen_winprob": 2.6350001,
+      "kitchen_hi": "44.308567",
+      "kitchen_lo": "29.63698",
+      "kitchen_forecast": "35.589153"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "53.412666",
+      "pollonly_winprob": 94.919997,
+      "pollonly_hi": "63.930096",
+      "pollonly_lo": "52.5816",
+      "pollonly_forecast": "56.580261",
+      "kitchen_winprob": 97.364998,
+      "kitchen_hi": "70.428261",
+      "kitchen_lo": "55.99968",
+      "kitchen_forecast": "61.542648"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "37.084949",
+      "pollonly_winprob": 4.6850000000000005,
+      "pollonly_hi": "47.425346",
+      "pollonly_lo": "36.414948",
+      "pollonly_forecast": "40.537125",
+      "kitchen_winprob": 2.42,
+      "kitchen_hi": "44.120811",
+      "kitchen_lo": "29.713631",
+      "kitchen_forecast": "35.53891"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "53.421947",
+      "pollonly_winprob": 95.314997,
+      "pollonly_hi": "63.751205",
+      "pollonly_lo": "52.801762",
+      "pollonly_forecast": "56.593193",
+      "kitchen_winprob": 97.579998,
+      "kitchen_hi": "70.354057",
+      "kitchen_lo": "56.191811",
+      "kitchen_forecast": "61.591408"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "37.157944",
+      "pollonly_winprob": 4.0649999,
+      "pollonly_hi": "47.278557",
+      "pollonly_lo": "36.679039",
+      "pollonly_forecast": "40.589802",
+      "kitchen_winprob": 2.2299999,
+      "kitchen_hi": "44.06765",
+      "kitchen_lo": "29.664488",
+      "kitchen_forecast": "35.308762"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "53.402065",
+      "pollonly_winprob": 95.934999,
+      "pollonly_hi": "63.498055",
+      "pollonly_lo": "52.94585",
+      "pollonly_forecast": "56.549763",
+      "kitchen_winprob": 97.77,
+      "kitchen_hi": "70.543396",
+      "kitchen_lo": "56.483112",
+      "kitchen_forecast": "61.830799"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "37.137936",
+      "pollonly_winprob": 3.765,
+      "pollonly_hi": "47.050285",
+      "pollonly_lo": "36.843159",
+      "pollonly_forecast": "40.565407",
+      "kitchen_winprob": 2.1600001,
+      "kitchen_hi": "44.182289",
+      "kitchen_lo": "30.485111",
+      "kitchen_forecast": "35.785526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "53.433575",
+      "pollonly_winprob": 96.235001,
+      "pollonly_hi": "63.333214",
+      "pollonly_lo": "53.176559",
+      "pollonly_forecast": "56.576149",
+      "kitchen_winprob": 97.839999,
+      "kitchen_hi": "69.748581",
+      "kitchen_lo": "56.322014",
+      "kitchen_forecast": "61.356033"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "37.130241",
+      "pollonly_winprob": 3.235,
+      "pollonly_hi": "46.836617",
+      "pollonly_lo": "37.026802",
+      "pollonly_forecast": "40.556446",
+      "kitchen_winprob": 1.96,
+      "kitchen_hi": "44.041618",
+      "kitchen_lo": "30.560303",
+      "kitchen_forecast": "35.751778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "53.444733",
+      "pollonly_winprob": 96.765,
+      "pollonly_hi": "63.149101",
+      "pollonly_lo": "53.390034",
+      "pollonly_forecast": "56.585716",
+      "kitchen_winprob": 98.040003,
+      "kitchen_hi": "69.654083",
+      "kitchen_lo": "56.502602",
+      "kitchen_forecast": "61.390381"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "37.206268",
+      "pollonly_winprob": 2.85,
+      "pollonly_hi": "46.650833",
+      "pollonly_lo": "37.255676",
+      "pollonly_forecast": "40.575546",
+      "kitchen_winprob": 1.815,
+      "kitchen_hi": "43.938202",
+      "kitchen_lo": "30.888031",
+      "kitchen_forecast": "35.838554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "53.51347",
+      "pollonly_winprob": 97.14999800000001,
+      "pollonly_hi": "62.943176",
+      "pollonly_lo": "53.577766",
+      "pollonly_forecast": "56.591663",
+      "kitchen_winprob": 98.18500300000001,
+      "kitchen_hi": "69.413956",
+      "kitchen_lo": "56.604752",
+      "kitchen_forecast": "61.328663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "37.206268",
+      "pollonly_winprob": 2.4250001,
+      "pollonly_hi": "46.444427",
+      "pollonly_lo": "37.434006",
+      "pollonly_forecast": "40.575546",
+      "kitchen_winprob": 1.6349999,
+      "kitchen_hi": "43.798454",
+      "kitchen_lo": "31.00951",
+      "kitchen_forecast": "35.838554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "53.51347",
+      "pollonly_winprob": 97.57500300000001,
+      "pollonly_hi": "62.754162",
+      "pollonly_lo": "53.784286",
+      "pollonly_forecast": "56.591663",
+      "kitchen_winprob": 98.365003,
+      "kitchen_hi": "69.263252",
+      "kitchen_lo": "56.746159",
+      "kitchen_forecast": "61.328663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "34.843864",
+      "pollonly_winprob": 2.9899999,
+      "pollonly_hi": "46.089027",
+      "pollonly_lo": "34.586357",
+      "pollonly_forecast": "38.825855",
+      "kitchen_winprob": 1.6450000999999999,
+      "kitchen_hi": "42.953812",
+      "kitchen_lo": "28.52372",
+      "kitchen_forecast": "34.352169"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "54.565674",
+      "pollonly_winprob": 97.00999900000001,
+      "pollonly_hi": "65.647522",
+      "pollonly_lo": "54.319656",
+      "pollonly_forecast": "58.221718",
+      "kitchen_winprob": 98.355001,
+      "kitchen_hi": "71.47168",
+      "kitchen_lo": "57.432755",
+      "kitchen_forecast": "62.695408"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "39.57618",
+      "pollonly_winprob": 11.4,
+      "pollonly_hi": "50.326073",
+      "pollonly_lo": "38.646069",
+      "pollonly_forecast": "43.203232",
+      "kitchen_winprob": 5.1100001,
+      "kitchen_hi": "47.178619",
+      "kitchen_lo": "32.255287",
+      "kitchen_forecast": "38.242172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "51.250721",
+      "pollonly_winprob": 88.599998,
+      "pollonly_hi": "61.832771",
+      "pollonly_lo": "49.880085",
+      "pollonly_forecast": "54.088802",
+      "kitchen_winprob": 94.88999799999999,
+      "kitchen_hi": "67.863075",
+      "kitchen_lo": "53.295883",
+      "kitchen_forecast": "59.04987"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "39.799305",
+      "pollonly_winprob": 11.215,
+      "pollonly_hi": "50.223606",
+      "pollonly_lo": "38.913715",
+      "pollonly_forecast": "43.31105",
+      "kitchen_winprob": 5.26,
+      "kitchen_hi": "47.100769",
+      "kitchen_lo": "32.562721",
+      "kitchen_forecast": "38.442978"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "51.309856",
+      "pollonly_winprob": 88.784999,
+      "pollonly_hi": "61.571857",
+      "pollonly_lo": "49.969749",
+      "pollonly_forecast": "54.027679",
+      "kitchen_winprob": 94.739997,
+      "kitchen_hi": "67.514755",
+      "kitchen_lo": "53.291649",
+      "kitchen_forecast": "58.895756"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "28.988787",
+      "pollonly_winprob": 4.2849999,
+      "pollonly_hi": "45.241146",
+      "pollonly_lo": "23.628662",
+      "pollonly_forecast": "33.020855",
+      "kitchen_winprob": 3.06,
+      "kitchen_hi": "44.048847",
+      "kitchen_lo": "26.230093",
+      "kitchen_forecast": "33.681515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "59.957512",
+      "pollonly_winprob": 95.714998,
+      "pollonly_hi": "75.245422",
+      "pollonly_lo": "56.231186",
+      "pollonly_forecast": "64.214531",
+      "kitchen_winprob": 96.939999,
+      "kitchen_hi": "73.751457",
+      "kitchen_lo": "56.488029",
+      "kitchen_forecast": "63.553875"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "28.98609",
+      "pollonly_winprob": 3.9650000999999997,
+      "pollonly_hi": "45.047176",
+      "pollonly_lo": "23.761639",
+      "pollonly_forecast": "33.023483",
+      "kitchen_winprob": 2.97,
+      "kitchen_hi": "43.901108",
+      "kitchen_lo": "26.399815",
+      "kitchen_forecast": "33.736134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "59.948444",
+      "pollonly_winprob": 96.034998,
+      "pollonly_hi": "75.133499",
+      "pollonly_lo": "56.368237",
+      "pollonly_forecast": "64.2099",
+      "kitchen_winprob": 97.03000200000001,
+      "kitchen_hi": "73.622879",
+      "kitchen_lo": "56.521774",
+      "kitchen_forecast": "63.497253"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "28.983419",
+      "pollonly_winprob": 3.8800001,
+      "pollonly_hi": "44.953735",
+      "pollonly_lo": "23.853806",
+      "pollonly_forecast": "33.019382",
+      "kitchen_winprob": 2.8400000000000003,
+      "kitchen_hi": "43.826988",
+      "kitchen_lo": "26.391068",
+      "kitchen_forecast": "33.692562"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "59.953987",
+      "pollonly_winprob": 96.12,
+      "pollonly_hi": "75.025269",
+      "pollonly_lo": "56.507946",
+      "pollonly_forecast": "64.2145",
+      "kitchen_winprob": 97.16,
+      "kitchen_hi": "73.551163",
+      "kitchen_lo": "56.65831",
+      "kitchen_forecast": "63.541309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "28.97867",
+      "pollonly_winprob": 3.6850002,
+      "pollonly_hi": "44.786697",
+      "pollonly_lo": "24.075886",
+      "pollonly_forecast": "33.015984",
+      "kitchen_winprob": 2.6550001,
+      "kitchen_hi": "43.713551",
+      "kitchen_lo": "26.177948",
+      "kitchen_forecast": "33.441959"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "59.955414",
+      "pollonly_winprob": 96.315002,
+      "pollonly_hi": "74.915817",
+      "pollonly_lo": "56.646545",
+      "pollonly_forecast": "64.217331",
+      "kitchen_winprob": 97.345001,
+      "kitchen_hi": "73.65464",
+      "kitchen_lo": "57.088303",
+      "kitchen_forecast": "63.791351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "28.980011",
+      "pollonly_winprob": 3.5950001,
+      "pollonly_hi": "44.624947",
+      "pollonly_lo": "24.24732",
+      "pollonly_forecast": "33.018429",
+      "kitchen_winprob": 2.665,
+      "kitchen_hi": "43.561317",
+      "kitchen_lo": "26.922089",
+      "kitchen_forecast": "33.940475"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "59.951794",
+      "pollonly_winprob": 96.404999,
+      "pollonly_hi": "74.800415",
+      "pollonly_lo": "56.779446",
+      "pollonly_forecast": "64.214493",
+      "kitchen_winprob": 97.334999,
+      "kitchen_hi": "73.189713",
+      "kitchen_lo": "56.543022",
+      "kitchen_forecast": "63.292454"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "28.981312",
+      "pollonly_winprob": 3.4099999999999997,
+      "pollonly_hi": "44.507107",
+      "pollonly_lo": "24.289886",
+      "pollonly_forecast": "33.019894",
+      "kitchen_winprob": 2.585,
+      "kitchen_hi": "43.44165",
+      "kitchen_lo": "27.072502",
+      "kitchen_forecast": "33.990078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "59.950249",
+      "pollonly_winprob": 96.59,
+      "pollonly_hi": "74.676186",
+      "pollonly_lo": "56.888531",
+      "pollonly_forecast": "64.21299",
+      "kitchen_winprob": 97.41499999999999,
+      "kitchen_hi": "73.064148",
+      "kitchen_lo": "56.582722",
+      "kitchen_forecast": "63.242805"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "28.988106",
+      "pollonly_winprob": 3.3750001000000003,
+      "pollonly_hi": "44.395638",
+      "pollonly_lo": "24.501873",
+      "pollonly_forecast": "33.024864",
+      "kitchen_winprob": 2.4900001,
+      "kitchen_hi": "43.363895",
+      "kitchen_lo": "27.145885",
+      "kitchen_forecast": "33.993473"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "59.947979",
+      "pollonly_winprob": 96.625,
+      "pollonly_hi": "74.564407",
+      "pollonly_lo": "57.014275",
+      "pollonly_forecast": "64.208786",
+      "kitchen_winprob": 97.509998,
+      "kitchen_hi": "72.9729",
+      "kitchen_lo": "56.684479",
+      "kitchen_forecast": "63.240177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "28.990427",
+      "pollonly_winprob": 3.1399999,
+      "pollonly_hi": "44.316219",
+      "pollonly_lo": "24.636902",
+      "pollonly_forecast": "33.029659",
+      "kitchen_winprob": 2.035,
+      "kitchen_hi": "42.973068",
+      "kitchen_lo": "26.628391",
+      "kitchen_forecast": "33.529797"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "59.940491",
+      "pollonly_winprob": 96.859998,
+      "pollonly_hi": "74.445656",
+      "pollonly_lo": "57.144588",
+      "pollonly_forecast": "64.20311",
+      "kitchen_winprob": 97.965002,
+      "kitchen_hi": "73.235184",
+      "kitchen_lo": "57.393303",
+      "kitchen_forecast": "63.702976"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "29.849382"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "62.160023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "29.833685"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "62.185303"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "22.287319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "39.842312"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "22.294764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "39.84042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "22.288475"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "39.843273"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "22.300125"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "39.856853"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "22.297066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "39.860065"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "22.293348"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "39.855175"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-02-01",
+      "poll_avg": ".75744468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "22.278629"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "39.867264"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-31",
+      "poll_avg": ".75891864"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "22.274057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "39.877468"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-30",
+      "poll_avg": ".7587747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "22.275349"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "39.892166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-29",
+      "poll_avg": ".76399547"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "22.240156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "39.900799"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-28",
+      "poll_avg": ".75393468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "22.279528"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "39.887024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-27",
+      "poll_avg": ".76415926"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "22.265854"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "39.914391"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-26",
+      "poll_avg": ".79122204"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "22.266197"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "39.918194"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-25",
+      "poll_avg": ".78512216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "22.295185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "39.496773"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-24",
+      "poll_avg": ".80864555"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "22.29903"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "39.488747"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-23",
+      "poll_avg": ".8085373"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "22.297235"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "39.493225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-22",
+      "poll_avg": ".80766875"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "22.305412"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "39.508121"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-21",
+      "poll_avg": ".80941457"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "22.317526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "39.51775"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-20",
+      "poll_avg": ".80846965"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "22.298922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "39.598766"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-19",
+      "poll_avg": ".81024587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "22.319384"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "39.444775"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-18",
+      "poll_avg": ".81557572"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "22.321104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "39.420311"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-17",
+      "poll_avg": ".81626236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "22.318773"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "39.414154"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-16",
+      "poll_avg": ".81707108"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "22.318773"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "39.414154"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-15",
+      "poll_avg": ".81707108"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "22.327532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "39.41069"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-14",
+      "poll_avg": ".81499219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "22.342199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "39.422325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-13",
+      "poll_avg": ".81823939"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "22.339405"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "39.433834"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-12",
+      "poll_avg": ".82096308"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "22.344587"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "39.431705"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-11",
+      "poll_avg": ".82784384"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "22.361326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "39.424896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-10",
+      "poll_avg": ".82681757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "22.361326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "39.424896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-09",
+      "poll_avg": ".82681757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "22.361326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "39.424896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-08",
+      "poll_avg": ".82681757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "22.361326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "39.424896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-07",
+      "poll_avg": ".82681757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "22.350756"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "39.404972"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-06",
+      "poll_avg": ".82977641"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "22.357248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "39.407177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-05",
+      "poll_avg": ".82372481"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "22.357248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "39.407177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-04",
+      "poll_avg": ".82372481"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "22.357248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "39.407177"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-03",
+      "poll_avg": ".82372481"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-02",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2016-01-01",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-31",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-30",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-29",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-28",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "22.326529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "39.407349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-27",
+      "poll_avg": ".82864672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "22.329332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "39.407585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-26",
+      "poll_avg": ".82782787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "22.329332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "39.407585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-25",
+      "poll_avg": ".82782787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "22.329332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "39.407585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-24",
+      "poll_avg": ".82782787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "22.329332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "39.407585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-23",
+      "poll_avg": ".82782787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "22.329332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "39.407585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-22",
+      "poll_avg": ".82782787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "22.341867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "39.401817"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-21",
+      "poll_avg": ".82637936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "22.340054"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "39.402584"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-20",
+      "poll_avg": ".83384937"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "22.336082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "39.403866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-19",
+      "poll_avg": ".83714777"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "22.336082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "39.403866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-18",
+      "poll_avg": ".83714777"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "22.336082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "39.403866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-17",
+      "poll_avg": ".83714777"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "22.338522"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "39.424759"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-16",
+      "poll_avg": ".83534521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "22.338522"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "39.424759"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-15",
+      "poll_avg": ".83534527"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "22.341946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "39.423084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-14",
+      "poll_avg": ".83527887"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "22.341946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "39.423084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-13",
+      "poll_avg": ".83527887"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "22.329065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "39.431858"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-12",
+      "poll_avg": ".8173641"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "22.329065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "39.431858"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-11",
+      "poll_avg": ".8173641"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "22.329065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "39.431858"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-10",
+      "poll_avg": ".81736404"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "22.317158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "39.441109"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-09",
+      "poll_avg": ".82078618"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "22.305033"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "39.438713"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-08",
+      "poll_avg": ".82215583"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "22.302649"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "39.433689"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-07",
+      "poll_avg": ".82317609"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "22.29388"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "39.444271"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-06",
+      "poll_avg": ".83737254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "22.314068"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "39.407944"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-05",
+      "poll_avg": ".84724557"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "22.314068"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "39.407944"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-04",
+      "poll_avg": ".84724557"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "22.318293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "39.4137"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-03",
+      "poll_avg": ".84927803"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "22.309305"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "39.419407"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-02",
+      "poll_avg": ".8467564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "22.3183"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "39.420444"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-12-01",
+      "poll_avg": ".83979762"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "22.318115"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "39.416656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-30",
+      "poll_avg": ".84037191"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-29",
+      "poll_avg": ".84325588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-28",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-27",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-26",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-25",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-24",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "22.316294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "39.408062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-23",
+      "poll_avg": ".84325594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "22.31653"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "39.408459"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-22",
+      "poll_avg": ".84297889"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "22.293446"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "39.416206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-21",
+      "poll_avg": ".84240735"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "22.293446"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "39.416206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-20",
+      "poll_avg": ".84240741"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "22.293446"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "39.416206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-19",
+      "poll_avg": ".84240735"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "22.267254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "39.446495"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-18",
+      "poll_avg": ".84998059"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "22.267254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "39.446491"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-17",
+      "poll_avg": ".84998053"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "22.258547"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "39.453442"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-16",
+      "poll_avg": ".84135455"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "22.259739"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "39.416126"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-15",
+      "poll_avg": ".8494339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "22.271036"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "39.394306"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-14",
+      "poll_avg": ".85151154"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "22.271036"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "39.39431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-13",
+      "poll_avg": ".85151154"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "22.271839"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "39.390316"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-12",
+      "poll_avg": ".84529132"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "22.271839"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "39.390316"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-11",
+      "poll_avg": ".84529126"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "22.261589"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "39.392174"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-10",
+      "poll_avg": ".84462446"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "22.269497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "39.389477"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-09",
+      "poll_avg": ".84615862"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "22.27286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "39.370628"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-08",
+      "poll_avg": ".84926683"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "22.325329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "39.508884"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-07",
+      "poll_avg": ".86442882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "22.325329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "39.508884"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-06",
+      "poll_avg": ".86442882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "22.34866"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "39.494106"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-05",
+      "poll_avg": ".87382644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "22.370689"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "39.504841"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-04",
+      "poll_avg": ".86970133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "22.355721"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "39.490147"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-03",
+      "poll_avg": ".88792092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "22.351494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "39.509418"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-02",
+      "poll_avg": ".88782215"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "22.327986"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "39.489864"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-11-01",
+      "poll_avg": ".89476848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "22.259203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "39.367477"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".82238686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "22.261396"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "39.371536"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".82293677"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "22.261396"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "39.371536"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".82293677"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "22.256496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "39.376743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".82182431"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "22.256496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "39.376743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".82182431"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "22.25691"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "39.370995"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".82093185"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "22.242908"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "39.364456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".82807684"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "22.241045"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "39.388382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-24",
+      "poll_avg": ".8532427"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "22.282059"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "39.320389"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "4.2164664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".833179"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "22.338186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "39.330181"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "4.2164664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".83772385"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "22.327818"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "39.380127"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "4.2245016"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".83965462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "22.327818"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "39.380127"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.1297038"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "4.2245016"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".83965462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "22.375055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "39.461712"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.1453254"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "4.2016182"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".82313997"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "22.366432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "39.440514"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.151929"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "4.2141619"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".83996928"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "22.356604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "39.450638"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.1019117"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "4.2414222"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".84946811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "22.671631"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "39.453186"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "4.2410021"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".84022266"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "22.671631"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "39.453186"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "4.2410021"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".84022266"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "22.665379"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "39.462887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.0922617"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "4.2359562"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".83597243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "22.665379"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "39.462887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.0922617"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "4.2359562"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".83597243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "22.665379"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "39.462887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.0922617"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "4.2359562"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".83597249"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "22.654446"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "39.457413"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.0962307"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "4.2297006"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".83241856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "22.666082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "39.45607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.0851403"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "4.2517762"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".83262557"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "22.643536"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "39.472359"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.0986217"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "4.2660046"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".85818446"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "22.643536"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "39.472359"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.0986217"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "4.2660046"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".85818446"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "22.572855"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "39.584496"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "4.2996426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".85246933"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "22.572855"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "39.584496"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "4.2996426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".85246933"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "22.571451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "39.583836"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.1125208"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "4.3023419"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".85119975"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "22.616449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "39.584778"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.1189191"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "4.3128257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".87613201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "22.598431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "39.429371"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "4.2804708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".85508853"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "22.598431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "39.429371"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "4.2804708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".85508853"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "22.598431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "39.429371"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "4.2804708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".85508853"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "22.586788"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "39.414738"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.0898703"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "4.2733593"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".85054398"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "22.554026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "39.411488"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.0979433"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "4.2763577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".8517347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "22.550207"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "39.408703"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.0977288"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "4.275167"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".84948558"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "22.412424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "39.403908"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.0937067"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "4.2732878"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".85409105"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "22.442211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "39.313816"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "4.2593169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".82596856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "22.442211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "39.313816"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "4.2593169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".82596856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "22.442211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "39.313816"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "4.2593169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".82596856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "22.444977"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "39.286236"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.0684863"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "4.2593169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".82391155"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "22.435598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "39.2924"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.0731937"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "4.2681055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".81848776"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "22.430582"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "39.291737"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.0707639"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "4.2681055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".8174153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "22.379051"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "39.269657"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.1160406"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "4.3077674"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".85973132"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "22.39962"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "39.226852"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.1350468"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "4.3151393"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".83203024"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "22.447475"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "39.307621"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.1340293"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "4.3151393"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".8293848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "22.773972"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "43.889645"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.1410354"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "4.3226366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".83297956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "22.75456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "43.91507"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.1410354"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "4.3226366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".83297962"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "22.75456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "43.91507"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.1410354"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "4.3226366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".83297956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "22.749142"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "43.915474"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.1425612"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "4.322587"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".83344674"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "25.482523"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "56.564133"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.1462616"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "4.3155994"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".03482686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "25.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "56.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.1441987"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "4.3020873"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".024908729"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "25.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "56.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.1441987"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "4.3020873"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".024908729"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "25.49262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "56.570419"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.1379246"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "4.3090167"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".024173252"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "25.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "56.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.1598957"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "4.2677054"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".034697376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "25.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "56.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.1598957"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "4.2677054"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".034697376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "25.239511"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "56.710049"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.1546438"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "4.2677054"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".013230629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "25.230892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "56.714558"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.1571276"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "4.2659359"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".015607946"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "56.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "4.2574077"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".0094877258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "56.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "4.2574077"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".0094877258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "56.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "4.2574077"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".0094877258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "56.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "4.2574077"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".0094877258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "25.192644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "56.716507"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.1675286"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "4.2109985"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".028077126"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "25.227652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "56.717518"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.1520516"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "4.2137465"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".016686141"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "25.248049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "56.726612"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.1615233"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "4.2134433"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".014410377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "56.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "4.1347327"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".065515138"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "56.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "4.1347327"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".065515138"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "56.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "4.1347327"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".065515138"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "25.172401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "56.774643"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.1719733"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "4.1063523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".050394036"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "25.02948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "56.863583"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.1570748"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "4.0867796"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".024448246"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "25.023266"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "56.88773"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.1628712"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "4.093226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".026899412"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "25.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "56.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "4.1030865"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".08554779"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "25.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "56.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "4.1030865"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".08554779"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "56.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.2552973"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "4.0997663"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".078323856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "56.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.2552973"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "4.0997663"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".078323856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "56.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.2552973"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "4.0997663"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".078323856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "56.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.2552973"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "4.0997663"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".078323856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "25.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "56.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.263345"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "4.1169105"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".075993396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "25.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "56.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.263345"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "4.1169105"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".075993396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "56.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".063251644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "56.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".063251644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "56.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".063251644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "24.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "56.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.2645227"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".06606701"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "24.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "56.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.2645227"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".06606701"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "24.758535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "56.864368"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.3014793"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".16499008"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "24.745066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "56.879047"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.304175"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.1285744"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".16730036"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "24.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "56.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".19018587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "24.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "56.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".19018587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "24.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "56.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".19018587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "24.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "56.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".19018587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "24.755156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "56.850361"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.3133947"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".19063818"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "24.75713"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "56.859749"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.3134683"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "4.0411081"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".19209972"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "24.764698"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "56.861412"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.3143553"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "4.052515"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".1889085"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "24.783831"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "56.856239"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.3282969"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "4.0428247"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".18474393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "24.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "56.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.3583248"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "4.0575275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".19136503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "24.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "56.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.3583248"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "4.0575275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".19136503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "24.796505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "56.841557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.3588916"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "4.0560374"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".18281566"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "24.81986"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "56.808041"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.3508621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "4.0527201"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".17866254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "24.768333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "56.866905"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.3698622"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "4.0721006"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".18835106"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "24.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "56.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.3789704"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".18118159"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "24.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "56.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.3789704"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".18118159"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "24.757233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "56.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.3892752"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".18080929"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "24.757233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "56.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.3892752"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".18080929"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "24.750254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "56.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.3996937"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "4.0806527"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".20220673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "24.750254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "56.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.3996937"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "4.0806527"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".20220673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "24.90032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "56.788342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.5140643"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "4.105113"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".20502852"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "24.887716"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "56.777222"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.5009671"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "4.1064339"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".19791685"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "24.888077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "56.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".19348912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "24.888077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "56.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".19348912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "24.888077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "56.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".19348912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "24.888077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "56.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".19348912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "25.008101"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "56.682247"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.5254191"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "4.1316013"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".20470418"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "25.002367"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "56.683624"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.5310059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "4.1304703"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".20646934"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "25.001482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "56.682426"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.5279498"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "4.1289897"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".20607996"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "24.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "56.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.5406578"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".21933436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "25.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "56.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.5733351"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".2146834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Michigan",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "25.106112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Michigan",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "56.776077"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Michigan",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.5905042"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Michigan",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "4.1411443"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Michigan",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".22262099"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50128",
+      "population": "lv",
+      "pollId": "36548",
+      "cycle": "2016",
+      "sampleSize": "475",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-03-06",
+      "endDate": "2016-03-06",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/Mitchell-FOX2DetroitMIPollDEM3616.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457347200,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "66.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.0"
+        }
+      ],
+      "weight": ".815905749797821"
+    },
+    {
+      "id": "50134",
+      "population": "lv",
+      "pollId": "36551",
+      "cycle": "2016",
+      "sampleSize": "302",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "320",
+      "pollster": "Monmouth University",
+      "startDate": "2016-03-03",
+      "endDate": "2016-03-06",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.monmouth.edu/assets/0/32212254770/32212254991/32212254992/32212254994/32212254995/30064771087/23a456ac-d673-4189-9742-1f060ec2d926.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457350740,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "55.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "42.0"
+        }
+      ],
+      "weight": ".6591410040855408"
+    },
+    {
+      "id": "50115",
+      "population": "lv",
+      "pollId": "36542",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "23",
+      "pollster": "American Research Group",
+      "startDate": "2016-03-04",
+      "endDate": "2016-03-05",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://americanresearchgroup.com/pres2016/primary/dem/midem.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457200440,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "36.0"
+        }
+      ],
+      "weight": ".4802286028862"
+    },
+    {
+      "id": "50122",
+      "population": "lv",
+      "pollId": "36544",
+      "cycle": "2016",
+      "sampleSize": "597",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-03-02",
+      "endDate": "2016-03-04",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "http://www.cbsnews.com/news/poll-donald-trump-hillary-clinton-lead-in-michigan/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457262540,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "55.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".4968989789485931"
+    },
+    {
+      "id": "50151",
+      "population": "lv",
+      "pollId": "36561",
+      "cycle": "2016",
+      "sampleSize": "616",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-03-02",
+      "endDate": "2016-03-03",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.fox2detroit.com/news/elections-2016/100613349-story",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457451180,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "55.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "37.0"
+        }
+      ],
+      "weight": ".1010840982198715"
+    },
+    {
+      "id": "50117",
+      "population": "lv",
+      "pollId": "36543",
+      "cycle": "2016",
+      "sampleSize": "546",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-03-01",
+      "endDate": "2016-03-03",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.nbcnews.com/politics/2016-election/donald-trump-hillary-clinton-hold-big-leads-michigan-poll-n532576",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457233140,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".4968645572662354"
+    },
+    {
+      "id": "50132",
+      "population": "lv",
+      "pollId": "36550",
+      "cycle": "2016",
+      "sampleSize": "262",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "306",
+      "pollster": "Michigan State University",
+      "startDate": "2016-01-25",
+      "endDate": "2016-03-03",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://ippsr.msu.edu/presidential.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457348340,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "51.9"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "46.9"
+        }
+      ],
+      "weight": ".0348094040339788"
+    },
+    {
+      "id": "50084",
+      "population": "lv",
+      "pollId": "36527",
+      "cycle": "2016",
+      "sampleSize": "427",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-03-01",
+      "endDate": "2016-03-01",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/Mitchell-FOX_2_Detroit_MI_Poll_DEM_3-2-16.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457000580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "33.0"
+        }
+      ],
+      "weight": ".0208768807351589"
+    },
+    {
+      "id": "50124",
+      "population": "lv",
+      "pollId": "36546",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "143",
+      "pollster": "EPIC-MRA",
+      "startDate": "2016-02-29",
+      "endDate": "2016-03-01",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.freep.com/story/news/politics/2016/03/05/clinton-has-big-lead-sanders-michigan/81270490/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457262600,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        }
+      ],
+      "weight": ".1782202273607254"
+    },
+    {
+      "id": "50027",
+      "population": "lv",
+      "pollId": "36494",
+      "cycle": "2016",
+      "sampleSize": "218",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "326",
+      "pollster": "Marketing Resource Group (MRG)",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-27",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/MRG_MI_Poll_Spring_16_Pres_Prim-FINAL.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456746840,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "36.0"
+        }
+      ],
+      "weight": ".036458894610405"
+    },
+    {
+      "id": "50089",
+      "population": "lv",
+      "pollId": "36473",
+      "cycle": "2016",
+      "sampleSize": "344",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-02-23",
+      "endDate": "2016-02-23",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/FEBMitchellFOX2DetroitMIPollDEMPrimary.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457019420,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "65.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        }
+      ],
+      "weight": ".0018684533424675"
+    },
+    {
+      "id": "49452",
+      "population": "lv",
+      "pollId": "36405",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "23",
+      "pollster": "American Research Group",
+      "startDate": "2016-02-19",
+      "endDate": "2016-02-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://americanresearchgroup.com/pres2016/primary/dem/midem.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455995220,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "53.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0037084086798131"
+    },
+    {
+      "id": "49366",
+      "population": "lv",
+      "pollId": "36360",
+      "cycle": "2016",
+      "sampleSize": "500",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0070580751635134"
+    },
+    {
+      "id": "49449",
+      "population": "lv",
+      "pollId": "36404",
+      "cycle": "2016",
+      "sampleSize": "430",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-02-15",
+      "endDate": "2016-02-15",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/MitchellFOX2DetroitMIPollDEMPrimary.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455910800,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.0"
+        }
+      ],
+      "weight": ".0002193355030613"
+    },
+    {
+      "id": "48965",
+      "population": "lv",
+      "pollId": "36061",
+      "cycle": "2016",
+      "sampleSize": "321",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-02-04",
+      "endDate": "2016-02-04",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/Mitchell-FOX_2_Detroit_MI_Poll_Dem_Primary_PRESS_PACKET_2-8-16_B.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455009780,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "28.0"
+        }
+      ],
+      "weight": "1.30902651563e-06"
+    },
+    {
+      "id": "48938",
+      "population": "lv",
+      "pollId": "36051",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "1166",
+      "pollster": "Target Insyght",
+      "startDate": "2016-02-02",
+      "endDate": "2016-02-04",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://insidemichiganpolitics.com/story/16/02/05/imptarget-insyght-poll-evangelicals-don%E2%80%99t-stop-trump-mi-holds-14-point-lead-gop",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1454865420,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "62.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": ".0000385692146665"
+    },
+    {
+      "id": "48964",
+      "population": "lv",
+      "pollId": "36062",
+      "cycle": "2016",
+      "sampleSize": "344",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2016-01-25",
+      "endDate": "2016-01-25",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.fox2detroit.com/news/local-news/83147628-story#",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455009240,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.0"
+        }
+      ],
+      "weight": "1.54538870589e-08"
+    },
+    {
+      "id": "46900",
+      "population": "lv",
+      "pollId": "34747",
+      "cycle": "2016",
+      "sampleSize": "538",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "317",
+      "pollster": "Mitchell Research & Communications",
+      "startDate": "2015-09-18",
+      "endDate": "2015-09-18",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://mitchellresearch.net/clinton-leads-sanders-by-15",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447069740,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "35.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "28.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "22.0"
+        }
+      ],
+      "weight": "1.43690142984e-22"
+    },
+    {
+      "id": "46924",
+      "population": "lv",
+      "pollId": "35330",
+      "cycle": "2016",
+      "sampleSize": "600",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "326",
+      "pollster": "Marketing Resource Group (MRG)",
+      "startDate": "2015-09-09",
+      "endDate": "2015-09-14",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://mrgmi.com/2015/09/hillary-up-19-over-biden-and-sanders/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447070100,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "41.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "22.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "22.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "5.16402989816e-22"
+    },
+    {
+      "id": "42674",
+      "population": "lv",
+      "pollId": "34594",
+      "cycle": "2016",
+      "sampleSize": "431",
+      "state": "MI",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2015-06-25",
+      "endDate": "2015-06-28",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_MI_6302015.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445276280,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "1.86611119978e-30"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "2.4003938e-10",
+          "6.1708763e-09",
+          "2.8868492e-08",
+          "7.0021223e-08",
+          "1.2269261e-07",
+          "1.7796792e-07",
+          "2.2853924e-07",
+          "2.6974394e-07",
+          "2.9938505e-07",
+          "3.1712855e-07",
+          "3.2386399e-07",
+          "3.2116480e-07",
+          "3.1089303e-07",
+          "2.9493268e-07",
+          "2.7502642e-07",
+          "2.5269026e-07",
+          "2.2918050e-07",
+          "2.0548970e-07",
+          "1.8236987e-07",
+          "1.6036157e-07",
+          "1.3982502e-07",
+          "1.2097755e-07",
+          "1.0392124e-07",
+          "8.8672621e-08",
+          "7.5185710e-08",
+          "6.3370038e-08",
+          "5.3108064e-08",
+          "4.4265150e-08",
+          "3.6700925e-08",
+          "3.0274386e-08",
+          "2.4849063e-08",
+          "2.0296941e-08",
+          "1.6499554e-08",
+          "1.3349265e-08",
+          "1.0749993e-08",
+          "8.6165821e-09",
+          "6.8744463e-09",
+          "5.4590568e-09",
+          "4.3148360e-09",
+          "3.3944101e-09",
+          "2.6576252e-09",
+          "2.0707687e-09",
+          "1.6056944e-09",
+          "1.2402500e-09",
+          "9.7795960e-10",
+          "1.1405381e-09",
+          "5.8420579e-09",
+          "5.6849981e-08",
+          "5.0446414e-07",
+          "3.7796715e-06",
+          ".000023813225",
+          ".00012624526",
+          ".00056355144",
+          ".0021188525",
+          ".0067088339",
+          ".017878691",
+          ".040061943",
+          ".075371601",
+          ".1188319",
+          ".15662827",
+          ".17208715",
+          ".15706465",
+          ".11860685",
+          ".073760621",
+          ".037576232",
+          ".015586542",
+          ".005228187",
+          ".0014072387",
+          ".00030130771",
+          ".000050818075",
+          "6.6772586e-06",
+          "6.7508097e-07",
+          "5.1785126e-08",
+          "2.9669187e-09",
+          "1.2471765e-10",
+          "3.7743983e-12",
+          "8.3106102e-14",
+          "2.9228740e-15",
+          "8.8941530e-16",
+          "4.5160837e-16",
+          "2.2213841e-16",
+          "1.0550572e-16",
+          "4.8203186e-17",
+          "2.1090684e-17",
+          "8.7910423e-18",
+          "3.4689602e-18",
+          "1.2860642e-18",
+          "4.4373623e-19",
+          "1.4093855e-19",
+          "4.0740047e-20",
+          "1.0460283e-20",
+          "2.2021648e-21",
+          "5.5054120e-22",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "3.4321229e-12",
+          "2.0495885e-11",
+          "4.2629435e-11",
+          "6.2951609e-11",
+          "7.9266434e-11",
+          "9.1210192e-11",
+          "9.9125874e-11",
+          "1.0359863e-10",
+          "1.0525771e-10",
+          "1.0469194e-10",
+          "1.0241923e-10",
+          "9.8878128e-11",
+          "9.4431539e-11",
+          "8.9374466e-11",
+          "8.3942832e-11",
+          "7.8322848e-11",
+          "7.2659594e-11",
+          "6.7063195e-11",
+          "6.1616261e-11",
+          "5.6378974e-11",
+          "5.1392755e-11",
+          "4.6685204e-11",
+          "4.2271943e-11",
+          "3.8159934e-11",
+          "3.4349402e-11",
+          "3.0834984e-11",
+          "2.7607886e-11",
+          "2.4656013e-11",
+          "2.1965896e-11",
+          "1.9522559e-11",
+          "1.7310205e-11",
+          "1.5313124e-11",
+          "1.3515479e-11",
+          "1.1901646e-11",
+          "1.0456752e-11",
+          "9.1664072e-12",
+          "8.0168875e-12",
+          "6.9954099e-12",
+          "6.0898903e-12",
+          "5.2891129e-12",
+          "4.5826181e-12",
+          "3.9608438e-12",
+          "3.4150124e-12",
+          "2.9395945e-12",
+          "2.6093149e-12",
+          "4.5120691e-12",
+          "5.1844556e-11",
+          "8.6641155e-10",
+          "1.2230083e-08",
+          "1.4170298e-07",
+          "1.3481593e-06",
+          ".000010545932",
+          ".000067890127",
+          ".00035983531",
+          ".0015701823",
+          ".0056380564",
+          ".016641932",
+          ".040319648",
+          ".080017589",
+          ".12974574",
+          ".17134129",
+          ".18359773",
+          ".15892513",
+          ".11056582",
+          ".061462134",
+          ".027117716",
+          ".0094244787",
+          ".0025580348",
+          ".00053702458",
+          ".000086254899",
+          ".000010469815",
+          "9.4721196e-07",
+          "6.2880765e-08",
+          "3.0095979e-09",
+          "1.0180305e-10",
+          "2.3818352e-12",
+          "3.9568744e-14",
+          "1.7789303e-15",
+          "1.0085028e-15",
+          "6.9242222e-16",
+          "4.6724783e-16",
+          "3.0933490e-16",
+          "2.0050012e-16",
+          "1.2692492e-16",
+          "7.8248328e-17",
+          "4.6815862e-17",
+          "2.7070450e-17",
+          "1.5050634e-17",
+          "7.9947023e-18",
+          "4.0246820e-18",
+          "1.9002582e-18",
+          "8.2992416e-19",
+          "3.2903435e-19",
+          "1.1531094e-19",
+          "3.4345996e-20",
+          "8.1765875e-21",
+          "1.4025719e-21",
+          "1.4273180e-22",
+          "5.5236762e-24",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "1.9239421e-06",
+          ".000024219091",
+          ".000068782057",
+          ".00011434274",
+          ".00014781141",
+          ".00016595174",
+          ".00017057231",
+          ".00016517105",
+          ".00015327724",
+          ".00013780488",
+          ".0001209097",
+          ".0001040572",
+          ".000088162255",
+          ".000073732939",
+          ".000060994076",
+          ".000049984377",
+          ".000040628089",
+          ".000032784821",
+          ".000026284479",
+          ".000020949219",
+          ".000016606733",
+          ".000013098413",
+          ".000010282627",
+          "8.0361633e-06",
+          "6.2537579e-06",
+          "4.8468000e-06",
+          "3.7438294e-06",
+          "2.9219539e-06",
+          "2.8003321e-06",
+          "7.6542392e-06",
+          ".000047260273",
+          ".00027670825",
+          ".0013030446",
+          ".0048926524",
+          ".014745037",
+          ".035933502",
+          ".071294889",
+          ".11586524",
+          ".15505844",
+          ".17167522",
+          ".15788364",
+          ".1210288",
+          ".077558137",
+          ".041647881",
+          ".018776849",
+          ".00711782",
+          ".0022709037",
+          ".00061014236",
+          ".00013807313",
+          ".000026310463",
+          "4.2198699e-06",
+          "5.6984618e-07",
+          "6.5313131e-08",
+          "6.8019088e-09",
+          "9.6625419e-10",
+          "3.5749703e-10",
+          "2.1901027e-10",
+          "1.4386069e-10",
+          "9.4373051e-11",
+          "6.1408531e-11",
+          "3.9599823e-11",
+          "2.5295377e-11",
+          "1.5997599e-11",
+          "1.0011597e-11",
+          "6.1963633e-12",
+          "3.7904094e-12",
+          "2.2900711e-12",
+          "1.3655662e-12",
+          "8.0301385e-13",
+          "4.6525967e-13",
+          "2.6534322e-13",
+          "1.4879780e-13",
+          "8.1948500e-14",
+          "4.4266708e-14",
+          "2.3419090e-14",
+          "1.2114592e-14",
+          "6.1165342e-15",
+          "3.0077257e-15",
+          "1.4370540e-15",
+          "6.6563242e-16",
+          "2.9772372e-16",
+          "1.2809281e-16",
+          "5.2996866e-17",
+          "2.0871352e-17",
+          "7.7756020e-18",
+          "2.8646954e-18",
+          "8.1848441e-19",
+          "4.0924221e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000042243319",
+          ".00015300496",
+          ".00022723193",
+          ".0002626676",
+          ".00027231112",
+          ".00026628893",
+          ".0002513451",
+          ".00023179316",
+          ".0002103391",
+          ".00018864489",
+          ".00016770078",
+          ".0001480637",
+          ".00013001401",
+          ".00011365698",
+          ".000098988887",
+          ".000085940992",
+          ".000074408177",
+          ".000064266256",
+          ".000055385088",
+          ".000047635724",
+          ".000040894203",
+          ".000035045232",
+          ".000029982437",
+          ".000025609486",
+          ".000021839862",
+          ".000018596178",
+          ".000015812051",
+          ".000013468914",
+          ".000012126523",
+          ".000018138908",
+          ".0000799103",
+          ".00046403342",
+          ".0022329004",
+          ".0083941324",
+          ".024678027",
+          ".057154138",
+          ".10504659",
+          ".15424256",
+          ".18199526",
+          ".17344962",
+          ".13410994",
+          ".084443592",
+          ".043437649",
+          ".018301439",
+          ".0063288985",
+          ".0017992695",
+          ".00042111697",
+          ".000081349426",
+          ".000013122845",
+          "1.9037961e-06",
+          "3.6449592e-07",
+          "1.6474458e-07",
+          "1.2073816e-07",
+          "9.5778084e-08",
+          "7.6317761e-08",
+          "6.0616649e-08",
+          "4.7954586e-08",
+          "3.7778090e-08",
+          "2.9629929e-08",
+          "2.3131696e-08",
+          "1.7970473e-08",
+          "1.3889399e-08",
+          "1.0677176e-08",
+          "8.1611038e-09",
+          "6.2004193e-09",
+          "4.6808379e-09",
+          "3.5098162e-09",
+          "2.6129574e-09",
+          "1.9304962e-09",
+          "1.4147515e-09",
+          "1.0278530e-09",
+          "7.3988626e-10",
+          "5.2733756e-10",
+          "3.7187223e-10",
+          "2.5925340e-10",
+          "1.7851992e-10",
+          "1.2129371e-10",
+          "8.1223306e-11",
+          "5.3536574e-11",
+          "3.4681386e-11",
+          "2.2043870e-11",
+          "1.3720457e-11",
+          "8.3434674e-12",
+          "4.9437715e-12",
+          "2.8453080e-12",
+          "1.5845523e-12",
+          "8.4998003e-13",
+          "4.3671270e-13",
+          "2.1342040e-13",
+          "9.8331865e-14",
+          "4.2230945e-14",
+          "1.6652480e-14",
+          "5.9070892e-15",
+          "1.8313545e-15",
+          "4.7539036e-16",
+          "9.6721210e-17",
+          "1.3817316e-17",
+          "1.1203229e-18",
+          "0",
+          "0"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2434 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "33.321297",
+      "pollonly_winprob": 0.44499999,
+      "pollonly_hi": "42.398201",
+      "pollonly_lo": "32.616615",
+      "pollonly_forecast": "36.088959",
+      "kitchen_winprob": 0.38999998999999996,
+      "kitchen_hi": "40.921082",
+      "kitchen_lo": "29.544277",
+      "kitchen_forecast": "33.906628"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "57.56612",
+      "pollonly_winprob": 99.554998,
+      "pollonly_hi": "67.430199",
+      "pollonly_lo": "57.711014",
+      "pollonly_forecast": "60.485176",
+      "kitchen_winprob": 99.610001,
+      "kitchen_hi": "70.44397",
+      "kitchen_lo": "59.147598",
+      "kitchen_forecast": "62.667507"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "33.322357",
+      "pollonly_winprob": 0.29,
+      "pollonly_hi": "42.072975",
+      "pollonly_lo": "32.942493",
+      "pollonly_forecast": "36.090359",
+      "kitchen_winprob": 0.31999999,
+      "kitchen_hi": "40.748413",
+      "kitchen_lo": "29.923683",
+      "kitchen_forecast": "34.007462"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "57.564098",
+      "pollonly_winprob": 99.71,
+      "pollonly_hi": "67.107681",
+      "pollonly_lo": "58.038666",
+      "pollonly_forecast": "60.483585",
+      "kitchen_winprob": 99.68000099999999,
+      "kitchen_hi": "70.066376",
+      "kitchen_lo": "59.322731",
+      "kitchen_forecast": "62.566486"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "32.21851",
+      "pollonly_winprob": 0.44499999,
+      "pollonly_hi": "41.564331",
+      "pollonly_lo": "30.848587",
+      "pollonly_forecast": "34.791389",
+      "kitchen_winprob": 0.36500001,
+      "kitchen_hi": "39.155708",
+      "kitchen_lo": "26.492783",
+      "kitchen_forecast": "31.585199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "59.245739",
+      "pollonly_winprob": 99.554998,
+      "pollonly_hi": "69.227219",
+      "pollonly_lo": "58.69088",
+      "pollonly_forecast": "61.949345",
+      "kitchen_winprob": 99.63499900000001,
+      "kitchen_hi": "73.448105",
+      "kitchen_lo": "60.958153",
+      "kitchen_forecast": "65.15554"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "32.929287",
+      "pollonly_winprob": 4.2649999,
+      "pollonly_hi": "45.870064",
+      "pollonly_lo": "29.091839",
+      "pollonly_forecast": "35.958099",
+      "kitchen_winprob": 2.0099999,
+      "kitchen_hi": "41.706718",
+      "kitchen_lo": "23.498539",
+      "kitchen_forecast": "31.191217"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "57.887169",
+      "pollonly_winprob": 95.73500200000001,
+      "pollonly_hi": "70.874329",
+      "pollonly_lo": "54.535202",
+      "pollonly_forecast": "60.881718",
+      "kitchen_winprob": 97.99,
+      "kitchen_hi": "76.356911",
+      "kitchen_lo": "58.614552",
+      "kitchen_forecast": "65.648598"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "32.929287",
+      "pollonly_winprob": 3.92,
+      "pollonly_hi": "45.720512",
+      "pollonly_lo": "29.333019",
+      "pollonly_forecast": "35.958099",
+      "kitchen_winprob": 1.7999999,
+      "kitchen_hi": "41.609615",
+      "kitchen_lo": "23.648766",
+      "kitchen_forecast": "31.184309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "57.887169",
+      "pollonly_winprob": 96.079999,
+      "pollonly_hi": "70.668808",
+      "pollonly_lo": "54.737888",
+      "pollonly_forecast": "60.881718",
+      "kitchen_winprob": 98.199999,
+      "kitchen_hi": "76.211502",
+      "kitchen_lo": "58.758675",
+      "kitchen_forecast": "65.65551"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "32.913582",
+      "pollonly_winprob": 3.6899999,
+      "pollonly_hi": "45.481766",
+      "pollonly_lo": "29.531797",
+      "pollonly_forecast": "35.944016",
+      "kitchen_winprob": 1.7200001,
+      "kitchen_hi": "41.390594",
+      "kitchen_lo": "23.743351",
+      "kitchen_forecast": "31.140863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "57.897953",
+      "pollonly_winprob": 96.310002,
+      "pollonly_hi": "70.491821",
+      "pollonly_lo": "54.971291",
+      "pollonly_forecast": "60.894882",
+      "kitchen_winprob": 98.280001,
+      "kitchen_hi": "76.128815",
+      "kitchen_lo": "58.959793",
+      "kitchen_forecast": "65.698036"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "33.008411",
+      "pollonly_winprob": 3.39,
+      "pollonly_hi": "45.343342",
+      "pollonly_lo": "29.840101",
+      "pollonly_forecast": "36.026829",
+      "kitchen_winprob": 1.595,
+      "kitchen_hi": "41.342884",
+      "kitchen_lo": "23.648857",
+      "kitchen_forecast": "30.981855"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "57.839474",
+      "pollonly_winprob": 96.60999799999999,
+      "pollonly_hi": "70.216911",
+      "pollonly_lo": "55.111435",
+      "pollonly_forecast": "60.818863",
+      "kitchen_winprob": 98.404998,
+      "kitchen_hi": "76.218307",
+      "kitchen_lo": "59.213387",
+      "kitchen_forecast": "65.863831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "32.990696",
+      "pollonly_winprob": 3.1649998999999998,
+      "pollonly_hi": "45.106411",
+      "pollonly_lo": "30.016335",
+      "pollonly_forecast": "36.009956",
+      "kitchen_winprob": 1.5599999999999998,
+      "kitchen_hi": "41.468006",
+      "kitchen_lo": "24.384594",
+      "kitchen_forecast": "31.433056"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "57.854324",
+      "pollonly_winprob": 96.834999,
+      "pollonly_hi": "70.024673",
+      "pollonly_lo": "55.33149",
+      "pollonly_forecast": "60.835194",
+      "kitchen_winprob": 98.439997,
+      "kitchen_hi": "75.494522",
+      "kitchen_lo": "59.043243",
+      "kitchen_forecast": "65.412094"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "32.965885",
+      "pollonly_winprob": 2.9200000999999998,
+      "pollonly_hi": "44.850693",
+      "pollonly_lo": "30.190636",
+      "pollonly_forecast": "35.986328",
+      "kitchen_winprob": 1.465,
+      "kitchen_hi": "41.235535",
+      "kitchen_lo": "24.486023",
+      "kitchen_forecast": "31.41115"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "57.874886",
+      "pollonly_winprob": 97.079998,
+      "pollonly_hi": "69.858887",
+      "pollonly_lo": "55.573837",
+      "pollonly_forecast": "60.858032",
+      "kitchen_winprob": 98.535001,
+      "kitchen_hi": "75.380737",
+      "kitchen_lo": "59.232132",
+      "kitchen_forecast": "65.433205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "33.109875",
+      "pollonly_winprob": 2.62,
+      "pollonly_hi": "44.730343",
+      "pollonly_lo": "30.491129",
+      "pollonly_forecast": "36.05817",
+      "kitchen_winprob": 1.415,
+      "kitchen_hi": "41.20401",
+      "kitchen_lo": "24.729759",
+      "kitchen_forecast": "31.4944"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "57.930607",
+      "pollonly_winprob": 97.38,
+      "pollonly_hi": "69.605057",
+      "pollonly_lo": "55.736176",
+      "pollonly_forecast": "60.823284",
+      "kitchen_winprob": 98.584998,
+      "kitchen_hi": "75.17131",
+      "kitchen_lo": "59.330128",
+      "kitchen_forecast": "65.387054"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "33.109875",
+      "pollonly_winprob": 2.4250001,
+      "pollonly_hi": "44.500061",
+      "pollonly_lo": "30.661615",
+      "pollonly_forecast": "36.05817",
+      "kitchen_winprob": 1.325,
+      "kitchen_hi": "41.050224",
+      "kitchen_lo": "24.868843",
+      "kitchen_forecast": "31.4944"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "57.930607",
+      "pollonly_winprob": 97.57500300000001,
+      "pollonly_hi": "69.392258",
+      "pollonly_lo": "55.940655",
+      "pollonly_forecast": "60.823284",
+      "kitchen_winprob": 98.675001,
+      "kitchen_hi": "75.035583",
+      "kitchen_lo": "59.496132",
+      "kitchen_forecast": "65.387054"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "33.099754",
+      "pollonly_winprob": 2.1999999999999997,
+      "pollonly_hi": "44.292725",
+      "pollonly_lo": "30.887772",
+      "pollonly_forecast": "36.054756",
+      "kitchen_winprob": 1.13,
+      "kitchen_hi": "40.842476",
+      "kitchen_lo": "25.33482",
+      "kitchen_forecast": "31.745245"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "57.92223",
+      "pollonly_winprob": 97.799999,
+      "pollonly_hi": "69.205276",
+      "pollonly_lo": "56.161713",
+      "pollonly_forecast": "60.823273",
+      "kitchen_winprob": 98.869997,
+      "kitchen_hi": "74.557938",
+      "kitchen_lo": "59.465004",
+      "kitchen_forecast": "65.132782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "33.330151",
+      "pollonly_winprob": 2.005,
+      "pollonly_hi": "44.221931",
+      "pollonly_lo": "31.281544",
+      "pollonly_forecast": "36.234768",
+      "kitchen_winprob": 1.04,
+      "kitchen_hi": "40.336948",
+      "kitchen_lo": "24.684196",
+      "kitchen_forecast": "31.159788"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "57.835789",
+      "pollonly_winprob": 97.995001,
+      "pollonly_hi": "68.818924",
+      "pollonly_lo": "56.200218",
+      "pollonly_forecast": "60.6698",
+      "kitchen_winprob": 98.96000000000001,
+      "kitchen_hi": "75.223694",
+      "kitchen_lo": "59.986153",
+      "kitchen_forecast": "65.744781"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "33.580208",
+      "pollonly_winprob": 1.95,
+      "pollonly_hi": "44.112766",
+      "pollonly_lo": "31.606281",
+      "pollonly_forecast": "36.372528",
+      "kitchen_winprob": 0.9999999799999999,
+      "kitchen_hi": "40.320354",
+      "kitchen_lo": "25.023073",
+      "kitchen_forecast": "31.36659"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "57.894974",
+      "pollonly_winprob": 98.049998,
+      "pollonly_hi": "68.499557",
+      "pollonly_lo": "56.304924",
+      "pollonly_forecast": "60.588425",
+      "kitchen_winprob": 99.000001,
+      "kitchen_hi": "74.87941",
+      "kitchen_lo": "59.982758",
+      "kitchen_forecast": "65.594368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "27.487106"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "46.399094"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "27.4844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "46.390034"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "27.481731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "46.395576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "27.476982"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "46.397003"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "27.478323"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "46.393383"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "27.479622"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "46.391838"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "27.486416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "46.389568"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "27.488737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "46.38208"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "27.485554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "46.376564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "27.469858"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "46.401844"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "27.460899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "46.427338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "27.467262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "46.426231"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "27.46365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "46.427269"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "27.475864"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "46.440819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "27.472834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "46.444031"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "27.469177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "46.439037"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "2.6982477"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "27.457626"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "46.450111"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "2.7000842"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "27.453287"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "46.459885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "2.6999047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "27.455023"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "46.473698"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "2.706409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "27.425392"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "46.481743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "2.6938748"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "27.46607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "46.465511"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "2.7066131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "27.458763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "46.486916"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "2.7403288"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "27.460117"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "46.491005"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "2.7327292"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "27.49085"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "46.076698"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "2.7620356"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "27.49518"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "46.068859"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "2.7619007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "27.495417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "46.07431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "2.7608187"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "27.502764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "46.090042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "2.7629936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "27.515903"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "46.100426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "2.7618165"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "27.497936"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "46.180866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "2.7640293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "27.897177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "47.982128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.0160725"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "27.898956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "47.957687"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.0169282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "27.896532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "47.951336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.0179355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "27.896532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "47.951336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.0179355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "27.905815"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "47.947571"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.0153456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "27.920425"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "47.957344"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.0193913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "27.918007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "47.970062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.0227845"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "27.930262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "47.965397"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.0313566"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "27.950113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "47.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "27.950113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "47.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "27.950113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "47.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "27.950113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "47.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "27.944633"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "47.933094"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.0337644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "27.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "47.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "27.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "47.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "27.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "47.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "27.921394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "47.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "27.924198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "47.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "27.924198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "47.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "27.924198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "47.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "27.924198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "47.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "27.924198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "47.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "27.937042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "47.929756"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.0295322"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "27.935871"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "47.928738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.0388386"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "27.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "47.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "27.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "47.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "27.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "47.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "27.939236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "47.951546"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.0407023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "27.939236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "47.951546"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.0407023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "27.942684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "47.949776"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.0406196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "27.942684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "47.949776"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.0406196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "27.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "47.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "27.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "47.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "27.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "47.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "27.921732"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "47.967258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.0225642"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "27.910149"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "47.964436"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "3.0242703"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "27.908682"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "47.958603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "3.0255413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "27.901834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "47.968124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "3.0432279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "27.921579"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "47.929272"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "3.0555279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "27.921579"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "47.929272"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "3.0555279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "27.926273"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "47.934937"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "3.0580602"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "27.917061"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "47.94059"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "3.0549185"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "27.928104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "47.941128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "3.0462492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "27.928043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "47.937206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "3.0469646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "3.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "27.926483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "47.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Tennessee",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "3.0505576"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50057",
+      "population": "rv",
+      "pollId": "36512",
+      "cycle": "2016",
+      "sampleSize": "533",
+      "state": "TN",
+      "officeType": "U.S. President",
+      "pollsterId": "1193",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-29",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "https://www.surveymonkey.com/blog/2016/02/29/trumps-lead-looks-solid-in-run-up-to-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456784580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "54.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "37.0"
+        }
+      ],
+      "weight": ".3692951798439026"
+    },
+    {
+      "id": "50008",
+      "population": "lv",
+      "pollId": "36486",
+      "cycle": "2016",
+      "sampleSize": "405",
+      "state": "TN",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-25",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.nbcnews.com/meet-the-press/polls-trump-clinton-ahead-super-tuesday-states-n527256",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456655040,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        }
+      ],
+      "weight": ".4518819749355316"
+    },
+    {
+      "id": "49369",
+      "population": "lv",
+      "pollId": "36363",
+      "cycle": "2016",
+      "sampleSize": "500",
+      "state": "TN",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "32.0"
+        }
+      ],
+      "weight": ".0681270137429237"
+    },
+    {
+      "id": "49389",
+      "population": "rv",
+      "pollId": "36376",
+      "cycle": "2016",
+      "sampleSize": "135",
+      "state": "TN",
+      "officeType": "U.S. President",
+      "pollsterId": "1037",
+      "pollster": "MTSU",
+      "startDate": "2016-01-15",
+      "endDate": "2016-01-20",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.tennessean.com/story/news/politics/2016/01/28/mtsu-poll-trump-leads-cruz-tennessee-gop-race/79455886/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455729780,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "47.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "15.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        }
+      ],
+      "weight": "1.38249936299e-06"
+    },
+    {
+      "id": "47606",
+      "population": "rv",
+      "pollId": "35464",
+      "cycle": "2016",
+      "sampleSize": "346",
+      "state": "TN",
+      "officeType": "U.S. President",
+      "pollsterId": "390",
+      "pollster": "PSRA",
+      "startDate": "2015-11-11",
+      "endDate": "2015-11-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.vanderbilt.edu/csdi/fall2015pollslidefinalfinal.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1450693860,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "28.0"
+        }
+      ],
+      "weight": "5.16270966949e-12"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "9.4307815e-09",
+          "1.3892431e-07",
+          "4.7949283e-07",
+          "9.6772953e-07",
+          "1.5051302e-06",
+          "2.0143259e-06",
+          "2.4477379e-06",
+          "2.7825079e-06",
+          "3.0130950e-06",
+          "3.1448044e-06",
+          "3.1890038e-06",
+          "3.1597933e-06",
+          "3.0718811e-06",
+          "2.9392886e-06",
+          "2.7746330e-06",
+          "2.5888121e-06",
+          "2.3909340e-06",
+          "2.1883498e-06",
+          "1.9868410e-06",
+          "1.7908045e-06",
+          "1.6034271e-06",
+          "1.4269243e-06",
+          "1.2626843e-06",
+          "1.1114573e-06",
+          "9.7349186e-07",
+          "8.4864223e-07",
+          "7.3649221e-07",
+          "6.3641153e-07",
+          "5.4765167e-07",
+          "4.6937672e-07",
+          "4.0070984e-07",
+          "3.4077607e-07",
+          "2.8871276e-07",
+          "2.4368967e-07",
+          "2.0492769e-07",
+          "1.7169894e-07",
+          "1.4333845e-07",
+          "1.1928023e-07",
+          "9.9203454e-08",
+          "8.3724835e-08",
+          "7.7269959e-08",
+          "9.9023097e-08",
+          "2.2111566e-07",
+          "6.9067266e-07",
+          "2.2870438e-06",
+          "7.2782791e-06",
+          ".000021757958",
+          ".000060835067",
+          ".00015903953",
+          ".00038894426",
+          ".00089034351",
+          ".0019086394",
+          ".0038329426",
+          ".0072121425",
+          ".012715086",
+          ".021001106",
+          ".032485992",
+          ".047040496",
+          ".063721083",
+          ".080679998",
+          ".095380753",
+          ".10515611",
+          ".10795645",
+          ".10303013",
+          ".091228791",
+          ".074779727",
+          ".056599237",
+          ".039443303",
+          ".025226763",
+          ".014753282",
+          ".0078571998",
+          ".0037930452",
+          ".001651102",
+          ".00064428145",
+          ".00022387052",
+          ".000068748064",
+          ".000018498788",
+          "4.3191781e-06",
+          "8.6532287e-07",
+          "1.4685341e-07",
+          "2.0800858e-08",
+          "2.4169931e-09",
+          "2.2581166e-10",
+          "1.6578778e-11",
+          "9.3806787e-13",
+          "4.3847630e-14",
+          "3.6258609e-15",
+          "1.0774891e-15",
+          "4.3182796e-16",
+          "1.6005041e-16",
+          "5.4037638e-17",
+          "1.6293792e-17",
+          "4.2645330e-18",
+          "9.4025972e-19",
+          "1.5772100e-19",
+          "2.4264768e-20",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.6332642e-10",
+          "1.4317855e-09",
+          "2.8570646e-09",
+          "4.1397845e-09",
+          "5.1693752e-09",
+          "5.9339991e-09",
+          "6.4572965e-09",
+          "6.7741266e-09",
+          "6.9207169e-09",
+          "6.9306179e-09",
+          "6.8333370e-09",
+          "6.6540125e-09",
+          "6.4136656e-09",
+          "6.1296319e-09",
+          "5.8160237e-09",
+          "5.4842264e-09",
+          "5.1433466e-09",
+          "4.8005209e-09",
+          "4.4613180e-09",
+          "4.1300110e-09",
+          "3.8097494e-09",
+          "3.5028558e-09",
+          "3.2108998e-09",
+          "2.9348968e-09",
+          "2.6754150e-09",
+          "2.4326314e-09",
+          "2.2064721e-09",
+          "1.9966038e-09",
+          "1.8025700e-09",
+          "1.6237713e-09",
+          "1.4595214e-09",
+          "1.3091732e-09",
+          "1.1723950e-09",
+          "1.0506334e-09",
+          "9.5354269e-10",
+          "9.2528746e-10",
+          "1.1454033e-09",
+          "2.2887519e-09",
+          "6.7246027e-09",
+          "2.2251941e-08",
+          "7.2991980e-08",
+          "2.2915674e-07",
+          "6.8332332e-07",
+          "1.9336580e-06",
+          "5.1964830e-06",
+          ".000013275779",
+          ".000032274609",
+          ".000074732168",
+          ".00016494581",
+          ".0003472527",
+          ".00069768773",
+          ".0013383607",
+          ".0024519879",
+          ".0042912806",
+          ".0071747662",
+          ".011459767",
+          ".017483406",
+          ".025470845",
+          ".035420857",
+          ".046994954",
+          ".059446793",
+          ".071639523",
+          ".082169428",
+          ".089602254",
+          ".092772625",
+          ".091069624",
+          ".084613442",
+          ".074266411",
+          ".061444968",
+          ".047802892",
+          ".034873128",
+          ".023781424",
+          ".015106045",
+          ".0089022592",
+          ".0048452374",
+          ".0024230448",
+          ".0011068714",
+          ".00045879601",
+          ".00017123933",
+          ".000057044235",
+          ".000016788945",
+          "4.3139844e-06",
+          "9.5441976e-07",
+          "1.7884777e-07",
+          "2.7838134e-08",
+          "3.5158554e-09",
+          "3.5021361e-10",
+          "2.6572590e-11",
+          "1.4725256e-12",
+          "5.7638424e-14",
+          "2.2409841e-15",
+          "3.7710534e-16",
+          "1.6328699e-16",
+          "6.3210244e-17",
+          "2.1106817e-17",
+          "5.7475983e-18",
+          "1.1605384e-18",
+          "1.4514779e-19",
+          "7.5385137e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          ".000014022196",
+          ".00010197941",
+          ".00021502739",
+          ".00030063826",
+          ".00034861083",
+          ".00036460449",
+          ".00035772994",
+          ".00033629715",
+          ".00030672844",
+          ".00027357644",
+          ".00023987304",
+          ".00020751149",
+          ".00017757798",
+          ".00015060834",
+          ".0001267765",
+          ".00010602973",
+          ".000088181856",
+          ".000072974974",
+          ".00006012341",
+          ".000049348204",
+          ".000040445193",
+          ".000033558525",
+          ".000030260819",
+          ".000037197326",
+          ".000076308803",
+          ".00020857067",
+          ".00057897321",
+          ".0014833804",
+          ".0034377153",
+          ".0071996897",
+          ".013672617",
+          ".023641309",
+          ".0373675",
+          ".054185592",
+          ".072318718",
+          ".089093469",
+          ".10157162",
+          ".10740139",
+          ".10553885",
+          ".096543938",
+          ".082335107",
+          ".065545365",
+          ".048758563",
+          ".033921767",
+          ".022086093",
+          ".013464306",
+          ".0076879025",
+          ".0041120667",
+          ".0020603177",
+          ".00096683041",
+          ".00042478368",
+          ".00017465114",
+          ".000067155517",
+          ".000024130253",
+          "8.0952077e-06",
+          "2.5335867e-06",
+          "7.3949110e-07",
+          "2.0158167e-07",
+          "5.1705474e-08",
+          "1.2817322e-08",
+          "3.3267751e-09",
+          "1.0679134e-09",
+          "4.8353799e-10",
+          "2.8290228e-10",
+          "1.8304758e-10",
+          "1.2114708e-10",
+          "8.0007542e-11",
+          "5.2372461e-11",
+          "3.3911748e-11",
+          "2.1698655e-11",
+          "1.3708599e-11",
+          "8.5437542e-12",
+          "5.2477822e-12",
+          "3.1733696e-12",
+          "1.8869730e-12",
+          "1.1018840e-12",
+          "6.3093736e-13",
+          "3.5366222e-13",
+          "1.9369659e-13",
+          "1.0342699e-13",
+          "5.3711101e-14",
+          "2.7049021e-14",
+          "1.3166510e-14",
+          "6.1701065e-15",
+          "2.7710331e-15",
+          "1.1858928e-15",
+          "4.8082895e-16",
+          "1.8276058e-16",
+          "6.4718207e-17",
+          "2.0965055e-17",
+          "6.3806686e-18",
+          "1.3672861e-18",
+          "4.5576204e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000038506052",
+          ".00011302908",
+          ".00014987058",
+          ".0001615708",
+          ".00015961406",
+          ".00015061861",
+          ".00013831929",
+          ".00012482441",
+          ".0001113141",
+          ".000098428667",
+          ".000086492255",
+          ".000075642114",
+          ".000065906577",
+          ".000057252219",
+          ".000049614249",
+          ".00004292795",
+          ".000037211725",
+          ".000032879656",
+          ".000031813372",
+          ".000040451127",
+          ".000077254495",
+          ".0001878107",
+          ".00047008559",
+          ".0011081132",
+          ".0024039459",
+          ".0047874376",
+          ".0087781996",
+          ".014880917",
+          ".023419911",
+          ".034351226",
+          ".047119483",
+          ".060632639",
+          ".073392883",
+          ".083771765",
+          ".090360574",
+          ".092283867",
+          ".089384645",
+          ".082230479",
+          ".071943268",
+          ".059926115",
+          ".047568172",
+          ".036011346",
+          ".026017569",
+          ".017948121",
+          ".01182685",
+          ".0074461522",
+          ".0044798972",
+          ".0025757055",
+          ".0014150824",
+          ".00074274553",
+          ".00037234885",
+          ".00017821493",
+          ".000081400205",
+          ".000035464218",
+          ".00001473228",
+          "5.8355881e-06",
+          "2.2066652e-06",
+          "7.9991190e-07",
+          "2.8129782e-07",
+          "9.8906966e-08",
+          "3.7113292e-08",
+          "1.6392887e-08",
+          "9.0574748e-09",
+          "5.9952758e-09",
+          "4.3552442e-09",
+          "3.2722889e-09",
+          "2.4765783e-09",
+          "1.8697712e-09",
+          "1.4033721e-09",
+          "1.0457339e-09",
+          "7.7305290e-10",
+          "5.6659194e-10",
+          "4.1145681e-10",
+          "2.9585664e-10",
+          "2.1047919e-10",
+          "1.4802658e-10",
+          "1.0281584e-10",
+          "7.0453837e-11",
+          "4.7571645e-11",
+          "3.1606905e-11",
+          "2.0631228e-11",
+          "1.3206220e-11",
+          "8.2721208e-12",
+          "5.0577220e-12",
+          "3.0096140e-12",
+          "1.7367703e-12",
+          "9.6783811e-13",
+          "5.1810200e-13",
+          "2.6469986e-13",
+          "1.2800928e-13",
+          "5.7978280e-14",
+          "2.4249899e-14",
+          "9.1893698e-15",
+          "3.0708468e-15",
+          "8.6963142e-16",
+          "1.9622024e-16",
+          "3.1729229e-17",
+          "2.9224291e-18",
+          "2.0874493e-19",
+          "0"
+        ]
+      }
+    }
+  ]
+}

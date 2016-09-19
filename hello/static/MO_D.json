@@ -1,0 +1,5268 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "44.966541",
+      "pollonly_winprob": 46.495,
+      "pollonly_hi": "54.62986",
+      "pollonly_lo": "44.68919",
+      "pollonly_forecast": "48.10997",
+      "kitchen_winprob": 45.879999,
+      "kitchen_hi": "54.531395",
+      "kitchen_lo": "44.660774",
+      "kitchen_forecast": "48.046749"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "45.638611",
+      "pollonly_winprob": 53.504996999999996,
+      "pollonly_hi": "55.330147",
+      "pollonly_lo": "45.38237",
+      "pollonly_forecast": "48.783688",
+      "kitchen_winprob": 54.119998,
+      "kitchen_hi": "55.341454",
+      "kitchen_lo": "45.480705",
+      "kitchen_forecast": "48.846916"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "44.969433",
+      "pollonly_winprob": 45.96,
+      "pollonly_hi": "54.27092",
+      "pollonly_lo": "45.052391",
+      "pollonly_forecast": "48.111313",
+      "kitchen_winprob": 45.425000999999995,
+      "kitchen_hi": "54.255394",
+      "kitchen_lo": "44.942364",
+      "kitchen_forecast": "48.048637"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "45.639576",
+      "pollonly_winprob": 54.040003000000006,
+      "pollonly_hi": "54.967251",
+      "pollonly_lo": "45.743965",
+      "pollonly_forecast": "48.783062",
+      "kitchen_winprob": 54.575002,
+      "kitchen_hi": "55.060242",
+      "kitchen_lo": "45.758907",
+      "kitchen_forecast": "48.845737"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "39.21748",
+      "pollonly_winprob": 26.240000000000002,
+      "pollonly_hi": "53.52356",
+      "pollonly_lo": "40.440216",
+      "pollonly_forecast": "44.832779",
+      "kitchen_winprob": 19.48,
+      "kitchen_hi": "52.372734",
+      "kitchen_lo": "39.204948",
+      "kitchen_forecast": "43.679203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "44.815826",
+      "pollonly_winprob": 73.760003,
+      "pollonly_hi": "59.602386",
+      "pollonly_lo": "46.535629",
+      "pollonly_forecast": "50.718758",
+      "kitchen_winprob": 80.519998,
+      "kitchen_hi": "60.808716",
+      "kitchen_lo": "47.690834",
+      "kitchen_forecast": "51.872341"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "39.376217",
+      "pollonly_winprob": 26.144999000000002,
+      "pollonly_hi": "53.302933",
+      "pollonly_lo": "40.868683",
+      "pollonly_forecast": "44.953331",
+      "kitchen_winprob": 19.255,
+      "kitchen_hi": "52.258629",
+      "kitchen_lo": "39.546852",
+      "kitchen_forecast": "43.710526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "44.777981",
+      "pollonly_winprob": 73.855001,
+      "pollonly_hi": "59.172779",
+      "pollonly_lo": "46.748215",
+      "pollonly_forecast": "50.628052",
+      "kitchen_winprob": 80.745,
+      "kitchen_hi": "60.580894",
+      "kitchen_lo": "47.889595",
+      "kitchen_forecast": "51.870857"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "39.368252",
+      "pollonly_winprob": 24.23,
+      "pollonly_hi": "52.972382",
+      "pollonly_lo": "41.178627",
+      "pollonly_forecast": "44.941559",
+      "kitchen_winprob": 17.825,
+      "kitchen_hi": "51.997684",
+      "kitchen_lo": "39.76799",
+      "kitchen_forecast": "43.686207"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "44.794762",
+      "pollonly_winprob": 75.770003,
+      "pollonly_hi": "58.87529",
+      "pollonly_lo": "47.082527",
+      "pollonly_forecast": "50.641983",
+      "kitchen_winprob": 82.174999,
+      "kitchen_hi": "60.374397",
+      "kitchen_lo": "48.156471",
+      "kitchen_forecast": "51.897339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "20.025566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "41.63974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "20.017881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "41.662624"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "20.036812"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "41.675335"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "20.033112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "41.689823"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "20.000481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "41.692184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "20.03557"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "41.693798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "20.033064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "41.692799"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "20.033108"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "41.693054"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "20.028082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "41.687874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "20.13129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "41.673458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "20.153559"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "41.676525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "20.274294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "41.746468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "20.3584"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "41.764458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "20.3584"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "41.764458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "20.340322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "41.773563"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "20.368849"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "41.762119"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "20.348574"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "41.795586"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "20.342886"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "41.805641"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "20.410933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "41.8759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "20.410933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "41.8759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "20.416061"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "41.870975"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "20.502197"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "41.832874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "20.61014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "41.8918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "20.698931"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "41.849689"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "20.694185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "41.838562"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "20.689163"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "41.829815"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "20.684414"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "41.831238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "20.685995"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "41.828197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "20.686646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "41.826088"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "20.694086"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "41.824383"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "20.689419"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "41.818951"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "20.68618"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "41.8134"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "20.670483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "41.83868"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "20.661526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "41.864178"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "20.670906"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "41.860893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "20.659824"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "41.866989"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "20.67046"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "41.88063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "20.667347"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "41.883835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "20.663525"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "41.879139"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "3.3578441"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "20.643129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "41.893032"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "3.3789597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "20.638138"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "41.904015"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "3.3780875"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "20.638632"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "41.920307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "3.4039943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "20.593473"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "41.929989"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "3.4242899"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "20.630505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "41.92062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "3.4426966"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "20.605421"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "41.958664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "3.4855413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "20.603954"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "41.96196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "3.4943905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "20.629814"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "41.527794"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "3.5386105"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "20.63279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "41.519432"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "3.532558"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "20.627354"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "41.522163"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "3.5507348"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "20.637022"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "41.535568"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "3.5504794"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "20.647297"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "41.543831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "3.5575652"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "20.62755"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "41.625881"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "3.5619943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "20.12499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "40.353683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.5717752"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "20.126604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "40.329178"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.5735834"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "20.124441"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "40.32338"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.5771532"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "20.124443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "40.32338"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.5771532"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "20.132257"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "40.320454"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.5792899"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "20.147032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "40.335419"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.6005328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "20.143564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "40.344761"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.6084845"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "20.13607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "40.347176"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.6371696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "20.14723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "40.343388"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.6398196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "20.14723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "40.343388"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.6398196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "20.14723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "40.343388"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.6398196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "20.14723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "40.343388"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.6398196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "20.127539"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "40.330429"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.6465964"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "20.132721"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "40.333656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.6345639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "20.132719"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "40.333656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.6345639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "20.132719"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "40.333656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.6345639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "20.10154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "40.333714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.6430345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "20.104343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "40.33395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.6420143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "20.104343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "40.33395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.6420143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "20.104343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "40.33395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.6420143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "20.104343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "40.33395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.6420143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "20.104343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "40.33395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.6420143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "20.116329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "40.327595"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.649349"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "20.113361"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "40.331562"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.659708"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "20.110453"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "40.331024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.6771696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "20.110453"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "40.331024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.6771696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "20.110453"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "40.331024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.6771696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "20.103056"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "40.352612"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.7761793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "20.103056"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "40.352608"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.7761793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "20.106432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "40.351101"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.7770529"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "20.106432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "40.351101"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.7770529"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "20.088852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "40.360123"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.8094823"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "20.088852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "40.360123"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.8094823"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "20.088852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "40.360123"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.8094823"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "20.074772"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "40.370098"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.8138678"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "20.061678"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "40.368465"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "3.8183358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "20.05765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "40.364891"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "3.824513"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "20.045439"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "40.377377"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "3.866852"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "20.066418"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "40.345577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "3.8682396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "20.066418"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "40.345573"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "3.8682396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "20.069803"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "40.351498"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "3.8747807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "20.06122"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "40.3573"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "3.8771608"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "20.066544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "40.359226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "3.9148653"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "20.066137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "40.355679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "3.9177873"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "20.06385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "40.34676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "3.9243112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "20.061779"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "40.347225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "3.923403"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "20.037989"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "40.355701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "3.925859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "20.037989"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "40.355701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "3.925859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "20.037989"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "40.355701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "3.925859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "20.006382"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "40.384453"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "3.9482243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "20.006382"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "40.384453"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "3.9482243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "19.98773"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "40.401737"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "4.0251985"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "19.986271"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "40.365036"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "4.0433083"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "19.992941"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "40.346554"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "4.0634627"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "19.992941"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "40.346554"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "4.0634627"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "19.99371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "40.34227"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "4.0558014"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "19.99371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "40.34227"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "4.0558014"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "19.982914"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "40.343929"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "4.0554018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "19.989746"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "40.341473"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "4.051897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "19.992962"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "40.32238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "4.0544977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "20.050329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "40.477463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "4.1308765"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "20.050329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "40.477463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "4.1308765"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "20.071663"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "40.463318"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "4.1353884"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "20.093693"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "40.474056"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "4.1312637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "20.07233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "40.462334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "4.1621575"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "20.067928"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "40.48082"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "4.1599488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "20.045057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "40.462864"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "4.1650929"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "19.94598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "40.349068"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "4.1761985"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "19.94733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "40.35228"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "4.17172"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "19.94733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "40.35228"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "4.17172"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "19.940346"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "40.35532"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "4.1643538"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "19.940346"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "40.35532"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "4.1643538"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "19.940565"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "40.349068"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "4.1626835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "19.927492"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "40.341423"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "4.1681519"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "19.92573"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "40.358398"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "4.1928844"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "19.966743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "40.290405"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".21646637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "4.172821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "20.021856"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "40.301212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".21646637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "4.1775384"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "20.007174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "40.340168"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".2245017"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "4.1679821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "20.007174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "40.340168"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "4.129704"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".2245017"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "4.1679821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "20.054953"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "40.420494"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "4.1453257"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".20161831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "4.1456523"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "20.047186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "40.397224"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "4.1519289"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".21416187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "4.1654735"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "20.014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "40.41256"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "4.1019115"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".2414224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "4.2135081"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "20.329937"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "40.409954"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "4.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".24100225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "4.1961164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "20.329937"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "40.409954"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "4.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".24100225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "4.1961164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "20.325451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "40.414124"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "4.0922618"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "4.1807156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "20.325451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "40.414124"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "4.0922618"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "4.1807156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "20.325451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "40.414124"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "4.0922618"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "4.1807156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "20.314241"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "40.405708"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "4.096231"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".22970062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "4.1720262"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "20.328226"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "40.405472"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "4.0851402"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".25177604"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "4.1687164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "20.304356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "40.422623"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "4.0986218"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".26600471"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "4.1907101"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "20.304356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "40.422623"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "4.0986218"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".26600471"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "4.1907101"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "20.231112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "40.532822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "4.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".29964238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "4.1818061"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "20.231112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "40.532822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "4.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".29964238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "4.1818061"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "20.230268"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "40.532745"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "4.1125207"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".30234209"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "4.1816063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "20.274254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "40.533894"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "4.1189189"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".31282568"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "4.2040091"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "20.25577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "40.356277"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "4.0971956"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "4.1382346"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "20.25577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "40.356277"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "4.0971956"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "4.1382346"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "20.25577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "40.356277"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "4.0971956"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "4.1382346"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "20.24262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "40.34407"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "4.0898705"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".27335906"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "4.136476"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "20.208321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "40.339928"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "4.0979433"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".2763578"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "4.1309028"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "20.204432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "40.337318"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "4.0977287"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".27516696"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "4.1287303"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "20.064447"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "40.334442"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "4.0937066"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".2732878"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "4.1339564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "20.083269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "40.215549"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "4.0714722"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "4.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "20.083269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "40.215549"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "4.0714722"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "4.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "20.083269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "40.215549"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "4.0714722"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "4.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "20.08552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "40.189518"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "4.0684862"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "4.1118207"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "20.07576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "40.196541"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "4.0731936"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".26810563"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "4.1066232"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "20.069729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "40.195881"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "4.0707641"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".26810563"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "4.1059475"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "20.014004"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "40.179638"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "4.1160407"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".30776739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "4.1569285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "20.011559"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "40.125534"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "4.135047"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".31513938"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "4.015099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "25.480034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "52.466614"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "4.1340294"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".31513938"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "4.0137835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "25.44401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "52.45137"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "4.1410356"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "4.0229354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "25.424599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "52.476795"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "4.1410356"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "4.0229354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "25.424599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "52.476795"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "4.1410356"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "4.0229354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "25.417252"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "52.481335"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "4.1425614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".32258698"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "4.024528"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "25.482523"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "52.564133"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "4.1462617"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".31559947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "4.0348268"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "25.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "52.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "4.1441989"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".30208743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "4.0249085"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "25.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "52.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "4.1441989"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".30208743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "4.0249085"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "25.49262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "52.570419"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "4.1379247"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".30901682"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "4.0241733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "25.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "52.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "4.1598959"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "4.0346975"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "25.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "52.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "4.1598959"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "4.0346975"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "25.239511"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "52.710049"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "4.154644"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "4.0132308"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "25.230892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "52.714558"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "4.1571279"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".26593596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "4.0156078"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "52.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "4.1526079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "4.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "52.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "4.1526079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "4.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "52.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "4.1526079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "4.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "25.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "52.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "4.1526079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "4.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "25.192644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "52.716507"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "4.1675286"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".21099877"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "4.0280771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "25.227652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "52.717518"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "4.1520514"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".2137464"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "4.016686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "25.248049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "52.726612"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "4.1615233"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".21344334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "4.0144105"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "52.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "4.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "4.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "52.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "4.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "4.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "25.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "52.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "4.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "4.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "25.172401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "52.774643"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "4.1719732"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".1063522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "4.0503941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "25.02948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "52.863583"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "4.1570749"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".08677949"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "4.0244484"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "25.023266"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "52.88773"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "4.1628714"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".09322615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "4.0268993"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "25.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "52.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "4.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".10308647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "4.0855479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "25.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "52.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "4.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".10308647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "4.0855479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "52.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "4.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "4.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "52.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "4.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "4.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "52.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "4.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "4.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "25.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "52.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "4.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "4.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "25.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "52.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "4.2633452"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".11691028"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "4.0759935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "25.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "52.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "4.2633452"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".11691028"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "4.0759935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "52.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.0632515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "52.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.0632515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "24.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "52.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.0632515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "24.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "52.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.0660672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "24.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "52.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.0660672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "24.758535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "52.864368"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.3014793"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.1649899"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Missouri",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "24.745066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Missouri",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "52.879047"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Missouri",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.3041749"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Missouri",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".12857459"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Missouri",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.1673002"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50241",
+      "population": "lv",
+      "pollId": "36609",
+      "cycle": "2016",
+      "sampleSize": "839",
+      "state": "MO",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-03-11",
+      "endDate": "2016-03-12",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/main/polls/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457955900,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "46.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "47.0"
+        }
+      ],
+      "weight": "1.015156149864197"
+    },
+    {
+      "id": "50207",
+      "population": "lv",
+      "pollId": "36591",
+      "cycle": "2016",
+      "sampleSize": "670",
+      "state": "MO",
+      "officeType": "U.S. President",
+      "pollsterId": "1256",
+      "pollster": "RABA Research",
+      "startDate": "2016-03-08",
+      "endDate": "2016-03-10",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.rabaresearch.com/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457729460,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "44.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".356170117855072"
+    },
+    {
+      "id": "50206",
+      "population": "lv",
+      "pollId": "36590",
+      "cycle": "2016",
+      "sampleSize": "145",
+      "state": "MO",
+      "officeType": "U.S. President",
+      "pollsterId": "1251",
+      "pollster": "Fort Hays State University",
+      "startDate": "2016-03-03",
+      "endDate": "2016-03-10",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.stltoday.com/news/missouri-poll-results/pdf_403071e8-60bd-5830-ad9e-0364a168dc67.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457709420,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "47.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0952238589525223"
+    },
+    {
+      "id": "48081",
+      "population": "lv",
+      "pollId": "35822",
+      "cycle": "2016",
+      "sampleSize": "1589",
+      "state": "MO",
+      "officeType": "U.S. President",
+      "pollsterId": "1056",
+      "pollster": "Remington",
+      "startDate": "2015-09-18",
+      "endDate": "2015-09-19",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.kansascity.com/news/local/news-columns-blogs/the-buzz/article35913126.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466320,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "36.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "22.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "18.0"
+        }
+      ],
+      "weight": "9.08733900108e-20"
+    },
+    {
+      "id": "42965",
+      "population": "lv",
+      "pollId": "34666",
+      "cycle": "2016",
+      "sampleSize": "352",
+      "state": "MO",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2015-08-07",
+      "endDate": "2015-08-09",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_MO_81215.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445327340,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "53.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "5.0"
+        }
+      ],
+      "weight": "1.08782143893e-24"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "1.5738938e-07",
+          "2.0507368e-06",
+          "6.3163225e-06",
+          ".000011520916",
+          ".000016361548",
+          ".000020150192",
+          ".000022668288",
+          ".000023969231",
+          ".000024236007",
+          ".000023694514",
+          ".000022566705",
+          ".000021047957",
+          ".000019298983",
+          ".000017445314",
+          ".000015580568",
+          ".000013771336",
+          ".000012062336",
+          ".000010480997",
+          "9.0418116e-06",
+          "7.7497634e-06",
+          "6.6029947e-06",
+          "5.5951773e-06",
+          "4.7170274e-06",
+          "3.9576666e-06",
+          "3.3055146e-06",
+          "2.7488863e-06",
+          "2.2765275e-06",
+          "1.8778911e-06",
+          "1.5438976e-06",
+          "1.2696369e-06",
+          "1.0670681e-06",
+          "1.0174665e-06",
+          "1.4630249e-06",
+          "3.6265021e-06",
+          ".00001138421",
+          ".000035748792",
+          ".00010484105",
+          ".00028323437",
+          ".00070407469",
+          ".0016129598",
+          ".0034120686",
+          ".006677819",
+          ".012112164",
+          ".020390572",
+          ".031902533",
+          ".04643932",
+          ".062950589",
+          ".07952109",
+          ".093662724",
+          ".10289773",
+          ".10545918",
+          ".10083423",
+          ".089930765",
+          ".074790105",
+          ".057967965",
+          ".041845627",
+          ".028109193",
+          ".017551744",
+          ".010174549",
+          ".0054675387",
+          ".0027189525",
+          ".0012488414",
+          ".00052862352",
+          ".000205702",
+          ".000073378738",
+          ".000023921311",
+          "7.1016402e-06",
+          "1.9125359e-06",
+          "4.6520913e-07",
+          "1.0171383e-07",
+          "1.9883723e-08",
+          "3.4558498e-09",
+          "5.3138660e-10",
+          "7.2405248e-11",
+          "9.0984806e-12",
+          "1.3090613e-12",
+          "3.4586047e-13",
+          "1.5983739e-13",
+          "8.5327612e-14",
+          "4.5486140e-14",
+          "2.3656346e-14",
+          "1.1921161e-14",
+          "5.8010614e-15",
+          "2.7150436e-15",
+          "1.2163820e-15",
+          "5.1872398e-16",
+          "2.0910154e-16",
+          "7.9015680e-17",
+          "2.7719514e-17",
+          "8.8883220e-18",
+          "2.5610420e-18",
+          "6.4026049e-19",
+          "1.5064953e-19",
+          "3.7662383e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "8.5843164e-09",
+          "3.7628794e-08",
+          "6.4434680e-08",
+          "8.3185668e-08",
+          "9.4546664e-08",
+          "1.0014475e-07",
+          "1.0151707e-07",
+          "9.9908597e-08",
+          "9.6274967e-08",
+          "9.1330506e-08",
+          "8.5601300e-08",
+          "7.9469139e-08",
+          "7.3207332e-08",
+          "6.7008045e-08",
+          "6.1002801e-08",
+          "5.5278441e-08",
+          "4.9889067e-08",
+          "4.4864162e-08",
+          "4.0216044e-08",
+          "3.5944719e-08",
+          "3.2041083e-08",
+          "2.8490568e-08",
+          "2.5274431e-08",
+          "2.2371841e-08",
+          "1.9760996e-08",
+          "1.7420506e-08",
+          "1.5337889e-08",
+          "1.3564703e-08",
+          "1.2572184e-08",
+          "1.5230679e-08",
+          "3.6467100e-08",
+          "1.4463855e-07",
+          "6.1774017e-07",
+          "2.4643039e-06",
+          "8.9589557e-06",
+          ".000029639457",
+          ".000089457477",
+          ".00024705735",
+          ".00062609633",
+          ".0014596874",
+          ".0031379063",
+          ".0062324964",
+          ".011457684",
+          ".019525839",
+          ".030887267",
+          ".045403805",
+          ".062078875",
+          ".079005197",
+          ".093640976",
+          ".10340241",
+          ".10639893",
+          ".1020216",
+          ".091143735",
+          ".075840093",
+          ".058745969",
+          ".042332187",
+          ".028352395",
+          ".017630557",
+          ".010165788",
+          ".0054270546",
+          ".0026777862",
+          ".0012187833",
+          ".00051055109",
+          ".00019634374",
+          ".000069123947",
+          ".000022207336",
+          "6.4874407e-06",
+          "1.7165306e-06",
+          "4.0955473e-07",
+          "8.7685315e-08",
+          "1.6755546e-08",
+          "2.8417322e-09",
+          "4.2611670e-10",
+          "5.7095037e-11",
+          "7.5811900e-12",
+          "1.5681154e-12",
+          "7.3563302e-13",
+          "4.8593865e-13",
+          "3.3488842e-13",
+          "2.2853559e-13",
+          "1.5341378e-13",
+          "1.0105869e-13",
+          "6.5191281e-14",
+          "4.1083256e-14",
+          "2.5220999e-14",
+          "1.5031143e-14",
+          "8.6610203e-15",
+          "4.8005575e-15",
+          "2.5434570e-15",
+          "1.2779210e-15",
+          "6.0264012e-16",
+          "2.6312266e-16",
+          "1.0441132e-16",
+          "3.6680411e-17",
+          "1.0974966e-17",
+          "2.6326808e-18",
+          "4.5710161e-19",
+          "4.7267640e-20",
+          "1.9921227e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "1.1438064e-07",
+          "1.4587634e-06",
+          "4.4265084e-06",
+          "7.9844158e-06",
+          ".000011238502",
+          ".000013737734",
+          ".000015354641",
+          ".000016142769",
+          ".00001623796",
+          ".000015799997",
+          ".000014982075",
+          ".000013916737",
+          ".000012711413",
+          ".000011448865",
+          ".000010189922",
+          "8.9771165e-06",
+          "7.8383800e-06",
+          "6.7902429e-06",
+          "5.8408214e-06",
+          "4.9921264e-06",
+          "4.2418487e-06",
+          "3.5849241e-06",
+          "3.0145184e-06",
+          "2.5229047e-06",
+          "2.1020305e-06",
+          "1.7438945e-06",
+          "1.4409039e-06",
+          "1.1862252e-06",
+          "9.7531677e-07",
+          "8.1289983e-07",
+          "7.4379102e-07",
+          "9.7261170e-07",
+          "2.2735890e-06",
+          "7.2289822e-06",
+          ".000023530925",
+          ".000071724884",
+          ".00020107008",
+          ".00051751826",
+          ".0012249355",
+          ".002672167",
+          ".0053838869",
+          ".010038072",
+          ".017348669",
+          ".027834406",
+          ".041509952",
+          ".057602424",
+          ".074442819",
+          ".089660458",
+          ".1006922",
+          ".10547446",
+          ".10306897",
+          ".093957275",
+          ".079886585",
+          ".063329227",
+          ".04678224",
+          ".032181118",
+          ".020595357",
+          ".012249232",
+          ".0067616859",
+          ".0034590079",
+          ".0016369466",
+          ".00071523845",
+          ".00028788653",
+          ".00010647498",
+          ".000036082609",
+          ".000011168529",
+          "3.1462771e-06",
+          "8.0352135e-07",
+          "1.8521922e-07",
+          "3.8348652e-08",
+          "7.0939326e-09",
+          "1.1661820e-09",
+          "1.6980060e-10",
+          "2.2128761e-11",
+          "2.8137648e-12",
+          "4.9571382e-13",
+          "1.7516311e-13",
+          "8.9444992e-14",
+          "4.8513924e-14",
+          "2.5837991e-14",
+          "1.3402811e-14",
+          "6.7359910e-15",
+          "3.2687844e-15",
+          "1.5255010e-15",
+          "6.8140063e-16",
+          "2.8967706e-16",
+          "1.1641041e-16",
+          "4.3816280e-17",
+          "1.5338197e-17",
+          "4.8962318e-18",
+          "1.3989234e-18",
+          "3.4973085e-19",
+          "7.4942324e-20",
+          "2.4980775e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.6774875e-06",
+          "7.2339230e-06",
+          ".000012252742",
+          ".000015693828",
+          ".00001772583",
+          ".000018677321",
+          ".000018847648",
+          ".000018474617",
+          ".000017738235",
+          ".000016771477",
+          ".000015671214",
+          ".000014506983",
+          ".000013327993",
+          ".00001216838",
+          ".000011051125",
+          "9.9910549e-06",
+          "8.9970881e-06",
+          "8.0737345e-06",
+          "7.2224702e-06",
+          "6.4426226e-06",
+          "5.7319535e-06",
+          "5.0873127e-06",
+          "4.5048719e-06",
+          "3.9804863e-06",
+          "3.5098803e-06",
+          "3.0887375e-06",
+          "2.7129167e-06",
+          "2.3786249e-06",
+          "2.0837808e-06",
+          "1.8342251e-06",
+          "1.6720261e-06",
+          "1.7875145e-06",
+          "2.9095627e-06",
+          "7.5046346e-06",
+          ".000023022259",
+          ".000069612259",
+          ".00019613323",
+          ".00050872494",
+          ".0012133776",
+          ".0026651225",
+          ".0054010199",
+          ".01011788",
+          ".017550757",
+          ".028231695",
+          ".042166982",
+          ".058542486",
+          ".075615734",
+          ".090928711",
+          ".10184985",
+          ".10629949",
+          ".1033917",
+          ".093716338",
+          ".079147436",
+          ".062257681",
+          ".045586728",
+          ".031050211",
+          ".01965482",
+          ".011549608",
+          ".0062919427",
+          ".0031728884",
+          ".0014784313",
+          ".00063526887",
+          ".00025114851",
+          ".000091118876",
+          ".000030251756",
+          "9.1620486e-06",
+          "2.5227428e-06",
+          "6.2956548e-07",
+          "1.4223427e-07",
+          "2.9348550e-08",
+          "5.8305805e-09",
+          "1.3633810e-09",
+          "5.2458016e-10",
+          "3.1648889e-10",
+          "2.2189812e-10",
+          "1.5890764e-10",
+          "1.1299896e-10",
+          "7.9358076e-11",
+          "5.4945382e-11",
+          "3.7452288e-11",
+          "2.5094083e-11",
+          "1.6498244e-11",
+          "1.0621414e-11",
+          "6.6796694e-12",
+          "4.0917989e-12",
+          "2.4331329e-12",
+          "1.3986830e-12",
+          "7.7333235e-13",
+          "4.0866071e-13",
+          "2.0475571e-13",
+          "9.6271983e-14",
+          "4.1899593e-14",
+          "1.6568559e-14",
+          "5.7983738e-15",
+          "1.7274582e-15",
+          "4.1233572e-16",
+          "7.1182723e-17",
+          "7.3305598e-18",
+          "2.9852959e-19",
+          "0"
+        ]
+      }
+    }
+  ]
+}

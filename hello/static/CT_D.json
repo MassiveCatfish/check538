@@ -1,0 +1,7274 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "44.414333",
+      "pollonly_winprob": 25.044999,
+      "pollonly_hi": "52.085636",
+      "pollonly_lo": "43.652721",
+      "pollonly_forecast": "46.752914",
+      "kitchen_winprob": 24.160001,
+      "kitchen_hi": "52.093529",
+      "kitchen_lo": "43.208088",
+      "kitchen_forecast": "46.540138"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "48.620918",
+      "pollonly_winprob": 74.95499799999999,
+      "pollonly_hi": "56.365936",
+      "pollonly_lo": "47.927128",
+      "pollonly_forecast": "50.936924",
+      "kitchen_winprob": 75.840002,
+      "kitchen_hi": "56.786888",
+      "kitchen_lo": "47.914204",
+      "kitchen_forecast": "51.149704"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "44.414379",
+      "pollonly_winprob": 22.920001,
+      "pollonly_hi": "51.711876",
+      "pollonly_lo": "44.026184",
+      "pollonly_forecast": "46.752594",
+      "kitchen_winprob": 22.994999999999997,
+      "kitchen_hi": "51.842056",
+      "kitchen_lo": "43.578506",
+      "kitchen_forecast": "46.598358"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "48.621773",
+      "pollonly_winprob": 77.079999,
+      "pollonly_hi": "55.994293",
+      "pollonly_lo": "48.299606",
+      "pollonly_forecast": "50.937386",
+      "kitchen_winprob": 77.004999,
+      "kitchen_hi": "56.41785",
+      "kitchen_lo": "48.165428",
+      "kitchen_forecast": "51.091625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "39.702953",
+      "pollonly_winprob": 13.139999999999999,
+      "pollonly_hi": "50.91362",
+      "pollonly_lo": "37.711857",
+      "pollonly_forecast": "43.041206",
+      "kitchen_winprob": 8.58,
+      "kitchen_hi": "49.276207",
+      "kitchen_lo": "35.565922",
+      "kitchen_forecast": "41.263969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "51.008038",
+      "pollonly_winprob": 86.860001,
+      "pollonly_hi": "62.372345",
+      "pollonly_lo": "49.280647",
+      "pollonly_forecast": "54.468475",
+      "kitchen_winprob": 91.420001,
+      "kitchen_hi": "64.391838",
+      "kitchen_lo": "50.835938",
+      "kitchen_forecast": "56.245712"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "39.731579",
+      "pollonly_winprob": 12.594999000000001,
+      "pollonly_hi": "50.670372",
+      "pollonly_lo": "37.987423",
+      "pollonly_forecast": "43.057083",
+      "kitchen_winprob": 8.0349997,
+      "kitchen_hi": "49.093811",
+      "kitchen_lo": "35.769485",
+      "kitchen_forecast": "41.269051"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "51.012569",
+      "pollonly_winprob": 87.405002,
+      "pollonly_hi": "62.116833",
+      "pollonly_lo": "49.521713",
+      "pollonly_forecast": "54.458012",
+      "kitchen_winprob": 91.965002,
+      "kitchen_hi": "64.207008",
+      "kitchen_lo": "51.027378",
+      "kitchen_forecast": "56.24604"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "39.731579",
+      "pollonly_winprob": 11.93,
+      "pollonly_hi": "50.414696",
+      "pollonly_lo": "38.232483",
+      "pollonly_forecast": "43.057083",
+      "kitchen_winprob": 7.654999899999999,
+      "kitchen_hi": "48.904175",
+      "kitchen_lo": "35.961311",
+      "kitchen_forecast": "41.268848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "51.012569",
+      "pollonly_winprob": 88.069999,
+      "pollonly_hi": "61.874947",
+      "pollonly_lo": "49.778542",
+      "pollonly_forecast": "54.458012",
+      "kitchen_winprob": 92.344999,
+      "kitchen_hi": "64.01445",
+      "kitchen_lo": "51.217262",
+      "kitchen_forecast": "56.246246"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "39.748096",
+      "pollonly_winprob": 10.815,
+      "pollonly_hi": "50.177483",
+      "pollonly_lo": "38.50386",
+      "pollonly_forecast": "43.073593",
+      "kitchen_winprob": 7.3299997,
+      "kitchen_hi": "48.720882",
+      "kitchen_lo": "36.162342",
+      "kitchen_forecast": "41.268661"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "50.996563",
+      "pollonly_winprob": 89.184999,
+      "pollonly_hi": "61.604454",
+      "pollonly_lo": "50.014198",
+      "pollonly_forecast": "54.441586",
+      "kitchen_winprob": 92.67,
+      "kitchen_hi": "63.833996",
+      "kitchen_lo": "51.409519",
+      "kitchen_forecast": "56.246513"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "39.771717",
+      "pollonly_winprob": 10.33,
+      "pollonly_hi": "49.929195",
+      "pollonly_lo": "38.775749",
+      "pollonly_forecast": "43.097515",
+      "kitchen_winprob": 6.949999900000001,
+      "kitchen_hi": "48.531757",
+      "kitchen_lo": "36.368713",
+      "kitchen_forecast": "41.312969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "50.972935",
+      "pollonly_winprob": 89.67000200000001,
+      "pollonly_hi": "61.335777",
+      "pollonly_lo": "50.245857",
+      "pollonly_forecast": "54.417667",
+      "kitchen_winprob": 93.04999699999999,
+      "kitchen_hi": "63.594398",
+      "kitchen_lo": "51.571571",
+      "kitchen_forecast": "56.202206"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "42.058498"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "48.12064"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "42.061832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "48.121582"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "42.057487"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "48.159901"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "42.089169"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "48.190479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "42.087456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "48.193668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "42.087456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "48.193668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "42.088619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "48.195412"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "42.099747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "48.200386"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "27.027302"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "44.6926"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "27.025713"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "44.701008"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "27.044449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "44.702213"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "27.044449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "44.702213"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "27.155134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "44.839664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "27.108213"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "44.848488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "27.179258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "44.837254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "27.182262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "44.850376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "27.209316"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "44.855328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "27.23069"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "44.84993"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "27.19548"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "44.865452"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "27.198652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "44.85537"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "27.219713"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "44.755024"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "27.125786"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "44.775974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "27.135662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "44.779198"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "27.125315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "44.779324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "27.125315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "44.779324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "27.125315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "44.779324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "27.125315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "44.779324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "27.113827"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "44.781017"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "27.048954"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "44.815189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "27.052174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "44.816307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "27.063602"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "44.822453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "27.063675"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "44.822651"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "27.0688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "44.817112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "27.0688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "44.817112"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "27.012571"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "44.871174"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "27.04151"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "44.849327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "27.036543"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "44.839546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "27.198856"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "44.839928"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "27.350918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "44.79216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "27.342993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "44.812637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "27.323507"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "44.843399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "27.334867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "44.850765"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "27.394411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "44.855053"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "27.39255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "44.863743"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "27.377697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "44.863201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "27.412342"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "44.868565"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "27.408768"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "44.867962"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "27.408813"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "44.868217"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "27.401392"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "44.866699"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "27.488794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "44.853294"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "27.514843"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "44.863655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "27.576595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "45.016426"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "27.675179"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "45.027618"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "27.675179"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "45.027618"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "27.661217"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "45.035954"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "27.731951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "45.028316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "27.775404"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "45.024696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "27.776161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "45.029911"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "27.809181"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "45.118076"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "27.809181"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "45.118076"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "27.819736"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "45.114376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "27.855783"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "45.090439"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "27.906342"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "45.13599"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "28.001112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "45.077568"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "27.998415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "45.068504"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "27.995745"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "45.074047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "27.990995"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "45.07547"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "27.991827"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "45.072796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "27.9937"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "45.070107"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "27.999922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "45.068981"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "28.008621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "45.054913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "28.005438"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "45.049393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "27.942352"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "45.057384"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "27.933393"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "45.082882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "27.93219"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "45.091198"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "27.946878"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "45.072334"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "27.961555"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "45.081692"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "27.959017"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "45.084694"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "27.953459"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "45.080994"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "5.6802773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "27.967255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "45.164577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "5.6704831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "27.955215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "45.193275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "5.6782231"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "27.958973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "45.213211"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "5.6871963"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "27.931681"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "45.233517"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "5.6630344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "27.967699"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "45.257114"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "5.6660113"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "27.970167"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "45.380848"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "5.7088327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "27.965296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "45.396603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "5.7124796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "27.983339"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "44.944157"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "5.7484913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "27.977579"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "44.931885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "5.738307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "27.993921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "44.926033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "5.7309914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "28.004496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "44.934864"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "5.7175841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "28.00979"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "44.943245"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "5.6645041"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "27.991457"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "45.024727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "5.6670218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "28.023949"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "45.042965"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "5.6737556"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "28.025463"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "45.018703"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "5.674046"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "28.022987"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "45.013416"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "5.6755433"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "28.022987"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "45.013416"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "5.6755433"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "28.031612"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "45.014095"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "5.6673164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "28.053949"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "45.030914"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "5.672564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "28.051849"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "45.037983"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "5.672071"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "28.091478"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "45.022907"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "5.6729007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "28.107489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "45.023579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "5.6708393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "28.107489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "45.023579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "5.6708393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "28.107489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "45.023579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "5.6708393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "28.107489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "45.023579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "5.6708393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "28.098841"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "45.003864"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "5.6742754"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "28.106066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "45.005497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "5.6667371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "28.106066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "45.005497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "5.6667366"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "28.106066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "45.005497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "5.6667366"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "28.073196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "45.005711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "5.6703358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "28.076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "45.005947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "5.6693153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "28.076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "45.005947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "5.6693158"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "28.076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "45.005947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "5.6693153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "28.076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "45.005947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "5.6693153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "28.076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "45.005947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "5.6693153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "28.088844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "45.000507"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "5.667511"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "28.090328"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "45.017693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "5.6513948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "28.090506"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "45.051899"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "5.5691237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "28.090506"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "45.051899"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "5.5691237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "28.090506"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "45.051899"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "5.5691237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "28.0893"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "45.067989"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "5.5700788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "28.0893"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "45.067989"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "5.5700784"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "28.093128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "45.067551"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "5.5701985"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "28.093128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "45.067551"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "5.5701985"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "28.181646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "45.053482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "5.605092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "28.181646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "45.053482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "5.605092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "28.181646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "45.053482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "5.605092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "28.184204"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "45.060154"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "5.6058531"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "28.169439"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "45.06123"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "5.6056361"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "28.166857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "45.058811"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "5.6032505"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "28.16131"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "45.070045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "5.6211934"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "28.189417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "45.049026"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "5.6179662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "28.189417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "45.049026"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "5.6179662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "28.192139"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "45.057129"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "5.6218905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "28.189747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "45.063553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "5.6225181"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "28.20079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "45.064091"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "5.6138482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "28.201519"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "45.061356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "5.614893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "45.104042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "5.6070886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "28.204088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "45.104046"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "5.607089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "28.205885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "45.103333"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "5.6017423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "28.248417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "45.092258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "5.6120877"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "28.248417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "45.092258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "5.6120877"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "28.248417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "45.092258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "5.6120877"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "28.213499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "45.109772"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "5.6184058"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "28.213499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "45.109772"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "5.6184063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "28.21229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "45.096378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "5.5925331"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "24.010288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "37.599979"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-15",
+      "poll_avg": ".47335306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "24.02499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "37.560329"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-14",
+      "poll_avg": ".48403355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "24.02499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "37.560329"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-13",
+      "poll_avg": ".48403355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "24.027697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "37.551914"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-12",
+      "poll_avg": ".47400415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "24.027697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "37.551914"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-11",
+      "poll_avg": ".47400415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "24.017752"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "37.553879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-10",
+      "poll_avg": ".47327158"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "24.029373"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "37.55204"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-09",
+      "poll_avg": ".46171311"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "24.034863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "37.530556"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-08",
+      "poll_avg": ".46382996"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "24.091951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "37.666985"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-07",
+      "poll_avg": ".46581608"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "24.091951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "37.666985"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-06",
+      "poll_avg": ".46581608"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "24.113985"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "37.658993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-05",
+      "poll_avg": ".46370047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "24.136015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "37.669724"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-04",
+      "poll_avg": ".45957521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "24.16753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "37.641071"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-03",
+      "poll_avg": ".47030598"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "24.176857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "37.659897"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-02",
+      "poll_avg": ".11465865"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-02",
+      "poll_avg": ".463377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "24.244486"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "37.653114"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-01",
+      "poll_avg": ".14432812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-11-01",
+      "poll_avg": ".4145872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "24.187712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "37.479351"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".071552932"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".28777745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "24.232925"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "37.498688"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".071552932"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".28502089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "24.232925"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "37.498688"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".071552932"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".28502089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "24.227743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "37.487926"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".070154734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".28389233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "24.227743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "37.487926"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".070154734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".28389233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "24.22838"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "37.48085"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".065229587"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".28296098"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "24.214149"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "37.472424"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".065229587"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".29159924"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "24.253826"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "37.297932"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-24",
+      "poll_avg": ".012817997"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-24",
+      "poll_avg": ".3003332"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "24.29484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "37.229939"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".012817997"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".41618669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".28026947"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "24.351534"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "37.239166"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".012817997"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".41618669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".28477189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "24.342497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "37.174999"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".018165009"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".41191664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".32940856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "24.342497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "37.174999"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".33335787"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".018165009"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".41191664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".32940856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "24.475428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "37.366161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".34887499"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".011315098"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".36609659"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".36879915"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "24.484699"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "37.311161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".35830465"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".010084718"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".37828398"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".38989514"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "24.488974"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "37.31498"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".35851818"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".0081688073"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".38158947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".39225855"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "24.814093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "37.297848"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".35315871"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".0081688073"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".38331324"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".38309345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "24.814093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "37.297848"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".35315871"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".0081688073"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".38331324"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".38309345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "24.81436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "37.300228"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".35744399"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".014537347"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".38532609"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".37685049"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "24.81436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "37.300228"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".35744399"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".014537347"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".38532609"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".37685049"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "24.81436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "37.300228"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".35744399"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".014537347"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".38532609"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".37685049"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "24.806147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "37.297222"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".36221111"
+    },
+    {
+      "candidate_name": "Lessig",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".015315922"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".38701385"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".37387758"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.9773107"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "53.180435"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.3537301"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.3656613"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.9554839"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "53.196247"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.36444"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.3920979"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.9554839"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "53.196247"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.36444"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.3920979"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.8834115"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "53.313847"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.3810084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.3866831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.8834115"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "53.313847"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.3810084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.3866831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.8816944"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "53.312862"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.3793784"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.3851506"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.9652762"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "53.266777"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.3761518"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.3909367"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.9784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "53.119678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.3849082"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.3973244"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.9784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "53.119678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.3849082"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.3973244"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.9784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "53.119678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.3849082"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.3973244"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.9792955"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "53.176033"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.3822483"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.3948638"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.9519578"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "53.178413"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.3867031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.3989434"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.9497271"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "53.178696"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.3868084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.3957715"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.8166682"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "53.222267"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.385715"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.4061399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.8832698"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "53.198139"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.3601248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.3900133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.8832698"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "53.198139"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.3601248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.3900133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.8832698"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "53.198139"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.3601248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.3900133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.8851576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "53.176624"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.3599261"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.3911047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.8759907"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "53.182312"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.3620842"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.3856254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.8716327"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "53.174282"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.3603623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.3820679"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.9389822"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "53.337288"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.396592"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.411028"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.9106652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "53.33688"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.3766102"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.4410093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.9519749"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "53.414948"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.3766662"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.4377016"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.9269269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "53.369278"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.3794638"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.4414468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.9114975"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "53.394196"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.3794638"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.4414468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.9114975"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "53.394196"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.3794638"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.4414468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.9053292"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "53.393959"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.3809068"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.4417871"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.9466921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "53.460003"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.3688371"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.4418483"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.9938158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "53.427528"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.3655877"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.4411136"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.9938158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "53.427528"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.3655877"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.4411136"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.9883565"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "53.400291"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.3593163"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.4401574"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "2.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "53.513306"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.3615452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.3908818"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "2.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "53.513306"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.3615452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.3908818"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "2.0018265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "53.481659"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.3611937"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.3825079"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "2.0027385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "53.480549"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.3639045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.3826029"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "2.0026009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "53.481449"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.3594307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.3768002"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "2.0026009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "53.481449"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.3594307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.3768002"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "2.0026009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "53.481449"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.3594307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.3768002"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "2.0026009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "53.481449"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.3594307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.3768002"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "2.0064468"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "53.485779"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.3589445"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.385856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "2.0459781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "53.472851"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.342375"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.3720722"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "2.046283"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "53.472599"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.3499236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.3666673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "2.0634069"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "53.453472"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.348004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.3529409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "2.0634069"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "53.453472"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.348004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.3529409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "2.0634069"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "53.453472"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.348004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.3529409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "2.0330844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "53.45396"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.3342363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.3273963"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.9412451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "53.505898"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.3178794"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.2830318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.9627845"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "53.352379"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.2888813"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.2635971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.9683695"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "53.38876"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.328644"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.2644281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.9683695"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "53.38876"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.328644"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.2644281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.978717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "53.394527"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.3155915"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.2574236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.978717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "53.394527"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.3155915"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.2574236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.978717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "53.394527"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.3155915"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.2574236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.978717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "53.394527"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.3155915"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.2574236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.9242034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "53.359337"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.3229699"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.250309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.9242034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "53.359337"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.3229699"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.250309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.7268342"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "53.376167"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.3162233"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.2356501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.7268342"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "53.376167"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.3162233"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.2356501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.7268342"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "53.376167"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.3162233"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.2356501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.7094355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "53.393036"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.3207484"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.2383261"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.7094355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "53.393036"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.3207484"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.2383261"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.7673608"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "53.416"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.3237286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.2392026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.760607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "53.429211"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.3268923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.2436833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.7611835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "53.438332"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.3173826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.2390733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.7611835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "53.438332"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.3173826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.2390733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.7611835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "53.438332"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.3173826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.2390733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.7611835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "53.438332"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.3173826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.2390733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.7623119"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "53.437477"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.3183533"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.2395256"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.759298"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "53.445942"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.3089738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.2411337"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.7626014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "53.440228"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.3020202"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.2364771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.7681532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "53.410698"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.2767791"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.2352625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.7867322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "53.387646"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.270607"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.2419329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.7867322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "53.387646"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.270607"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.2419329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.7594132"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "53.366035"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.252771"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.2386023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.790222"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "53.339062"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.2481493"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.2286668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.7007707"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "53.250187"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.1728456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.2404841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.7075944"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "53.261181"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.1793326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.2573503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.7075944"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "53.261181"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.1793326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.2573503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.6933725"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "53.252777"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.1786125"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.2542233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.6933725"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "53.252777"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.1786125"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.2542233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.6714845"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "53.26852"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.1897087"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.2741741"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.6714845"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "53.26852"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.1897087"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.2741741"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.6647608"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "53.266541"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.1615394"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.2657458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.6657606"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "53.246372"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.1412034"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.2517486"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.6720496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "53.258709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.1346885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.2464629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.6720496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "53.258709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.1346885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.2464629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.6720496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "53.258709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.1346885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.2464629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.6720496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "53.258709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.1346885"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.2464629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.7996404"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "53.147778"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.1679542"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.2541648"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.81127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "53.143581"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.1669805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.2495133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.8103849"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "53.14238"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.1639245"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.2491238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.8203011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "53.177578"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.1665378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.2489042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.8197933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "53.160122"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.1694664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.2412282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "2.1479394"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "52.915638"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.0641901"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.2857499"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "2.1398094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "52.90424"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "1.0741355"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "1.2771318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "2.1398094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "52.90424"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "1.0741355"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "1.2771318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "2.1398094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "52.90424"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "1.0741355"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "1.2771318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "2.1473291"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "52.919479"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "1.1026624"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "1.2771318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "2.1436059"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "52.917885"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "1.1012715"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "1.2808766"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "2.1459093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "52.926228"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "1.1011318"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "1.2807759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "2.1144104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "52.969955"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "1.1032772"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "1.2957708"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "2.0081928"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "52.971336"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "1.0993366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "1.2576339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.9894683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "52.956524"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.0889978"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.287691"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.9894683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "52.956524"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.0889978"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.287691"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "2.0005679"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "52.917309"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "1.0690031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "1.2859788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.8457108"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "52.999218"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.0690031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.1657161"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.8457108"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "52.999218"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.0690031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.1657161"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.7004656"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "52.979668"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.0595313"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.1200268"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "1.7029481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "52.973141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "1.0511781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "1.1035746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "1.7145395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "52.99297"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "1.0745142"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "1.1216034"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "1.6858493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "52.987591"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "1.0664449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "1.1125364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "1.6858493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "52.987591"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "1.0664449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "1.1125364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "1.6858493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "52.987591"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "1.0664449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "1.1125364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "1.6858493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "52.987591"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "1.0664449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "1.1125364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "1.6858493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "52.987591"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "1.0664449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "1.1125364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "1.6943785"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "52.999847"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "1.063962"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Connecticut",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "1.0983616"
+    }
+  ],
+  "polls": [
+    {
+      "id": "62694",
+      "population": "lv",
+      "pollId": "42728",
+      "cycle": "2016",
+      "sampleSize": "709",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-22",
+      "endDate": "2016-04-24",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/PPP_CT_Dem_April_2016.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461576600,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "46.0"
+        }
+      ],
+      "weight": "1.042235612869263"
+    },
+    {
+      "id": "60248",
+      "population": "lv",
+      "pollId": "42210",
+      "cycle": "2016",
+      "sampleSize": "1037",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "396",
+      "pollster": "Quinnipiac University",
+      "startDate": "2016-04-12",
+      "endDate": "2016-04-18",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://www.qu.edu/images/polling/ct/ct04202016_Crbw42dm.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461145200,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "51.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "42.0"
+        }
+      ],
+      "weight": ".2236905992031097"
+    },
+    {
+      "id": "51794",
+      "population": "lv",
+      "pollId": "36738",
+      "cycle": "2016",
+      "sampleSize": "356",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2016-04-10",
+      "endDate": "2016-04-11",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_a087ef7328134746b90ffd87f80c439e.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1460463660,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "49.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "43.0"
+        }
+      ],
+      "weight": ".0315109416842461"
+    },
+    {
+      "id": "47288",
+      "population": "lv",
+      "pollId": "35388",
+      "cycle": "2016",
+      "sampleSize": "251",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2015-11-13",
+      "endDate": "2015-11-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_985dbffed8754f57a2a9638e22611ad6.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447934220,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "9.0"
+        }
+      ],
+      "weight": "1.67110504091e-19"
+    },
+    {
+      "id": "46869",
+      "population": "rv",
+      "pollId": "35322",
+      "cycle": "2016",
+      "sampleSize": "610",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "396",
+      "pollster": "Quinnipiac University",
+      "startDate": "2015-10-07",
+      "endDate": "2015-10-11",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.quinnipiac.edu/images/polling/ct/ct10132015_c32gvds.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447069140,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "37.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "18.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Lessig",
+          "pct": "0.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "0.0"
+        }
+      ],
+      "weight": "2.91532887638e-23"
+    },
+    {
+      "id": "43692",
+      "population": "rv",
+      "pollId": "34818",
+      "cycle": "2016",
+      "sampleSize": "459",
+      "state": "CT",
+      "officeType": "U.S. President",
+      "pollsterId": "396",
+      "pollster": "Quinnipiac University",
+      "startDate": "2015-03-06",
+      "endDate": "2015-03-09",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.quinnipiac.edu/news-and-events/quinnipiac-university-poll/connecticut/release-detail?ReleaseID=2175",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332440,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "53.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "15.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "0"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "1.3143162e-07",
+          "1.8474173e-06",
+          "5.9557883e-06",
+          ".000011195737",
+          ".000016247637",
+          ".000020341891",
+          ".000023183304",
+          ".000024773581",
+          ".000025268519",
+          ".000024884977",
+          ".000023847388",
+          ".000022359871",
+          ".000020594494",
+          ".000018688532",
+          ".000016746413",
+          ".000014843997",
+          ".000013033533",
+          ".000011348274",
+          "9.8070168e-06",
+          "8.4177545e-06",
+          "7.1805739e-06",
+          "6.0902739e-06",
+          "5.1380589e-06",
+          "4.3130854e-06",
+          "3.6034864e-06",
+          "2.9970752e-06",
+          "2.4819599e-06",
+          "2.0467946e-06",
+          "1.6810949e-06",
+          "1.3752739e-06",
+          "1.1207131e-06",
+          "9.0981882e-07",
+          "7.3620384e-07",
+          "5.9645259e-07",
+          "5.0096219e-07",
+          "5.3041157e-07",
+          "1.0898052e-06",
+          "3.8970566e-06",
+          ".000015310163",
+          ".0000559777",
+          ".00018476839",
+          ".00054872571",
+          ".001468077",
+          ".003545139",
+          ".0077410876",
+          ".015308919",
+          ".027455827",
+          ".044703789",
+          ".066135749",
+          ".088953592",
+          ".1088139",
+          ".12107401",
+          ".1225222",
+          ".11272698",
+          ".094238557",
+          ".071526304",
+          ".049234357",
+          ".030694107",
+          ".017303221",
+          ".0088036479",
+          ".0040336675",
+          ".0016601735",
+          ".00061203144",
+          ".0002014432",
+          ".000058980095",
+          ".00001529875",
+          "3.4995176e-06",
+          "7.0235052e-07",
+          "1.2297716e-07",
+          "1.8669837e-08",
+          "2.4429399e-09",
+          "2.7528960e-10",
+          "2.7788117e-11",
+          "3.3202694e-12",
+          "9.0020076e-13",
+          "4.5420463e-13",
+          "2.5551016e-13",
+          "1.4243264e-13",
+          "7.7598552e-14",
+          "4.1170877e-14",
+          "2.1218038e-14",
+          "1.0590125e-14",
+          "5.1011598e-15",
+          "2.3618156e-15",
+          "1.0460197e-15",
+          "4.4057500e-16",
+          "1.7530505e-16",
+          "6.5299649e-17",
+          "2.2530750e-17",
+          "7.1149742e-18",
+          "2.0159093e-18",
+          "5.1385923e-19",
+          "7.9055267e-20",
+          "3.9527633e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.0630879e-08",
+          "4.7856886e-08",
+          "8.3460186e-08",
+          "1.0921034e-07",
+          "1.2547680e-07",
+          "1.3412772e-07",
+          "1.3705649e-07",
+          "1.3585156e-07",
+          "1.3176316e-07",
+          "1.2574529e-07",
+          "1.1851412e-07",
+          "1.1059917e-07",
+          "1.0238709e-07",
+          "9.4155766e-08",
+          "8.6100592e-08",
+          "7.8355136e-08",
+          "7.1007015e-08",
+          "6.4108669e-08",
+          "5.7687526e-08",
+          "5.1752711e-08",
+          "4.6299441e-08",
+          "4.1314234e-08",
+          "3.6776765e-08",
+          "3.2662850e-08",
+          "2.8946021e-08",
+          "2.5598323e-08",
+          "2.2591951e-08",
+          "1.9899087e-08",
+          "1.7493475e-08",
+          "1.5352221e-08",
+          "1.3475590e-08",
+          "1.2036675e-08",
+          "1.2369169e-08",
+          "2.2649155e-08",
+          "8.6362050e-08",
+          "4.0692152e-07",
+          "1.8250491e-06",
+          "7.4192203e-06",
+          ".000027192338",
+          ".000090002904",
+          ".00026971375",
+          ".00073362625",
+          ".0018153002",
+          ".004094271",
+          ".0084315222",
+          ".015877096",
+          ".027371369",
+          ".043242928",
+          ".062655479",
+          ".083303176",
+          ".10166484",
+          ".11390379",
+          ".11714523",
+          ".11056077",
+          ".095705085",
+          ".075930156",
+          ".055159163",
+          ".036645841",
+          ".022233533",
+          ".012297924",
+          ".0061891293",
+          ".0028276553",
+          ".0011697651",
+          ".00043689713",
+          ".00014683907",
+          ".000044247288",
+          ".000011904618",
+          "2.8466657e-06",
+          "6.0188199e-07",
+          "1.1188143e-07",
+          "1.8170727e-08",
+          "2.5630176e-09",
+          "3.1394254e-10",
+          "3.5074766e-11",
+          "5.0476264e-12",
+          "1.8390920e-12",
+          "1.1829372e-12",
+          "8.2754002e-13",
+          "5.7575591e-13",
+          "3.9474075e-13",
+          "2.6607828e-13",
+          "1.7602190e-13",
+          "1.1405079e-13",
+          "7.2204639e-14",
+          "4.4538836e-14",
+          "2.6677238e-14",
+          "1.5452519e-14",
+          "8.6124828e-15",
+          "4.5899966e-15",
+          "2.3206672e-15",
+          "1.1017649e-15",
+          "4.8456648e-16",
+          "1.9382274e-16",
+          "6.8695318e-17",
+          "2.0759629e-17",
+          "5.0371412e-18",
+          "8.8621949e-19",
+          "9.3643023e-20",
+          "3.7658052e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "8.0286206e-08",
+          "9.9096349e-07",
+          "2.9171779e-06",
+          "5.1224997e-06",
+          "7.0387400e-06",
+          "8.4170497e-06",
+          "9.2181008e-06",
+          "9.5079704e-06",
+          "9.3927838e-06",
+          "8.9833766e-06",
+          "8.3787936e-06",
+          "7.6601027e-06",
+          "6.8897302e-06",
+          "6.1132992e-06",
+          "5.3623794e-06",
+          "4.6574155e-06",
+          "4.0103860e-06",
+          "3.4269849e-06",
+          "2.9085063e-06",
+          "2.4532487e-06",
+          "2.0575565e-06",
+          "1.7166781e-06",
+          "1.4252887e-06",
+          "1.1779267e-06",
+          "9.6925646e-07",
+          "7.9422671e-07",
+          "6.4819670e-07",
+          "5.2697629e-07",
+          "4.2702200e-07",
+          "3.4666812e-07",
+          "2.9471286e-07",
+          "3.4004941e-07",
+          "8.5485402e-07",
+          "3.5282883e-06",
+          ".000014962349",
+          ".000057497437",
+          ".00019666331",
+          ".00059887453",
+          ".0016283904",
+          ".003965863",
+          ".0086756172",
+          ".017090028",
+          ".030382279",
+          ".048837401",
+          ".071095638",
+          ".093858585",
+          ".1124891",
+          ".12249443",
+          ".12126801",
+          ".10918102",
+          ".089407086",
+          ".066583507",
+          ".045079302",
+          ".027729895",
+          ".015484984",
+          ".0078415982",
+          ".0035962218",
+          ".0014912172",
+          ".00055804744",
+          ".00018805893",
+          ".000056927405",
+          ".00001543611",
+          "3.7372931e-06",
+          "8.0506391e-07",
+          "1.5368578e-07",
+          "2.5887269e-08",
+          "3.8308796e-09",
+          "4.9705862e-10",
+          "5.7415066e-11",
+          "6.6825811e-12",
+          "1.2820596e-12",
+          "5.4873071e-13",
+          "3.1555558e-13",
+          "1.8705801e-13",
+          "1.0940829e-13",
+          "6.2807669e-14",
+          "3.5312173e-14",
+          "1.9409587e-14",
+          "1.0409236e-14",
+          "5.4341200e-15",
+          "2.7543381e-15",
+          "1.3513344e-15",
+          "6.3949182e-16",
+          "2.9067934e-16",
+          "1.2630875e-16",
+          "5.2154724e-17",
+          "2.0320923e-17",
+          "7.4070806e-18",
+          "2.5106396e-18",
+          "7.6290154e-19",
+          "2.0806405e-19",
+          "5.5483747e-20",
+          "1.3870937e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "4.1661133e-07",
+          "1.6998467e-06",
+          "2.7760268e-06",
+          "3.4636737e-06",
+          "3.8322064e-06",
+          "3.9691349e-06",
+          "3.9464367e-06",
+          "3.8180165e-06",
+          "3.6228980e-06",
+          "3.3888177e-06",
+          "3.1352542e-06",
+          "2.8756713e-06",
+          "2.6192058e-06",
+          "2.3718858e-06",
+          "2.1375063e-06",
+          "1.9182812e-06",
+          "1.7153122e-06",
+          "1.5289037e-06",
+          "1.3588333e-06",
+          "1.2045274e-06",
+          "1.0651704e-06",
+          "9.3982607e-07",
+          "8.2747874e-07",
+          "7.2709645e-07",
+          "6.3766134e-07",
+          "5.5818367e-07",
+          "4.8775269e-07",
+          "4.2571065e-07",
+          "3.7302271e-07",
+          "3.4067349e-07",
+          "3.9443981e-07",
+          "8.5905123e-07",
+          "3.1177935e-06",
+          ".000012304801",
+          ".000045084806",
+          ".00014883406",
+          ".00044146818",
+          ".0011792069",
+          ".0028447837",
+          ".0062159183",
+          ".012332767",
+          ".022268835",
+          ".03666668",
+          ".05514618",
+          ".075867899",
+          ".095591448",
+          ".11041088",
+          ".116993",
+          ".11378562",
+          ".10160654",
+          ".083311655",
+          ".06271711",
+          ".043332975",
+          ".027464291",
+          ".01595502",
+          ".008487626",
+          ".0041295607",
+          ".0018349242",
+          ".00074334029",
+          ".0002740043",
+          ".000091694092",
+          ".000027787084",
+          "7.6036240e-06",
+          "1.8729398e-06",
+          "4.1400048e-07",
+          "8.1971770e-08",
+          "1.4627950e-08",
+          "2.4702125e-09",
+          "4.9499743e-10",
+          "1.8191537e-10",
+          "1.1346780e-10",
+          "8.2227704e-11",
+          "6.0596521e-11",
+          "4.4369539e-11",
+          "3.2161513e-11",
+          "2.3051909e-11",
+          "1.6322355e-11",
+          "1.1405377e-11",
+          "7.8555365e-12",
+          "5.3258400e-12",
+          "3.5488119e-12",
+          "2.3199628e-12",
+          "1.4848386e-12",
+          "9.2815013e-13",
+          "5.6499678e-13",
+          "3.3377627e-13",
+          "1.9056410e-13",
+          "1.0461072e-13",
+          "5.4864885e-14",
+          "2.7270593e-14",
+          "1.2713219e-14",
+          "5.4825868e-15",
+          "2.1465596e-15",
+          "7.4305367e-16",
+          "2.1869594e-16",
+          "5.1484168e-17",
+          "8.7486385e-18",
+          "8.8086980e-19",
+          "3.3366278e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5462 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "28.42799",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "34.468842",
+      "pollonly_lo": "28.846935",
+      "pollonly_forecast": "30.547964",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "33.705173",
+      "kitchen_lo": "26.028534",
+      "kitchen_forecast": "28.854017"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "64.27771",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "71.216782",
+      "pollonly_lo": "65.642975",
+      "pollonly_forecast": "66.310043",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "73.951019",
+      "kitchen_lo": "66.33638",
+      "kitchen_forecast": "68.00399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "28.428877",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "34.472336",
+      "pollonly_lo": "28.840427",
+      "pollonly_forecast": "30.548855",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "33.459877",
+      "kitchen_lo": "26.330938",
+      "kitchen_forecast": "28.887011"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "64.276817",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "71.215889",
+      "pollonly_lo": "65.642014",
+      "pollonly_forecast": "66.309143",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "73.646034",
+      "kitchen_lo": "66.58078",
+      "kitchen_forecast": "67.970993"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "27.884817",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "35.184151",
+      "pollonly_lo": "27.887798",
+      "pollonly_forecast": "30.266897",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "32.819061",
+      "kitchen_lo": "22.702972",
+      "kitchen_forecast": "26.720535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "64.12571",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "72.26355",
+      "pollonly_lo": "65.108704",
+      "pollonly_forecast": "66.56424",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "77.228821",
+      "kitchen_lo": "67.300964",
+      "kitchen_forecast": "70.110596"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "25.411854",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "34.10125",
+      "pollonly_lo": "25.287537",
+      "pollonly_forecast": "28.23757",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "30.589115",
+      "kitchen_lo": "19.064905",
+      "kitchen_forecast": "23.70229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "64.766411",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "74.874229",
+      "pollonly_lo": "66.449631",
+      "pollonly_forecast": "68.277092",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "80.807861",
+      "kitchen_lo": "69.650879",
+      "kitchen_forecast": "72.81237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "25.411854",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "33.837734",
+      "pollonly_lo": "25.560188",
+      "pollonly_forecast": "28.23757",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "30.377365",
+      "kitchen_lo": "19.226225",
+      "kitchen_forecast": "23.699703"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "64.766411",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "74.622955",
+      "pollonly_lo": "66.706238",
+      "pollonly_forecast": "68.277092",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "80.653397",
+      "kitchen_lo": "69.853806",
+      "kitchen_forecast": "72.814964"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "25.393194",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "33.544815",
+      "pollonly_lo": "25.812408",
+      "pollonly_forecast": "28.2211",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "30.111904",
+      "kitchen_lo": "19.300449",
+      "kitchen_forecast": "23.620367"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "64.775101",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "74.400055",
+      "pollonly_lo": "66.992943",
+      "pollonly_forecast": "68.291534",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "80.567017",
+      "kitchen_lo": "70.094574",
+      "kitchen_forecast": "72.892265"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "24.480612",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "33.755798",
+      "pollonly_lo": "24.466072",
+      "pollonly_forecast": "27.569897",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "30.032444",
+      "kitchen_lo": "18.152981",
+      "kitchen_forecast": "22.892866"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "64.532288",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "75.664612",
+      "pollonly_lo": "66.861946",
+      "pollonly_forecast": "68.70237",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "81.704269",
+      "kitchen_lo": "70.295792",
+      "kitchen_forecast": "73.379417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "24.459993",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "33.482399",
+      "pollonly_lo": "24.695858",
+      "pollonly_forecast": "27.543467",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "30.076218",
+      "kitchen_lo": "18.690342",
+      "kitchen_forecast": "23.179758"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "64.568245",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "75.458801",
+      "pollonly_lo": "67.160233",
+      "pollonly_forecast": "68.732086",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "81.180771",
+      "kitchen_lo": "70.250114",
+      "kitchen_forecast": "73.095787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "22.128336",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "31.300217",
+      "pollonly_lo": "20.077982",
+      "pollonly_forecast": "24.241575",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "26.903669",
+      "kitchen_lo": "14.775196",
+      "kitchen_forecast": "19.771187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "68.6633",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "79.473465",
+      "pollonly_lo": "70.081985",
+      "pollonly_forecast": "72.435806",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "84.923965",
+      "kitchen_lo": "73.629974",
+      "kitchen_forecast": "76.906189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "26.81271",
+      "pollonly_winprob": 0.655,
+      "pollonly_hi": "40.099537",
+      "pollonly_lo": "25.723637",
+      "pollonly_forecast": "31.189795",
+      "kitchen_winprob": 0.35500000000000004,
+      "kitchen_hi": "36.286259",
+      "kitchen_lo": "20.118565",
+      "kitchen_forecast": "26.613255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "60.167042",
+      "pollonly_winprob": 99.344999,
+      "pollonly_hi": "74.256805",
+      "pollonly_lo": "60.443932",
+      "pollonly_forecast": "64.863541",
+      "kitchen_winprob": 99.645001,
+      "kitchen_hi": "79.698807",
+      "kitchen_lo": "64.262306",
+      "kitchen_forecast": "69.440086"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "26.81271",
+      "pollonly_winprob": 0.51500001,
+      "pollonly_hi": "39.883873",
+      "pollonly_lo": "25.905083",
+      "pollonly_forecast": "31.189795",
+      "kitchen_winprob": 0.27499999999999997,
+      "kitchen_hi": "36.123325",
+      "kitchen_lo": "20.245094",
+      "kitchen_forecast": "26.613255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "60.167042",
+      "pollonly_winprob": 99.484998,
+      "pollonly_hi": "74.077538",
+      "pollonly_lo": "60.657555",
+      "pollonly_forecast": "64.863541",
+      "kitchen_winprob": 99.72500199999999,
+      "kitchen_hi": "79.553688",
+      "kitchen_lo": "64.390411",
+      "kitchen_forecast": "69.440086"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "26.803949",
+      "pollonly_winprob": 0.43000001,
+      "pollonly_hi": "39.686272",
+      "pollonly_lo": "26.144732",
+      "pollonly_forecast": "31.185877",
+      "kitchen_winprob": 0.23500000000000001,
+      "kitchen_hi": "35.936024",
+      "kitchen_lo": "20.702389",
+      "kitchen_forecast": "26.840225"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "60.15897",
+      "pollonly_winprob": 99.57000000000001,
+      "pollonly_hi": "73.880615",
+      "pollonly_lo": "60.853313",
+      "pollonly_forecast": "64.863701",
+      "kitchen_winprob": 99.765003,
+      "kitchen_hi": "79.15316",
+      "kitchen_lo": "64.380653",
+      "kitchen_forecast": "69.209351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "27.021496",
+      "pollonly_winprob": 0.41999999,
+      "pollonly_hi": "39.601494",
+      "pollonly_lo": "26.514101",
+      "pollonly_forecast": "31.37006",
+      "kitchen_winprob": 0.22,
+      "kitchen_hi": "35.421997",
+      "kitchen_lo": "20.070488",
+      "kitchen_forecast": "26.270477"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "60.076836",
+      "pollonly_winprob": 99.58000200000001,
+      "pollonly_hi": "73.522873",
+      "pollonly_lo": "60.889938",
+      "pollonly_forecast": "64.709755",
+      "kitchen_winprob": 99.779999,
+      "kitchen_hi": "79.776909",
+      "kitchen_lo": "64.916504",
+      "kitchen_forecast": "69.809334"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "27.258894",
+      "pollonly_winprob": 0.245,
+      "pollonly_hi": "39.528107",
+      "pollonly_lo": "26.8494",
+      "pollonly_forecast": "31.517759",
+      "kitchen_winprob": 0.13,
+      "kitchen_hi": "35.41325",
+      "kitchen_lo": "20.399242",
+      "kitchen_forecast": "26.473478"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "60.135998",
+      "pollonly_winprob": 99.755001,
+      "pollonly_hi": "73.207352",
+      "pollonly_lo": "60.975002",
+      "pollonly_forecast": "64.627655",
+      "kitchen_winprob": 99.870002,
+      "kitchen_hi": "79.461746",
+      "kitchen_lo": "64.896988",
+      "kitchen_forecast": "69.671928"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "22.66934"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "63.407734"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "22.666641"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "63.398666"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "22.663973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "63.404209"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "22.659224"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "63.405636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "22.660564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "63.402016"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "22.661863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "63.400471"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "21.350185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "63.4734"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "21.352507"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "63.465912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "21.349323"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "63.460396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "21.333626"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "63.485676"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "21.324669"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "63.511169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "21.331032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "63.510063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "15.1518"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "69.853607"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "15.164015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "69.867157"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "15.160984"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "69.870369"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "15.157329"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "69.865379"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "3.1630874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "15.145776"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "69.87645"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "3.1649237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "15.141437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "69.886223"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "3.1647444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "15.143173"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "69.90004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "3.1712484"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "15.113542"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "69.908081"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "3.1587145"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "15.154221"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "69.891853"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "3.1714525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "15.148575"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "69.914078"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "3.2051682"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "15.14993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "69.918167"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "3.1975689"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "15.166169"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "69.508781"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "3.2285233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "15.170499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "69.500938"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "3.2283883"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "15.170736"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "69.506393"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "3.2273064"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "15.178083"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "69.522125"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "3.2294812"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "15.191221"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "69.532509"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "3.2283041"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "15.157836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "69.587524"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "3.2426412"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "15.112704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "69.609711"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.2507563"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "15.114483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "69.648308"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.2534809"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "15.11206"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "69.64196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.2544885"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "15.11206"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "69.64196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.2544885"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "15.121343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "69.638191"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.2518985"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "15.135953"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "69.647964"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.255944"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "15.133534"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "69.660683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.2593372"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "15.145789"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "69.656013"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.2679095"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "15.165641"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "69.647522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.2666309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "15.16564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "69.647522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.2666309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "15.16564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "69.647522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.2666309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "15.16564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "69.647522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.2666309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "15.16016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "69.623718"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.2703171"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "15.167386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "69.625351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.2627778"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "15.167386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "69.625351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.2627778"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "15.167386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "69.625351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.2627778"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.2689099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "15.136922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "15.136923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "69.62558"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.2689097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "15.139726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "69.625816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.2678895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "15.139726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "69.625816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.2678895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "15.139726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "69.625816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.2678895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "15.139726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "69.625816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.2678895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "15.139727"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "69.625816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.2678895"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "15.15257"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "69.620377"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.2660849"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "15.151399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "69.619362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.2753913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "15.146834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "69.621658"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.2795007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "15.146834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "69.621658"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.2795007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "15.146834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "69.621658"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.2795007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "15.154763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "69.642166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.2772551"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "15.154764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "69.642166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.2772551"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "15.158212"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "69.640396"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.2771723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "15.158212"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "69.640396"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.2771723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "15.147956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "69.649033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.2548535"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "15.147956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "69.649033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.2548535"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "15.147956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "69.649033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.2548535"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "15.137259"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "69.657883"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.2591169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "15.125675"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "69.655052"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "3.2608232"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "15.124209"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "69.649223"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "3.2620943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "15.118742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "69.677376"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "3.2855952"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "15.138486"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "69.638519"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "3.2978954"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "15.138486"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "69.638519"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "3.2978952"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "15.143179"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "69.644188"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "3.3004274"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "15.108009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "69.677902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "3.2857399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "15.119054"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "69.678444"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "3.2770705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "15.118992"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "69.674522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "3.277786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "15.117433"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "69.666107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "3.281379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "15.118954"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "69.666466"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "3.2810338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "15.096265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "69.673805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "3.2803218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "15.096265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "69.673805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "3.2803218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "15.096265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "69.673805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "3.2803218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "15.073094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "69.704948"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "3.2897568"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "15.073094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "69.704948"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "3.2897568"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "15.069937"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "69.706131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "3.2728155"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "15.138403"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "69.990868"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "3.2249181"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "15.152284"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "69.967194"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "3.2225521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "15.152284"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "69.967194"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "3.2225521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "15.153106"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "69.963364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "3.216686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "15.153106"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "69.963364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "3.216686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "15.143161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "69.965332"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "3.2159534"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "15.151665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "69.962502"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "3.2187264"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "15.155112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "69.943787"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "3.2219594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "15.204847"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "70.072655"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "3.2220721"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "15.204847"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "70.072655"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "3.2220721"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "15.229294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "70.057518"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "3.2326708"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "15.251325"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "70.068253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "3.2285457"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "15.239922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "70.051903"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "3.2436495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "15.235792"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "70.071609"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "3.2440691"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "15.209673"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "70.215683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "3.256222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "16.05171"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "70.168091"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "3.5891688"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "16.054371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "70.172623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "3.590955"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "16.054371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "70.172623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "3.590955"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "16.050634"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "70.179031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "3.5913799"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "16.050634"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "70.179031"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "3.5913799"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "16.051157"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "70.173569"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "3.5906785"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "17.254295"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "53.428474"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".56452179"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "17.25238"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "53.45628"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": ".58979422"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "17.293392"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "53.388287"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "4.9294448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".56973046"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "17.350086"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "53.397514"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "4.9294448"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".57423288"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "17.349155"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "53.456398"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "4.9258904"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".57712829"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "17.349155"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "53.456398"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.0098675"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "4.9258904"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".57712829"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "17.39609"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "53.538689"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.0253847"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "4.9022818"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".56204319"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "17.399996"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "53.503891"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.0368485"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "4.9133286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".59020436"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "17.403202"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "53.511105"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.033824"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "4.9177413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".59022993"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "17.717722"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "53.516529"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.0303184"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "4.9185853"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".58298695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "17.717722"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "53.516529"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.0303185"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "4.9185853"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".58298701"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "17.710484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "53.529316"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.0347795"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "4.9162598"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".58147812"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "17.710484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "53.529316"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.0347794"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "4.9162598"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".58147806"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "17.710484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "53.529316"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.0347794"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "4.9162598"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".58147812"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "17.699705"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "53.525486"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.0392178"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "4.9185061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".57918662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "17.71003"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "53.523525"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.0351772"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "4.9306931"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".58025825"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "17.688223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "53.53933"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.04593"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "4.9442134"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".60669351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "17.688223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "53.53933"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.0459301"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "4.9442134"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".60669357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "17.618971"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "53.652554"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.0608319"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "4.9836779"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".60176229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "17.618971"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "53.652554"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.0608319"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "4.9836779"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".60176229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "17.617254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "53.651569"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.059202"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "4.9848518"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".60022974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "17.658321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "53.693291"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.0686532"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "5.0002298"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".63444728"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "17.640566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "53.550278"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.0735551"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "5.0009751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".62440026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "17.640566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "53.550278"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.073555"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "5.0009751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".62440026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "17.640566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "53.550278"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.073555"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "5.0009751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".62440026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "17.629759"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "53.53429"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.0663837"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "4.9971251"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".61917084"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "17.597857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "53.531536"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.0693034"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "4.9933462"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".62202442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "17.594078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "53.528652"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.06947"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "4.9930282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".6197564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "17.457523"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "53.522789"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.0644013"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "5.0005603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".62420923"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "17.493427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "53.448769"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.0375165"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "4.9868679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".59450245"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "17.493427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "53.448769"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.0375165"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "4.9868679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".59450245"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "17.493427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "53.448769"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.0375165"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "4.9868679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".59450245"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "17.496485"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "53.420322"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.0332681"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "4.9868679"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".59205234"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "17.487318"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "53.426014"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.0354263"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "4.9930897"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".586573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "17.482868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "53.425343"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.0342849"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "4.9930897"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".58540297"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "17.433676"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "53.400005"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.0720037"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "5.0289893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".62558889"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "17.518637"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "53.246056"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.0694726"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "5.0353785"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".61751062"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "17.566229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "53.326012"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.0693418"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "5.0353785"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".61453825"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "17.55073"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "53.277676"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.070945"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "5.0406456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".61676687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "17.531319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "53.303101"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.070945"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "5.0406456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".61676687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "17.531319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "53.303101"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.070945"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "5.0406456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".61676687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "17.526375"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "53.302486"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.0723259"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "5.0434484"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".61695737"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "17.567738"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "53.36853"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.0602562"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "5.0358195"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".61701852"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "17.651535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "53.319271"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.0753622"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "5.0576739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".59687591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "17.651535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "53.319271"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.0753622"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "5.0576739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".59687585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "17.761797"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "53.559425"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.0826817"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "5.0646033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".57747746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "17.828222"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "53.355705"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.0693046"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "5.0291491"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".55378795"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "17.828222"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "53.355705"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.0693046"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "5.0291491"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".55378795"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "17.785322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "53.497566"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.0606529"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "5.0291491"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".52076185"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "17.790827"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "53.498619"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.0622953"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "5.0311499"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".51845497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "17.790689"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "53.499519"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.0578216"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "5.0245876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".51265222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "17.790689"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "53.499519"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.0578215"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "5.0245876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".51265222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "17.790689"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "53.499519"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.0578216"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "5.0245876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".51265222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "17.790689"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "53.499519"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.0578216"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "5.0245876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".51265222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "17.800636"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "53.272007"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".99413139"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Georgia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "4.9851384"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".47671342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "11.248039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "55.796955"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.9915636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".95480973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "11.249688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "55.793682"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.9981294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".95030129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "11.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "55.788509"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "2.0021236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "11.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "55.788509"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "2.0021236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "11.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "55.788509"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "2.0021236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "11.246307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "55.806095"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.9972359"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".92398918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "11.159607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "55.863426"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.9824715"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".89095581"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "11.155286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "55.882851"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.9891155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".89319587"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "11.162263"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "55.91547"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "2.0279176"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".89621788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "11.162263"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "55.91547"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "2.0279176"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".89621788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "11.176057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "55.919743"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "2.0056789"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "11.176057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "55.919743"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "2.0056789"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "11.176057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "55.919743"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "2.0056789"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "11.176057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "55.919743"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "2.0056789"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "11.161972"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "55.926495"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "2.0100026"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".88350177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "11.161972"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "55.926495"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "2.0100026"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".88350177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "10.980465"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "55.929893"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "2.0009868"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "10.980465"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "55.929893"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "2.0009868"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "10.980465"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "55.929893"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "2.0009868"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "10.974677"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "55.938141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "2.0047636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".87469053"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "10.974677"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "55.938141"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "2.0047636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".87469053"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "11.011244"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "55.977631"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "2.0044901"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".86591017"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "11.00449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "55.990837"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "2.007654"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".87039089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "11.003781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "55.983864"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "2.0074224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "11.003781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "55.983864"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "2.0074224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "11.003781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "55.983864"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "2.0074224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Georgia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "11.003781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Georgia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "55.983864"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Georgia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "2.0074224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Georgia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".85172474"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50055",
+      "population": "rv",
+      "pollId": "36510",
+      "cycle": "2016",
+      "sampleSize": "961",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "1193",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-29",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "https://www.surveymonkey.com/blog/2016/02/29/trumps-lead-looks-solid-in-run-up-to-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456784580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "36.0"
+        }
+      ],
+      "weight": ".4124552011489868"
+    },
+    {
+      "id": "50037",
+      "population": "lv",
+      "pollId": "36500",
+      "cycle": "2016",
+      "sampleSize": "800",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "262",
+      "pollster": "Landmark Communications",
+      "startDate": "2016-02-28",
+      "endDate": "2016-02-28",
+      "methodology": null,
+      "tracking": null,
+      "url": "https://cmgajcpolitics.files.wordpress.com/2016/02/wsb-2-29.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456766100,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "70.1"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "23.0"
+        }
+      ],
+      "weight": "1.057414054870605"
+    },
+    {
+      "id": "50002",
+      "population": "lv",
+      "pollId": "36482",
+      "cycle": "2016",
+      "sampleSize": "492",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-26",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "http://www.cbsnews.com/news/poll-donald-trump-leads-virginia-georgia-ted-cruz-hanging-on-texas-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456654860,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "63.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "35.0"
+        }
+      ],
+      "weight": ".3544283807277679"
+    },
+    {
+      "id": "50034",
+      "population": "lv",
+      "pollId": "36442",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "1248",
+      "pollster": "ResearchNow",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-24",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "http://news.wabe.org/post/wabe-poll-hillary-clinton-has-commanding-support-among-ga-democratic-voters",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456756380,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "62.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.0"
+        }
+      ],
+      "weight": ".2021409273147583"
+    },
+    {
+      "id": "49493",
+      "population": "lv",
+      "pollId": "36423",
+      "cycle": "2016",
+      "sampleSize": "491",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "1190",
+      "pollster": "Opinion Savvy",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-23",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://opinionsavvy.com/2016/02/23/3626/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456241520,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.0"
+        }
+      ],
+      "weight": ".1480222791433334"
+    },
+    {
+      "id": "49969",
+      "population": "lv",
+      "pollId": "36467",
+      "cycle": "2016",
+      "sampleSize": "501",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "460",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone / Internet",
+      "tracking": null,
+      "url": "http://www.surveyusa.com/client/PollReport.aspx?g=4bbed8ac-c9f0-4ef1-a64e-584123cee583&utm_source=twitterfeed&utm_medium=twitter",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456425480,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "66.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.0"
+        }
+      ],
+      "weight": ".4143719077110291"
+    },
+    {
+      "id": "50006",
+      "population": "lv",
+      "pollId": "36485",
+      "cycle": "2016",
+      "sampleSize": "461",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-02-18",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.nbcnews.com/meet-the-press/polls-trump-clinton-ahead-super-tuesday-states-n527256",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456655040,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "64.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": ".1855152249336243"
+    },
+    {
+      "id": "49470",
+      "population": "lv",
+      "pollId": "36416",
+      "cycle": "2016",
+      "sampleSize": "700",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "262",
+      "pollster": "Landmark Communications",
+      "startDate": "2016-02-21",
+      "endDate": "2016-02-21",
+      "methodology": null,
+      "tracking": null,
+      "url": "https://cmgajcpolitics.files.wordpress.com/2016/02/dem-poll-wsb.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456162500,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "72.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "19.8"
+        }
+      ],
+      "weight": ".0311153456568718"
+    },
+    {
+      "id": "49363",
+      "population": "lv",
+      "pollId": "36357",
+      "cycle": "2016",
+      "sampleSize": "500",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "26.0"
+        }
+      ],
+      "weight": ".0411574020981789"
+    },
+    {
+      "id": "48917",
+      "population": "lv",
+      "pollId": "36042",
+      "cycle": "2016",
+      "sampleSize": "600",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "262",
+      "pollster": "Landmark Communications",
+      "startDate": "2016-02-04",
+      "endDate": "2016-02-04",
+      "methodology": null,
+      "tracking": null,
+      "url": "https://cmgajcpolitics.files.wordpress.com/2016/02/dem-pres-pref-primary-poll-2-5-16.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1454699820,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "63.3"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "21.5"
+        }
+      ],
+      "weight": ".0000298708619084"
+    },
+    {
+      "id": "46706",
+      "population": "lv",
+      "pollId": "35296",
+      "cycle": "2016",
+      "sampleSize": "481",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "460",
+      "pollster": "SurveyUSA",
+      "startDate": "2015-10-15",
+      "endDate": "2015-10-26",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.11alive.com/story/news/politics/2015/11/02/exclusive-poll-georgia-wants-trump-president/74819370/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1446649020,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "73.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "16.0"
+        }
+      ],
+      "weight": "1.61094271328e-16"
+    },
+    {
+      "id": "43132",
+      "population": "lv",
+      "pollId": "34701",
+      "cycle": "2016",
+      "sampleSize": "413",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "1190",
+      "pollster": "Opinion Savvy",
+      "startDate": "2015-09-01",
+      "endDate": "2015-09-01",
+      "methodology": "IVR/Live Phone",
+      "tracking": null,
+      "url": "http://jacksonville.com/news/georgia/2015-09-03/story/trump-clinton-still-lead-georgia-leads-are-shrinking-poll-shows",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445328780,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "15.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "51.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "24.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "0.0"
+        }
+      ],
+      "weight": "5.32767435978e-23"
+    },
+    {
+      "id": "42905",
+      "population": "lv",
+      "pollId": "34656",
+      "cycle": "2016",
+      "sampleSize": "600",
+      "state": "GA",
+      "officeType": "U.S. President",
+      "pollsterId": "262",
+      "pollster": "Landmark Communications",
+      "startDate": "2015-08-05",
+      "endDate": "2015-08-05",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.wsbtv.com/news/news/local/trump-clinton-lead-early-georgia-primary-poll/nnDzL/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445326080,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "18.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "11.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "2.98276782356e-26"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "3.7121625e-11",
+          "8.7484153e-10",
+          "4.0055665e-09",
+          "9.7683319e-09",
+          "1.7428002e-08",
+          "2.5911692e-08",
+          "3.4237353e-08",
+          "4.1676913e-08",
+          "4.7778670e-08",
+          "5.2328371e-08",
+          "5.5292176e-08",
+          "5.6759848e-08",
+          "5.6897264e-08",
+          "5.5909602e-08",
+          "5.4014563e-08",
+          "5.1424536e-08",
+          "4.8335483e-08",
+          "4.4919933e-08",
+          "4.1325013e-08",
+          "3.7672077e-08",
+          "3.4057447e-08",
+          "3.0555530e-08",
+          "2.7220697e-08",
+          "2.4090706e-08",
+          "2.1189418e-08",
+          "1.8529095e-08",
+          "1.6113294e-08",
+          "1.3938353e-08",
+          "1.1995799e-08",
+          "1.0273357e-08",
+          "8.7562810e-09",
+          "7.4285880e-09",
+          "6.2735466e-09",
+          "5.2743503e-09",
+          "4.4147090e-09",
+          "3.6789958e-09",
+          "3.0525105e-09",
+          "2.5217024e-09",
+          "2.0741304e-09",
+          "1.6985479e-09",
+          "1.3848499e-09",
+          "1.1240796e-09",
+          "9.0831848e-10",
+          "7.3062506e-10",
+          "5.8497596e-10",
+          "4.6615573e-10",
+          "3.6968154e-10",
+          "2.9173272e-10",
+          "2.2906084e-10",
+          "1.7892370e-10",
+          "1.3906627e-10",
+          "1.0854575e-10",
+          "1.0362862e-10",
+          "3.9553427e-10",
+          "4.4630952e-09",
+          "4.9445191e-08",
+          "4.6591558e-07",
+          "3.6994688e-06",
+          ".000024713621",
+          ".000138691",
+          ".00065255305",
+          ".0025679143",
+          ".0084264018",
+          ".022974839",
+          ".051831715",
+          ".096287332",
+          ".14646806",
+          ".18128298",
+          ".18124229",
+          ".14516954",
+          ".092289992",
+          ".046080042",
+          ".017854607",
+          ".0052965414",
+          ".0011845569",
+          ".00019626482",
+          ".000023614726",
+          "2.0167527e-06",
+          "1.1908148e-07",
+          "4.7160036e-09",
+          "1.2094052e-10",
+          "1.9279493e-12",
+          "1.8512905e-14",
+          "2.5953121e-16",
+          "6.9222047e-17",
+          "3.0742134e-17",
+          "1.2921718e-17",
+          "5.0981858e-18",
+          "1.8689732e-18",
+          "6.2844949e-19",
+          "1.9052641e-19",
+          "5.1006199e-20",
+          "1.1728106e-20",
+          "2.2128503e-21",
+          "3.3192753e-22",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.8727322e-11",
+          "1.2235872e-10",
+          "2.7301333e-10",
+          "4.2644591e-10",
+          "5.6307781e-10",
+          "6.7550948e-10",
+          "7.6222595e-10",
+          "8.2452273e-10",
+          "8.6495477e-10",
+          "8.8652341e-10",
+          "8.9226565e-10",
+          "8.8503710e-10",
+          "8.6741858e-10",
+          "8.4168156e-10",
+          "8.0978574e-10",
+          "7.7339873e-10",
+          "7.3392503e-10",
+          "6.9252459e-10",
+          "6.5015210e-10",
+          "6.0758398e-10",
+          "5.6543481e-10",
+          "5.2419374e-10",
+          "4.8423221e-10",
+          "4.4583018e-10",
+          "4.0919101e-10",
+          "3.7444847e-10",
+          "3.4168840e-10",
+          "3.1094649e-10",
+          "2.8223018e-10",
+          "2.5551561e-10",
+          "2.3075504e-10",
+          "2.0788848e-10",
+          "1.8684085e-10",
+          "1.6752660e-10",
+          "1.4985750e-10",
+          "1.3373967e-10",
+          "1.1907653e-10",
+          "1.0577381e-10",
+          "9.3736650e-11",
+          "8.2873028e-11",
+          "7.3092830e-11",
+          "6.4310897e-11",
+          "5.6445123e-11",
+          "4.9417598e-11",
+          "4.3159996e-11",
+          "3.7648985e-11",
+          "3.3227438e-11",
+          "3.3128198e-11",
+          "6.1436620e-11",
+          "2.7900665e-10",
+          "1.6615836e-09",
+          "9.5959756e-09",
+          "5.1157421e-08",
+          "2.5021995e-07",
+          "1.1222912e-06",
+          "4.6165405e-06",
+          ".000017416594",
+          ".000060251368",
+          ".00019105236",
+          ".00055494084",
+          ".0014752187",
+          ".0035850364",
+          ".0079532163",
+          ".016079172",
+          ".029565137",
+          ".049325436",
+          ".074463621",
+          ".1014021",
+          ".12411473",
+          ".13598889",
+          ".13276289",
+          ".11488522",
+          ".087593243",
+          ".058447894",
+          ".033870533",
+          ".01689807",
+          ".0071860263",
+          ".0025753169",
+          ".00076769147",
+          ".00018750207",
+          ".000036874066",
+          "5.7213633e-06",
+          "6.8389960e-07",
+          "6.1231560e-08",
+          "3.9708761e-09",
+          "1.7914327e-10",
+          "5.3544487e-12",
+          "1.0044554e-13",
+          "1.5264856e-15",
+          "2.2044415e-16",
+          "1.0994207e-16",
+          "5.0971422e-17",
+          "2.1583318e-17",
+          "8.1410504e-18",
+          "2.6361057e-18",
+          "6.9153602e-19",
+          "1.3323782e-19",
+          "1.5667394e-20",
+          "7.4342903e-22",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          ".000022456077",
+          ".00016551994",
+          ".00033608355",
+          ".00044540645",
+          ".00048731026",
+          ".00048033669",
+          ".00044421421",
+          ".00039385678",
+          ".00033906824",
+          ".00028568442",
+          ".00023681637",
+          ".0001938302",
+          ".00015704287",
+          ".00012618324",
+          ".00010068432",
+          ".000079862373",
+          ".000063020518",
+          ".000049503709",
+          ".000038726597",
+          ".000030182438",
+          ".000023444967",
+          ".000018236447",
+          ".000015566131",
+          ".00002958585",
+          ".00016899181",
+          ".0010030409",
+          ".004581586",
+          ".015840035",
+          ".04193661",
+          ".086138546",
+          ".13890886",
+          ".17773971",
+          ".18214676",
+          ".15073782",
+          ".10147314",
+          ".055922266",
+          ".025371738",
+          ".0095228683",
+          ".0029693735",
+          ".00077199907",
+          ".00016788227",
+          ".000030639116",
+          "4.7235044e-06",
+          "6.3332618e-07",
+          "8.7319997e-08",
+          "2.1694401e-08",
+          "1.1667408e-08",
+          "7.9816305e-09",
+          "5.6160339e-09",
+          "3.9440939e-09",
+          "2.7560352e-09",
+          "1.9153163e-09",
+          "1.3234391e-09",
+          "9.0900559e-10",
+          "6.2044531e-10",
+          "4.2072479e-10",
+          "2.8334390e-10",
+          "1.8945592e-10",
+          "1.2572703e-10",
+          "8.2777785e-11",
+          "5.4048172e-11",
+          "3.4982451e-11",
+          "2.2434438e-11",
+          "1.4248095e-11",
+          "8.9564987e-12",
+          "5.5693536e-12",
+          "3.4235011e-12",
+          "2.0789310e-12",
+          "1.2461767e-12",
+          "7.3675967e-13",
+          "4.2922149e-13",
+          "2.4615596e-13",
+          "1.3881019e-13",
+          "7.6874644e-14",
+          "4.1754581e-14",
+          "2.2208208e-14",
+          "1.1546642e-14",
+          "5.8571545e-15",
+          "2.8925034e-15",
+          "1.3870603e-15",
+          "6.4424632e-16",
+          "2.8858984e-16",
+          "1.2397169e-16",
+          "5.1316151e-17",
+          "2.0323229e-17",
+          "7.6212104e-18",
+          "2.5404036e-18",
+          "5.0808070e-19",
+          "5.0808070e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000016598175",
+          ".000044641485",
+          ".000055118624",
+          ".000056074841",
+          ".000052705003",
+          ".000047580492",
+          ".000041969513",
+          ".000036489415",
+          ".000031424584",
+          ".000026886304",
+          ".000022896509",
+          ".000019432096",
+          ".000016449152",
+          ".000013895988",
+          ".000011720253",
+          "9.8763994e-06",
+          "8.3783771e-06",
+          "7.7741697e-06",
+          ".000012317421",
+          ".000045495013",
+          ".00020599602",
+          ".00081458123",
+          ".0026807708",
+          ".0073753134",
+          ".017150739",
+          ".034077588",
+          ".058420375",
+          ".087155096",
+          ".11400972",
+          ".13164523",
+          ".13496757",
+          ".12350031",
+          ".10132188",
+          ".074830107",
+          ".049925689",
+          ".030184709",
+          ".016581714",
+          ".0082959477",
+          ".0037875762",
+          ".0015807064",
+          ".00060387875",
+          ".00021143888",
+          ".000067925692",
+          ".000020048567",
+          "5.4521643e-06",
+          "1.3782310e-06",
+          "3.3422435e-07",
+          "8.6445638e-08",
+          "3.0189700e-08",
+          "1.6463886e-08",
+          "1.1756081e-08",
+          "9.1264507e-09",
+          "7.2038953e-09",
+          "5.6892118e-09",
+          "4.4800226e-09",
+          "3.5150458e-09",
+          "2.7471247e-09",
+          "2.1381048e-09",
+          "1.6568711e-09",
+          "1.2780870e-09",
+          "9.8113773e-10",
+          "7.4936157e-10",
+          "5.6927091e-10",
+          "4.3001180e-10",
+          "3.2287384e-10",
+          "2.4089300e-10",
+          "1.7851690e-10",
+          "1.3134825e-10",
+          "9.5908559e-11",
+          "6.9464247e-11",
+          "4.9876724e-11",
+          "3.5481916e-11",
+          "2.4991485e-11",
+          "1.7415680e-11",
+          "1.1997548e-11",
+          "8.1630041e-12",
+          "5.4798184e-12",
+          "3.6252446e-12",
+          "2.3604506e-12",
+          "1.5103642e-12",
+          "9.4811431e-13",
+          "5.8273189e-13",
+          "3.4986944e-13",
+          "2.0464449e-13",
+          "1.1624297e-13",
+          "6.3876530e-14",
+          "3.3801121e-14",
+          "1.7126879e-14",
+          "8.2516044e-15",
+          "3.7467050e-15",
+          "1.5850970e-15",
+          "6.1542105e-16",
+          "2.1480632e-16",
+          "6.5445432e-17",
+          "1.6746151e-17",
+          "3.3246035e-18",
+          "4.3096710e-19",
+          "6.1566730e-20",
+          "0",
+          "0"
+        ]
+      }
+    }
+  ]
+}

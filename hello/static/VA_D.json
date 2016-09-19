@@ -1,0 +1,7566 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "34.55616",
+      "pollonly_winprob": 0.185,
+      "pollonly_hi": "42.201572",
+      "pollonly_lo": "33.909195",
+      "pollonly_forecast": "36.747707",
+      "kitchen_winprob": 0.24999999,
+      "kitchen_hi": "40.959442",
+      "kitchen_lo": "30.748394",
+      "kitchen_forecast": "34.645073"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "58.060349",
+      "pollonly_winprob": 99.814999,
+      "pollonly_hi": "66.1548",
+      "pollonly_lo": "57.925026",
+      "pollonly_forecast": "60.157425",
+      "kitchen_winprob": 99.75,
+      "kitchen_hi": "69.243057",
+      "kitchen_lo": "59.111549",
+      "kitchen_forecast": "62.260063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "34.557774",
+      "pollonly_winprob": 0.075000001,
+      "pollonly_hi": "41.871445",
+      "pollonly_lo": "34.251694",
+      "pollonly_forecast": "36.749439",
+      "kitchen_winprob": 0.18,
+      "kitchen_hi": "40.779831",
+      "kitchen_lo": "31.132053",
+      "kitchen_forecast": "34.746586"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "58.058445",
+      "pollonly_winprob": 99.924999,
+      "pollonly_hi": "65.828629",
+      "pollonly_lo": "58.253532",
+      "pollonly_forecast": "60.155647",
+      "kitchen_winprob": 99.82,
+      "kitchen_hi": "68.861298",
+      "kitchen_lo": "59.28952",
+      "kitchen_forecast": "62.158497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "34.981449",
+      "pollonly_winprob": 0.3,
+      "pollonly_hi": "42.646912",
+      "pollonly_lo": "34.154907",
+      "pollonly_forecast": "37.093723",
+      "kitchen_winprob": 0.35999999,
+      "kitchen_hi": "40.916656",
+      "kitchen_lo": "30.085808",
+      "kitchen_forecast": "34.319748"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "57.941208",
+      "pollonly_winprob": 99.699998,
+      "pollonly_hi": "65.928192",
+      "pollonly_lo": "57.508911",
+      "pollonly_forecast": "59.904388",
+      "kitchen_winprob": 99.64,
+      "kitchen_hi": "69.888077",
+      "kitchen_lo": "59.169769",
+      "kitchen_forecast": "62.678371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "33.828426",
+      "pollonly_winprob": 0.685,
+      "pollonly_hi": "43.120316",
+      "pollonly_lo": "33.2523",
+      "pollonly_forecast": "36.656792",
+      "kitchen_winprob": 0.54500001,
+      "kitchen_hi": "40.655384",
+      "kitchen_lo": "28.273918",
+      "kitchen_forecast": "33.108002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "56.899456",
+      "pollonly_winprob": 99.315,
+      "pollonly_hi": "66.863144",
+      "pollonly_lo": "57.13723",
+      "pollonly_forecast": "59.954029",
+      "kitchen_winprob": 99.454999,
+      "kitchen_hi": "71.692078",
+      "kitchen_lo": "59.505302",
+      "kitchen_forecast": "63.502823"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "33.828426",
+      "pollonly_winprob": 0.50499998,
+      "pollonly_hi": "42.828407",
+      "pollonly_lo": "33.551239",
+      "pollonly_forecast": "36.656792",
+      "kitchen_winprob": 0.45500002,
+      "kitchen_hi": "40.42569",
+      "kitchen_lo": "28.474396",
+      "kitchen_forecast": "33.105106"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "56.899456",
+      "pollonly_winprob": 99.495,
+      "pollonly_hi": "66.5858",
+      "pollonly_lo": "57.43679",
+      "pollonly_forecast": "59.954029",
+      "kitchen_winprob": 99.54500200000001,
+      "kitchen_hi": "71.496124",
+      "kitchen_lo": "59.735519",
+      "kitchen_forecast": "63.505718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "34.179138",
+      "pollonly_winprob": 0.47499998,
+      "pollonly_hi": "42.450165",
+      "pollonly_lo": "32.80835",
+      "pollonly_forecast": "36.251553",
+      "kitchen_winprob": 0.40000002,
+      "kitchen_hi": "39.911484",
+      "kitchen_lo": "27.64864",
+      "kitchen_forecast": "32.575802"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "58.716991",
+      "pollonly_winprob": 99.52499900000001,
+      "pollonly_hi": "67.314156",
+      "pollonly_lo": "57.844452",
+      "pollonly_forecast": "60.766445",
+      "kitchen_winprob": 99.599999,
+      "kitchen_hi": "72.309555",
+      "kitchen_lo": "60.265865",
+      "kitchen_forecast": "64.442192"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "35.449417",
+      "pollonly_winprob": 5.6600000999999995,
+      "pollonly_hi": "47.548271",
+      "pollonly_lo": "32.353897",
+      "pollonly_forecast": "38.289177",
+      "kitchen_winprob": 2.8400000000000003,
+      "kitchen_hi": "44.216599",
+      "kitchen_lo": "27.073616",
+      "kitchen_forecast": "34.054195"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "55.511974",
+      "pollonly_winprob": 94.340003,
+      "pollonly_hi": "67.71608",
+      "pollonly_lo": "53.023277",
+      "pollonly_forecast": "58.577625",
+      "kitchen_winprob": 97.16,
+      "kitchen_hi": "72.823837",
+      "kitchen_lo": "56.442223",
+      "kitchen_forecast": "62.812607"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "35.431393",
+      "pollonly_winprob": 5.225000199999999,
+      "pollonly_hi": "47.284042",
+      "pollonly_lo": "32.538193",
+      "pollonly_forecast": "38.271248",
+      "kitchen_winprob": 2.8400000000000003,
+      "kitchen_hi": "44.250679",
+      "kitchen_lo": "27.829374",
+      "kitchen_forecast": "34.5005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "55.529045",
+      "pollonly_winprob": 94.774997,
+      "pollonly_hi": "67.535606",
+      "pollonly_lo": "53.25816",
+      "pollonly_forecast": "58.595383",
+      "kitchen_winprob": 97.16,
+      "kitchen_hi": "72.077972",
+      "kitchen_lo": "56.297245",
+      "kitchen_forecast": "62.366131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "35.408859",
+      "pollonly_winprob": 5.015,
+      "pollonly_hi": "47.086349",
+      "pollonly_lo": "32.771534",
+      "pollonly_forecast": "38.248684",
+      "kitchen_winprob": 2.6799999000000003,
+      "kitchen_hi": "44.120598",
+      "kitchen_lo": "28.004044",
+      "kitchen_forecast": "34.481014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "55.548355",
+      "pollonly_winprob": 94.985002,
+      "pollonly_hi": "67.345505",
+      "pollonly_lo": "53.488522",
+      "pollonly_forecast": "58.617352",
+      "kitchen_winprob": 97.320002,
+      "kitchen_hi": "71.952698",
+      "kitchen_lo": "56.486015",
+      "kitchen_forecast": "62.385021"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "35.543812",
+      "pollonly_winprob": 4.5299999,
+      "pollonly_hi": "46.910545",
+      "pollonly_lo": "33.02256",
+      "pollonly_forecast": "38.31562",
+      "kitchen_winprob": 2.4,
+      "kitchen_hi": "44.00869",
+      "kitchen_lo": "28.202101",
+      "kitchen_forecast": "34.554726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "55.605804",
+      "pollonly_winprob": 95.469999,
+      "pollonly_hi": "67.091995",
+      "pollonly_lo": "53.6576",
+      "pollonly_forecast": "58.585949",
+      "kitchen_winprob": 97.600001,
+      "kitchen_hi": "71.743492",
+      "kitchen_lo": "56.596527",
+      "kitchen_forecast": "62.346844"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "35.543812",
+      "pollonly_winprob": 4.14,
+      "pollonly_hi": "46.713837",
+      "pollonly_lo": "33.256359",
+      "pollonly_forecast": "38.31562",
+      "kitchen_winprob": 2.3150001,
+      "kitchen_hi": "43.865067",
+      "kitchen_lo": "28.388508",
+      "kitchen_forecast": "34.554726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "55.605804",
+      "pollonly_winprob": 95.859998,
+      "pollonly_hi": "66.885704",
+      "pollonly_lo": "53.87822",
+      "pollonly_forecast": "58.585949",
+      "kitchen_winprob": 97.684997,
+      "kitchen_hi": "71.598572",
+      "kitchen_lo": "56.764912",
+      "kitchen_forecast": "62.346844"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "35.535503",
+      "pollonly_winprob": 3.6899999,
+      "pollonly_hi": "46.480072",
+      "pollonly_lo": "33.485062",
+      "pollonly_forecast": "38.312801",
+      "kitchen_winprob": 2.0300001,
+      "kitchen_hi": "43.618427",
+      "kitchen_lo": "28.811707",
+      "kitchen_forecast": "34.818489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "55.597839",
+      "pollonly_winprob": 96.310002,
+      "pollonly_hi": "66.681572",
+      "pollonly_lo": "54.09227",
+      "pollonly_forecast": "58.585777",
+      "kitchen_winprob": 97.970003,
+      "kitchen_hi": "71.08709",
+      "kitchen_lo": "56.739922",
+      "kitchen_forecast": "62.080097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "35.748726",
+      "pollonly_winprob": 3.4299999,
+      "pollonly_hi": "46.408821",
+      "pollonly_lo": "33.874214",
+      "pollonly_forecast": "38.485023",
+      "kitchen_winprob": 1.87,
+      "kitchen_hi": "43.162678",
+      "kitchen_lo": "28.134995",
+      "kitchen_forecast": "34.224358"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "55.517151",
+      "pollonly_winprob": 96.569997,
+      "pollonly_hi": "66.304138",
+      "pollonly_lo": "54.152538",
+      "pollonly_forecast": "58.437859",
+      "kitchen_winprob": 98.13,
+      "kitchen_hi": "71.783707",
+      "kitchen_lo": "57.25481",
+      "kitchen_forecast": "62.698532"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "35.981865",
+      "pollonly_winprob": 3.3149999,
+      "pollonly_hi": "46.284454",
+      "pollonly_lo": "34.218433",
+      "pollonly_forecast": "38.61528",
+      "kitchen_winprob": 1.7550001,
+      "kitchen_hi": "43.10553",
+      "kitchen_lo": "28.474072",
+      "kitchen_forecast": "34.417301"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "55.576305",
+      "pollonly_winprob": 96.684998,
+      "pollonly_hi": "65.984497",
+      "pollonly_lo": "54.266922",
+      "pollonly_forecast": "58.360661",
+      "kitchen_winprob": 98.245001,
+      "kitchen_hi": "71.440384",
+      "kitchen_lo": "57.27058",
+      "kitchen_forecast": "62.558632"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "40.108452",
+      "pollonly_winprob": 20.349999999999998,
+      "pollonly_hi": "53.766609",
+      "pollonly_lo": "34.540596",
+      "pollonly_forecast": "42.677158",
+      "kitchen_winprob": 15.905,
+      "kitchen_hi": "52.226292",
+      "kitchen_lo": "34.769394",
+      "kitchen_forecast": "41.977295"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "52.182869",
+      "pollonly_winprob": 79.650003,
+      "pollonly_hi": "65.542679",
+      "pollonly_lo": "46.570381",
+      "pollonly_forecast": "54.581322",
+      "kitchen_winprob": 84.095001,
+      "kitchen_hi": "65.270081",
+      "kitchen_lo": "48.218864",
+      "kitchen_forecast": "55.281189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "25.5844"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "57.505398"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "25.581514"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "57.509621"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "25.576765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "57.511047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "25.578129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "57.507481"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "25.579369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "57.505886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "25.586222"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "57.503666"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "25.587898"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "57.496368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "25.584709"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "57.490849"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "25.569014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "57.516129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "25.560055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "57.541622"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "25.566696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "57.540318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "25.562393"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "57.541821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "25.574463"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "57.555378"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "25.571424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "57.55859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "25.567753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "57.553623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "4.13309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "25.555386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "57.564957"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "4.1353931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "25.550985"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "57.574844"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "4.1351972"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "25.552607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "57.588886"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "4.1421709"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "25.521544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "57.59708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "4.1304312"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "25.561886"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "57.581482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "4.1433067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "25.552937"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "57.604424"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "4.1772432"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "25.554031"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "57.60844"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "4.170042"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "25.584314"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "57.192299"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "4.1997089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "25.588518"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "57.18441"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "4.1994309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "25.588232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "57.189613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "4.1988153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "25.595793"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "57.205132"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "4.2009315"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "25.608669"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "57.215317"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "4.199954"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "25.590538"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "57.295906"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "4.2022204"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "25.912592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "58.721577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "4.4026179"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "25.914356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "58.697128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "4.4034967"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "25.911957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "58.690826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "4.4045663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "25.911957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "58.690826"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "4.4045663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "25.921104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "58.687141"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "4.4020905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "25.93573"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "58.697392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "4.4065523"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "25.933214"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "58.709797"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "4.4100561"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "25.943645"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "58.705788"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "4.4191151"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "25.962696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "58.697727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "4.4179316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "25.962696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "58.697727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "4.4179316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "25.962696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "58.697727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "4.4179316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "25.962696"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "58.697727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "4.4179316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "25.955904"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "58.674919"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "4.4216924"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "25.962942"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "58.676701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "4.4140444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "25.962942"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "58.676701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "4.4140444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "25.96294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "58.676701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "4.4140444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "25.932411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "58.676918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "4.4202328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "25.935215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "58.677155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "4.4192128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "25.935215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "58.677155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "4.4192128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "25.935215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "58.677155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "4.4192128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "25.935215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "58.677155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "4.4192128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "25.935215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "58.677155"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "4.4192128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "25.947979"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "58.671627"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "4.4176297"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "25.946642"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "58.67107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "4.4269609"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "25.94223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "58.673107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "4.4313936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "25.94223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "58.673107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "4.4313936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "25.94223"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "58.673107"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "4.4313936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "25.948746"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "58.693714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "4.4315991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "25.948746"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "58.693714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "4.4315991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "25.952187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "58.691971"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "4.4315391"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "25.952187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "58.691971"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "4.4315391"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "25.941256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "58.700642"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "4.4105453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "25.941256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "58.700642"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "4.4105453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "25.941256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "58.700642"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "4.4105453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "25.930246"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "58.709591"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "4.4148121"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "25.918524"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "58.706879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "4.4165854"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "25.916821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "58.701256"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "4.4179749"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "25.909479"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "58.711048"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "4.4362583"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "25.929337"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "58.672848"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "4.4482942"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "25.929337"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "58.672848"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "4.4482942"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "25.93391"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "58.678535"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "4.4509234"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "25.924755"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "58.684204"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "4.4479156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "25.935272"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "58.684868"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "4.4403682"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "25.935179"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "58.680984"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "4.4411373"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "25.933552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "58.672523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "4.4448013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "25.934742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "58.672894"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "4.4444423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "25.911951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "58.680336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "4.4438071"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "25.911951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "58.680336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "4.4438071"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "25.911951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "58.680336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "4.4438071"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "25.888"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "58.711262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "4.4535546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "25.888"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "58.711258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "4.4535546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "25.883415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "58.713928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "4.4388871"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "25.885704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "58.676353"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "4.4448032"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "25.89892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "58.653156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "4.4429817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "25.89892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "58.653156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "4.4429817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "25.899736"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "58.649288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "4.4370723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "25.899736"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "58.649288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "4.4370723"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "25.889713"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "58.651226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "4.436348"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "25.898064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "58.648434"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "4.4389687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "21.338963"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "44.39883"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "1.8797905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "21.393951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "44.545734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "1.8936675"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "21.393951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "44.545734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "1.8936675"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "21.416254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "44.531284"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "1.9031675"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "21.438284"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "44.542019"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "1.8990425"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "21.420029"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "44.528854"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "1.916996"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "21.41571"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "44.547722"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "1.9169413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "21.39253"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "44.528992"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "1.9239256"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "21.308172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "44.411018"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "1.8497912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "21.309933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "44.414642"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "1.8504467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "21.309933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "44.414642"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "1.8504467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "21.303961"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "44.418736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "1.8494655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "21.303961"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "44.418736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "1.8494655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "21.304274"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "44.412727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "1.8485894"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "21.290751"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "44.405621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "1.8557696"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "21.288939"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "44.425976"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "1.8809446"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "21.329952"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "44.357979"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".97822034"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "1.8608807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "21.385559"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "44.368298"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".9782204"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "1.8654221"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "21.372971"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "44.41259"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".97676039"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "1.8675941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "21.372971"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "44.41259"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "5.5209622"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".97676039"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.8675941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "21.420486"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "44.493526"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "5.5364985"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".95328289"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.8512014"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "21.412304"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "44.471264"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "5.5406461"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".96460021"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.867968"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "21.390469"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "44.484066"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "5.5291405"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".97314113"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.8766577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "21.705963"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "44.483967"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "5.5245738"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".97375685"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.8675833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "21.705963"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "44.483967"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "5.5245738"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".97375691"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.8675833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "21.700619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "44.490822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "5.528182"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".97093964"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.8635671"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "21.700619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "44.490822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "5.528182"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".97093958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.8635671"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "21.700619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "44.490822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "5.528182"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".97093964"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.8635671"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "21.689543"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "44.483837"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "5.532536"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".97164994"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.8601211"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "21.702387"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "44.483063"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "5.5272226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".9856236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.860402"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "21.679161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "44.499794"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "5.5384679"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".99927175"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.8860358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "21.679161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "44.499794"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "5.5384679"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".99927175"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.8860358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "13.335994"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "65.430748"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "7.1368585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "3.9042478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.1673912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "13.335994"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "65.430748"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "7.1368585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "3.9042478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.1673912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "13.33719"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "65.432785"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "7.138082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "3.9066989"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.1670232"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "13.377489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "65.434685"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "7.1441436"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "3.9162397"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.1898237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "13.357308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "65.176376"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "7.1257801"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "3.8869288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.1310807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "13.357309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "65.176376"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "7.1257801"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "3.8869288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.1310807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "13.357309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "65.176376"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "7.1257801"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "3.8869288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.1310807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "13.338699"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "65.172997"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "7.118474"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "3.8803816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.1288841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "13.298808"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "65.165604"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "7.1258969"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "3.8831043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.1243739"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "13.294663"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "65.163635"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "7.1257305"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "3.8820231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.1221896"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "13.146684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "65.167732"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "7.1215763"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "3.8803682"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.1273184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "13.125665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "64.944191"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "7.0987549"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "3.8676305"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.1046276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "13.125665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "64.944191"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "7.0987549"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "3.8676305"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.1046276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "13.125665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "64.944191"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "7.0987549"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "3.8676305"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.1046276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "13.126037"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "64.923798"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "7.0956097"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "3.8676305"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.1039181"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "13.114895"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "64.933922"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "7.0999956"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "3.8756108"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.0986848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "13.105174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "64.933289"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "7.0977287"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "3.8756111"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.0979468"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "13.034213"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "64.938255"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "7.1420517"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "3.9142914"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.1475657"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "12.948153"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "64.843094"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "7.1577873"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "3.9215729"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.0236765"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "12.998191"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "64.930603"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "7.1568818"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "3.9215729"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.0221519"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "12.964757"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "64.911186"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "7.1632061"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "3.9288652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.0304306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "12.945347"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "64.936607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "7.1632061"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "3.9288652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.0304306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "12.945346"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "64.936607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "7.1632061"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "3.9288652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.0304306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "12.938301"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "64.940498"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "7.1647139"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "3.9290779"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.031846"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "13.000556"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "65.021179"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "7.1664243"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "3.9220314"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.0408533"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "13.049238"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "65.050041"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "7.1652761"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "3.9117715"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.0316423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "13.049238"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "65.050041"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "7.1652761"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "3.9117715"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.0316423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "13.01355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "65.023277"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "7.1588612"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "3.9187009"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.0308323"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "12.891203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "64.963623"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "7.1763725"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "3.8779283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.0370395"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "12.891203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "64.963623"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "7.1763725"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "3.8779283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.0370395"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "12.795346"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "65.137482"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "7.1706915"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "3.8779283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.0141144"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "12.788507"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "65.141556"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "7.173069"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "3.8765054"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.0159006"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "12.789194"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "65.123199"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "7.1685553"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "3.8681579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.0098205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "12.789194"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "65.123199"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "7.1685553"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "3.8681579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.0098205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "12.789194"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "65.123199"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "7.1685553"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "3.8681579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.0098205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "12.789194"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "65.123199"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "7.1685553"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "3.8681579"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.0098205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "12.756324"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "65.143715"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "7.181458"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "3.8237555"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.0267628"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "12.792159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "65.143173"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "7.165782"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "3.8262508"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.0152155"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "12.810189"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "65.150703"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "7.1748872"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "3.8259754"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.012658"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "12.774319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "65.171654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "7.1808295"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "3.7556822"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.0564655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "12.774319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "65.171654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "7.1808295"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "3.7556822"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.0564655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "12.774319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "65.171654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "7.1808295"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "3.7556822"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.0564655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "12.743661"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "65.194244"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "7.1839061"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "3.7295384"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.0407814"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "12.607834"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "65.279198"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "7.1690245"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "3.7128658"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.0139414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "12.601857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "65.302742"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "7.1749277"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "3.7195809"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.0163659"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "12.679264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "65.294983"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "7.275054"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "3.7300987"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.0679955"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "12.679264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "65.294983"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "7.275054"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "3.7300987"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.0679955"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "12.68918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "65.300011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "7.257782"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "3.7264683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.0604129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "12.68918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "65.300011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "7.257782"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "3.7264681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.0604129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "12.68918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "65.300011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "7.257782"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "3.7264681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.0604129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "12.68918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "65.300011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "7.257782"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "3.7264681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.0604129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "12.668763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "65.310593"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "7.2653599"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "3.7441268"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.0580423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "12.668763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "65.310593"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "7.2653599"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "3.7441268"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.0580423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "12.47806"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "65.32164"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "7.2600942"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "3.7380648"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.0454935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "12.47806"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "65.32164"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "7.2600942"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "3.7380648"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.0454935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "12.47806"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "65.32164"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "7.2600942"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "3.7380648"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.0454935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "12.462828"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "65.335556"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "7.2657275"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "3.7452497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.0482565"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "12.462828"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "65.335556"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "7.2657275"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "3.7452497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.0482565"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "12.352355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "65.294289"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "7.297987"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "3.74525"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.1335901"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "12.339733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "65.308784"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "7.3007417"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "3.755712"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.1361742"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "12.347474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "65.283585"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "7.3079205"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "3.6756923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.1538169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "12.347474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "65.283585"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "7.3079205"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "3.6756923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.1538169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "12.347474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "65.283585"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "7.3079205"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "3.6756923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.1538169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "12.347474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "65.283585"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "7.3079205"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "3.6756923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.1538169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "12.348602"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "65.28273"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "7.3088913"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "3.6756923"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.1542693"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "12.349539"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "65.289909"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "7.3081965"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "3.6759672"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.1563394"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "12.356076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "65.292137"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "7.3085184"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "3.6854193"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.1530008"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "12.373432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "65.286636"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "7.3191705"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "3.6753469"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.1486362"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "12.396778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "65.274734"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "7.3497515"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "3.6905882"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.1572932"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "12.396778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "65.274734"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "7.3497515"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "3.6905882"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.1572932"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "12.386324"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "65.268188"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "7.3491464"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "3.6897149"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.1508617"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "12.409691"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "65.234756"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "7.3410001"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "3.6863239"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.146902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "12.366776"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "65.29039"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "7.3548317"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "3.7039554"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.1572593"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "12.371159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "65.299553"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "7.3636985"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "3.7112465"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.1533127"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "12.371159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "65.299553"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "7.3636985"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "3.7112465"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.1533127"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "12.356549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "65.271072"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "7.3724847"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "3.7112463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.1527479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "12.356549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "65.271072"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "7.3724847"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "3.7112463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.1527479"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "12.349617"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "65.276878"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "7.3829007"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "3.7116704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.1741517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "12.349617"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "65.276878"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "7.3829007"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "3.7116702"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.1741517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "12.476907"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "65.220505"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "7.4803224"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "3.7286372"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.1756898"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "12.465997"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "65.207832"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "7.4661422"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "3.7300067"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.1674721"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "12.467577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "65.222206"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "7.4572253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "3.7213156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.1629099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "12.467577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "65.222206"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "7.4572253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "3.7213156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.1629099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "12.467577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "65.222206"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "7.4572253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "3.7213156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.1629099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "12.467577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "65.222206"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "7.4572253"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "3.7213156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.1629099"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "2.1573024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "74.256104"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "7.4600611"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".041113287"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".90911627"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "2.1683903"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "74.255348"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "7.460145"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".027187392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".90346491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "2.167505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "74.25415"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "7.4570889"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".025707021"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".90307552"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "2.1767967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "74.288902"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "7.460886"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".039485738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "2.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "74.269936"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "7.4639239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".027119197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "2.2844615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "74.321846"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "7.4758577"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".027669549"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".90490472"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "2.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "74.318161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "7.4828148"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".0047666132"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "2.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "74.318161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "7.4828148"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".0047666132"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "2.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "74.318161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "7.4828148"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".0047666132"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "2.2938647"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "74.333405"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "7.5113416"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".0047666132"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "2.2901416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "74.33181"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "7.5099506"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".0066947788"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".90333295"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "2.2973375"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "74.340584"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "7.510972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".010745734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".90353757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "2.283258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "74.374313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "7.5123978"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".03048864"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".91686416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "2.1834416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "74.378822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "7.5084572"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".0090209246"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".8799938"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "2.3222804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "74.383644"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "7.5061784"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".0023545474"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".91527879"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "2.3222804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "74.383644"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "7.5061784"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".0023545474"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".91527879"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "2.3362851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "74.405312"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "7.5051808"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-17",
+      "poll_avg": ".9144634"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "2.2936087"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "74.42186"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "7.5051808"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-16",
+      "poll_avg": ".84575057"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "2.2936087"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "74.42186"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "7.5051808"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-15",
+      "poll_avg": ".84575057"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "2.2435467"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "74.459099"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "7.5024061"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-14",
+      "poll_avg": ".83899248"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-13",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-12",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-11",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-10",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-09",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "2.2284062"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "74.469307"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "7.5045619"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-08",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "2.2288983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "74.466232"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "7.5150089"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-07",
+      "poll_avg": ".84006906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "2.2325408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "74.467735"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "7.5131884"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-06",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "2.2325408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "74.467735"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "7.5131884"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-05",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "2.2325408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "74.467735"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "7.5131884"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-04",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "2.2325408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "74.467735"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "7.5131884"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-03",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "2.2325408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "74.467735"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "7.5131884"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-02",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Virginia",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "2.2393775"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Virginia",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "74.474854"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Virginia",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "7.5157728"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Virginia",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "0"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Virginia",
+      "forecastdate": "2015-06-01",
+      "poll_avg": ".83469415"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50058",
+      "population": "rv",
+      "pollId": "36514",
+      "cycle": "2016",
+      "sampleSize": "908",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "1193",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-29",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "https://www.surveymonkey.com/blog/2016/02/29/trumps-lead-looks-solid-in-run-up-to-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456784580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "36.0"
+        }
+      ],
+      "weight": ".4695644080638885"
+    },
+    {
+      "id": "50013",
+      "population": "lv",
+      "pollId": "36487",
+      "cycle": "2016",
+      "sampleSize": "481",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-26",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "https://today.yougov.com/news/2016/02/28/clinton-trump-lead-ga-and-va-cruz-holds-tx/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456655760,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "39.0"
+        }
+      ],
+      "weight": ".4289916753768921"
+    },
+    {
+      "id": "49544",
+      "population": "lv",
+      "pollId": "36447",
+      "cycle": "2016",
+      "sampleSize": "302",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "320",
+      "pollster": "Monmouth University",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-24",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.monmouth.edu/assets/0/32212254770/32212254991/32212254992/32212254994/32212254995/30064771087/3c3412a9-186b-4189-b246-b30f227bdda6.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456411320,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "33.0"
+        }
+      ],
+      "weight": ".3453325033187866"
+    },
+    {
+      "id": "49984",
+      "population": "lv",
+      "pollId": "36475",
+      "cycle": "2016",
+      "sampleSize": "415",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "415",
+      "pollster": "Roanoke College",
+      "startDate": "2016-02-16",
+      "endDate": "2016-02-24",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.thenews-gazette.com/index.php?option=com_content&view=article&id=3080:roanoke-college-poll-shows-trump-clinton-leading-in-virginia&catid=77:breaking-news&Itemid=395",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456487400,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "33.0"
+        }
+      ],
+      "weight": ".1338252574205399"
+    },
+    {
+      "id": "49371",
+      "population": "lv",
+      "pollId": "36365",
+      "cycle": "2016",
+      "sampleSize": "500",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        }
+      ],
+      "weight": ".0681270137429237"
+    },
+    {
+      "id": "49346",
+      "population": "lv",
+      "pollId": "36347",
+      "cycle": "2016",
+      "sampleSize": "286",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "94",
+      "pollster": "Christopher Newport University",
+      "startDate": "2016-02-03",
+      "endDate": "2016-02-14",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://cnu.edu/cpp/pdf/feb%2016%202016%20report-_final.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455625800,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "52.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0022910814732313"
+    },
+    {
+      "id": "47252",
+      "population": "lv",
+      "pollId": "35380",
+      "cycle": "2016",
+      "sampleSize": "276",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "1045",
+      "pollster": "PSRAI",
+      "startDate": "2015-11-04",
+      "endDate": "2015-11-09",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://www.umw.edu/news/wp-content/uploads/sites/7/2015/11/UMW-VA-Survey-2015_Topline-Day-One.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447933560,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "63.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.0"
+        }
+      ],
+      "weight": "7.28783461530e-13"
+    },
+    {
+      "id": "43439",
+      "population": "rv",
+      "pollId": "34770",
+      "cycle": "2016",
+      "sampleSize": "407",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "94",
+      "pollster": "Christopher Newport University",
+      "startDate": "2015-09-29",
+      "endDate": "2015-10-08",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://cnu.edu/cpp/pdf/oct%2012%202015%20report-final.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445331840,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "40.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "5.0"
+        }
+      ],
+      "weight": "1.17783173864e-16"
+    },
+    {
+      "id": "42737",
+      "population": "lv",
+      "pollId": "34605",
+      "cycle": "2016",
+      "sampleSize": "409",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2015-07-13",
+      "endDate": "2015-07-15",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_VA_71615.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445277360,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "64.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "14.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "8.0"
+        }
+      ],
+      "weight": "3.23458333019e-24"
+    },
+    {
+      "id": "43945",
+      "population": "rv",
+      "pollId": "34853",
+      "cycle": "2016",
+      "sampleSize": "259",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "94",
+      "pollster": "Christopher Newport University",
+      "startDate": "2015-04-13",
+      "endDate": "2015-04-24",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://cnu.edu/cpp/pdf/april%2027%202015%20report%20final.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445333340,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "80.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "6.0"
+        }
+      ],
+      "weight": "5.89713593789e-33"
+    },
+    {
+      "id": "43584",
+      "population": "rv",
+      "pollId": "34800",
+      "cycle": "2016",
+      "sampleSize": "317",
+      "state": "VA",
+      "officeType": "U.S. President",
+      "pollsterId": "94",
+      "pollster": "Christopher Newport University",
+      "startDate": "2015-01-30",
+      "endDate": "2015-02-10",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://cnu.edu/cpp/pdf/feb%2012%202015%20report.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332320,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "65.0"
+        },
+        {
+          "choice": "Cuomo",
+          "pct": "1.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Patrick",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "10.0"
+        }
+      ],
+      "weight": "0"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "3.8554373e-09",
+          "6.1873870e-08",
+          "2.2338124e-07",
+          "4.6257597e-07",
+          "7.3078610e-07",
+          "9.8754242e-07",
+          "1.2070802e-06",
+          "1.3765829e-06",
+          "1.4925789e-06",
+          "1.5575583e-06",
+          "1.5773880e-06",
+          "1.5594801e-06",
+          "1.5116093e-06",
+          "1.4411899e-06",
+          "1.3548744e-06",
+          "1.2583773e-06",
+          "1.1564377e-06",
+          "1.0528415e-06",
+          "9.5052684e-07",
+          "8.5168864e-07",
+          "7.5787995e-07",
+          "6.7014173e-07",
+          "5.8908540e-07",
+          "5.1499524e-07",
+          "4.4790295e-07",
+          "3.8764642e-07",
+          "3.3393403e-07",
+          "2.8637592e-07",
+          "2.4453198e-07",
+          "2.0792858e-07",
+          "1.7608164e-07",
+          "1.4851685e-07",
+          "1.2477481e-07",
+          "1.0442022e-07",
+          "8.7049578e-08",
+          "7.2290412e-08",
+          "5.9803277e-08",
+          "4.9283432e-08",
+          "4.0458090e-08",
+          "3.3090025e-08",
+          "2.7004711e-08",
+          "2.2290097e-08",
+          "2.0497598e-08",
+          "3.1069462e-08",
+          "1.0194494e-07",
+          "4.4948416e-07",
+          "1.9497061e-06",
+          "7.7890745e-06",
+          ".000028375271",
+          ".00009418324",
+          ".00028498701",
+          ".00078660029",
+          ".0019812866",
+          ".0045551476",
+          ".0095588816",
+          ".018304864",
+          ".031972449",
+          ".050901201",
+          ".073791765",
+          ".097295098",
+          ".11649929",
+          ".12645665",
+          ".12417651",
+          ".11004462",
+          ".087766148",
+          ".062797889",
+          ".04016611",
+          ".02287291",
+          ".011543673",
+          ".0051368242",
+          ".0020038299",
+          ".0006807943",
+          ".0001999714",
+          ".000050365841",
+          ".000010776045",
+          "1.9379568e-06",
+          "2.8944979e-07",
+          "3.5416257e-08",
+          "3.4949248e-09",
+          "2.7321975e-10",
+          "1.6596606e-11",
+          "7.7830526e-13",
+          "3.4860668e-14",
+          "5.2909388e-15",
+          "2.2290688e-15",
+          "1.0263705e-15",
+          "4.4862957e-16",
+          "1.8470991e-16",
+          "7.0947308e-17",
+          "2.5111303e-17",
+          "8.0639853e-18",
+          "2.2998264e-18",
+          "5.6620089e-19",
+          "1.1674246e-19",
+          "1.7511368e-20",
+          "2.9185614e-21",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.6731031e-10",
+          "1.4677154e-09",
+          "2.9372416e-09",
+          "4.2569153e-09",
+          "5.3106244e-09",
+          "6.0866885e-09",
+          "6.6108421e-09",
+          "6.9204682e-09",
+          "7.0541679e-09",
+          "7.0475035e-09",
+          "6.9315993e-09",
+          "6.7328410e-09",
+          "6.4731798e-09",
+          "6.1706182e-09",
+          "5.8397251e-09",
+          "5.4921747e-09",
+          "5.1372382e-09",
+          "4.7821183e-09",
+          "4.4323780e-09",
+          "4.0922341e-09",
+          "3.7647454e-09",
+          "3.4521186e-09",
+          "3.1557950e-09",
+          "2.8766545e-09",
+          "2.6151277e-09",
+          "2.3712579e-09",
+          "2.1448421e-09",
+          "1.9354254e-09",
+          "1.7424380e-09",
+          "1.5651744e-09",
+          "1.4028402e-09",
+          "1.2546205e-09",
+          "1.1196615e-09",
+          "9.9711539e-10",
+          "8.8630714e-10",
+          "7.8744949e-10",
+          "7.0565298e-10",
+          "6.7082057e-10",
+          "8.2845431e-10",
+          "1.8221106e-09",
+          "6.2794134e-09",
+          "2.4148701e-08",
+          "9.0429332e-08",
+          "3.1969608e-07",
+          "1.0613301e-06",
+          "3.3083845e-06",
+          "9.6924286e-06",
+          ".000026714853",
+          ".000069340225",
+          ".0001696184",
+          ".00039129527",
+          ".00085172878",
+          ".0017499392",
+          ".0033944605",
+          ".0062168655",
+          ".010749926",
+          ".017546089",
+          ".027023399",
+          ".039251924",
+          ".05373437",
+          ".0692688",
+          ".083999924",
+          ".0957072",
+          ".10230958",
+          ".10244225",
+          ".095899373",
+          ".083749905",
+          ".068066351",
+          ".0513402",
+          ".035826497",
+          ".023048548",
+          ".01361608",
+          ".0073531852",
+          ".0036117933",
+          ".0016043591",
+          ".00064030715",
+          ".0002279148",
+          ".000071744871",
+          ".000019781031",
+          "4.7240319e-06",
+          "9.6474650e-07",
+          "1.6598025e-07",
+          "2.3640043e-08",
+          "2.7304672e-09",
+          "2.4957228e-10",
+          "1.7535928e-11",
+          "9.1903611e-13",
+          "3.7450586e-14",
+          "3.0158866e-15",
+          "1.1305153e-15",
+          "5.6614136e-16",
+          "2.6381577e-16",
+          "1.1242042e-16",
+          "4.2742255e-17",
+          "1.3980487e-17",
+          "3.7158277e-18",
+          "7.2858161e-19",
+          "8.7792271e-20",
+          "4.3189398e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          ".000012832614",
+          ".00010231776",
+          ".00022655512",
+          ".00032566595",
+          ".00038411733",
+          ".00040610295",
+          ".0004011656",
+          ".00037865926",
+          ".00034607228",
+          ".0003088314",
+          ".00027060823",
+          ".00023372614",
+          ".00019953681",
+          ".00016872145",
+          ".00014151703",
+          ".00011788004",
+          ".0000976011",
+          ".000080380814",
+          ".000065882683",
+          ".000053765238",
+          ".000043701028",
+          ".000035390622",
+          ".000028582048",
+          ".000023184708",
+          ".000019913239",
+          ".000023267898",
+          ".000052620591",
+          ".0001752409",
+          ".00058407872",
+          ".0017372739",
+          ".0045283032",
+          ".010356466",
+          ".020878317",
+          ".037281577",
+          ".059233829",
+          ".084077865",
+          ".10700127",
+          ".12248304",
+          ".12646009",
+          ".11805367",
+          ".099853337",
+          ".076662868",
+          ".053505599",
+          ".033988725",
+          ".019670574",
+          ".010379044",
+          ".0049952855",
+          ".0021934989",
+          ".00087881187",
+          ".00032117762",
+          ".00010703216",
+          ".000032505213",
+          "8.9908017e-06",
+          "2.2645056e-06",
+          "5.2038718e-07",
+          "1.1030635e-07",
+          "2.2580087e-08",
+          "5.2156550e-09",
+          "1.7990115e-09",
+          "9.6100916e-10",
+          "6.2133781e-10",
+          "4.1911727e-10",
+          "2.8311734e-10",
+          "1.8988471e-10",
+          "1.2620824e-10",
+          "8.3069045e-11",
+          "5.4109935e-11",
+          "3.4860701e-11",
+          "2.2198165e-11",
+          "1.3960326e-11",
+          "8.6639385e-12",
+          "5.3013457e-12",
+          "3.1949714e-12",
+          "1.8944607e-12",
+          "1.1038331e-12",
+          "6.3113588e-13",
+          "3.5356679e-13",
+          "1.9372774e-13",
+          "1.0361696e-13",
+          "5.3975833e-14",
+          "2.7313812e-14",
+          "1.3387216e-14",
+          "6.3334331e-15",
+          "2.8798872e-15",
+          "1.2526728e-15",
+          "5.1871239e-16",
+          "2.0264566e-16",
+          "7.4101771e-17",
+          "2.5204685e-17",
+          "7.5614052e-18",
+          "2.5204685e-18",
+          "5.0409369e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000036138008",
+          ".00010931234",
+          ".00014719194",
+          ".0001601352",
+          ".00015915846",
+          ".00015083663",
+          ".00013895886",
+          ".00012569975",
+          ".00011229602",
+          ".000099431214",
+          ".000087460889",
+          ".00007654442",
+          ".000066725363",
+          ".000057980207",
+          ".000050248203",
+          ".000043450193",
+          ".000037501784",
+          ".000032332438",
+          ".000027965203",
+          ".000024871177",
+          ".000025320549",
+          ".000037647798",
+          ".000087396351",
+          ".00024135302",
+          ".00064963673",
+          ".0016028025",
+          ".0035830382",
+          ".0072663981",
+          ".013424152",
+          ".022694562",
+          ".0352595",
+          ".05054019",
+          ".067067236",
+          ".082648039",
+          ".094840899",
+          ".10159007",
+          ".101794",
+          ".095592894",
+          ".084269427",
+          ".069834583",
+          ".054468956",
+          ".040026959",
+          ".027736174",
+          ".018135089",
+          ".011194359",
+          ".0065259072",
+          ".0035936304",
+          ".0018694412",
+          ".00091864378",
+          ".00042633686",
+          ".00018681213",
+          ".000077258868",
+          ".000030147898",
+          ".00001110134",
+          "3.8627281e-06",
+          "1.2766311e-06",
+          "4.0720161e-07",
+          "1.3100599e-07",
+          "4.6940350e-08",
+          "2.1379963e-08",
+          "1.2769041e-08",
+          "9.0151921e-09",
+          "6.7927592e-09",
+          "5.2062967e-09",
+          "3.9927608e-09",
+          "3.0486564e-09",
+          "2.3138771e-09",
+          "1.7445346e-09",
+          "1.3059005e-09",
+          "9.7011521e-10",
+          "7.1481826e-10",
+          "5.2213683e-10",
+          "3.7784309e-10",
+          "2.7069830e-10",
+          "1.9185362e-10",
+          "1.3439784e-10",
+          "9.2968196e-11",
+          "6.3434411e-11",
+          "4.2641429e-11",
+          "2.8199330e-11",
+          "1.8317082e-11",
+          "1.1664746e-11",
+          "7.2670559e-12",
+          "4.4178103e-12",
+          "2.6128999e-12",
+          "1.4981110e-12",
+          "8.2908772e-13",
+          "4.4054138e-13",
+          "2.2327504e-13",
+          "1.0703856e-13",
+          "4.8019060e-14",
+          "1.9873353e-14",
+          "7.4423830e-15",
+          "2.4540054e-15",
+          "6.8426588e-16",
+          "1.5154882e-16",
+          "2.4005668e-17",
+          "2.2961942e-18",
+          "0",
+          "0"
+        ]
+      }
+    }
+  ]
+}

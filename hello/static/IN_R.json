@@ -1,0 +1,5713 @@
+{
+  "model": [
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-05-03",
+      "poll_avg": "41.52253",
+      "pollonly_winprob": 96.490002,
+      "pollonly_hi": "50.766987",
+      "pollonly_lo": "43.54063",
+      "pollonly_forecast": "45.904579",
+      "kitchen_winprob": 80.980003,
+      "kitchen_hi": "49.550228",
+      "kitchen_lo": "39.974731",
+      "kitchen_forecast": "43.570515"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-05-03",
+      "poll_avg": "13.936445",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "21.484173",
+      "pollonly_lo": "11.46104",
+      "pollonly_forecast": "15.951903",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "21.942577",
+      "kitchen_lo": "11.884659",
+      "kitchen_forecast": "16.226366"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-05-03",
+      "poll_avg": "31.751081",
+      "pollonly_winprob": 3.5100002,
+      "pollonly_hi": "40.826077",
+      "pollonly_lo": "32.573074",
+      "pollonly_forecast": "35.530991",
+      "kitchen_winprob": 19.02,
+      "kitchen_hi": "43.569527",
+      "kitchen_lo": "33.809853",
+      "kitchen_forecast": "37.59058"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-05-02",
+      "poll_avg": "41.572529",
+      "pollonly_winprob": 97.355002,
+      "pollonly_hi": "50.435925",
+      "pollonly_lo": "43.899292",
+      "pollonly_forecast": "45.925854",
+      "kitchen_winprob": 82.700002,
+      "kitchen_hi": "49.29908",
+      "kitchen_lo": "40.24662",
+      "kitchen_forecast": "43.58741"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-05-02",
+      "poll_avg": "13.9607",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "21.264194",
+      "pollonly_lo": "11.7461",
+      "pollonly_forecast": "15.96314",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "21.806486",
+      "kitchen_lo": "12.1098",
+      "kitchen_forecast": "16.237421"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-05-02",
+      "poll_avg": "31.758478",
+      "pollonly_winprob": 2.6450001,
+      "pollonly_hi": "40.470974",
+      "pollonly_lo": "32.869759",
+      "pollonly_forecast": "35.513165",
+      "kitchen_winprob": 17.294999999999998,
+      "kitchen_hi": "43.285393",
+      "kitchen_lo": "34.029182",
+      "kitchen_forecast": "37.577332"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-05-01",
+      "poll_avg": "41.678425",
+      "pollonly_winprob": 94.05999800000001,
+      "pollonly_hi": "49.12101",
+      "pollonly_lo": "42.114273",
+      "pollonly_forecast": "44.67662",
+      "kitchen_winprob": 68.715,
+      "kitchen_hi": "47.588554",
+      "kitchen_lo": "37.78149",
+      "kitchen_forecast": "41.793118"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-05-01",
+      "poll_avg": "15.640566",
+      "pollonly_winprob": 0.0049999999,
+      "pollonly_hi": "22.53904",
+      "pollonly_lo": "13.194941",
+      "pollonly_forecast": "17.193428",
+      "kitchen_winprob": 0.0099999997,
+      "kitchen_hi": "23.062281",
+      "kitchen_lo": "13.831345",
+      "kitchen_forecast": "17.635347"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-05-01",
+      "poll_avg": "33.391228",
+      "pollonly_winprob": 5.9349999,
+      "pollonly_hi": "40.996113",
+      "pollonly_lo": "33.112206",
+      "pollonly_forecast": "36.121246",
+      "kitchen_winprob": 31.275001000000003,
+      "kitchen_hi": "44.25346",
+      "kitchen_lo": "34.59322",
+      "kitchen_forecast": "38.562836"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-30",
+      "poll_avg": "37.05275",
+      "pollonly_winprob": 70.254999,
+      "pollonly_hi": "45.718185",
+      "pollonly_lo": "37.306396",
+      "pollonly_forecast": "40.466915",
+      "kitchen_winprob": 34.709999,
+      "kitchen_hi": "43.705921",
+      "kitchen_lo": "32.5476",
+      "kitchen_forecast": "37.155979"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-30",
+      "poll_avg": "17.613047",
+      "pollonly_winprob": 0.039999999,
+      "pollonly_hi": "25.507027",
+      "pollonly_lo": "16.053114",
+      "pollonly_forecast": "19.847458",
+      "kitchen_winprob": 0.044999999,
+      "kitchen_hi": "26.26795",
+      "kitchen_lo": "16.667667",
+      "kitchen_forecast": "20.566786"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-30",
+      "poll_avg": "34.092964",
+      "pollonly_winprob": 29.705,
+      "pollonly_hi": "42.76482",
+      "pollonly_lo": "34.056717",
+      "pollonly_forecast": "37.368702",
+      "kitchen_winprob": 65.245003,
+      "kitchen_hi": "46.176186",
+      "kitchen_lo": "35.774734",
+      "kitchen_forecast": "39.960308"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-29",
+      "poll_avg": "37.050766",
+      "pollonly_winprob": 71.39000300000001,
+      "pollonly_hi": "45.396641",
+      "pollonly_lo": "37.624062",
+      "pollonly_forecast": "40.465115",
+      "kitchen_winprob": 34.845000999999996,
+      "kitchen_hi": "43.494286",
+      "kitchen_lo": "32.855835",
+      "kitchen_forecast": "37.213558"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-29",
+      "poll_avg": "17.61512",
+      "pollonly_winprob": 0.015000001,
+      "pollonly_hi": "25.251087",
+      "pollonly_lo": "16.354259",
+      "pollonly_forecast": "19.849644",
+      "kitchen_winprob": 0.030000001,
+      "kitchen_hi": "26.028873",
+      "kitchen_lo": "16.844749",
+      "kitchen_forecast": "20.523588"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-29",
+      "poll_avg": "34.09227",
+      "pollonly_winprob": 28.595000999999996,
+      "pollonly_hi": "42.431877",
+      "pollonly_lo": "34.364708",
+      "pollonly_forecast": "37.36821",
+      "kitchen_winprob": 65.125,
+      "kitchen_hi": "45.903381",
+      "kitchen_lo": "35.99926",
+      "kitchen_forecast": "39.945827"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-28",
+      "poll_avg": "36.651554",
+      "pollonly_winprob": 73.654997,
+      "pollonly_hi": "46.295486",
+      "pollonly_lo": "37.326046",
+      "pollonly_forecast": "40.599823",
+      "kitchen_winprob": 42.210001000000005,
+      "kitchen_hi": "44.329403",
+      "kitchen_lo": "32.851936",
+      "kitchen_forecast": "37.476185"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-28",
+      "poll_avg": "17.673042",
+      "pollonly_winprob": 0.069999998,
+      "pollonly_hi": "26.235985",
+      "pollonly_lo": "15.891608",
+      "pollonly_forecast": "20.070673",
+      "kitchen_winprob": 0.185,
+      "kitchen_hi": "27.315308",
+      "kitchen_lo": "16.765408",
+      "kitchen_forecast": "21.007565"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-28",
+      "poll_avg": "32.93531",
+      "pollonly_winprob": 26.275,
+      "pollonly_hi": "42.526131",
+      "pollonly_lo": "33.243042",
+      "pollonly_forecast": "36.768383",
+      "kitchen_winprob": 57.604997999999995,
+      "kitchen_hi": "45.358334",
+      "kitchen_lo": "34.733883",
+      "kitchen_forecast": "38.955132"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-27",
+      "poll_avg": "37.566647",
+      "pollonly_winprob": 74.675,
+      "pollonly_hi": "47.800171",
+      "pollonly_lo": "36.58963",
+      "pollonly_forecast": "41.080151",
+      "kitchen_winprob": 45.460001,
+      "kitchen_hi": "44.931519",
+      "kitchen_lo": "31.098694",
+      "kitchen_forecast": "37.022659"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-27",
+      "poll_avg": "19.024645",
+      "pollonly_winprob": 0.54000001,
+      "pollonly_hi": "28.768744",
+      "pollonly_lo": "15.231553",
+      "pollonly_forecast": "21.224482",
+      "kitchen_winprob": 1.23,
+      "kitchen_hi": "30.108219",
+      "kitchen_lo": "17.626297",
+      "kitchen_forecast": "22.900755"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-27",
+      "poll_avg": "32.303108",
+      "pollonly_winprob": 24.785,
+      "pollonly_hi": "42.615082",
+      "pollonly_lo": "30.770908",
+      "pollonly_forecast": "35.570744",
+      "kitchen_winprob": 53.31000099999999,
+      "kitchen_hi": "45.088367",
+      "kitchen_lo": "32.747398",
+      "kitchen_forecast": "37.951962"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "37.571415",
+      "pollonly_winprob": 75.465,
+      "pollonly_hi": "47.562366",
+      "pollonly_lo": "36.840439",
+      "pollonly_forecast": "41.081997",
+      "kitchen_winprob": 45.144999000000006,
+      "kitchen_hi": "44.965572",
+      "kitchen_lo": "31.817041",
+      "kitchen_forecast": "37.472874"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "19.03322",
+      "pollonly_winprob": 0.35999999,
+      "pollonly_hi": "28.591143",
+      "pollonly_lo": "15.528877",
+      "pollonly_forecast": "21.231661",
+      "kitchen_winprob": 0.9999999799999999,
+      "kitchen_hi": "30.160831",
+      "kitchen_lo": "16.836952",
+      "kitchen_forecast": "22.534727"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "32.299046",
+      "pollonly_winprob": 24.175,
+      "pollonly_hi": "42.400414",
+      "pollonly_lo": "31.025845",
+      "pollonly_forecast": "35.563187",
+      "kitchen_winprob": 53.855002,
+      "kitchen_hi": "45.402382",
+      "kitchen_lo": "32.840488",
+      "kitchen_forecast": "37.869247"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "37.570049",
+      "pollonly_winprob": 76.789999,
+      "pollonly_hi": "47.307976",
+      "pollonly_lo": "37.074738",
+      "pollonly_forecast": "41.079643",
+      "kitchen_winprob": 44.819998999999996,
+      "kitchen_hi": "44.77676",
+      "kitchen_lo": "31.987015",
+      "kitchen_forecast": "37.474312"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "19.035976",
+      "pollonly_winprob": 0.29,
+      "pollonly_hi": "28.439173",
+      "pollonly_lo": "15.653366",
+      "pollonly_forecast": "21.23391",
+      "kitchen_winprob": 1.055,
+      "kitchen_hi": "30.054403",
+      "kitchen_lo": "16.902313",
+      "kitchen_forecast": "22.535316"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "32.300388",
+      "pollonly_winprob": 22.920001,
+      "pollonly_hi": "42.155434",
+      "pollonly_lo": "31.232197",
+      "pollonly_forecast": "35.563721",
+      "kitchen_winprob": 54.124998999999995,
+      "kitchen_hi": "45.205624",
+      "kitchen_lo": "32.982281",
+      "kitchen_forecast": "37.867653"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "37.658058",
+      "pollonly_winprob": 78.235,
+      "pollonly_hi": "47.129013",
+      "pollonly_lo": "37.397316",
+      "pollonly_forecast": "41.150158",
+      "kitchen_winprob": 44.7,
+      "kitchen_hi": "44.326752",
+      "kitchen_lo": "31.521126",
+      "kitchen_forecast": "37.004559"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "19.030472",
+      "pollonly_winprob": 0.24000000999999999,
+      "pollonly_hi": "28.229805",
+      "pollonly_lo": "15.95664",
+      "pollonly_forecast": "21.212053",
+      "kitchen_winprob": 0.7950000500000001,
+      "kitchen_hi": "29.638504",
+      "kitchen_lo": "18.352581",
+      "kitchen_forecast": "23.08213"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "32.282749",
+      "pollonly_winprob": 21.525,
+      "pollonly_hi": "41.873337",
+      "pollonly_lo": "31.452141",
+      "pollonly_forecast": "35.525272",
+      "kitchen_winprob": 54.505002000000005,
+      "kitchen_hi": "44.494061",
+      "kitchen_lo": "33.153099",
+      "kitchen_forecast": "37.800793"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "38.533024",
+      "pollonly_winprob": 80.944997,
+      "pollonly_hi": "48.92728",
+      "pollonly_lo": "38.119308",
+      "pollonly_forecast": "42.365646",
+      "kitchen_winprob": 51.109998999999995,
+      "kitchen_hi": "45.934837",
+      "kitchen_lo": "32.19751",
+      "kitchen_forecast": "38.058865"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "18.004238",
+      "pollonly_winprob": 0.31999999,
+      "pollonly_hi": "27.903793",
+      "pollonly_lo": "13.037792",
+      "pollonly_forecast": "20.202599",
+      "kitchen_winprob": 0.76000001,
+      "kitchen_hi": "29.156063",
+      "kitchen_lo": "17.14259",
+      "kitchen_forecast": "22.225607"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "31.800125",
+      "pollonly_winprob": 18.735,
+      "pollonly_hi": "42.352409",
+      "pollonly_lo": "30.569838",
+      "pollonly_forecast": "35.257515",
+      "kitchen_winprob": 48.13,
+      "kitchen_hi": "44.731262",
+      "kitchen_lo": "32.455742",
+      "kitchen_forecast": "37.541286"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "38.533024",
+      "pollonly_winprob": 81.739998,
+      "pollonly_hi": "48.690144",
+      "pollonly_lo": "38.356682",
+      "pollonly_forecast": "42.365646",
+      "kitchen_winprob": 51.249999,
+      "kitchen_hi": "45.755798",
+      "kitchen_lo": "32.358101",
+      "kitchen_forecast": "38.058727"
+    },
+    {
+      "candidate_name": "Kasich",
+      "state": "Indiana",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "18.004238",
+      "pollonly_winprob": 0.27499999999999997,
+      "pollonly_hi": "27.759235",
+      "pollonly_lo": "13.214852",
+      "pollonly_forecast": "20.202599",
+      "kitchen_winprob": 0.685,
+      "kitchen_hi": "29.064795",
+      "kitchen_lo": "17.257177",
+      "kitchen_forecast": "22.226427"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "31.800125",
+      "pollonly_winprob": 17.985,
+      "pollonly_hi": "42.102852",
+      "pollonly_lo": "30.807087",
+      "pollonly_forecast": "35.257515",
+      "kitchen_winprob": 48.065001,
+      "kitchen_hi": "44.550499",
+      "kitchen_lo": "32.636856",
+      "kitchen_forecast": "37.540607"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "25.012573"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "16.694193"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "25.002438"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "16.672932"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "24.99893"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "16.668161"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "24.997597"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "16.670618"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "25.002668"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "16.671047"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "25.092346"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "16.685995"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "25.092896"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "16.687149"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "25.090124"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "16.672688"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "25.09499"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "16.672626"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "25.142496"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "16.636801"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "25.123266"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "16.64327"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "25.123281"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "16.642006"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "25.146681"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "16.615009"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "25.140745"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "16.612314"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "25.14642"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "16.631638"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "25.038218"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "16.53639"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "25.035555"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "16.55027"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "25.035044"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "16.561586"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "25.065964"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "16.580658"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "25.082685"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "16.624613"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "25.073622"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "16.627352"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "25.073587"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "16.625746"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "25.100857"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "16.693808"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "25.101942"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "16.529024"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "25.071396"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "16.510746"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "25.047724"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "16.548098"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "25.042561"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "16.539577"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "25.042561"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "16.539577"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "25.049187"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "16.572611"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "25.054729"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "16.567114"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "25.082142"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "16.644182"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "25.082277"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "16.645168"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "25.088675"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "16.666759"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "25.078501"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "16.678225"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "25.056921"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "16.637608"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "25.057262"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "16.640402"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "25.293074"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "16.657276"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "25.289568"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "16.657915"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "17.065962"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "25.294361"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "17.064137"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "16.670237"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "25.337309"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "17.045698"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "16.695732"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "25.359259"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "17.025829"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "16.821247"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "25.377546"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "17.032579"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "16.817162"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "25.37265"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "17.028912"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "16.8277"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "25.333149"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "16.998774"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "16.872576"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "25.400579"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "17.000435"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "16.864979"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "25.443483"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "17.015697"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "16.833651"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "25.430437"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "16.992279"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "16.839207"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "25.457352"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "16.999105"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "16.882408"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "25.500431"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "16.986925"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "16.925755"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "25.533901"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "17.011276"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "16.968477"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "25.542173"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "17.015388"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "17.006083"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "16.405792"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "25.552483"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "17.009525"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "16.997213"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "16.395775"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "25.545918"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "17.015907"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "17.01111"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "16.46916"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "25.673346"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "16.961535"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "17.061918"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "16.478821"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "25.685061"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "16.970106"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "17.18569"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "16.478821"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "25.685061"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "16.970106"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "17.18569"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "16.477535"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "25.679539"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "17.085136"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "17.224733"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "16.471806"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "25.726089"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "17.11652"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "17.25667"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "16.47591"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "25.767031"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "17.225916"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "17.21307"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "16.459961"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "25.766068"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "17.225626"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "17.213245"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "16.429546"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "25.798616"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "17.260584"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "17.262165"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "16.429546"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "25.798616"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "6.1108871"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "17.260584"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "17.262165"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "16.436016"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "25.783619"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "6.1078568"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "17.269789"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "17.267624"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "16.433718"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "25.694916"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "6.1379733"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "17.223492"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "17.272898"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "16.493103"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "25.669775"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "6.1482887"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "17.176485"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "17.298807"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "16.552177"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "25.6229"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "6.1424971"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "17.1471"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "17.255201"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "16.542355"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "25.633152"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "6.1503148"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "17.148615"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "17.245075"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "16.543236"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "25.639246"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "6.1493945"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "17.155767"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "17.254683"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "16.552677"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "25.657406"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "6.135829"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "17.155142"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "17.265514"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "16.542192"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "25.653568"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "6.1334291"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "17.150963"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "17.235256"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "16.543432"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "25.656372"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "6.1203856"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "17.169371"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "17.26738"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "16.549465"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "25.65449"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "6.1208177"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "17.167341"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "17.265146"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "16.547394"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "3.4753208"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "3.8849239"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "25.655754"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "6.1172028"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "17.169176"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "17.267244"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "16.548349"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "3.4753208"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "3.8857682"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "25.651833"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "6.1184368"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "17.165949"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "17.266727"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "16.553661"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "3.4753864"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "3.8936808"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "25.703466"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "6.1348381"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "17.16835"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "17.250597"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "16.561796"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "3.4779778"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "3.8965535"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "25.719177"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "6.1434307"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "17.152239"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "17.250639"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "16.563774"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "3.4823613"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "3.8966038"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "25.713882"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "6.1434226"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "17.155863"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "17.249884"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "16.575109"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "3.4759359"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "3.894237"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "25.727982"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "6.1409507"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "17.156647"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "17.235188"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "16.616642"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "3.4463561"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "3.8716273"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "25.782938"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "6.1148071"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "17.18342"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "17.252623"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "16.61426"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "3.4492838"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "3.8724506"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "25.773279"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "6.115428"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "17.183935"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "4.2701378"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "17.253199"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "16.614038"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "3.445626"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "3.8673143"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "25.760546"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "6.1219378"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "17.187996"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "4.2717423"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "17.251068"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "16.596937"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "3.4457252"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "3.8578229"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "25.761803"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "6.132946"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "17.202248"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "4.2662134"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "17.255396"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "16.590952"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "3.4496994"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "3.8581033"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "25.755232"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "6.1433296"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "17.198593"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "4.2683964"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "17.244505"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "16.586609"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "3.4519074"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "3.8594041"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "25.776781"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "6.1441407"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "17.20326"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "4.2643762"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "17.243202"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "16.583189"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "3.4491596"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "3.8615229"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "25.783667"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "6.1405854"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "17.199812"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "4.2630839"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "17.241768"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "16.581526"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "3.4577291"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "3.8563423"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "25.818926"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "6.1561403"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "17.168266"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "4.227746"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "17.243696"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "16.554653"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "3.457618"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "3.8461504"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "25.848169"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "6.2069173"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "17.171741"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "4.221097"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "17.212376"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "16.556534"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "3.4536355"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "3.8466752"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "25.862125"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "6.2116027"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "17.164476"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "4.2211232"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "17.203823"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "16.558147"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "3.4473765"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "3.8433475"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "25.868999"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "6.2068014"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "17.177479"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "4.2276402"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "17.20134"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "16.532497"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "3.4525588"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "3.8482628"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "25.87405"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "6.1844397"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "17.191858"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "4.2025871"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "17.240185"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "16.486607"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "3.4167802"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "3.8520424"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "25.822109"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "6.2337594"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "17.238321"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "4.2159166"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "17.240286"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "16.486805"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "3.4178689"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "3.8513575"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "25.824373"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "6.2328591"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "17.238539"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "4.2157049"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "17.240644"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "16.47504"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "3.4217424"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "3.8621843"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "25.89908"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "6.2455688"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "17.252798"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "4.2246594"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "17.201439"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "16.469694"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "3.4253201"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "3.8625491"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "25.896673"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "6.2474885"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "17.254147"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "4.2192645"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "17.189342"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "16.469826"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.4160345"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.8637171"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "25.98778"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "6.240952"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "17.243385"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "4.224021"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "17.203323"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "16.409599"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.423645"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.8535542"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "25.972931"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "6.1999531"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "17.298847"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "4.2211061"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "17.268957"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "16.410507"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.4235733"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.8523781"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "25.976866"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "6.1981573"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "17.299894"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "4.2211933"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "17.267847"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "16.410507"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.4235733"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.8523781"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "25.976866"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "6.1981573"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "17.299894"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "4.2211933"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "17.267847"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "16.408672"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.4184983"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.8513591"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "25.975956"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "6.1878772"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "17.303493"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "4.2227306"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "17.268368"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "16.408672"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.4184983"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.8513591"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "25.975956"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "6.1878772"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "17.303493"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "4.2227306"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "17.268368"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "16.386627"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.4152269"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.8644583"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "25.992601"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "6.191165"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "17.307037"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "4.2251234"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "17.277395"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "16.392771"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.3838065"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.8424499"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "26.023525"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "6.1480408"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "17.288078"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "4.2453632"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "17.230797"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "16.358044"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.3804948"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.8572178"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "26.009666"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "6.1432719"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "17.271593"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "4.2550726"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "17.23473"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "16.358044"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.3804948"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.8572178"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "26.009666"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "6.1432719"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "17.271593"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "4.2550726"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "17.23473"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "16.358044"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.3804948"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.8572178"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "26.009666"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "6.1432719"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "17.271593"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "4.2550726"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "17.23473"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "16.358044"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.3804948"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.8572178"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "26.009666"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "6.1432719"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "17.271593"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "4.2550726"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "17.23473"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "16.358561"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.3876448"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.8430398"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "26.075182"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "6.1478395"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "17.288864"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "4.2769465"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "17.237343"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "16.363489"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.369122"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.8532555"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "26.06459"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "6.1360073"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "17.293262"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "4.2755399"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "17.256891"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "16.362848"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.369298"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.8532963"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "26.068975"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "6.1379786"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "17.293571"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "4.2752118"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "17.25638"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "16.363159"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.3691847"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.8533249"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "26.068647"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "6.1371102"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "17.293753"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "4.2755375"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "17.25556"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "16.418556"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.340965"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.850842"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "26.092937"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "6.141542"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "17.293667"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "4.256063"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "17.218266"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "16.419018"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.3414717"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.8509054"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "26.092743"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "6.1416507"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "17.293871"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "4.2561293"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "17.218296"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "16.419018"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.3414717"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.8509054"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "26.092743"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "6.1416507"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "17.293871"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "4.2561293"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "17.218296"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "16.418571"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.3408587"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.8503177"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "26.092581"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "6.1410475"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "17.29319"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "4.2559195"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "17.218336"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "16.419201"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.3419037"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.8503923"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "26.092424"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "6.1415057"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "17.292606"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "4.2563534"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "17.21587"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "16.419353"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.341975"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.8504703"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "26.092392"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "6.1397457"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "17.292377"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "4.2564502"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "17.214893"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "16.419603"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.3419447"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.8502362"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "26.092045"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "6.141118"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "17.291864"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "4.2564654"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "17.215199"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "16.425714"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.3401887"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.8512383"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "26.081961"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "6.1410341"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "17.292265"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "4.2574191"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "17.206339"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "16.426104"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.3400772"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.8514194"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "26.086061"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "6.1406689"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "17.29248"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "4.2574058"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "17.205385"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "16.426319"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.3399875"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.8516002"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "26.086012"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "6.1387224"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "17.292336"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "4.2574301"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "17.205002"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "16.426571"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.3398383"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.8512368"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "26.080803"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "6.1400771"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "17.292185"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "4.2570043"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "17.205261"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "16.426714"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.3397031"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.8520765"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "26.084549"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "6.1397271"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "17.291956"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "4.2573028"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "17.204727"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "16.428978"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.3374748"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.8575053"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "26.0886"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "6.1423321"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "17.301662"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "4.2600164"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "17.216188"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "16.430145"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.3343582"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.8571818"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "26.090477"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "6.1372871"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "17.297674"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "4.2620273"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "17.219923"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "16.429924"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.3377275"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.8538456"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "26.083021"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "6.1458416"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "17.289404"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "4.2675853"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "17.216257"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "16.45669"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.3813908"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.8379643"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "26.021896"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "6.211936"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "17.241293"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "4.2951355"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "17.097513"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "16.45731"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.3813751"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.8329346"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "26.016113"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "6.2086763"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "17.240789"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "4.2951779"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "17.087753"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "16.43553"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.3658197"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.8451512"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "25.988966"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "6.2076917"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "17.236633"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "4.3042426"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "17.140085"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "16.434319"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.4060581"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.8298147"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "25.951313"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "6.2857308"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "17.166704"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "4.3207378"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "17.027672"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "16.455856"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.4110663"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.8146012"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "25.961025"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "6.2783446"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "17.148632"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "4.336164"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "16.995371"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "16.455835"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.4113605"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.8137848"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "25.954687"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "6.2775154"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "17.148935"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "4.3365645"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "16.994741"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "16.481056"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.404525"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.8064749"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "25.924679"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "6.2691855"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "17.145475"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "4.3419204"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "16.982306"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "16.480757"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.4043443"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.8054247"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "25.924854"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "6.2686758"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "17.145994"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "4.3423109"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "16.981375"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "16.480602"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.4032459"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.8040202"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "25.924191"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "6.2704024"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "17.145559"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "4.3426385"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "16.981167"
+    },
+    {
+      "candidate_name": "Carson",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "16.486893"
+    },
+    {
+      "candidate_name": "Fiorina",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.4117763"
+    },
+    {
+      "candidate_name": "Christie",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.8026373"
+    },
+    {
+      "candidate_name": "Trump",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "25.960087"
+    },
+    {
+      "candidate_name": "Bush",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "6.2643843"
+    },
+    {
+      "candidate_name": "Rubio",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "17.162209"
+    },
+    {
+      "candidate_name": "Paul",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "4.3581762"
+    },
+    {
+      "candidate_name": "Cruz",
+      "state": "Indiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "16.952175"
+    }
+  ],
+  "polls": [
+    {
+      "id": "65270",
+      "population": "lv",
+      "pollId": "44011",
+      "cycle": "2016",
+      "sampleSize": "379",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2016-04-28",
+      "endDate": "2016-04-29",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/current-indiana-polling/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1462190760,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "44.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "27.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "9.0"
+        }
+      ],
+      "weight": ".4548496305942535"
+    },
+    {
+      "id": "65220",
+      "population": "lv",
+      "pollId": "44000",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "23",
+      "pollster": "American Research Group",
+      "startDate": "2016-04-27",
+      "endDate": "2016-04-28",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://americanresearchgroup.com/pres2016/primary/rep/inrep.html",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461930660,
+      "votingAnswers": [
+        {
+          "choice": "Cruz",
+          "pct": "32.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "21.0"
+        },
+        {
+          "choice": "Trump",
+          "pct": "41.0"
+        }
+      ],
+      "weight": ".3490694165229797"
+    },
+    {
+      "id": "65248",
+      "population": "lv",
+      "pollId": "44008",
+      "cycle": "2016",
+      "sampleSize": "645",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-04-26",
+      "endDate": "2016-04-28",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://maristpoll.marist.edu/wp-content/misc/INPolls/IN160426/NBC%20News_WSJ_Marist_Indiana_%20Poll_Summary_May%202016.pdf",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1462095300,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "49.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "34.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "13.0"
+        }
+      ],
+      "weight": ".6685653328895569"
+    },
+    {
+      "id": "65210",
+      "population": "lv",
+      "pollId": "43995",
+      "cycle": "2016",
+      "sampleSize": "423",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "544",
+      "pollster": "Clout Research",
+      "startDate": "2016-04-27",
+      "endDate": "2016-04-27",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://cloutpolitical.com/wp-content/uploads/sites/31/2016/04/IN-GOP-PRIMARY-POLL-TOPLINE-REPORT-4-28-2016.pdf",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461851580,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "37.1"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "35.2"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "16.3"
+        }
+      ],
+      "weight": ".2447026371955872"
+    },
+    {
+      "id": "65222",
+      "population": "lv",
+      "pollId": "44001",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "1281",
+      "pollster": "IPFW",
+      "startDate": "2016-04-13",
+      "endDate": "2016-04-27",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/INhighlights04292016.pdf",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461943200,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "29.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "44.8"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "13.3"
+        }
+      ],
+      "weight": ".0690201222896576"
+    },
+    {
+      "id": "62659",
+      "population": "lv",
+      "pollId": "42726",
+      "cycle": "2016",
+      "sampleSize": "439",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-04-20",
+      "endDate": "2016-04-22",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "http://www.cbsnews.com/news/poll-donald-trump-hillary-clinton-party-front-runners-lead-in-pennsylvania-indiana/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461499680,
+      "votingAnswers": [
+        {
+          "choice": "Cruz",
+          "pct": "35.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "20.0"
+        },
+        {
+          "choice": "Trump",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".1107552871108055"
+    },
+    {
+      "id": "62635",
+      "population": "lv",
+      "pollId": "42717",
+      "cycle": "2016",
+      "sampleSize": "507",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "379",
+      "pollster": "Public Opinion Strategies",
+      "startDate": "2016-04-18",
+      "endDate": "2016-04-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.wthr.com/story/31792956/exclusive-wthrhpi-poll-trump-clinton-ahead-in-indiana",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461331020,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "37.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "31.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "22.0"
+        }
+      ],
+      "weight": ".0821881964802742"
+    },
+    {
+      "id": "62645",
+      "population": "lv",
+      "pollId": "42722",
+      "cycle": "2016",
+      "sampleSize": "602",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "590",
+      "pollster": "Fox News",
+      "startDate": "2016-04-18",
+      "endDate": "2016-04-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.foxnews.com/politics/interactive/2016/04/22/fox-news-poll-indiana-democratic-presidential-primary/",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1461349560,
+      "votingAnswers": [
+        {
+          "choice": "Cruz",
+          "pct": "33.0"
+        },
+        {
+          "choice": "Kasich",
+          "pct": "16.0"
+        },
+        {
+          "choice": "Trump",
+          "pct": "41.0"
+        }
+      ],
+      "weight": ".1075013130903244"
+    },
+    {
+      "id": "48112",
+      "population": "rv",
+      "pollId": "35841",
+      "cycle": "2016",
+      "sampleSize": "670",
+      "state": "IN",
+      "officeType": "U.S. President",
+      "pollsterId": "54",
+      "pollster": "Bellwether Research & Consulting",
+      "startDate": "2015-12-02",
+      "endDate": "2015-12-09",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.theindychannel.com/news/local-news/bellwether-poll-trump-leads-among-indiana-republicans",
+      "stage": "primary",
+      "party": "REP",
+      "created_at": 1452469680,
+      "votingAnswers": [
+        {
+          "choice": "Trump",
+          "pct": "26.0"
+        },
+        {
+          "choice": "Bush",
+          "pct": "6.0"
+        },
+        {
+          "choice": "Carson",
+          "pct": "16.0"
+        },
+        {
+          "choice": "Rubio",
+          "pct": "17.0"
+        },
+        {
+          "choice": "Fiorina",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Paul",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Cruz",
+          "pct": "17.0"
+        },
+        {
+          "choice": "Christie",
+          "pct": "3.0"
+        }
+      ],
+      "weight": "3.48505697508e-16"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Cruz",
+      "probs": {
+        "pollonly": [
+          ".000026638383",
+          ".00020922881",
+          ".0004554448",
+          ".00064417569",
+          ".00074843329",
+          ".00078019284",
+          ".00076052023",
+          ".00070882757",
+          ".0006400292",
+          ".00056453911",
+          ".00048912788",
+          ".00041787149",
+          ".00035297041",
+          ".00029537588",
+          ".00024524421",
+          ".00020225543",
+          ".0001658284",
+          ".00013525915",
+          ".00010981306",
+          ".000088777975",
+          ".000071495517",
+          ".000057399768",
+          ".000046181351",
+          ".000038715036",
+          ".000041289091",
+          ".000080967133",
+          ".00024975822",
+          ".00080341421",
+          ".0023250468",
+          ".0058942097",
+          ".013085461",
+          ".025557032",
+          ".044139002",
+          ".067735881",
+          ".09276747",
+          ".11382543",
+          ".12555581",
+          ".12488354",
+          ".11230314",
+          ".091515698",
+          ".067712635",
+          ".045566417",
+          ".027927017",
+          ".015606041",
+          ".007958509",
+          ".0037060622",
+          ".0015765339",
+          ".00061274949",
+          ".00021758859",
+          ".000070578571",
+          ".000020906913",
+          "5.6561062e-06",
+          "1.3999046e-06",
+          "3.1958328e-07",
+          "6.9510122e-08",
+          "1.6089324e-08",
+          "5.0394720e-09",
+          "2.4417666e-09",
+          "1.5231518e-09",
+          "1.0219739e-09",
+          "6.9271339e-10",
+          "4.6732751e-10",
+          "3.1277467e-10",
+          "2.0747910e-10",
+          "1.3633301e-10",
+          "8.8689972e-11",
+          "5.7086284e-11",
+          "3.6333173e-11",
+          "2.2849804e-11",
+          "1.4188519e-11",
+          "8.6916498e-12",
+          "5.2478117e-12",
+          "3.1197054e-12",
+          "1.8240008e-12",
+          "1.0475152e-12",
+          "5.9007763e-13",
+          "3.2552273e-13",
+          "1.7555090e-13",
+          "9.2363264e-14",
+          "4.7299838e-14",
+          "2.3515845e-14",
+          "1.1314271e-14",
+          "5.2502613e-15",
+          "2.3397602e-15",
+          "9.9623685e-16",
+          "4.0315007e-16",
+          "1.5455638e-16",
+          "5.4932687e-17",
+          "1.7690187e-17",
+          "5.5863750e-18",
+          "1.8621250e-18",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000024492489",
+          ".000081244005",
+          ".00011615158",
+          ".00013190304",
+          ".00013560664",
+          ".00013218938",
+          ".00012478066",
+          ".00011533326",
+          ".00010505606",
+          ".000094686875",
+          ".000084665058",
+          ".000075238917",
+          ".000066535249",
+          ".00005860384",
+          ".000051446263",
+          ".000045034983",
+          ".000039325914",
+          ".00003426586",
+          ".000029798646",
+          ".000025870195",
+          ".000022443375",
+          ".000019573214",
+          ".000017744147",
+          ".000019156951",
+          ".000031829029",
+          ".000080531667",
+          ".00023109427",
+          ".0006346656",
+          ".0015910707",
+          ".0036111753",
+          ".0074311062",
+          ".013914709",
+          ".023800468",
+          ".037321337",
+          ".053829413",
+          ".071622409",
+          ".088140212",
+          ".10055415",
+          ".1065627",
+          ".10508935",
+          ".096587457",
+          ".082844295",
+          ".066383652",
+          ".049739793",
+          ".034874305",
+          ".022892771",
+          ".014074609",
+          ".0081060482",
+          ".0043735155",
+          ".0022102555",
+          ".0010459895",
+          ".00046333854",
+          ".0001920069",
+          ".000074390424",
+          ".000026932008",
+          "9.1120128e-06",
+          "2.8872221e-06",
+          "8.6434807e-07",
+          "2.5173858e-07",
+          "7.7498605e-08",
+          "2.9626699e-08",
+          "1.5767759e-08",
+          "1.0688280e-08",
+          "7.9886178e-09",
+          "6.1234555e-09",
+          "4.7024438e-09",
+          "3.5948247e-09",
+          "2.7308364e-09",
+          "2.0599951e-09",
+          "1.5422901e-09",
+          "1.1454407e-09",
+          "8.4342594e-10",
+          "6.1534067e-10",
+          "4.4452092e-10",
+          "3.1772096e-10",
+          "2.2449675e-10",
+          "1.5666558e-10",
+          "1.0786308e-10",
+          "7.3178588e-11",
+          "4.8854077e-11",
+          "3.2043822e-11",
+          "2.0611905e-11",
+          "1.2974761e-11",
+          "7.9727084e-12",
+          "4.7682509e-12",
+          "2.7657993e-12",
+          "1.5493438e-12",
+          "8.3381322e-13",
+          "4.2831461e-13",
+          "2.0828586e-13",
+          "9.4875388e-14",
+          "3.9915445e-14",
+          "1.5217162e-14",
+          "5.1170103e-15",
+          "1.4585457e-15",
+          "3.3131307e-16",
+          "5.3970418e-17",
+          "5.1857698e-18",
+          "1.9206555e-19",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Kasich",
+      "probs": {
+        "pollonly": [
+          ".0057293074",
+          ".015548743",
+          ".01670466",
+          ".014348855",
+          ".011332662",
+          ".0086104032",
+          ".0064137625",
+          ".0047295946",
+          ".0035008711",
+          ".0028144717",
+          ".0032794687",
+          ".0065391157",
+          ".015269794",
+          ".031863384",
+          ".056120306",
+          ".083799042",
+          ".10772643",
+          ".12108704",
+          ".12063729",
+          ".10777508",
+          ".087192349",
+          ".064415596",
+          ".043766811",
+          ".027516073",
+          ".01609147",
+          ".0087931678",
+          ".0045078658",
+          ".002175808",
+          ".00099209405",
+          ".00042879878",
+          ".00017639462",
+          ".000069471484",
+          ".000026461636",
+          "9.9365625e-06",
+          "3.8118847e-06",
+          "1.5803065e-06",
+          "7.5134568e-07",
+          "4.1795406e-07",
+          "2.6276339e-07",
+          "1.7711453e-07",
+          "1.2318846e-07",
+          "8.6659909e-08",
+          "6.1113951e-08",
+          "4.3048004e-08",
+          "3.0242894e-08",
+          "2.1177460e-08",
+          "1.4775833e-08",
+          "1.0269631e-08",
+          "7.1086332e-09",
+          "4.8994444e-09",
+          "3.3615748e-09",
+          "2.2954596e-09",
+          "1.5596227e-09",
+          "1.0540975e-09",
+          "7.0847739e-10",
+          "4.7340915e-10",
+          "3.1439454e-10",
+          "2.0744274e-10",
+          "1.3594219e-10",
+          "8.8447000e-11",
+          "5.7108956e-11",
+          "3.6579722e-11",
+          "2.3232166e-11",
+          "1.4623053e-11",
+          "9.1170379e-12",
+          "5.6271875e-12",
+          "3.4361426e-12",
+          "2.0744866e-12",
+          "1.2373216e-12",
+          "7.2852174e-13",
+          "4.2306878e-13",
+          "2.4206795e-13",
+          "1.3634079e-13",
+          "7.5487339e-14",
+          "4.1038963e-14",
+          "2.1865373e-14",
+          "1.1408020e-14",
+          "5.8108269e-15",
+          "2.8947317e-15",
+          "1.3992983e-15",
+          "6.5158168e-16",
+          "2.9908667e-16",
+          "1.2818000e-16",
+          "5.3408336e-17",
+          "2.1363334e-17",
+          "1.0681667e-17",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".010044083",
+          ".01529752",
+          ".013548495",
+          ".010993389",
+          ".0086955363",
+          ".006823706",
+          ".0053471909",
+          ".0042010318",
+          ".0033642277",
+          ".0030201187",
+          ".0039001987",
+          ".0076363725",
+          ".016544303",
+          ".032386452",
+          ".054623768",
+          ".079545289",
+          ".10128682",
+          ".11429529",
+          ".11568557",
+          ".10612539",
+          ".089020863",
+          ".068798259",
+          ".049303744",
+          ".032947119",
+          ".020629955",
+          ".012155948",
+          ".0067671924",
+          ".0035730039",
+          ".0017968273",
+          ".00086531986",
+          ".00040233004",
+          ".00018311078",
+          ".000083556224",
+          ".000039723251",
+          ".00002065093",
+          ".000012167941",
+          "8.1087828e-06",
+          "5.9057893e-06",
+          "4.5234265e-06",
+          "3.5484861e-06",
+          "2.8108354e-06",
+          "2.2333215e-06",
+          "1.7746898e-06",
+          "1.4086534e-06",
+          "1.1162474e-06",
+          "8.8281286e-07",
+          "6.9669943e-07",
+          "5.4856713e-07",
+          "4.3088278e-07",
+          "3.3757269e-07",
+          "2.6375079e-07",
+          "2.0548002e-07",
+          "1.5959685e-07",
+          "1.2356237e-07",
+          "9.5338848e-08",
+          "7.3299546e-08",
+          "5.6142358e-08",
+          "4.2829782e-08",
+          "3.2536377e-08",
+          "2.4607017e-08",
+          "1.8522373e-08",
+          "1.3873046e-08",
+          "1.0336045e-08",
+          "7.6578655e-09",
+          "5.6400746e-09",
+          "4.1278985e-09",
+          "3.0009650e-09",
+          "2.1662185e-09",
+          "1.5518393e-09",
+          "1.1027389e-09",
+          "7.7684997e-10",
+          "5.4221966e-10",
+          "3.7470141e-10",
+          "2.5618274e-10",
+          "1.7314254e-10",
+          "1.1556951e-10",
+          "7.6105428e-11",
+          "4.9386807e-11",
+          "3.1539455e-11",
+          "1.9791585e-11",
+          "1.2182773e-11",
+          "7.3414001e-12",
+          "4.3208583e-12",
+          "2.4770715e-12",
+          "1.3787632e-12",
+          "7.4223532e-13",
+          "3.8467715e-13",
+          "1.9084319e-13",
+          "8.9995780e-14",
+          "3.9981283e-14",
+          "1.6540148e-14",
+          "6.2846499e-15",
+          "2.1420349e-15",
+          "6.3654812e-16",
+          "1.5155908e-16",
+          "4.0415754e-17",
+          "0",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Trump",
+      "probs": {
+        "pollonly": [
+          "2.9029775e-07",
+          "3.3698684e-06",
+          "9.5837286e-06",
+          ".000016477357",
+          ".000022326243",
+          ".000026438191",
+          ".000028751751",
+          ".000029505309",
+          ".000029041032",
+          ".000027703378",
+          ".000025794076",
+          ".000023556824",
+          ".000021177466",
+          ".000018790715",
+          ".000016489097",
+          ".000014332032",
+          ".000012353934",
+          ".00001057073",
+          "8.9854830e-06",
+          "7.5925250e-06",
+          "6.3805160e-06",
+          "5.3349600e-06",
+          "4.4397284e-06",
+          "3.6783317e-06",
+          "3.0346880e-06",
+          "2.4935753e-06",
+          "2.0410012e-06",
+          "1.6642655e-06",
+          "1.3520869e-06",
+          "1.0945265e-06",
+          "8.8315164e-07",
+          "7.1335450e-07",
+          "6.0539941e-07",
+          "7.5700200e-07",
+          "2.4402461e-06",
+          ".000012299159",
+          ".000059080772",
+          ".00024605336",
+          ".00088034646",
+          ".0027120609",
+          ".0072189737",
+          ".016657876",
+          ".033419527",
+          ".058439579",
+          ".089262791",
+          ".11930481",
+          ".13972664",
+          ".14355032",
+          ".12946583",
+          ".10254394",
+          ".071337089",
+          ".043578707",
+          ".023364292",
+          ".01098443",
+          ".0045229746",
+          ".001628689",
+          ".0005119174",
+          ".00014013151",
+          ".000033320186",
+          "6.8613103e-06",
+          "1.2194290e-06",
+          "1.8639257e-07",
+          "2.4448353e-08",
+          "2.7779805e-09",
+          "3.0074493e-10",
+          "5.0426663e-11",
+          "2.1276614e-11",
+          "1.3110328e-11",
+          "8.4306303e-12",
+          "5.3804418e-12",
+          "3.3896850e-12",
+          "2.1054877e-12",
+          "1.2881062e-12",
+          "7.7533189e-13",
+          "4.5859139e-13",
+          "2.6617789e-13",
+          "1.5137663e-13",
+          "8.4204081e-14",
+          "4.5723865e-14",
+          "2.4182867e-14",
+          "1.2425698e-14",
+          "6.1842219e-15",
+          "2.9710172e-15",
+          "1.3722086e-15",
+          "6.0639703e-16",
+          "2.5488190e-16",
+          "1.0125327e-16",
+          "3.7694716e-17",
+          "1.2996689e-17",
+          "4.1019452e-18",
+          "1.1658159e-18",
+          "2.5907023e-19",
+          "8.6356738e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "5.6873671e-07",
+          "2.2300292e-06",
+          "3.5524993e-06",
+          "4.3570035e-06",
+          "4.7576668e-06",
+          "4.8753686e-06",
+          "4.8040324e-06",
+          "4.6115606e-06",
+          "4.3457831e-06",
+          "4.0398836e-06",
+          "3.7166240e-06",
+          "3.3913516e-06",
+          "3.0741867e-06",
+          "2.7715653e-06",
+          "2.4873279e-06",
+          "2.2235120e-06",
+          "1.9809161e-06",
+          "1.7594698e-06",
+          "1.5585505e-06",
+          "1.3771800e-06",
+          "1.2141496e-06",
+          "1.0681556e-06",
+          "9.3785121e-07",
+          "8.2201700e-07",
+          "7.2035067e-07",
+          "6.3828719e-07",
+          "6.1278166e-07",
+          "8.2982052e-07",
+          "2.0841048e-06",
+          "7.3250108e-06",
+          ".000026131775",
+          ".000085838001",
+          ".00025509251",
+          ".00068560941",
+          ".001671553",
+          ".0037094895",
+          ".0075172535",
+          ".013951843",
+          ".023777504",
+          ".037296731",
+          ".053954266",
+          ".072111942",
+          ".089182995",
+          ".10219131",
+          ".10861272",
+          ".10716845",
+          ".098235339",
+          ".083695732",
+          ".066299297",
+          ".048835669",
+          ".033448003",
+          ".021296414",
+          ".012599906",
+          ".0069230306",
+          ".0035297703",
+          ".0016684134",
+          ".00073022157",
+          ".0002955285",
+          ".00011041895",
+          ".000038018628",
+          ".000012038136",
+          "3.4975437e-06",
+          "9.3024016e-07",
+          "2.2608116e-07",
+          "5.0262884e-08",
+          "1.0371839e-08",
+          "2.1330635e-09",
+          "5.5365040e-10",
+          "2.4331201e-10",
+          "1.5796735e-10",
+          "1.1530931e-10",
+          "8.5560864e-11",
+          "6.3166597e-11",
+          "4.6209363e-11",
+          "3.3455419e-11",
+          "2.3950519e-11",
+          "1.6938288e-11",
+          "1.1821619e-11",
+          "8.1325294e-12",
+          "5.5070909e-12",
+          "3.6652456e-12",
+          "2.3932542e-12",
+          "1.5299471e-12",
+          "9.5522700e-13",
+          "5.8080098e-13",
+          "3.4271406e-13",
+          "1.9544082e-13",
+          "1.0716455e-13",
+          "5.6140222e-14",
+          "2.7873044e-14",
+          "1.2979635e-14",
+          "5.5913877e-15",
+          "2.1868483e-15",
+          "7.5623657e-16",
+          "2.2237609e-16",
+          "5.2307372e-17",
+          "8.8733583e-18",
+          "9.0088902e-19",
+          "3.1889877e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

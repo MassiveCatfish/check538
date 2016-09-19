@@ -1,0 +1,7640 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "31.851702",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "37.748508",
+      "pollonly_lo": "31.913853",
+      "pollonly_forecast": "33.695118",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "37.116318",
+      "kitchen_lo": "29.749847",
+      "kitchen_forecast": "32.377056"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "61.748478",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "68.139862",
+      "pollonly_lo": "62.347614",
+      "pollonly_forecast": "63.325516",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "70.233093",
+      "kitchen_lo": "62.922348",
+      "kitchen_forecast": "64.643585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "31.850937",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "37.744514",
+      "pollonly_lo": "31.913822",
+      "pollonly_forecast": "33.694931",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "36.845253",
+      "kitchen_lo": "30.059361",
+      "kitchen_forecast": "32.408981"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "61.747269",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "68.139923",
+      "pollonly_lo": "62.347679",
+      "pollonly_forecast": "63.325348",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "69.922546",
+      "kitchen_lo": "63.191025",
+      "kitchen_forecast": "64.61129"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "32.816967",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "38.978649",
+      "pollonly_lo": "32.950729",
+      "pollonly_forecast": "34.682438",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "37.272247",
+      "kitchen_lo": "28.139629",
+      "kitchen_forecast": "31.653214"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "60.744152",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "67.233429",
+      "pollonly_lo": "61.288578",
+      "pollonly_forecast": "62.428196",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "71.810623",
+      "kitchen_lo": "62.851051",
+      "kitchen_forecast": "65.45742"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "31.814745",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "38.577919",
+      "pollonly_lo": "32.033089",
+      "pollonly_forecast": "33.896145",
+      "kitchen_winprob": 0.015000001,
+      "kitchen_hi": "36.373726",
+      "kitchen_lo": "26.534033",
+      "kitchen_forecast": "30.351883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "60.866894",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "68.204544",
+      "pollonly_lo": "61.804901",
+      "pollonly_forecast": "63.058567",
+      "kitchen_winprob": 99.984998,
+      "kitchen_hi": "73.384193",
+      "kitchen_lo": "63.798164",
+      "kitchen_forecast": "66.602821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "31.814745",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "38.301117",
+      "pollonly_lo": "32.3069",
+      "pollonly_forecast": "33.896145",
+      "kitchen_winprob": 0.0099999997,
+      "kitchen_hi": "36.155899",
+      "kitchen_lo": "26.755186",
+      "kitchen_forecast": "30.349571"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "60.866894",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "67.91832",
+      "pollonly_lo": "62.110004",
+      "pollonly_forecast": "63.058567",
+      "kitchen_winprob": 99.989998,
+      "kitchen_hi": "73.18396",
+      "kitchen_lo": "64.031494",
+      "kitchen_forecast": "66.605141"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "31.797161",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "38.285583",
+      "pollonly_lo": "32.30344",
+      "pollonly_forecast": "33.880424",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "35.851006",
+      "kitchen_lo": "26.836571",
+      "kitchen_forecast": "30.250099"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "60.877605",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "67.932579",
+      "pollonly_lo": "62.127239",
+      "pollonly_forecast": "63.07304",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "73.105484",
+      "kitchen_lo": "64.336647",
+      "kitchen_forecast": "66.703362"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "32.13895",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "38.815361",
+      "pollonly_lo": "32.787277",
+      "pollonly_forecast": "34.347652",
+      "kitchen_winprob": 0.0049999999,
+      "kitchen_hi": "36.46949",
+      "kitchen_lo": "27.411388",
+      "kitchen_forecast": "30.731712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "60.125603",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "67.439331",
+      "pollonly_lo": "61.60363",
+      "pollonly_forecast": "62.530731",
+      "kitchen_winprob": 99.99499899999999,
+      "kitchen_hi": "72.602943",
+      "kitchen_lo": "63.801727",
+      "kitchen_forecast": "66.146667"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "37.781696",
+      "pollonly_winprob": 5.13,
+      "pollonly_hi": "47.487259",
+      "pollonly_lo": "34.809235",
+      "pollonly_forecast": "39.852665",
+      "kitchen_winprob": 2.83,
+      "kitchen_hi": "44.40601",
+      "kitchen_lo": "29.041096",
+      "kitchen_forecast": "35.311539"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "55.75338",
+      "pollonly_winprob": 94.870001,
+      "pollonly_hi": "65.274323",
+      "pollonly_lo": "52.699451",
+      "pollonly_forecast": "57.451481",
+      "kitchen_winprob": 97.170001,
+      "kitchen_hi": "71.079514",
+      "kitchen_lo": "56.026299",
+      "kitchen_forecast": "61.992599"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "34.875992",
+      "pollonly_winprob": 3.9450000999999997,
+      "pollonly_hi": "46.231064",
+      "pollonly_lo": "31.942181",
+      "pollonly_forecast": "37.698662",
+      "kitchen_winprob": 2.0300001,
+      "kitchen_hi": "42.93148",
+      "kitchen_lo": "26.33802",
+      "kitchen_forecast": "33.164494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "56.839691",
+      "pollonly_winprob": 96.05500099999999,
+      "pollonly_hi": "68.095947",
+      "pollonly_lo": "53.978523",
+      "pollonly_forecast": "59.305573",
+      "kitchen_winprob": 97.970003,
+      "kitchen_hi": "73.64566",
+      "kitchen_lo": "57.540085",
+      "kitchen_forecast": "63.839733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "35.01944",
+      "pollonly_winprob": 3.7349999,
+      "pollonly_hi": "46.085274",
+      "pollonly_lo": "32.229542",
+      "pollonly_forecast": "37.76767",
+      "kitchen_winprob": 2.0099999,
+      "kitchen_hi": "42.808903",
+      "kitchen_lo": "26.590721",
+      "kitchen_forecast": "33.245384"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "56.895515",
+      "pollonly_winprob": 96.265,
+      "pollonly_hi": "67.831177",
+      "pollonly_lo": "54.132565",
+      "pollonly_forecast": "59.272026",
+      "kitchen_winprob": 97.99,
+      "kitchen_hi": "73.432175",
+      "kitchen_lo": "57.642601",
+      "kitchen_forecast": "63.794308"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "35.01944",
+      "pollonly_winprob": 3.345,
+      "pollonly_hi": "45.847427",
+      "pollonly_lo": "32.426189",
+      "pollonly_forecast": "37.76767",
+      "kitchen_winprob": 1.9800000000000002,
+      "kitchen_hi": "42.618229",
+      "kitchen_lo": "26.743439",
+      "kitchen_forecast": "33.245384"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "56.895515",
+      "pollonly_winprob": 96.654999,
+      "pollonly_hi": "67.632195",
+      "pollonly_lo": "54.352821",
+      "pollonly_forecast": "59.272026",
+      "kitchen_winprob": 98.019999,
+      "kitchen_hi": "73.273834",
+      "kitchen_lo": "57.789055",
+      "kitchen_forecast": "63.794308"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "35.00943",
+      "pollonly_winprob": 3.015,
+      "pollonly_hi": "45.644104",
+      "pollonly_lo": "32.640907",
+      "pollonly_forecast": "37.764439",
+      "kitchen_winprob": 1.6500000000000001,
+      "kitchen_hi": "42.432487",
+      "kitchen_lo": "27.199177",
+      "kitchen_forecast": "33.503635"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "56.887161",
+      "pollonly_winprob": 96.985,
+      "pollonly_hi": "67.434784",
+      "pollonly_lo": "54.574848",
+      "pollonly_forecast": "59.272007",
+      "kitchen_winprob": 98.35000000000001,
+      "kitchen_hi": "72.795624",
+      "kitchen_lo": "57.781811",
+      "kitchen_forecast": "63.532806"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "35.238792",
+      "pollonly_winprob": 2.8449999,
+      "pollonly_hi": "45.582657",
+      "pollonly_lo": "33.027954",
+      "pollonly_forecast": "37.939739",
+      "kitchen_winprob": 1.43,
+      "kitchen_hi": "41.957939",
+      "kitchen_lo": "26.520905",
+      "kitchen_forecast": "32.913101"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "56.801067",
+      "pollonly_winprob": 97.154999,
+      "pollonly_hi": "67.048706",
+      "pollonly_lo": "54.625366",
+      "pollonly_forecast": "59.122013",
+      "kitchen_winprob": 98.57000099999999,
+      "kitchen_hi": "73.476242",
+      "kitchen_lo": "58.2999",
+      "kitchen_forecast": "64.148659"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "35.590641"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "56.901012"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "20.37406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "58.245434"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "20.374111"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "58.239735"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "20.384823"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "58.247829"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "20.382452"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "58.245461"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "20.383793"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "58.24184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "20.385094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "58.240295"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "20.391886"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "58.238026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "20.394209"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "58.230537"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "20.391026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "58.225021"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "20.375328"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "58.250301"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "20.366369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "58.275795"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "20.372732"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "58.274685"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "20.366245"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "58.263504"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "20.379477"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "58.276405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "20.376926"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "58.279324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "20.37393"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "58.274567"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "1.69607"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "20.355631"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "58.291489"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "1.7023826"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "20.366968"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "58.299084"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "1.6988013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "20.369326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "58.313702"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "1.7068467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "20.341154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "58.326168"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "1.6950759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "20.391552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "58.309544"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "1.7090093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "20.392267"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "58.340984"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "1.7450246"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "20.397211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "58.346092"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "1.7423406"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "20.432112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "57.879143"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "1.7984717"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "20.487957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "57.860798"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "1.819595"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "20.495275"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "57.866371"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "1.81741"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "20.50569"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "57.883617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "1.8176668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "20.54355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "57.885967"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "1.8079489"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "20.530586"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "57.971615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "1.8101202"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "19.589128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "58.075531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "1.9297211"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "19.56851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "58.064121"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "1.9272417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "19.572649"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "58.057358"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "1.9294324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "19.572649"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "58.057362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "1.9294324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "19.583685"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "58.054482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "1.9241767"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "19.598755"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "58.066433"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "1.9280109"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "19.601864"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "58.080093"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "1.9317166"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "19.614946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "58.081718"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "1.9362861"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "19.663105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "58.071613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "1.9301064"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "19.663105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "58.071613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "1.9301063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "19.663105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "58.071613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "1.9301063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "19.663105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "58.071613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "1.9301063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "19.666868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "58.049839"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "1.9349306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "19.676399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "58.050621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "1.9282219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "19.676399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "58.050621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "1.9282219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "19.676399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "58.050621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "1.9282219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "1.93304"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "19.650526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "58.048294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "1.9330399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "19.653332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "58.048531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "1.9320197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "19.65333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "58.048531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "1.9320198"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "19.65333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "58.048531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "1.9320197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "19.65333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "58.048531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "1.9320197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "19.65333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "58.048531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "1.9320197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "19.672842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "58.039185"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "1.9261053"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "19.710938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "58.032936"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "1.9074318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "19.713402"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "58.032597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "1.9128029"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "19.713402"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "58.032597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "1.9128029"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "19.713402"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "58.032597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "1.9128029"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "19.784369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "58.039001"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "1.8799978"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "19.78437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "58.039001"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "1.8799978"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "19.789555"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "58.038147"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "1.8805685"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "19.789555"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "58.038147"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "1.8805685"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "19.7876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "58.045753"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "1.8521469"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "19.7876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "58.045753"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "1.852147"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "19.7876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "58.045753"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "1.852147"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "19.788183"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "58.05294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "1.8563819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "19.813499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "58.051758"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "1.8384069"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "19.817076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "58.049171"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "1.8368139"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "19.817959"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "58.060188"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "1.8573835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "19.844257"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "58.021179"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "1.8654428"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "19.844257"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "58.021179"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "1.8654428"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "19.846245"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "58.02655"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "1.8708043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "19.848616"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "58.031376"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "1.8712802"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "19.864948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "58.031696"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "1.8558493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "19.865932"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "58.028095"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "1.8582023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "19.865063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "58.01767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "1.8637747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "19.896568"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "58.010521"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "1.8700902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "19.893127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "58.015816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "1.8713311"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "19.893126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "58.015816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "1.8713312"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "19.893127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "58.015816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "1.8713311"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "19.929909"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "58.045376"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "1.8985214"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "19.929909"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "58.04538"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "1.8985214"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "19.92383"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "58.047718"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "1.8799026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "19.931231"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "58.01432"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "1.8853874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "19.945105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "57.98827"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "1.8835944"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "19.945105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "57.98827"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "1.8835944"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "19.938074"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "58.038845"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "1.9436427"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "19.938074"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "58.038845"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "1.9436427"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "19.923943"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "58.039791"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "1.9428376"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "19.920897"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "58.040058"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "1.9363633"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "19.947802"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "58.049816"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "1.9374827"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "12.348868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "55.078716"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "2.5172632"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "12.348868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "55.078712"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "2.5172632"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "12.37285"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "55.063717"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "2.5276928"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "12.394881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "55.074451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "2.5235677"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "12.383494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "55.057865"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "2.5385127"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "12.379328"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "55.077656"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "2.5389068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "12.355264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "55.057236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "2.5463445"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "12.303941"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "54.928539"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "2.4562552"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "12.306794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "54.932888"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "2.4575841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "12.306794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "54.932888"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "2.4575841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "12.302569"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "54.939342"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "2.4579067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "12.302569"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "54.939342"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "2.4579067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "12.303997"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "54.935356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "2.4573529"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "12.289619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "54.929405"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "2.4636521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "12.287468"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "54.957344"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "2.4869411"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "22.663511"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "37.986153"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".13117187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".13148892"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "22.716736"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "38.037971"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".13117188"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-22",
+      "poll_avg": ".13195518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "22.721308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "38.114063"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".13001584"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-21",
+      "poll_avg": ".13854276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "22.721308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "38.114063"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.961971"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".13001582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-20",
+      "poll_avg": ".13854276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "22.768129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "38.196831"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.9774883"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".12750204"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".1325193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "22.759802"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "38.176342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.9812868"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".12879491"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".14035358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "22.758472"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "38.178707"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.9788941"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".12970735"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".14160757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "23.074568"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "38.178154"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.9749353"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".13050833"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".13534412"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "23.074568"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "38.178154"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.9749353"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".13050832"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".1353441"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "23.065491"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "38.188637"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.9772214"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".13012835"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".13384043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "23.065491"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "38.188637"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.9772214"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".13012837"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".13384044"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "23.065493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "38.188637"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.9772214"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".13012835"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".13384041"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "23.045908"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "38.184921"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.9787158"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".13155603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".13740961"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "23.056232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "38.182961"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.9746751"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".13301763"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".13754156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "23.036554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "38.197643"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.986293"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".1347349"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".15907466"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "23.036554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "38.197643"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.986293"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".13473488"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".15907466"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "22.965445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "38.310944"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0015295"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".13926689"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".15443386"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "22.965445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "38.310944"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0015295"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".13926691"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".15443388"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "22.963614"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "38.309834"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.9998507"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".13920295"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".15277715"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "23.009256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "38.311287"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.0042512"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".1412714"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".17917594"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "22.999561"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "38.163036"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.0110159"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".14282067"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".17274132"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "22.999561"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "38.163036"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.0110159"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".14282067"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".17274132"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "22.999561"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "38.163036"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.0110159"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".14282069"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".17274134"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "22.989185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "38.151077"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "2.0037467"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".13998747"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".16862458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "22.958956"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "38.14761"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "2.0068181"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".13941972"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".17155246"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "22.950563"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "38.145638"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "2.0080249"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".13782436"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".17284279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "22.812298"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "38.140678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "2.0047128"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".13836028"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".17738862"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "22.85121"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "38.062469"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.9789858"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".13601968"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".14923848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "22.85121"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "38.062469"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.9789858"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".13601968"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".14923848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "22.85121"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "38.062469"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.9789858"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".13601966"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".14923847"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "22.852276"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "38.03624"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.9760826"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".13601968"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".1484277"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "22.844193"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "38.041607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.9781493"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".13683242"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".14754462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "22.837843"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "38.0401"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.9768432"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".13683242"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".14715967"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "13.360543"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "54.096642"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.7396004"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.1856482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.2390263"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "13.358835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "54.028267"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.7260861"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.1843361"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.2554338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "13.393368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "54.103355"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.7256476"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.1843361"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.2502415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "13.340835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "54.028053"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.7358898"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.2024126"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.2574453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "13.321424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "54.053474"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.7358898"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.2024126"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.2574453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "13.321424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "54.053474"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.7358898"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.2024126"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.2574453"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "13.34469"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "53.984642"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.7280858"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.2155762"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.2403154"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "13.390164"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "54.019966"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.698926"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.1937404"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.2432499"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "13.475355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "53.97575"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.6888946"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.1994231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.2261389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "13.475355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "53.97575"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.6888946"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.1994231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.2261389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "13.439157"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "53.950108"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.6815077"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.2063525"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.2248135"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "13.668444"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "53.757607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.6757004"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.1573043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.2319914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "13.668444"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "53.757607"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.6757004"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.1573043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.2319914"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "13.684002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "53.898899"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.6649665"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.1573043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.200606"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "13.677263"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "53.896461"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.6688012"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.1577876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.2034945"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "13.677126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "53.897362"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.6643274"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.1512253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.1976918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "13.677126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "53.897362"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.6643274"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.1512253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.1976918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "13.677126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "53.897362"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.6643274"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.1512253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.1976918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "13.677126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "53.897362"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.6643274"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.1512253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.1976918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "13.689369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "53.893143"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.6667247"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.1111948"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.2060443"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "13.796395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "53.783768"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.6394964"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.0701877"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.2052293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "13.798043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "53.780495"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.6460623"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.0723505"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.2007208"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "13.810406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "53.765144"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.6527412"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.1150823"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.1912977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "13.810406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "53.765144"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.6527412"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.1150823"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.1912977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "13.810406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "53.765144"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.6527412"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.1150823"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.1912977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "13.789826"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "53.78273"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.6478535"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.1110244"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.1717147"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "13.703126"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "53.840061"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.6330891"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.1229874"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.1386813"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "13.694817"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "53.856762"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.6406387"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.1394839"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.1395646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "13.689915"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "53.883415"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.6793243"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.1429995"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.1386131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "13.689915"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "53.883415"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.6793243"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.1429995"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.1386131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "13.7004"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "53.878319"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.6760476"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.1461422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.1317399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "13.7004"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "53.878319"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.6760476"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.1461422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.1317399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "13.7004"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "53.878319"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.6760476"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.1461422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.1317399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "13.7004"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "53.878319"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.6760476"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.1461422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.1317399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "13.797812"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "53.750324"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.6664079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.1848074"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.1040131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "13.797812"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "53.750324"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.6664079"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.1848074"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.1040131"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "13.56397"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "53.770073"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.6621072"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.1818161"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.0848856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "13.56397"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "53.770073"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.6621072"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.1818161"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.0848856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "13.56397"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "53.770073"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.6621072"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.1818161"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.0848856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "13.51926"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "53.787029"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.6685419"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.1940913"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.0868007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "13.51926"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "53.787029"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.6685419"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.1940913"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.0868007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "13.555827"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "53.826519"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.6682684"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.1940913"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.0780205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "13.549073"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "53.839729"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.6714321"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.2045755"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.0825012"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "13.548365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "53.832752"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.6712008"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.1997426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.063835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "13.548365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "53.832752"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.6712008"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.1997426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.063835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "13.548365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "53.832752"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.6712008"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.1997426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.063835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "13.548365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "53.832752"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.6712008"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.1997426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.063835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "13.549493"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "53.831898"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.6721716"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.1997426"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.0642873"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "13.587962"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "53.682137"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.6947466"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.2111952"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.0303463"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "13.592798"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "53.674057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.6859254"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.2010592"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.0234282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "13.567399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "53.651508"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.6536403"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.1760869"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.0062152"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "13.572091"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "53.639263"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.6415588"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.1743475"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.0008222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "13.572091"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "53.639263"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.6415588"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.1743475"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.0008222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "13.509572"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "53.669708"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.6372968"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.1673611"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".99155962"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "13.533005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "53.636803"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.6283402"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.1632415"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".98893905"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "13.348096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "53.677971"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.6029379"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.1754462"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".97973818"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "13.332408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "53.681828"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.5958523"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.1716356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".96014422"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "13.332408"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "53.681828"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.5958523"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.1716356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".96014422"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "13.279957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "53.642872"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.5857265"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.1716356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".95282668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "13.279957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "53.642872"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.5857265"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.1716356"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".95282668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "13.273352"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "53.648678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.5961252"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.1720597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".9742738"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "13.273352"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "53.648678"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.5961252"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.1720597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".9742738"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "13.193201"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "53.629654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.5477118"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.0951453"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".95881122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "13.238544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "53.545998"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.4837568"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.1517136"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".9068495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "13.235452"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "53.53886"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.4580803"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.1418467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".89873374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "13.235453"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "53.53886"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.4580803"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.1418467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".89873374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "13.235452"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "53.53886"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.4580803"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.1418467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".89873374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "13.235452"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "53.53886"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.4580803"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.1418467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".89873374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "13.349983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "53.423615"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.4928948"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.1674467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".90822542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "13.358015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "53.391872"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.4850498"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.1688088"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".90646851"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "13.357129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "53.390675"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.4819939"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.1673285"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".90607911"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "13.376737"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "53.432713"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.4773059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.2051187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".93378872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "13.407951"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "53.360973"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.4723141"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.1747357"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".8984524"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "13.569905"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "53.356716"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.4714823"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.1444114"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".90954858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "13.503403"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "53.287201"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "1.4826494"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "1.1215086"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".89418387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "13.503403"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "53.287201"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "1.4826494"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "1.1215086"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".89418387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "13.503403"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "53.287201"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "1.4826494"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "1.1215086"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".89418387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "13.510923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "53.302444"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "1.5111763"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "1.1215086"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".89418387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "13.5072"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "53.30085"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "1.5097854"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "1.1234367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".89792866"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "13.492832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "53.300037"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "1.5032486"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "1.1406897"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".90283144"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "13.533019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "53.19949"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "1.4676487"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "1.1116064"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".91068357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "13.433203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "53.204006"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "1.4637082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "1.0901387"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".87381321"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "13.572042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "53.208824"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.461429"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.0834723"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".90909827"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "13.572042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "53.208824"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.461429"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.0834723"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".90909827"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "13.512136"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "52.949326"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "1.39961"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "1.1246431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-17",
+      "poll_avg": ".89523751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "13.46946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "52.965874"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.39961"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.1246431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-16",
+      "poll_avg": ".82652467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "13.46946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "52.965874"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.39961"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.1246431"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-15",
+      "poll_avg": ".82652467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "13.473351"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "53.017746"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.3811994"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Texas",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.1171906"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-14",
+      "poll_avg": ".79075956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-13",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-12",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-11",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-10",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-09",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "4.1616993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "61.326057"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "1.3517637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-08",
+      "poll_avg": ".75430328"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "4.1417942"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "61.259216"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "1.3400198"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-07",
+      "poll_avg": ".74030811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "4.1454368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "61.260719"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "1.3381993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-06",
+      "poll_avg": ".73478508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "4.1454368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "61.260719"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "1.3381993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-05",
+      "poll_avg": ".73478508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "4.1454368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "61.260719"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "1.3381993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-04",
+      "poll_avg": ".73478508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "4.1454368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "61.260719"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "1.3381993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-03",
+      "poll_avg": ".73478508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "4.1454368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "61.260719"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "1.3381993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-02",
+      "poll_avg": ".73478508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Texas",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "4.136868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Texas",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "61.290951"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Texas",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "1.3325468"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Texas",
+      "forecastdate": "2015-06-01",
+      "poll_avg": ".71113384"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50033",
+      "population": "lv",
+      "pollId": "36497",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "23",
+      "pollster": "American Research Group",
+      "startDate": "2016-02-26",
+      "endDate": "2016-02-28",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://americanresearchgroup.com/pres2016/primary/dem/txdem.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456755540,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "38.0"
+        }
+      ],
+      "weight": ".5446848273277283"
+    },
+    {
+      "id": "50041",
+      "population": "lv",
+      "pollId": "36501",
+      "cycle": "2016",
+      "sampleSize": "275",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2016-02-26",
+      "endDate": "2016-02-28",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_9816c1e566554e4ca2b1ba998c4d6110.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456770780,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "67.7"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "26.3"
+        }
+      ],
+      "weight": ".5817590802907944"
+    },
+    {
+      "id": "50010",
+      "population": "lv",
+      "pollId": "36483",
+      "cycle": "2016",
+      "sampleSize": "750",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-26",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "http://www.cbsnews.com/news/poll-donald-trump-leads-virginia-georgia-ted-cruz-hanging-on-texas-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456655040,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "37.0"
+        }
+      ],
+      "weight": ".4225213825702667"
+    },
+    {
+      "id": "49527",
+      "population": "lv",
+      "pollId": "36437",
+      "cycle": "2016",
+      "sampleSize": "411",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "1226",
+      "pollster": "Crosswind Media & Public Relations",
+      "startDate": "2016-02-24",
+      "endDate": "2016-02-24",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://projects.statesman.com/news/texas-pulse-statesman-poll/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456351380,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "66.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "26.0"
+        }
+      ],
+      "weight": ".2630214691162109"
+    },
+    {
+      "id": "49533",
+      "population": "lv",
+      "pollId": "36441",
+      "cycle": "2016",
+      "sampleSize": "304",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "320",
+      "pollster": "Monmouth University",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-24",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.monmouth.edu/assets/0/32212254770/32212254991/32212254992/32212254994/32212254995/30064771087/fd1752af-cc7a-4b4c-9125-1d26f351cc4a.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456400460,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "64.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": ".2743237316608429"
+    },
+    {
+      "id": "49502",
+      "population": "lv",
+      "pollId": "36428",
+      "cycle": "2016",
+      "sampleSize": "328",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2016-02-21",
+      "endDate": "2016-02-23",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_df82cdf7f0414137bbc532fd0b0caaa7.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456307100,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        }
+      ],
+      "weight": ".0646518766880035"
+    },
+    {
+      "id": "50011",
+      "population": "lv",
+      "pollId": "36484",
+      "cycle": "2016",
+      "sampleSize": "381",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-02-18",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456655040,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "38.0"
+        }
+      ],
+      "weight": ".1637820601463318"
+    },
+    {
+      "id": "49524",
+      "population": "lv",
+      "pollId": "36435",
+      "cycle": "2016",
+      "sampleSize": "625",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "753",
+      "pollster": "Dixie Strategies",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-22",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://dfw.cbslocal.com/2016/02/24/cruz-increases-lead-in-tx-against-trump-in-ktvt-cbs-11-dixie-strategies-poll/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456349460,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.71"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.26"
+        }
+      ],
+      "weight": ".1691496670246124"
+    },
+    {
+      "id": "49525",
+      "population": "lv",
+      "pollId": "36436",
+      "cycle": "2016",
+      "sampleSize": "569",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "460",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-02-21",
+      "endDate": "2016-02-22",
+      "methodology": "Live Phone/Internet",
+      "tracking": null,
+      "url": "http://www.wfaa.com/news/politics/elections/cruz-trump-tied-in-wfaa-texas-poll/55007805",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456349460,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "32.0"
+        }
+      ],
+      "weight": ".3554419279098511"
+    },
+    {
+      "id": "49478",
+      "population": "lv",
+      "pollId": "36419",
+      "cycle": "2016",
+      "sampleSize": "324",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-02-12",
+      "endDate": "2016-02-19",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "http://www.texastribune.org/2016/02/23/uttt-poll-clinton-still-leads-texas-margin-has-nar/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456220940,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "54.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        }
+      ],
+      "weight": ".0061705186963081"
+    },
+    {
+      "id": "49370",
+      "population": "lv",
+      "pollId": "36364",
+      "cycle": "2016",
+      "sampleSize": "514",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        }
+      ],
+      "weight": ".0417447946965694"
+    },
+    {
+      "id": "49397",
+      "population": "lv",
+      "pollId": "36382",
+      "cycle": "2016",
+      "sampleSize": "767",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "753",
+      "pollster": "Dixie Strategies",
+      "startDate": "2016-01-25",
+      "endDate": "2016-01-26",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://dfw.cbslocal.com/2016/01/28/cruz-now-leads-trump-among-gop-candidates-in-latest-ktvt-cbs-11-dixie-strategies-texas-poll/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455788940,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.33"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "15.51"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "5.48"
+        }
+      ],
+      "weight": "9.32921125241e-07"
+    },
+    {
+      "id": "47179",
+      "population": "rv",
+      "pollId": "35368",
+      "cycle": "2016",
+      "sampleSize": "459",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2015-10-30",
+      "endDate": "2015-11-08",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "http://static.texastribune.org/media/documents/ut-tt-1115-summary-1.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447352400,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Lessig",
+          "pct": "0.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": "3.76166802480e-16"
+    },
+    {
+      "id": "46689",
+      "population": "lv",
+      "pollId": "35285",
+      "cycle": "2016",
+      "sampleSize": "1008",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "753",
+      "pollster": "Dixie Strategies",
+      "startDate": "2015-10-23",
+      "endDate": "2015-10-24",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://dfw.cbslocal.com/2015/10/27/carson-trump-lead-gop-in-ktvt-cbs-11-dixie-strategies-poll/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1446648660,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "10.0"
+        }
+      ],
+      "weight": "2.12060951831e-17"
+    },
+    {
+      "id": "43329",
+      "population": "lv",
+      "pollId": "34750",
+      "cycle": "2016",
+      "sampleSize": "185",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "610",
+      "pollster": "Texas Lyceum",
+      "startDate": "2015-09-08",
+      "endDate": "2015-09-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.texaslyceum.org/Resources/Documents/TEXAS%20LYCEUM%20POLL/2015%20Texas%20Lyceum%20Poll%20Results.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445330640,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "15.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "36.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "0.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "24.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "9.63237848489e-21"
+    },
+    {
+      "id": "42658",
+      "population": "rv",
+      "pollId": "34591",
+      "cycle": "2016",
+      "sampleSize": "457",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2015-06-05",
+      "endDate": "2015-06-14",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "http://s3.amazonaws.com/static.texastribune.org/media/documents/ut-tt-0615-summary3.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445276040,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "53.0"
+        },
+        {
+          "choice": "Cuomo",
+          "pct": "1.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "15.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "8.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "2.36902607471e-32"
+    },
+    {
+      "id": "43617",
+      "population": "rv",
+      "pollId": "34811",
+      "cycle": "2016",
+      "sampleSize": "401",
+      "state": "TX",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2015-02-06",
+      "endDate": "2015-02-15",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "http://s3.amazonaws.com/static.texastribune.org/media/documents/UT-TT-Feb15-survey-1.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332320,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "6.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "62.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "12.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "0"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "9.9254611e-11",
+          "2.3333098e-09",
+          "1.0563396e-08",
+          "2.5403757e-08",
+          "4.4664993e-08",
+          "6.5439330e-08",
+          "8.5220307e-08",
+          "1.0226937e-07",
+          "1.1561261e-07",
+          "1.2489352e-07",
+          "1.3019698e-07",
+          "1.3188860e-07",
+          "1.3048830e-07",
+          "1.2657782e-07",
+          "1.2073741e-07",
+          "1.1350694e-07",
+          "1.0536434e-07",
+          "9.6714238e-08",
+          "8.7888168e-08",
+          "7.9148023e-08",
+          "7.0691591e-08",
+          "6.2662558e-08",
+          "5.5157344e-08",
+          "4.8234586e-08",
+          "4.1922604e-08",
+          "3.6225590e-08",
+          "3.1130487e-08",
+          "2.6610829e-08",
+          "2.2632026e-08",
+          "1.9153712e-08",
+          "1.6132532e-08",
+          "1.3524603e-08",
+          "1.1286447e-08",
+          "9.3761932e-09",
+          "7.7545783e-09",
+          "6.3850787e-09",
+          "5.2342526e-09",
+          "4.2719774e-09",
+          "3.4712289e-09",
+          "2.8080755e-09",
+          "2.2614479e-09",
+          "1.8130105e-09",
+          "1.4468526e-09",
+          "1.1492762e-09",
+          "9.0859353e-10",
+          "7.1485756e-10",
+          "5.5966809e-10",
+          "4.3613582e-10",
+          "3.4160416e-10",
+          "3.2537983e-10",
+          "1.1394071e-09",
+          "1.1571280e-08",
+          "1.1680606e-07",
+          "1.0037329e-06",
+          "7.2679463e-06",
+          ".000044309741",
+          ".00022732023",
+          ".00098043657",
+          ".0035500922",
+          ".01077194",
+          ".027324272",
+          ".057777788",
+          ".10149349",
+          ".14751327",
+          ".17656809",
+          ".17312291",
+          ".13819453",
+          ".089188173",
+          ".046171878",
+          ".019003376",
+          ".0061559491",
+          ".0015517948",
+          ".0003005125",
+          ".000044063727",
+          "4.8120951e-06",
+          "3.8414743e-07",
+          "2.1944091e-08",
+          "8.7541718e-10",
+          "2.3719273e-11",
+          "4.2428260e-13",
+          "5.7429935e-15",
+          "4.9329145e-16",
+          "2.4235775e-16",
+          "1.1445605e-16",
+          "5.1709174e-17",
+          "2.2219565e-17",
+          "9.0186609e-18",
+          "3.4279769e-18",
+          "1.2077579e-18",
+          "3.8888095e-19",
+          "1.1257724e-19",
+          "2.8878510e-20",
+          "6.1183282e-21",
+          "9.7893251e-22",
+          "2.4473313e-22",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.4089517e-11",
+          "1.5056033e-10",
+          "3.2517933e-10",
+          "4.9535048e-10",
+          "6.4066558e-10",
+          "7.5500195e-10",
+          "8.3854373e-10",
+          "8.9416591e-10",
+          "9.2572888e-10",
+          "9.3725039e-10",
+          "9.3252694e-10",
+          "9.1496066e-10",
+          "8.8750984e-10",
+          "8.5269258e-10",
+          "8.1261536e-10",
+          "7.6901857e-10",
+          "7.2332579e-10",
+          "6.7667699e-10",
+          "6.2998118e-10",
+          "5.8395150e-10",
+          "5.3912896e-10",
+          "4.9592419e-10",
+          "4.5462858e-10",
+          "4.1544357e-10",
+          "3.7849684e-10",
+          "3.4385139e-10",
+          "3.1152697e-10",
+          "2.8149960e-10",
+          "2.5372224e-10",
+          "2.2812245e-10",
+          "2.0460987e-10",
+          "1.8308675e-10",
+          "1.6344542e-10",
+          "1.4557272e-10",
+          "1.2935651e-10",
+          "1.1468312e-10",
+          "1.0143986e-10",
+          "8.9519003e-11",
+          "7.8815336e-11",
+          "6.9228706e-11",
+          "6.0663176e-11",
+          "5.3029491e-11",
+          "4.6245400e-11",
+          "4.0262512e-11",
+          "3.5359101e-11",
+          "3.4986208e-11",
+          "7.0384434e-11",
+          "3.8925158e-10",
+          "2.7384657e-09",
+          "1.8100256e-08",
+          "1.0805332e-07",
+          "5.8049699e-07",
+          "2.8072200e-06",
+          ".000012225979",
+          ".000047966565",
+          ".00016953863",
+          ".00053973286",
+          ".001546888",
+          ".0039882092",
+          ".0092402548",
+          ".019212369",
+          ".035789154",
+          ".059610449",
+          ".088565677",
+          ".11705318",
+          ".13718213",
+          ".14204285",
+          ".12940647",
+          ".10324318",
+          ".07175006",
+          ".043174114",
+          ".022341494",
+          ".0098660337",
+          ".0036859417",
+          ".0011535864",
+          ".00029908499",
+          ".000063424843",
+          ".000010842755",
+          "1.4696362e-06",
+          "1.5493244e-07",
+          "1.2425756e-08",
+          "7.3882034e-10",
+          "3.1601381e-11",
+          "9.4096703e-13",
+          "2.0538909e-14",
+          "1.4492314e-15",
+          "7.2948929e-16",
+          "4.1766525e-16",
+          "2.2892272e-16",
+          "1.1919096e-16",
+          "5.8365004e-17",
+          "2.6525287e-17",
+          "1.0988438e-17",
+          "4.0448098e-18",
+          "1.2740116e-18",
+          "3.2368133e-19",
+          "6.0026035e-20",
+          "6.7292044e-21",
+          "3.0035385e-22",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "9.9008957e-06",
+          ".000088329805",
+          ".00020307723",
+          ".00029341795",
+          ".00034272749",
+          ".00035601878",
+          ".00034395634",
+          ".0003165931",
+          ".00028160869",
+          ".00024425189",
+          ".00020781177",
+          ".00017415399",
+          ".00014417982",
+          ".00011817265",
+          ".000096043143",
+          ".000077496217",
+          ".000062139392",
+          ".000049549471",
+          ".000039313643",
+          ".000031051008",
+          ".000024422307",
+          ".000019133737",
+          ".00001493571",
+          ".000011633771",
+          "9.3113076e-06",
+          ".000010881998",
+          ".000042097327",
+          ".00026016319",
+          ".0013538053",
+          ".0054740375",
+          ".017245337",
+          ".042759933",
+          ".084274806",
+          ".13320251",
+          ".17018178",
+          ".17698207",
+          ".15073827",
+          ".10571492",
+          ".061333887",
+          ".02955785",
+          ".011872641",
+          ".0039864527",
+          ".001121564",
+          ".00026490568",
+          ".000052613304",
+          "8.8045808e-06",
+          "1.2496401e-06",
+          "1.5638278e-07",
+          "2.1734511e-08",
+          "6.2689738e-09",
+          "3.6266445e-09",
+          "2.4748792e-09",
+          "1.7129768e-09",
+          "1.1804694e-09",
+          "8.0840157e-10",
+          "5.4992033e-10",
+          "3.7147799e-10",
+          "2.4910618e-10",
+          "1.6576832e-10",
+          "1.0942653e-10",
+          "7.1625018e-11",
+          "4.6467281e-11",
+          "2.9865055e-11",
+          "1.9006095e-11",
+          "1.1970105e-11",
+          "7.4562865e-12",
+          "4.5907015e-12",
+          "2.7917115e-12",
+          "1.6755620e-12",
+          "9.9170780e-13",
+          "5.7828189e-13",
+          "3.3188616e-13",
+          "1.8725593e-13",
+          "1.0374102e-13",
+          "5.6353976e-14",
+          "2.9969859e-14",
+          "1.5577107e-14",
+          "7.8973091e-15",
+          "3.8964680e-15",
+          "1.8659704e-15",
+          "8.6566042e-16",
+          "3.8681835e-16",
+          "1.6651912e-16",
+          "6.8121460e-17",
+          "2.7089235e-17",
+          "9.5609067e-18",
+          "3.5853399e-18",
+          "1.1951133e-18",
+          "3.9837111e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".000011714627",
+          ".000035548503",
+          ".000047343903",
+          ".000050786122",
+          ".000049736711",
+          ".000046445031",
+          ".000042168678",
+          ".000037603051",
+          ".000033124979",
+          ".000028928722",
+          ".00002510384",
+          ".000021679773",
+          ".000018652321",
+          ".000015999247",
+          ".000013689477",
+          ".000011688629",
+          "9.9621957e-06",
+          "8.4771855e-06",
+          "7.2039093e-06",
+          "6.1270071e-06",
+          "5.3594690e-06",
+          "6.0418624e-06",
+          ".000015644726",
+          ".000071509319",
+          ".0003192545",
+          ".0012044054",
+          ".0037923919",
+          ".010036269",
+          ".022523617",
+          ".043227959",
+          ".071486667",
+          ".10254984",
+          ".12837355",
+          ".14097001",
+          ".13643007",
+          ".11684332",
+          ".088872105",
+          ".060223047",
+          ".036456671",
+          ".019761741",
+          ".0096109221",
+          ".0042006709",
+          ".0016522249",
+          ".00058543117",
+          ".00018702893",
+          ".000053913791",
+          ".000014040555",
+          "3.3163942e-06",
+          "7.2193370e-07",
+          "1.5488656e-07",
+          "4.0913289e-08",
+          "1.8101314e-08",
+          "1.2141030e-08",
+          "9.3338395e-09",
+          "7.3585271e-09",
+          "5.8072023e-09",
+          "4.5680606e-09",
+          "3.5787926e-09",
+          "2.7916105e-09",
+          "2.1676401e-09",
+          "1.6750245e-09",
+          "1.2878119e-09",
+          "9.8482078e-10",
+          "7.4886797e-10",
+          "5.6605143e-10",
+          "4.2516643e-10",
+          "3.1720626e-10",
+          "2.3498095e-10",
+          "1.7275573e-10",
+          "1.2598725e-10",
+          "9.1091877e-11",
+          "6.5258139e-11",
+          "4.6291169e-11",
+          "3.2490861e-11",
+          "2.2545925e-11",
+          "1.5453423e-11",
+          "1.0451747e-11",
+          "6.9672644e-12",
+          "4.5717462e-12",
+          "2.9484739e-12",
+          "1.8658571e-12",
+          "1.1562992e-12",
+          "7.0013608e-13",
+          "4.1309848e-13",
+          "2.3676189e-13",
+          "1.3131297e-13",
+          "7.0156026e-14",
+          "3.5904548e-14",
+          "1.7479841e-14",
+          "8.0242997e-15",
+          "3.4342538e-15",
+          "1.3497890e-15",
+          "4.7738840e-16",
+          "1.4763702e-16",
+          "3.8232940e-17",
+          "7.7574081e-18",
+          "1.1082012e-18",
+          "1.2313346e-19",
+          "0",
+          "0"
+        ]
+      }
+    }
+  ]
+}

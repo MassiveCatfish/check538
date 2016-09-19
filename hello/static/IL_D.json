@@ -1,0 +1,6220 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "39.421932",
+      "pollonly_winprob": 11.700000000000001,
+      "pollonly_hi": "50.240868",
+      "pollonly_lo": "42.166168",
+      "pollonly_forecast": "44.286896",
+      "kitchen_winprob": 12.01,
+      "kitchen_hi": "50.294205",
+      "kitchen_lo": "41.635773",
+      "kitchen_forecast": "44.058395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "46.440247",
+      "pollonly_winprob": 88.300002,
+      "pollonly_hi": "57.874691",
+      "pollonly_lo": "49.789795",
+      "pollonly_forecast": "51.603798",
+      "kitchen_winprob": 87.989998,
+      "kitchen_hi": "58.357109",
+      "kitchen_lo": "49.722",
+      "kitchen_forecast": "51.832306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "39.423954",
+      "pollonly_winprob": 9.6299998,
+      "pollonly_hi": "49.870155",
+      "pollonly_lo": "42.535843",
+      "pollonly_forecast": "44.288033",
+      "kitchen_winprob": 10.485,
+      "kitchen_hi": "50.012272",
+      "kitchen_lo": "41.923729",
+      "kitchen_forecast": "44.060028"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "46.440815",
+      "pollonly_winprob": 90.369999,
+      "pollonly_hi": "57.507359",
+      "pollonly_lo": "50.161659",
+      "pollonly_forecast": "51.603268",
+      "kitchen_winprob": 89.51500100000001,
+      "kitchen_hi": "58.069397",
+      "kitchen_lo": "50.007813",
+      "kitchen_forecast": "51.831276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "39.00737",
+      "pollonly_winprob": 5.875,
+      "pollonly_hi": "48.413826",
+      "pollonly_lo": "38.575996",
+      "pollonly_forecast": "42.123253",
+      "kitchen_winprob": 4.6899999999999995,
+      "kitchen_hi": "47.559689",
+      "kitchen_lo": "36.699013",
+      "kitchen_forecast": "40.769909"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "51.644421",
+      "pollonly_winprob": 94.12500299999999,
+      "pollonly_hi": "61.458767",
+      "pollonly_lo": "51.618221",
+      "pollonly_forecast": "54.817623",
+      "kitchen_winprob": 95.310003,
+      "kitchen_hi": "63.316372",
+      "kitchen_lo": "52.483002",
+      "kitchen_forecast": "56.170975"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "25.003294",
+      "pollonly_winprob": 0.27999999,
+      "pollonly_hi": "37.332443",
+      "pollonly_lo": "22.639252",
+      "pollonly_forecast": "28.488953",
+      "kitchen_winprob": 0.12000000999999999,
+      "kitchen_hi": "33.913147",
+      "kitchen_lo": "18.797462",
+      "kitchen_forecast": "25.059088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "63.074398",
+      "pollonly_winprob": 99.720001,
+      "pollonly_hi": "77.188339",
+      "pollonly_lo": "63.338638",
+      "pollonly_forecast": "68.034836",
+      "kitchen_winprob": 99.879998,
+      "kitchen_hi": "81.006493",
+      "kitchen_lo": "66.403091",
+      "kitchen_forecast": "71.464699"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "24.995329",
+      "pollonly_winprob": 0.245,
+      "pollonly_hi": "37.055889",
+      "pollonly_lo": "22.880104",
+      "pollonly_forecast": "28.477682",
+      "kitchen_winprob": 0.15,
+      "kitchen_hi": "33.690704",
+      "kitchen_lo": "18.92915",
+      "kitchen_forecast": "25.035458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "63.091179",
+      "pollonly_winprob": 99.755001,
+      "pollonly_hi": "76.958801",
+      "pollonly_lo": "63.600113",
+      "pollonly_forecast": "68.047897",
+      "kitchen_winprob": 99.849999,
+      "kitchen_hi": "80.879204",
+      "kitchen_lo": "66.630775",
+      "kitchen_forecast": "71.490128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "24.975821",
+      "pollonly_winprob": 0.135,
+      "pollonly_hi": "36.747623",
+      "pollonly_lo": "23.115408",
+      "pollonly_forecast": "28.453327",
+      "kitchen_winprob": 0.095000002,
+      "kitchen_hi": "33.19149",
+      "kitchen_lo": "18.49778",
+      "kitchen_forecast": "24.544876"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "63.121941",
+      "pollonly_winprob": 99.86500099999999,
+      "pollonly_hi": "76.76165",
+      "pollonly_lo": "63.90004",
+      "pollonly_forecast": "68.074539",
+      "kitchen_winprob": 99.905002,
+      "kitchen_hi": "81.297165",
+      "kitchen_lo": "67.226456",
+      "kitchen_forecast": "71.982994"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "25.75108",
+      "pollonly_winprob": 0.7449999900000001,
+      "pollonly_hi": "38.973732",
+      "pollonly_lo": "21.882008",
+      "pollonly_forecast": "28.909351",
+      "kitchen_winprob": 0.27499999999999997,
+      "kitchen_hi": "34.698982",
+      "kitchen_lo": "17.792786",
+      "kitchen_forecast": "24.907772"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "63.037052",
+      "pollonly_winprob": 99.255002,
+      "pollonly_hi": "77.525185",
+      "pollonly_lo": "62.160255",
+      "pollonly_forecast": "67.838081",
+      "kitchen_winprob": 99.72500199999999,
+      "kitchen_hi": "81.853935",
+      "kitchen_lo": "65.880035",
+      "kitchen_forecast": "71.839653"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "25.771509",
+      "pollonly_winprob": 0.034999999,
+      "pollonly_hi": "36.389061",
+      "pollonly_lo": "24.732746",
+      "pollonly_forecast": "28.917032",
+      "kitchen_winprob": 0.039999999,
+      "kitchen_hi": "32.804173",
+      "kitchen_lo": "19.307796",
+      "kitchen_forecast": "24.81703"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "63.058117",
+      "pollonly_winprob": 99.965,
+      "pollonly_hi": "75.21756",
+      "pollonly_lo": "64.737816",
+      "pollonly_forecast": "67.838402",
+      "kitchen_winprob": 99.959999,
+      "kitchen_hi": "80.369865",
+      "kitchen_lo": "67.827255",
+      "kitchen_forecast": "71.9384"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "29.015568",
+      "pollonly_winprob": 2.9650000999999997,
+      "pollonly_hi": "44.858551",
+      "pollonly_lo": "29.072084",
+      "pollonly_forecast": "34.949223",
+      "kitchen_winprob": 1.26,
+      "kitchen_hi": "40.63369",
+      "kitchen_lo": "22.713493",
+      "kitchen_forecast": "29.896204"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "54.496792",
+      "pollonly_winprob": 97.035003,
+      "pollonly_hi": "70.91066",
+      "pollonly_lo": "55.91185",
+      "pollonly_forecast": "60.942753",
+      "kitchen_winprob": 98.74000000000001,
+      "kitchen_hi": "76.986115",
+      "kitchen_lo": "60.035801",
+      "kitchen_forecast": "65.995773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "28.99313",
+      "pollonly_winprob": 2.8999999,
+      "pollonly_hi": "44.654701",
+      "pollonly_lo": "29.236374",
+      "pollonly_forecast": "34.933262",
+      "kitchen_winprob": 1.275,
+      "kitchen_hi": "40.567001",
+      "kitchen_lo": "23.21627",
+      "kitchen_forecast": "30.157598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "54.499847",
+      "pollonly_winprob": 97.10000199999999,
+      "pollonly_hi": "70.75145",
+      "pollonly_lo": "56.096138",
+      "pollonly_forecast": "60.954197",
+      "kitchen_winprob": 98.724997,
+      "kitchen_hi": "76.539764",
+      "kitchen_lo": "59.996181",
+      "kitchen_forecast": "65.729858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "29.027817",
+      "pollonly_winprob": 2.5,
+      "pollonly_hi": "44.460571",
+      "pollonly_lo": "29.473125",
+      "pollonly_forecast": "34.954086",
+      "kitchen_winprob": 1.1900000000000002,
+      "kitchen_hi": "40.410015",
+      "kitchen_lo": "23.275681",
+      "kitchen_forecast": "30.098644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "54.505215",
+      "pollonly_winprob": 97.500002,
+      "pollonly_hi": "70.570206",
+      "pollonly_lo": "56.265972",
+      "pollonly_forecast": "60.942711",
+      "kitchen_winprob": 98.809999,
+      "kitchen_hi": "76.510422",
+      "kitchen_lo": "60.175331",
+      "kitchen_forecast": "65.798149"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "29.024302",
+      "pollonly_winprob": 2.32,
+      "pollonly_hi": "44.296398",
+      "pollonly_lo": "29.633974",
+      "pollonly_forecast": "34.951992",
+      "kitchen_winprob": 1.165,
+      "kitchen_hi": "40.300087",
+      "kitchen_lo": "22.717583",
+      "kitchen_forecast": "29.71146"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "54.504623",
+      "pollonly_winprob": 97.680002,
+      "pollonly_hi": "70.408623",
+      "pollonly_lo": "56.454521",
+      "pollonly_forecast": "60.943844",
+      "kitchen_winprob": 98.834997,
+      "kitchen_hi": "76.886765",
+      "kitchen_lo": "60.589806",
+      "kitchen_forecast": "66.184364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "29.024347",
+      "pollonly_winprob": 2.11,
+      "pollonly_hi": "44.137482",
+      "pollonly_lo": "29.839367",
+      "pollonly_forecast": "34.951923",
+      "kitchen_winprob": 1.045,
+      "kitchen_hi": "40.183144",
+      "kitchen_lo": "22.801666",
+      "kitchen_forecast": "29.681807"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "54.504875",
+      "pollonly_winprob": 97.890002,
+      "pollonly_hi": "70.23082",
+      "pollonly_lo": "56.625328",
+      "pollonly_forecast": "60.943977",
+      "kitchen_winprob": 98.954999,
+      "kitchen_hi": "76.790985",
+      "kitchen_lo": "60.723984",
+      "kitchen_forecast": "66.214096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "29.036985",
+      "pollonly_winprob": 1.8850001,
+      "pollonly_hi": "43.949909",
+      "pollonly_lo": "30.008251",
+      "pollonly_forecast": "34.961792",
+      "kitchen_winprob": 0.9150000300000001,
+      "kitchen_hi": "40.054863",
+      "kitchen_lo": "23.113424",
+      "kitchen_forecast": "29.812258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "54.500851",
+      "pollonly_winprob": 98.114997,
+      "pollonly_hi": "70.056877",
+      "pollonly_lo": "56.802929",
+      "pollonly_forecast": "60.936119",
+      "kitchen_winprob": 99.084997,
+      "kitchen_hi": "76.517395",
+      "kitchen_lo": "60.770248",
+      "kitchen_forecast": "66.085648"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "29.124519",
+      "pollonly_winprob": 1.7399999999999998,
+      "pollonly_hi": "43.844055",
+      "pollonly_lo": "30.29068",
+      "pollonly_forecast": "35.024532",
+      "kitchen_winprob": 0.9650000400000001,
+      "kitchen_hi": "39.944595",
+      "kitchen_lo": "24.104103",
+      "kitchen_forecast": "30.384829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "54.487537",
+      "pollonly_winprob": 98.259997,
+      "pollonly_hi": "69.83223",
+      "pollonly_lo": "56.937019",
+      "pollonly_forecast": "60.89061",
+      "kitchen_winprob": 99.035001,
+      "kitchen_hi": "75.675438",
+      "kitchen_lo": "60.470963",
+      "kitchen_forecast": "65.530327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "29.132158",
+      "pollonly_winprob": 1.51,
+      "pollonly_hi": "43.693871",
+      "pollonly_lo": "30.51819",
+      "pollonly_forecast": "35.029449",
+      "kitchen_winprob": 0.8200000000000001,
+      "kitchen_hi": "40.020256",
+      "kitchen_lo": "24.533161",
+      "kitchen_forecast": "30.607214"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "54.487816",
+      "pollonly_winprob": 98.49,
+      "pollonly_hi": "69.649887",
+      "pollonly_lo": "57.102028",
+      "pollonly_forecast": "60.887524",
+      "kitchen_winprob": 99.18000099999999,
+      "kitchen_hi": "75.27536",
+      "kitchen_lo": "60.455994",
+      "kitchen_forecast": "65.309761"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "29.230696",
+      "pollonly_winprob": 1.225,
+      "pollonly_hi": "43.511509",
+      "pollonly_lo": "30.682571",
+      "pollonly_forecast": "35.064957",
+      "kitchen_winprob": 0.605,
+      "kitchen_hi": "39.587494",
+      "kitchen_lo": "24.182549",
+      "kitchen_forecast": "30.282299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "54.564465",
+      "pollonly_winprob": 98.774999,
+      "pollonly_hi": "69.459229",
+      "pollonly_lo": "57.267578",
+      "pollonly_forecast": "60.892471",
+      "kitchen_winprob": 99.39500100000001,
+      "kitchen_hi": "75.601593",
+      "kitchen_lo": "60.824341",
+      "kitchen_forecast": "65.675125"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "29.320324",
+      "pollonly_winprob": 1.22,
+      "pollonly_hi": "43.366932",
+      "pollonly_lo": "30.935614",
+      "pollonly_forecast": "35.112766",
+      "kitchen_winprob": 0.59500001,
+      "kitchen_hi": "39.083282",
+      "kitchen_lo": "23.444138",
+      "kitchen_forecast": "29.63562"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "54.59333",
+      "pollonly_winprob": 98.78,
+      "pollonly_hi": "69.255112",
+      "pollonly_lo": "57.419373",
+      "pollonly_forecast": "60.871838",
+      "kitchen_winprob": 99.40500300000001,
+      "kitchen_hi": "76.336891",
+      "kitchen_lo": "61.409443",
+      "kitchen_forecast": "66.348984"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "29.320324",
+      "pollonly_winprob": 1.03,
+      "pollonly_hi": "43.184608",
+      "pollonly_lo": "31.112383",
+      "pollonly_forecast": "35.112766",
+      "kitchen_winprob": 0.5650000199999999,
+      "kitchen_hi": "38.949562",
+      "kitchen_lo": "23.579052",
+      "kitchen_forecast": "29.627254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "54.59333",
+      "pollonly_winprob": 98.97000200000001,
+      "pollonly_hi": "69.088455",
+      "pollonly_lo": "57.602501",
+      "pollonly_forecast": "60.871838",
+      "kitchen_winprob": 99.435002,
+      "kitchen_hi": "76.234619",
+      "kitchen_lo": "61.555023",
+      "kitchen_forecast": "66.357346"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "31.633505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "51.063492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "31.638441"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "51.068783"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "31.617256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "51.108875"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "31.618372"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "51.115189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "13.245032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "45.4487"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "13.245032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "45.4487"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "13.254002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "45.444645"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "13.303806"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "45.418716"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "13.375959"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "45.477581"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "13.464749"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "45.435467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "13.461454"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "45.4258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "13.458097"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "45.427166"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "13.453347"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "45.428589"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "13.454759"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "45.42514"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "13.455871"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "45.423431"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "13.462852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "45.421329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "13.463133"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "45.41444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "13.459932"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "45.408913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "13.444236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "45.434193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "13.435277"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "45.45969"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "13.442522"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "45.457943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "13.436728"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "45.460457"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "13.448481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "45.474033"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "13.445427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "45.477249"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "13.441723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "45.47234"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "4.6881943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "13.427587"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "45.484238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "4.6915073"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "13.423057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "45.494362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "4.6912751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "13.424431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "45.5089"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "4.699266"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "13.390264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "45.517422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "4.6892471"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "13.429877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "45.503197"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "4.7024193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "13.417377"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "45.529461"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "4.7368345"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "13.417908"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "45.533318"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "4.730495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "13.447217"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "45.113209"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "4.7609439"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "13.451151"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "45.105221"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "4.7603555"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "13.449731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "45.109875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "4.7607489"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "13.457756"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "45.124928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "4.7627378"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "13.470058"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "45.134693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "4.7621937"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "13.451571"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "45.215607"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "4.764576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "13.485368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "45.234276"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "4.7714567"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "13.487098"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "45.209812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "4.7723856"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "13.484751"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "45.203621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "4.7735887"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "13.484751"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "45.203621"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "4.7735887"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "13.493605"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "45.200104"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "4.7713614"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "13.508263"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "45.211391"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "4.7767243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "13.505539"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "45.223122"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "4.7804666"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "13.512024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "45.220524"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "4.7905793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "13.529336"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "45.213406"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "4.7896018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "13.529336"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "45.213406"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "4.7896018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "13.529336"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "45.213406"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "4.7896018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "13.529336"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "45.213406"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "4.7896018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "13.519706"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "45.192768"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "4.7935252"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "13.526335"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "45.194866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "4.7856417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "13.526335"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "45.194866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "4.7856417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "13.526335"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "45.194866"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "4.7856417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "13.495662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "45.195045"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "4.7919526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "13.498466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "45.195282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "4.7909327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "13.498466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "45.195282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "4.7909327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "13.498466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "45.195282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "4.7909327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "13.498466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "45.195282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "4.7909327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "13.498466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "45.195282"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "4.7909327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "13.511059"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "45.189575"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "4.7898278"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "13.509361"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "45.190018"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "4.7992148"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "13.505281"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "45.191486"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "4.804347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "13.505281"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "45.191486"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "4.804347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "13.505281"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "45.191486"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "4.804347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "13.508734"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "45.212307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "4.8098588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "13.508734"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "45.212307"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "4.8098588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "13.512161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "45.210613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "4.8098493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "13.512161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "45.210613"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "4.8098493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "13.499765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "45.219364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "4.7917242"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "13.499765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "45.219364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "4.7917242"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "13.499765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "45.219364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "4.7917242"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "13.488081"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "45.228542"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "4.7959971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "13.476055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "45.226063"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "4.797915"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "13.473841"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "45.220894"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "4.799562"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "13.465428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "45.231281"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "4.8191371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "13.485533"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "45.194489"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "4.8306007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "13.485533"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "45.194489"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "4.8306007"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "13.489843"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "45.200226"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "4.8334403"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "13.480815"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "45.205925"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "4.8307219"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "13.49019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "45.206863"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "4.8256049"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "13.490026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "45.203053"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "4.8264894"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "13.488255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "45.194492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "4.830307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "13.488726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "45.194881"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "4.8299189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "13.465715"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "45.202557"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "4.8294497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "13.465714"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "45.202557"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "4.8294497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "13.465715"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "45.202557"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "4.8294497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "13.440081"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "45.232998"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "4.8398747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "13.440081"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "45.232998"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "4.8398747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "13.432396"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "45.238884"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "4.8301282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "13.433862"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "45.201508"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "4.836699"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "13.445636"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "45.179344"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "4.8360581"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "13.445636"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "45.179344"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "4.8360581"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "13.446443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "45.175385"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "4.8300548"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "13.446443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "45.175385"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "4.8300548"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "13.436249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "45.177258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "4.8293476"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "13.444265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "45.174541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "4.8316398"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "13.447645"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "45.155716"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "4.8348241"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "13.499609"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "45.29224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "4.8407798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "13.499609"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "45.29224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "4.8407798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "13.523147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "45.277393"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "4.8509121"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "13.545177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "45.288128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "4.846787"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "13.530864"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "45.273136"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "4.8631005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "13.526655"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "45.29248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "4.8633189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "13.503083"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "45.272762"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "4.8705363"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "13.437419"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "45.149494"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "4.7855983"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "13.439699"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "45.153645"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "4.7869048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "13.439699"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "45.153645"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "4.7869048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "13.435013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "45.159065"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "4.7867327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "13.435013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "45.159065"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "4.7867327"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "13.435446"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "45.15337"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "4.7859573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "13.421348"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "45.146946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "4.7933545"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "13.419477"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "45.171589"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "4.8185854"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "13.460489"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "45.103596"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "1.7408537"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "4.7985215"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "13.516722"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "45.113285"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "1.7408537"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "4.8030405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "13.506796"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "45.164364"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "1.7381874"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "4.8066988"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "13.506796"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "45.164364"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "2.0712869"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.7381874"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "4.8066988"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "23.770887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "59.936371"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "2.1453254"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".20161831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "3.1456521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "23.76687"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "59.904037"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "2.1519291"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-18",
+      "poll_avg": ".21416187"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "3.1654737"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "23.631313"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "59.942211"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "2.1019118"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-17",
+      "poll_avg": ".2414224"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "3.2135079"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "23.951237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "59.917011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "2.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".24100225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "3.1961164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "23.951237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "59.917011"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "2.0925269"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".24100225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "3.1961164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "23.954494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "59.896946"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "2.0922616"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "3.1807153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "23.954494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "59.896946"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "2.0922616"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "3.1807153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "23.954494"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "59.896946"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "2.0922616"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".23595622"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "3.1807153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "23.942072"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "59.875629"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "2.0962307"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".22970062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "3.1720264"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "23.966356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "59.880241"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "2.0851402"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".25177604"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "3.1687162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "23.93668"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "59.901184"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0986218"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-09",
+      "poll_avg": ".26600471"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "3.1907101"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "23.93668"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "59.901184"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0986218"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-08",
+      "poll_avg": ".26600471"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "3.1907101"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "23.852205"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "60.00288"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-07",
+      "poll_avg": ".29964238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "3.1818058"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "23.852205"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "60.00288"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.1108851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-06",
+      "poll_avg": ".29964238"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "3.1818058"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "23.853821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "60.005356"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.1125207"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-05",
+      "poll_avg": ".30234209"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "3.1816063"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "23.893358"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "60.007408"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.1189191"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-04",
+      "poll_avg": ".31282568"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "3.2040091"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "23.872829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "59.732452"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-03",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "3.1382349"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "23.872829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "59.732452"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-02",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "3.1382349"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "23.872829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "59.732452"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.0971954"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-10-01",
+      "poll_avg": ".28047097"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "3.1382349"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "23.853092"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "59.730888"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "2.0898705"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-30",
+      "poll_avg": ".27335906"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "3.1364758"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "23.812048"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "59.722828"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "2.0979433"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-29",
+      "poll_avg": ".2763578"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "3.1309025"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "23.807852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "59.720993"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "2.097729"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-28",
+      "poll_avg": ".27516696"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "3.1287303"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "23.658222"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "59.726524"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "2.0937066"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-27",
+      "poll_avg": ".2732878"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "3.1339564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "23.628983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "59.4814"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "2.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-26",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "3.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "23.628983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "59.4814"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "2.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-25",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "3.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "23.628983"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "59.4814"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "2.0714719"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-24",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "3.1122789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "23.628967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "59.46217"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "2.0684862"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".25931683"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "3.1118207"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "23.61754"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "59.472927"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "2.0731938"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".26810563"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "3.1066229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "23.607059"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "59.472301"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "2.0707638"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".26810563"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "3.1059473"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "23.532955"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "59.481647"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "2.1160405"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-20",
+      "poll_avg": ".30776739"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "3.1569283"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "23.429642"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "59.378014"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "2.1350467"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-19",
+      "poll_avg": ".31513938"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "3.0150988"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "23.480034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "59.466614"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "2.1340294"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-18",
+      "poll_avg": ".31513938"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "3.0137835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "23.44401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "59.45137"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "2.1410353"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-17",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "3.0229356"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "23.424599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "59.476795"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "2.1410353"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-16",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "3.0229356"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "23.424599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "59.476795"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "2.1410353"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-15",
+      "poll_avg": ".32263678"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "3.0229356"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "23.417252"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "59.481335"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "2.1425612"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-14",
+      "poll_avg": ".32258698"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "3.024528"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "23.482523"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "59.564133"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "2.1462617"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-13",
+      "poll_avg": ".31559947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "3.0348268"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "23.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "59.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "2.1441987"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-12",
+      "poll_avg": ".30208743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "3.0249088"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "23.528234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "59.597351"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "2.1441987"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-11",
+      "poll_avg": ".30208743"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "3.0249088"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "23.49262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "59.570419"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "2.1379244"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-10",
+      "poll_avg": ".30901682"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "3.0241733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "23.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "59.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "2.1598957"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-09",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "3.0346973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "23.343016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "59.531567"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "2.1598957"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-08",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "3.0346973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "23.239511"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "59.710049"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "2.1546438"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".26770541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "3.0132306"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "23.230892"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "59.714558"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "2.1571276"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".26593596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "3.0156078"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "23.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "59.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "2.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "3.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "23.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "59.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "2.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "3.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "23.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "59.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "2.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "3.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "23.231697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "59.69342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "2.1526082"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".25740767"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "3.0094876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "23.192644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "59.716507"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "2.1675286"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".21099877"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "3.0280771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "23.227652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "59.717518"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "2.1520517"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".2137464"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "3.0166862"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "23.248049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "59.726612"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "2.1615233"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".21344334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "3.0144105"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "23.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "59.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "2.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "3.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "23.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "59.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "2.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "3.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "23.204515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "59.751331"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "2.167747"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".13473253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "3.065515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "23.172401"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "59.774643"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "2.1719732"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".1063522"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "3.0503941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "23.02948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "59.863583"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "2.1570749"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".08677949"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "3.0244482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "23.023266"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "59.88773"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "2.1628711"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".09322615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "3.0268993"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "23.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "59.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "2.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".10308647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "3.0855477"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "23.110842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "59.874138"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "2.2718525"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".10308647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "3.0855477"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "23.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "59.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "2.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "3.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "23.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "59.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "2.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "3.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "23.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "59.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "2.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "3.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "23.120199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "59.879269"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "2.2552972"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".099766225"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "3.0783238"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "23.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "59.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "2.263345"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".11691028"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "3.0759933"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "23.098867"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "59.890404"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "2.263345"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".11691028"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "3.0759933"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "22.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "59.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "2.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "22.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "59.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "2.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "22.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "59.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "2.258621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".11078954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "22.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "59.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "2.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "3.066067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "22.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "59.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "2.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "3.066067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "22.758535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "59.864368"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "2.3014793"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".11811449"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "3.1649902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "22.745066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "59.879047"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "2.3041751"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".12857459"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "3.1673005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "22.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "59.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "2.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".040940061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "22.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "59.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "2.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".040940061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "22.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "59.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "2.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".040940061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "22.754026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "59.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "2.3124239"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".040940061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "22.755156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "59.850361"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "2.3133948"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".040940061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "3.1906381"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "22.75713"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "59.859749"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "2.3134685"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".04110837"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "3.1920998"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "22.764698"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "59.861412"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "2.3143554"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".052515194"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "3.1889086"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "22.783831"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "59.856239"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "2.3282969"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".042824894"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "3.1847439"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "22.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "59.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "2.3583248"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".057527378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "3.191365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "22.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "59.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "2.3583248"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".057527378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "3.191365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "22.796505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "59.841557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "2.3588915"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".056037322"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "3.1828156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "22.81986"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "59.808041"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "2.3508623"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".052720167"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "3.1786625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "22.768333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "59.866905"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "2.3698621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".072100475"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "3.1883512"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "22.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "59.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "2.3789704"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".080228671"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "3.1811817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "22.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "59.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "2.3789704"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".080228671"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "3.1811817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "22.757233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "59.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "2.3892753"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".080228671"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "3.1808093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "22.757233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "59.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "2.3892753"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".080228671"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "3.1808093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "22.750254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "59.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "2.3996937"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".080652699"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "3.2022066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Illinois",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "22.750254"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Illinois",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "59.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Illinois",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "2.3996937"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Illinois",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".080652699"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Illinois",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "3.2022066"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50236",
+      "population": "lv",
+      "pollId": "36604",
+      "cycle": "2016",
+      "sampleSize": "428",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "293",
+      "pollster": "McKeon & Associates",
+      "startDate": "2016-03-12",
+      "endDate": "2016-03-12",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://big.assets.huffingtonpost.com/ILpollMcKeon.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457954340,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "31.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": ".7150644063949585"
+    },
+    {
+      "id": "50240",
+      "population": "lv",
+      "pollId": "36608",
+      "cycle": "2016",
+      "sampleSize": "597",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-03-11",
+      "endDate": "2016-03-12",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/main/polls/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457955900,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "45.0"
+        }
+      ],
+      "weight": ".8565744161605835"
+    },
+    {
+      "id": "50214",
+      "population": "lv",
+      "pollId": "36594",
+      "cycle": "2016",
+      "sampleSize": "722",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-03-09",
+      "endDate": "2016-03-11",
+      "methodology": "Internet",
+      "tracking": null,
+      "url": "https://today.yougov.com/news/2016/03/12/poll-florida-ohio-illinois/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457867280,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "46.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "48.0"
+        }
+      ],
+      "weight": ".5765508413314819"
+    },
+    {
+      "id": "50217",
+      "population": "lv",
+      "pollId": "36597",
+      "cycle": "2016",
+      "sampleSize": "529",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "1205",
+      "pollster": "Marist College",
+      "startDate": "2016-03-04",
+      "endDate": "2016-03-10",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://maristpoll.marist.edu/wp-content/misc/ILpolls/IL160304/NBC%20News_WSJ_Marist%20Poll%20Illinois%20Tables%20of%20Likely%20Democratic%20Primary%20Voters_March%202016.pdf#page=1",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457869800,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "51.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "45.0"
+        }
+      ],
+      "weight": ".3311475217342377"
+    },
+    {
+      "id": "50186",
+      "population": "lv",
+      "pollId": "36582",
+      "cycle": "2016",
+      "sampleSize": "994",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "542",
+      "pollster": "We Ask America",
+      "startDate": "2016-03-07",
+      "endDate": "2016-03-07",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "https://drive.google.com/file/d/0B4Bi-iePG1O6bmx0c2hGNWFDRjQ/view",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457614200,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "62.3"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        }
+      ],
+      "weight": ".2290956079959869"
+    },
+    {
+      "id": "50148",
+      "population": "lv",
+      "pollId": "36559",
+      "cycle": "2016",
+      "sampleSize": "600",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "1253",
+      "pollster": "Research America Inc.",
+      "startDate": "2016-03-02",
+      "endDate": "2016-03-06",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.chicagotribune.com/news/local/politics/ct-illinois-2016-democrat-president-primary-clinton-sanders-met-0308-20160308-story.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1457430840,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "67.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        }
+      ],
+      "weight": ".100886806845665"
+    },
+    {
+      "id": "49983",
+      "population": "lv",
+      "pollId": "36474",
+      "cycle": "2016",
+      "sampleSize": "1116",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "542",
+      "pollster": "We Ask America",
+      "startDate": "2016-02-24",
+      "endDate": "2016-02-24",
+      "methodology": "Automated Phone / Live Phone",
+      "tracking": null,
+      "url": "https://drive.google.com/file/d/0B4Bi-iePG1O6WDBhWjZSc2pPb2c/view",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456487400,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.23"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "27.85"
+        }
+      ],
+      "weight": ".0017558970721439"
+    },
+    {
+      "id": "49471",
+      "population": "rv",
+      "pollId": "36415",
+      "cycle": "2016",
+      "sampleSize": "422",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "442",
+      "pollster": "Southern Illinois U.",
+      "startDate": "2016-02-15",
+      "endDate": "2016-02-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://news.siu.edu/2016/02/022216par16022.php",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456162500,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "51.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "32.0"
+        }
+      ],
+      "weight": ".0018342831172049"
+    },
+    {
+      "id": "47182",
+      "population": "lv",
+      "pollId": "35369",
+      "cycle": "2016",
+      "sampleSize": "831",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "293",
+      "pollster": "McKeon & Associates",
+      "startDate": "2015-10-20",
+      "endDate": "2015-10-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.illinoisobserver.net/2015/11/04/poll-duckworth-zooms-past-zopp-madigan-ctu-strike-problem-frerichs-fights/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447353360,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "12.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "1.77757904177e-17"
+    },
+    {
+      "id": "42819",
+      "population": "lv",
+      "pollId": "34629",
+      "cycle": "2016",
+      "sampleSize": "409",
+      "state": "IL",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2015-07-20",
+      "endDate": "2015-07-21",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_IL_72915.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445277900,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "3.0"
+        }
+      ],
+      "weight": "4.45882364410e-27"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "1.4324432e-07",
+          "2.5358097e-06",
+          "9.4299503e-06",
+          ".00001954003",
+          ".000030472702",
+          ".00004035675",
+          ".000048139213",
+          ".000053433778",
+          ".000056291308",
+          ".000057005487",
+          ".000055976787",
+          ".000053625885",
+          ".00005034477",
+          ".000046472607",
+          ".000042287153",
+          ".000038005684",
+          ".000033790766",
+          ".000029757546",
+          ".000025982679",
+          ".000022512151",
+          ".000019368079",
+          ".000016555286",
+          ".000014065838",
+          ".000011883376",
+          "9.9861854e-06",
+          "8.3494424e-06",
+          "6.9472353e-06",
+          "5.7535699e-06",
+          "4.7435346e-06",
+          "3.8936569e-06",
+          "3.1823033e-06",
+          "2.5899371e-06",
+          "2.0990537e-06",
+          "1.6941792e-06",
+          "1.3619122e-06",
+          "1.0914951e-06",
+          "8.8002338e-07",
+          "7.6416347e-07",
+          "9.8315911e-07",
+          "2.6977518e-06",
+          ".000010711147",
+          ".000042280397",
+          ".0001513415",
+          ".00048421393",
+          ".0013836047",
+          ".0035354807",
+          ".008090633",
+          ".016602635",
+          ".030583072",
+          ".050608493",
+          ".075270675",
+          ".10064488",
+          ".12097944",
+          ".1306967",
+          ".12682466",
+          ".1104536",
+          ".086240746",
+          ".060283437",
+          ".037661869",
+          ".020987161",
+          ".010407062",
+          ".0045799557",
+          ".0017832413",
+          ".00061214669",
+          ".00018453706",
+          ".000048637237",
+          ".000011151786",
+          "2.2121094e-06",
+          "3.7727892e-07",
+          "5.4950437e-08",
+          "6.7892438e-09",
+          "7.1040740e-10",
+          "6.5655509e-11",
+          "7.3859191e-12",
+          "2.0656829e-12",
+          "1.0573607e-12",
+          "5.8935376e-13",
+          "3.2399672e-13",
+          "1.7383679e-13",
+          "9.0747613e-14",
+          "4.5969488e-14",
+          "2.2526968e-14",
+          "1.0640915e-14",
+          "4.8246887e-15",
+          "2.0893285e-15",
+          "8.5909226e-16",
+          "3.3291907e-16",
+          "1.2059871e-16",
+          "4.0353828e-17",
+          "1.2309769e-17",
+          "3.3319673e-18",
+          "8.3299181e-19",
+          "1.8510930e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "3.4372276e-09",
+          "1.7978596e-08",
+          "3.4274827e-08",
+          "4.7563706e-08",
+          "5.7052315e-08",
+          "6.3070047e-08",
+          "6.6232609e-08",
+          "6.7168379e-08",
+          "6.6431390e-08",
+          "6.4480382e-08",
+          "6.1683210e-08",
+          "5.8328244e-08",
+          "5.4637930e-08",
+          "5.0781299e-08",
+          "4.6884608e-08",
+          "4.3040451e-08",
+          "3.9315250e-08",
+          "3.5754525e-08",
+          "3.2388197e-08",
+          "2.9234224e-08",
+          "2.6301086e-08",
+          "2.3590781e-08",
+          "2.1100004e-08",
+          "1.8821995e-08",
+          "1.6747562e-08",
+          "1.4865686e-08",
+          "1.3164573e-08",
+          "1.1631689e-08",
+          "1.0254636e-08",
+          "9.0210532e-09",
+          "7.9189828e-09",
+          "6.9384445e-09",
+          "6.0827965e-09",
+          "5.4638365e-09",
+          "5.9782002e-09",
+          "1.3481799e-08",
+          "6.1210137e-08",
+          "3.1476793e-07",
+          "1.5012411e-06",
+          "6.4394335e-06",
+          ".000024789448",
+          ".000085818494",
+          ".00026781406",
+          ".00075506367",
+          ".0019270082",
+          ".0044592824",
+          ".009370002",
+          ".017898558",
+          ".031110123",
+          ".049236111",
+          ".070984602",
+          ".093247749",
+          ".11160999",
+          ".12169077",
+          ".12080635",
+          ".10911886",
+          ".089592509",
+          ".066785485",
+          ".045132872",
+          ".027602477",
+          ".015245934",
+          ".0075874929",
+          ".0033932081",
+          ".0013594606",
+          ".00048626412",
+          ".00015468501",
+          ".000043571508",
+          ".000010815237",
+          "2.3527973e-06",
+          "4.4587304e-07",
+          "7.3109923e-08",
+          "1.0295506e-08",
+          "1.2359532e-09",
+          "1.2639251e-10",
+          "1.1755897e-11",
+          "1.6252002e-12",
+          "6.7723729e-13",
+          "4.4772909e-13",
+          "3.0830693e-13",
+          "2.0961847e-13",
+          "1.4009634e-13",
+          "9.1839913e-14",
+          "5.8929295e-14",
+          "3.6919483e-14",
+          "2.2518461e-14",
+          "1.3324680e-14",
+          "7.6169912e-15",
+          "4.1847146e-15",
+          "2.1953533e-15",
+          "1.0908239e-15",
+          "5.0797011e-16",
+          "2.1861826e-16",
+          "8.5319749e-17",
+          "2.9394568e-17",
+          "8.5926438e-18",
+          "2.0032708e-18",
+          "3.3551490e-19",
+          "3.3073476e-20",
+          "1.2919326e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "1.3726823e-07",
+          "1.9174197e-06",
+          "6.0439002e-06",
+          ".000011058041",
+          ".000015604921",
+          ".000019000769",
+          ".000021070295",
+          ".000021920214",
+          ".000021779188",
+          ".000020904301",
+          ".00001953382",
+          ".000017867125",
+          ".000016060068",
+          ".000014227739",
+          ".00001245042",
+          ".000010780441",
+          "9.2486735e-06",
+          "7.8699923e-06",
+          "6.6480279e-06",
+          "5.5787546e-06",
+          "4.6531732e-06",
+          "3.8594990e-06",
+          "3.1845204e-06",
+          "2.6147061e-06",
+          "2.1368758e-06",
+          "1.7386030e-06",
+          "1.4085213e-06",
+          "1.1364205e-06",
+          "9.1372840e-07",
+          "7.3689603e-07",
+          "6.3242675e-07",
+          "8.0752608e-07",
+          "2.4036963e-06",
+          ".00001063745",
+          ".000045686509",
+          ".00017385875",
+          ".00058014039",
+          ".0017006698",
+          ".0043950933",
+          ".010047526",
+          ".020380801",
+          ".036781698",
+          ".059198584",
+          ".085139334",
+          ".10960469",
+          ".1264777",
+          ".13096666",
+          ".12179574",
+          ".10178144",
+          ".076452427",
+          ".051619634",
+          ".031320944",
+          ".017069992",
+          ".0083498554",
+          ".003661955",
+          ".0014380448",
+          ".00050484203",
+          ".00015813699",
+          ".000044100176",
+          ".000010921111",
+          "2.3946609e-06",
+          "4.6341597e-07",
+          "7.8871651e-08",
+          "1.1768692e-08",
+          "1.5409967e-09",
+          "1.8220421e-10",
+          "2.3452143e-11",
+          "5.7074723e-12",
+          "2.8136796e-12",
+          "1.6893852e-12",
+          "1.0293273e-12",
+          "6.1943191e-13",
+          "3.6687426e-13",
+          "2.1354168e-13",
+          "1.2198838e-13",
+          "6.8295108e-14",
+          "3.7409600e-14",
+          "2.0012099e-14",
+          "1.0433006e-14",
+          "5.2879386e-15",
+          "2.5985690e-15",
+          "1.2341875e-15",
+          "5.6443756e-16",
+          "2.4748879e-16",
+          "1.0351025e-16",
+          "4.1037357e-17",
+          "1.5302065e-17",
+          "5.3430768e-18",
+          "1.7072553e-18",
+          "5.0585341e-19",
+          "1.2646335e-19",
+          "3.1615838e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.3613296e-06",
+          "6.0068605e-06",
+          ".000010211493",
+          ".000013037381",
+          ".000014637267",
+          ".000015309794",
+          ".000015324777",
+          ".000014893986",
+          ".00001417537",
+          ".000013283618",
+          ".000012300622",
+          ".000011283792",
+          ".000010272598",
+          "9.2934315e-06",
+          "8.3631821e-06",
+          "7.4919412e-06",
+          "6.6849780e-06",
+          "5.9440849e-06",
+          "5.2687305e-06",
+          "4.6568180e-06",
+          "4.1051717e-06",
+          "3.6100560e-06",
+          "3.1673665e-06",
+          "2.7729029e-06",
+          "2.4225037e-06",
+          "2.1121155e-06",
+          "1.8380027e-06",
+          "1.5974831e-06",
+          "1.3946325e-06",
+          "1.2747861e-06",
+          "1.5035309e-06",
+          "3.3500289e-06",
+          ".000011987161",
+          ".000045562476",
+          ".00015902569",
+          ".00049596239",
+          ".0013790918",
+          ".0034273325",
+          ".0076361448",
+          ".015297689",
+          ".027628429",
+          ".045090124",
+          ".066631891",
+          ".089311667",
+          ".10874216",
+          ".12041272",
+          ".12137771",
+          ".11145709",
+          ".093278602",
+          ".071164101",
+          ".049493939",
+          ".031373154",
+          ".018116921",
+          ".0095243827",
+          ".0045541753",
+          ".0019783757",
+          ".00077968277",
+          ".0002782997",
+          ".000089795351",
+          ".000026133263",
+          "6.8438817e-06",
+          "1.6094086e-06",
+          "3.3981178e-07",
+          "6.5106462e-08",
+          "1.2046791e-08",
+          "2.7532692e-09",
+          "1.1322288e-09",
+          "7.3390932e-10",
+          "5.4015126e-10",
+          "4.0372269e-10",
+          "3.0021804e-10",
+          "2.2136942e-10",
+          "1.6169714e-10",
+          "1.1691906e-10",
+          "8.3623386e-11",
+          "5.9109363e-11",
+          "4.1252619e-11",
+          "2.8394911e-11",
+          "1.9252582e-11",
+          "1.2840381e-11",
+          "8.4103471e-12",
+          "5.3998728e-12",
+          "3.3911246e-12",
+          "2.0777267e-12",
+          "1.2382555e-12",
+          "7.1521402e-13",
+          "3.9863951e-13",
+          "2.1326459e-13",
+          "1.0878365e-13",
+          "5.2463882e-14",
+          "2.3664147e-14",
+          "9.8402062e-15",
+          "3.6991818e-15",
+          "1.2229472e-15",
+          "3.4133472e-16",
+          "7.5504504e-17",
+          "1.1874519e-17",
+          "1.1028171e-18",
+          "2.5646909e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

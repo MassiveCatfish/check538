@@ -1,0 +1,3780 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-10",
+      "poll_avg": "44.885303",
+      "pollonly_winprob": 74.629998,
+      "pollonly_hi": "60.189247",
+      "pollonly_lo": "46.547775",
+      "pollonly_forecast": "51.351929",
+      "kitchen_winprob": 62.720001,
+      "kitchen_hi": "58.3265",
+      "kitchen_lo": "44.774971",
+      "kitchen_forecast": "49.5686"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-10",
+      "poll_avg": "38.729511",
+      "pollonly_winprob": 25.369999,
+      "pollonly_hi": "53.597786",
+      "pollonly_lo": "39.892155",
+      "pollonly_forecast": "44.866348",
+      "kitchen_winprob": 37.279999000000004,
+      "kitchen_hi": "55.210796",
+      "kitchen_lo": "41.783478",
+      "kitchen_forecast": "46.649673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-09",
+      "poll_avg": "44.885303",
+      "pollonly_winprob": 74.839997,
+      "pollonly_hi": "59.933453",
+      "pollonly_lo": "46.808193",
+      "pollonly_forecast": "51.351929",
+      "kitchen_winprob": 62.760000999999995,
+      "kitchen_hi": "58.126328",
+      "kitchen_lo": "44.972958",
+      "kitchen_forecast": "49.5686"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-09",
+      "poll_avg": "38.729511",
+      "pollonly_winprob": 25.16,
+      "pollonly_hi": "53.34153",
+      "pollonly_lo": "40.155537",
+      "pollonly_forecast": "44.866348",
+      "kitchen_winprob": 37.239999000000005,
+      "kitchen_hi": "55.008022",
+      "kitchen_lo": "41.986725",
+      "kitchen_forecast": "46.649673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-08",
+      "poll_avg": "44.887547",
+      "pollonly_winprob": 75.870001,
+      "pollonly_hi": "59.676193",
+      "pollonly_lo": "47.07901",
+      "pollonly_forecast": "51.355484",
+      "kitchen_winprob": 62.889998999999996,
+      "kitchen_hi": "57.925819",
+      "kitchen_lo": "45.182014",
+      "kitchen_forecast": "49.57185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-08",
+      "poll_avg": "38.724483",
+      "pollonly_winprob": 24.13,
+      "pollonly_hi": "53.069351",
+      "pollonly_lo": "40.420677",
+      "pollonly_forecast": "44.862167",
+      "kitchen_winprob": 37.110001,
+      "kitchen_hi": "54.80027",
+      "kitchen_lo": "42.184654",
+      "kitchen_forecast": "46.645802"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-07",
+      "poll_avg": "44.887547",
+      "pollonly_winprob": 76.98500200000001,
+      "pollonly_hi": "59.40881",
+      "pollonly_lo": "47.340378",
+      "pollonly_forecast": "51.355484",
+      "kitchen_winprob": 63.945001000000005,
+      "kitchen_hi": "57.721275",
+      "kitchen_lo": "45.387947",
+      "kitchen_forecast": "49.57185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-07",
+      "poll_avg": "38.724483",
+      "pollonly_winprob": 23.015,
+      "pollonly_hi": "52.801231",
+      "pollonly_lo": "40.692871",
+      "pollonly_forecast": "44.862167",
+      "kitchen_winprob": 36.054998999999995,
+      "kitchen_hi": "54.595692",
+      "kitchen_lo": "42.386795",
+      "kitchen_forecast": "46.645802"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-06",
+      "poll_avg": "44.88644",
+      "pollonly_winprob": 78.039998,
+      "pollonly_hi": "59.14801",
+      "pollonly_lo": "47.609097",
+      "pollonly_forecast": "51.354111",
+      "kitchen_winprob": 64.214998,
+      "kitchen_hi": "57.513866",
+      "kitchen_lo": "45.588821",
+      "kitchen_forecast": "49.570721"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-06",
+      "poll_avg": "38.726074",
+      "pollonly_winprob": 21.960001000000002,
+      "pollonly_hi": "52.542042",
+      "pollonly_lo": "40.95591",
+      "pollonly_forecast": "44.863647",
+      "kitchen_winprob": 35.784999,
+      "kitchen_hi": "54.39344",
+      "kitchen_lo": "42.591888",
+      "kitchen_forecast": "46.647038"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-05",
+      "poll_avg": "44.622101"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-05",
+      "poll_avg": "37.130608"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-04",
+      "poll_avg": "44.619766"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-04",
+      "poll_avg": "37.128353"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-03",
+      "poll_avg": "44.593655"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-03",
+      "poll_avg": "37.144672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-02",
+      "poll_avg": "36.82634"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-02",
+      "poll_avg": "39.782589"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-01",
+      "poll_avg": "36.838203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-05-01",
+      "poll_avg": "39.768024"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-30",
+      "poll_avg": "36.840199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-30",
+      "poll_avg": "39.770405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-29",
+      "poll_avg": "36.838902"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-29",
+      "poll_avg": "39.77169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-28",
+      "poll_avg": "36.84779"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-28",
+      "poll_avg": "39.765419"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-27",
+      "poll_avg": "36.850109"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-27",
+      "poll_avg": "39.633526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "36.855125"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "39.624344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "36.855282"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "39.625156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "36.948658"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "39.595051"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "36.968857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "39.605816"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "36.968857"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "39.605816"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "36.985371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "39.589638"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "37.007412"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "39.57098"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "37.037861"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "39.554115"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "37.041195"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "39.555058"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "37.05431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "39.559464"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "37.105488"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "39.579918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "37.103771"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "39.583107"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "37.103771"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "39.583111"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "37.10627"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "39.58358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "37.126549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "39.580593"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "37.154305"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "39.584034"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "37.162262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "39.581913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "37.168564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "39.574127"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "37.168564"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "39.574127"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "37.294331"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "39.703773"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "37.256161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "39.710613"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "37.331753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "39.704407"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "37.337219"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "39.716354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "37.351383"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "39.736492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "37.365826"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "39.737953"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "37.330196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "39.749363"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "37.333015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "39.739811"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "37.385159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "39.641136"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "37.294994"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "39.656467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "37.303715"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "39.66201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "37.294456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "39.662006"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "37.294456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "39.662003"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "37.294456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "39.662006"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "37.294456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "39.662006"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "37.305141"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "39.66201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "37.287064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "39.707745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "37.290371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "39.708771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "37.303791"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "39.714283"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "37.30386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "39.714478"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "37.309147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "39.708855"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "37.309147"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "39.708855"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "37.256592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "39.764008"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "56.084881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "28.880281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "56.080017"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "28.870543"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "56.193993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "28.882706"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "56.35273"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "28.844862"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "56.344765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "28.861643"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "56.325256"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "28.892401"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "56.310802"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "28.919338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "56.331234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "28.940399"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "56.324234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "28.955338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "56.301796"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "28.958393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "56.336483"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "28.963758"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "56.33297"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "28.963167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "56.333015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "28.963421"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "56.34565"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "28.959394"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "56.433186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "28.946081"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "56.440826"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "28.94636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "56.53936"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "29.023008"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "56.62899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "29.051876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "56.62899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "29.051876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "56.610069"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "29.060381"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "56.615005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "29.065672"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "56.593822"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "29.105761"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "56.594936"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "29.112078"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "11.659451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "23.190647"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "11.659451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "23.190647"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "11.670006"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "23.186947"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "11.704819"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "23.166044"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "11.762203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "23.224878"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "11.850993"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "23.182766"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "11.848296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "23.1737"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "11.845626"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "23.179243"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "11.840877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "23.180668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "11.842217"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "23.177048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "11.843518"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "23.175503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "11.850311"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "23.173235"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "11.852633"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "23.165747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "11.849449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "23.160229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "11.833753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "23.185509"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "11.824794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "23.211004"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "11.831158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "23.209894"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "11.827545"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "23.210934"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "11.83976"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "23.224483"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "11.836729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "23.227695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "11.833074"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "23.222702"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "11.821521"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "23.233776"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "11.817182"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "23.243549"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "11.818918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "23.25736"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "11.789287"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "23.265408"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "11.829966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "23.249174"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "11.822659"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "23.270578"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "11.824013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "23.27467"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "11.854746"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "22.860361"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "11.859076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "22.852522"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "11.859312"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "22.857973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "11.866659"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "22.873707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "11.879798"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "22.88409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "11.861832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "22.964533"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "11.897177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "22.98213"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "11.898955"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "22.957687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "11.896532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "22.951336"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "11.896532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "22.951336"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "11.905815"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "22.947573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "11.920424"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "22.957342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "11.918007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "22.970062"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "11.930262"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "22.965395"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "11.950112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "22.956902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "11.950112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "22.956902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "11.950112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "22.956902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "11.950112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "22.956902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "11.944633"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "22.933092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "11.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "22.934727"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "11.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "22.934727"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "11.951859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "22.934727"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "11.921395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "22.934958"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "11.924199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "22.935196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "11.924199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "22.935196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "11.924199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "22.935196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "11.924199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "22.935196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "11.924199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "22.935196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "11.937043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "22.929756"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "11.935871"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "22.92874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "11.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "22.93104"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "11.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "22.93104"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "11.931307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "22.93104"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "11.939237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "22.951546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "11.939237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "22.951546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "11.942684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "22.949776"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "11.942684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "22.949776"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "11.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "22.95841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "11.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "22.95841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "11.932428"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "22.95841"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "11.921732"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "22.96726"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "11.910148"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "22.964434"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "11.908682"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "22.958603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "11.901835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "22.968126"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "11.921579"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "22.929274"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "11.921579"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "22.929274"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "11.926272"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "22.934937"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "11.91706"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "22.94059"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "11.928105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "22.941128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "11.928043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "22.937206"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "11.926484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "22.928793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "11.928005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "22.929153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "11.905315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "22.936491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "11.905315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "22.936491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "11.905315"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "22.936491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "11.882146"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "22.967636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "11.882146"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "22.967636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "11.878987"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "22.968819"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "11.88166"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "22.931156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "11.89554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "22.907476"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "11.89554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "22.907476"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "11.896362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "22.90365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "11.896362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "22.90365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "11.886417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "22.905617"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "11.894921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "22.90279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "11.898369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "22.884073"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "11.948104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "23.012941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "11.948104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "23.012941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "11.97255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "22.997807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "11.994581"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "23.008539"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "11.983177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "22.992193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "11.979049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "23.011896"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "11.955187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "22.991451"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "11.903311"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "22.864269"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "11.905973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "22.868807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "11.905973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "22.868807"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "11.902236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "22.875216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "11.902236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "22.875216"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "11.902758"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "22.869751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "11.888236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "22.863831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "11.88632"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "22.891636"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "11.927333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "22.823643"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "11.984027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "22.83287"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "11.976065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "22.888948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "11.976065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "22.888948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "12.023"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "22.971239"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "12.0139"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "22.951193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "12.017107"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "22.958406"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "12.331628"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "22.963833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "12.331628"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "22.963833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "12.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "22.97662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "12.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "22.97662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "12.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "22.97662"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "12.31361"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "22.97279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "12.323934"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "22.970829"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "12.302129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "22.986631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "12.302129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "22.986631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "12.232877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "23.099855"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "12.232877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "23.099855"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "12.231159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "23.098869"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "12.276723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "23.099695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "12.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "22.956686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "12.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "22.956686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "12.258966"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "22.956686"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "12.24816"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "22.940695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "12.216258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "22.937941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "12.212479"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "22.935061"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "12.075925"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "22.929193"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "12.111829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "22.855177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "12.111829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "22.855177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "12.111829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "22.855177"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "12.114886"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "22.826731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "12.10572"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "22.83242"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "12.101269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "22.831751"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "12.052077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "22.806414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "12.08549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "22.769917"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "12.133082"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "22.849871"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "12.117582"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "22.801538"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "12.098172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "22.826962"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "12.098172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "22.826962"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "12.093228"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "22.826349"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "12.134591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "22.892389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "12.203841"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "22.891069"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "12.203841"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "22.891069"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "12.167642"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "22.865431"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "12.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "22.661713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "12.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "22.661713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "12.191166"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "22.803572"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "12.19667"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "22.804625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "12.196532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "22.805525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "12.196532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "22.805525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "12.196532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "22.805525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "12.196532"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "22.805525"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "12.20648"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "22.808222"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "12.248039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "22.796953"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "12.249688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "22.79368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "12.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "22.788509"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "12.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "22.788509"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "12.266887"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "22.788509"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "12.246307"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "22.806097"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "12.159607"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "West Virginia",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "22.863426"
+    }
+  ],
+  "polls": [
+    {
+      "id": "65689",
+      "population": "lv",
+      "pollId": "44031",
+      "cycle": "2016",
+      "sampleSize": "315",
+      "state": "WV",
+      "officeType": "U.S. President",
+      "pollsterId": "1041",
+      "pollster": "R.L. Repass & Partners",
+      "startDate": "2016-04-22",
+      "endDate": "2016-05-02",
+      "methodology": "Mixed",
+      "tracking": null,
+      "url": "http://wvmetronews.com/2016/05/06/overwhelming-support-for-trump-lead-for-sanders-in-metronews-west-virginia-poll/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1462544820,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "47.0"
+        }
+      ],
+      "weight": ".1382101774215698"
+    },
+    {
+      "id": "65297",
+      "population": "lv",
+      "pollId": "44019",
+      "cycle": "2016",
+      "sampleSize": "637",
+      "state": "WV",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-29",
+      "endDate": "2016-05-01",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_WV_50316.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1462289160,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "37.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "45.0"
+        }
+      ],
+      "weight": ".3745978176593781"
+    },
+    {
+      "id": "50275",
+      "population": "lv",
+      "pollId": "36627",
+      "cycle": "2016",
+      "sampleSize": "600",
+      "state": "WV",
+      "officeType": "U.S. President",
+      "pollsterId": "1259",
+      "pollster": "Thirty-Ninth Street Strategies",
+      "startDate": "2016-03-02",
+      "endDate": "2016-03-06",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://www.scribd.com/doc/304440843/WV-Gov-Thirty-Ninth-Street-Strategies-for-West-Virginia-Veterans-March-2016",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1458142500,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "44.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        }
+      ],
+      "weight": ".0000168505630427"
+    },
+    {
+      "id": "49459",
+      "population": "lv",
+      "pollId": "36407",
+      "cycle": "2016",
+      "sampleSize": "208",
+      "state": "WV",
+      "officeType": "U.S. President",
+      "pollsterId": "1041",
+      "pollster": "R.L. Repass & Partners",
+      "startDate": "2016-02-11",
+      "endDate": "2016-02-16",
+      "methodology": "Live Phone/Internet",
+      "tracking": null,
+      "url": "http://wvmetronews.com/wordpress/wp-content/uploads/2016/02/MetroNews-WV-Poll-Press-Release-2-22-2016-Presidential-Race-FINAL.pdf?1ac489",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456138680,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "29.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "57.0"
+        }
+      ],
+      "weight": "1.64138768355e-07"
+    },
+    {
+      "id": "43099",
+      "population": "lv",
+      "pollId": "34691",
+      "cycle": "2016",
+      "sampleSize": "211",
+      "state": "WV",
+      "officeType": "U.S. President",
+      "pollsterId": "364",
+      "pollster": "Orion Strategies",
+      "startDate": "2015-08-24",
+      "endDate": "2015-08-25",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.prnewswire.com/news-releases/trump-leads-republican-field-and-clinton-in-west-virginia-according-to-new-orion-strategies-statewide-poll-300133726.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445328540,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "16.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "23.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "12.0"
+        }
+      ],
+      "weight": "8.96501579059e-21"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "5.3152498e-06",
+          ".000047867921",
+          ".00011879687",
+          ".00018878264",
+          ".0002435403",
+          ".00027939404",
+          ".00029768326",
+          ".00030162503",
+          ".00029478944",
+          ".0002804308",
+          ".00026125248",
+          ".00023937116",
+          ".00021637192",
+          ".00019339359",
+          ".00017121714",
+          ".00015034739",
+          ".00013108205",
+          ".00011356537",
+          ".000097834294",
+          ".000083852421",
+          ".000071536197",
+          ".000060783052",
+          ".000051506519",
+          ".00004371431",
+          ".000037690279",
+          ".000034412722",
+          ".00003644573",
+          ".000049665348",
+          ".000086304375",
+          ".00016979598",
+          ".00034166285",
+          ".00067009521",
+          ".0012588049",
+          ".0022534169",
+          ".0038415429",
+          ".0062420322",
+          ".0096799005",
+          ".014346573",
+          ".020348508",
+          ".027653629",
+          ".036047421",
+          ".045114819",
+          ".054256368",
+          ".062744744",
+          ".069817975",
+          ".074789174",
+          ".077154577",
+          ".076678075",
+          ".073427178",
+          ".067758456",
+          ".060256485",
+          ".051635075",
+          ".042629961",
+          ".033900339",
+          ".025956782",
+          ".019127892",
+          ".013558432",
+          ".0092382887",
+          ".0060461438",
+          ".0037974019",
+          ".0022864849",
+          ".0013183603",
+          ".00072697538",
+          ".00038282142",
+          ".00019220333",
+          ".000091839946",
+          ".000041680061",
+          ".000017926239",
+          "7.2883654e-06",
+          "2.7935096e-06",
+          "1.0062696e-06",
+          "3.3950292e-07",
+          "1.0688026e-07",
+          "3.1269149e-08",
+          "8.4658121e-09",
+          "2.1133517e-09",
+          "4.8606247e-10",
+          "1.0401236e-10",
+          "2.1637098e-11",
+          "4.9641003e-12",
+          "1.5187403e-12",
+          "6.3465932e-13",
+          "3.0671773e-13",
+          "1.5139061e-13",
+          "7.2647380e-14",
+          "3.3488539e-14",
+          "1.4673733e-14",
+          "6.0657393e-15",
+          "2.3431515e-15",
+          "8.3558890e-16",
+          "2.7146268e-16",
+          "7.8350859e-17",
+          "1.9357270e-17",
+          "4.1479865e-18",
+          "9.2177482e-19",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.3188790e-07",
+          "9.1924403e-07",
+          "1.4896121e-06",
+          "1.8585934e-06",
+          "2.0631489e-06",
+          "2.1475726e-06",
+          "2.1480776e-06",
+          "2.0918792e-06",
+          "1.9988463e-06",
+          "1.8832674e-06",
+          "1.7553292e-06",
+          "1.6222073e-06",
+          "1.4888889e-06",
+          "1.3587701e-06",
+          "1.2340885e-06",
+          "1.1162463e-06",
+          "1.0060487e-06",
+          "9.0386072e-07",
+          "8.0975781e-07",
+          "7.2365674e-07",
+          "6.4557616e-07",
+          "5.7657263e-07",
+          "5.2205553e-07",
+          "5.0295569e-07",
+          "5.8953538e-07",
+          "9.9402905e-07",
+          "2.3010573e-06",
+          "5.9890408e-06",
+          ".000015506375",
+          ".000038296512",
+          ".000089264147",
+          ".00019614492",
+          ".00040693412",
+          ".00079882686",
+          ".0014870312",
+          ".0026303905",
+          ".0044295718",
+          ".0071134525",
+          ".010910137",
+          ".016002795",
+          ".022474477",
+          ".030253114",
+          ".039069228",
+          ".048442088",
+          ".057707224",
+          ".066084713",
+          ".072782815",
+          ".077120669",
+          ".078638799",
+          ".077177525",
+          ".07290592",
+          ".066288181",
+          ".058003493",
+          ".048833821",
+          ".039544586",
+          ".03078766",
+          ".023033334",
+          ".016548196",
+          ".011408591",
+          ".0075409282",
+          ".0047740634",
+          ".002891599",
+          ".0016734581",
+          ".00092404539",
+          ".0004860411",
+          ".00024309343",
+          ".00011537552",
+          ".000051847845",
+          ".000022005772",
+          "8.7967792e-06",
+          "3.3017623e-06",
+          "1.1595880e-06",
+          "3.7959418e-07",
+          "1.1533318e-07",
+          "3.2374210e-08",
+          "8.3567810e-09",
+          "1.9772286e-09",
+          "4.3040821e-10",
+          "8.9065248e-11",
+          "1.9936386e-11",
+          "6.3327256e-12",
+          "3.1290671e-12",
+          "1.9032961e-12",
+          "1.2023192e-12",
+          "7.4911843e-13",
+          "4.5445443e-13",
+          "2.6697140e-13",
+          "1.5108677e-13",
+          "8.1873514e-14",
+          "4.2158348e-14",
+          "2.0424106e-14",
+          "9.1878960e-15",
+          "3.7700496e-15",
+          "1.3758353e-15",
+          "4.3021211e-16",
+          "1.0873155e-16",
+          "2.0126904e-17",
+          "2.2641346e-18",
+          "1.0239805e-19",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "6.3252537e-07",
+          "6.7457531e-06",
+          ".000018860661",
+          ".000032772645",
+          ".000045427765",
+          ".00005537138",
+          ".000062193853",
+          ".0000660527",
+          ".000067367881",
+          ".000066645458",
+          ".000064384425",
+          ".000061031053",
+          ".000056961693",
+          ".000052480416",
+          ".000047824033",
+          ".000043170839",
+          ".000038650236",
+          ".00003435132",
+          ".000030331774",
+          ".000026624897",
+          ".000023245155",
+          ".000020193704",
+          ".000017461745",
+          ".000015034122",
+          ".000012892086",
+          ".000011016523",
+          "9.3946555e-06",
+          "8.0351674e-06",
+          "7.0076776e-06",
+          "6.5367963e-06",
+          "7.2147041e-06",
+          ".00001044591",
+          ".000019309688",
+          ".000040109844",
+          ".000084948195",
+          ".00017564952",
+          ".00034920595",
+          ".00066452904",
+          ".0012095985",
+          ".0021072347",
+          ".0035167027",
+          ".0056279525",
+          ".0086451434",
+          ".012757679",
+          ".018100169",
+          ".024705311",
+          ".032458682",
+          ".041068126",
+          ".050057296",
+          ".058793314",
+          ".066552371",
+          ".072611637",
+          ".076357089",
+          ".07738357",
+          ".075563021",
+          ".071073905",
+          ".064369112",
+          ".056104261",
+          ".047033101",
+          ".03789597",
+          ".029322091",
+          ".021767132",
+          ".015485805",
+          ".010545176",
+          ".0068636243",
+          ".0042633554",
+          ".0025227508",
+          ".001419295",
+          ".00075750164",
+          ".00038259019",
+          ".00018235702",
+          ".000081772334",
+          ".000034377172",
+          ".000013496729",
+          "4.9268542e-06",
+          "1.6639449e-06",
+          "5.1700613e-07",
+          "1.4684746e-07",
+          "3.7852072e-08",
+          "8.7809839e-09",
+          "1.8159956e-09",
+          "3.3127048e-10",
+          "5.2725969e-11",
+          "7.2784391e-12",
+          "8.9364020e-13",
+          "1.1488420e-13",
+          "2.3206455e-14",
+          "7.7815451e-15",
+          "2.9790238e-15",
+          "1.1025213e-15",
+          "3.7217701e-16",
+          "1.1230766e-16",
+          "2.9397506e-17",
+          "6.5455385e-18",
+          "1.1483401e-18",
+          "1.1483401e-19",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "9.3002909e-06",
+          ".000039098115",
+          ".000065905107",
+          ".000084627252",
+          ".000096116913",
+          ".00010199286",
+          ".00010373655",
+          ".00010253685",
+          ".000099305755",
+          ".000094727722",
+          ".000089310735",
+          ".000083427411",
+          ".000077348304",
+          ".000071267161",
+          ".00006531988",
+          ".000059599315",
+          ".000054166401",
+          ".000049057664",
+          ".000044292337",
+          ".000039876992",
+          ".000035808513",
+          ".000032077816",
+          ".000028671162",
+          ".00002557293",
+          ".000022768865",
+          ".000020253698",
+          ".000018053161",
+          ".000016279582",
+          ".000015270096",
+          ".000015896368",
+          ".000020210338",
+          ".000032682958",
+          ".000062389714",
+          ".00012654702",
+          ".00025572372",
+          ".00050072512",
+          ".00094050146",
+          ".0016895098",
+          ".0029017599",
+          ".0047679823",
+          ".0075019798",
+          ".011313802",
+          ".016369309",
+          ".022740278",
+          ".030354533",
+          ".038956862",
+          ".048094824",
+          ".057141576",
+          ".065355942",
+          ".071976453",
+          ".076335855",
+          ".077967539",
+          ".076686896",
+          ".072625123",
+          ".066205733",
+          ".058077078",
+          ".049002428",
+          ".03974608",
+          ".030970437",
+          ".023165481",
+          ".016617963",
+          ".011421344",
+          ".0075118626",
+          ".0047216532",
+          ".0028321079",
+          ".0016183465",
+          ".00087934744",
+          ".0004533976",
+          ".00022131593",
+          ".00010200766",
+          ".000044267275",
+          ".000018028824",
+          "6.8665172e-06",
+          "2.4362703e-06",
+          "8.0205297e-07",
+          "2.4415934e-07",
+          "6.8679753e-08",
+          "1.8018547e-08",
+          "4.5978346e-09",
+          "1.2902579e-09",
+          "4.8340881e-10",
+          "2.5126543e-10",
+          "1.5389433e-10",
+          "9.7718611e-11",
+          "6.1364185e-11",
+          "3.7568008e-11",
+          "2.2285201e-11",
+          "1.2742441e-11",
+          "6.9808703e-12",
+          "3.6365978e-12",
+          "1.7838688e-12",
+          "8.1335584e-13",
+          "3.3868169e-13",
+          "1.2562179e-13",
+          "4.0004028e-14",
+          "1.0324298e-14",
+          "1.9587656e-15",
+          "2.2720677e-16",
+          "1.0810177e-17",
+          "0"
+        ]
+      }
+    }
+  ]
+}

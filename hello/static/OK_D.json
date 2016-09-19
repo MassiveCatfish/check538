@@ -1,0 +1,3104 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "41.723282",
+      "pollonly_winprob": 52.254999000000005,
+      "pollonly_hi": "53.640022",
+      "pollonly_lo": "46.642273",
+      "pollonly_forecast": "47.479973",
+      "kitchen_winprob": 49.384999,
+      "kitchen_hi": "53.796501",
+      "kitchen_lo": "46.142128",
+      "kitchen_forecast": "47.283863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "41.491673",
+      "pollonly_winprob": 47.745000999999995,
+      "pollonly_hi": "53.380554",
+      "pollonly_lo": "46.37981",
+      "pollonly_forecast": "47.221317",
+      "kitchen_winprob": 50.61500100000001,
+      "kitchen_hi": "53.897694",
+      "kitchen_lo": "46.24305",
+      "kitchen_forecast": "47.417423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "41.723572",
+      "pollonly_winprob": 52.490002000000004,
+      "pollonly_hi": "53.27702",
+      "pollonly_lo": "47.006073",
+      "pollonly_forecast": "47.480202",
+      "kitchen_winprob": 50.730002,
+      "kitchen_hi": "53.563499",
+      "kitchen_lo": "46.521976",
+      "kitchen_forecast": "47.355347"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "41.491592",
+      "pollonly_winprob": 47.510001,
+      "pollonly_hi": "53.015545",
+      "pollonly_lo": "46.743629",
+      "pollonly_forecast": "47.221149",
+      "kitchen_winprob": 49.270001,
+      "kitchen_hi": "53.513557",
+      "kitchen_lo": "46.476616",
+      "kitchen_forecast": "47.346001"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "42.97467",
+      "pollonly_winprob": 40.279999,
+      "pollonly_hi": "56.23304",
+      "pollonly_lo": "41.153217",
+      "pollonly_forecast": "46.924438",
+      "kitchen_winprob": 24.834999,
+      "kitchen_hi": "53.939789",
+      "kitchen_lo": "38.228943",
+      "kitchen_forecast": "44.257965"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "45.621876",
+      "pollonly_winprob": 59.719998,
+      "pollonly_hi": "58.900848",
+      "pollonly_lo": "43.787697",
+      "pollonly_forecast": "49.477707",
+      "kitchen_winprob": 75.16499800000001,
+      "kitchen_hi": "61.885845",
+      "kitchen_lo": "46.19215",
+      "kitchen_forecast": "52.14418"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "43.045715",
+      "pollonly_winprob": 40.669999000000004,
+      "pollonly_hi": "56.051247",
+      "pollonly_lo": "41.412857",
+      "pollonly_forecast": "46.970295",
+      "kitchen_winprob": 22.975001,
+      "kitchen_hi": "53.53072",
+      "kitchen_lo": "37.647942",
+      "kitchen_forecast": "43.690445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "45.61414",
+      "pollonly_winprob": 59.329997999999996,
+      "pollonly_hi": "58.641651",
+      "pollonly_lo": "43.963905",
+      "pollonly_forecast": "49.444992",
+      "kitchen_winprob": 77.025002,
+      "kitchen_hi": "62.552124",
+      "kitchen_lo": "46.707718",
+      "kitchen_forecast": "52.724838"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "43.045715",
+      "pollonly_winprob": 40.755001,
+      "pollonly_hi": "55.833946",
+      "pollonly_lo": "41.630692",
+      "pollonly_forecast": "46.970295",
+      "kitchen_winprob": 22.395,
+      "kitchen_hi": "53.367485",
+      "kitchen_lo": "37.807289",
+      "kitchen_forecast": "43.68264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "45.61414",
+      "pollonly_winprob": 59.245002,
+      "pollonly_hi": "58.424168",
+      "pollonly_lo": "44.185555",
+      "pollonly_forecast": "49.444992",
+      "kitchen_winprob": 77.604997,
+      "kitchen_hi": "62.395248",
+      "kitchen_lo": "46.876957",
+      "kitchen_forecast": "52.732643"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "43.029633",
+      "pollonly_winprob": 40.255001,
+      "pollonly_hi": "55.599678",
+      "pollonly_lo": "41.832775",
+      "pollonly_forecast": "46.956562",
+      "kitchen_winprob": 22.014999,
+      "kitchen_hi": "53.179337",
+      "kitchen_lo": "37.937477",
+      "kitchen_forecast": "43.639534"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "45.624657",
+      "pollonly_winprob": 59.745002,
+      "pollonly_hi": "58.222874",
+      "pollonly_lo": "44.415268",
+      "pollonly_forecast": "49.457561",
+      "kitchen_winprob": 77.985001,
+      "kitchen_hi": "62.289032",
+      "kitchen_lo": "47.078278",
+      "kitchen_forecast": "52.774593"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "43.113956",
+      "pollonly_winprob": 39.805001000000004,
+      "pollonly_hi": "55.445282",
+      "pollonly_lo": "42.125874",
+      "pollonly_forecast": "47.027222",
+      "kitchen_winprob": 21.435000000000002,
+      "kitchen_hi": "53.194641",
+      "kitchen_lo": "38.034149",
+      "kitchen_forecast": "43.435505"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "45.573631",
+      "pollonly_winprob": 60.194999,
+      "pollonly_hi": "57.934052",
+      "pollonly_lo": "44.565826",
+      "pollonly_forecast": "49.393799",
+      "kitchen_winprob": 78.565001,
+      "kitchen_hi": "62.440712",
+      "kitchen_lo": "47.354057",
+      "kitchen_forecast": "52.985516"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "43.095833",
+      "pollonly_winprob": 39.365,
+      "pollonly_hi": "55.21254",
+      "pollonly_lo": "42.323559",
+      "pollonly_forecast": "47.009586",
+      "kitchen_winprob": 22.775000000000002,
+      "kitchen_hi": "53.224052",
+      "kitchen_lo": "38.866295",
+      "kitchen_forecast": "43.883343"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "45.591434",
+      "pollonly_winprob": 60.63499999999999,
+      "pollonly_hi": "57.728256",
+      "pollonly_lo": "44.808754",
+      "pollonly_forecast": "49.411369",
+      "kitchen_winprob": 77.225,
+      "kitchen_hi": "61.632317",
+      "kitchen_lo": "47.24876",
+      "kitchen_forecast": "52.537613"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "43.074051",
+      "pollonly_winprob": 38.725001,
+      "pollonly_hi": "54.973785",
+      "pollonly_lo": "42.518127",
+      "pollonly_forecast": "46.98914",
+      "kitchen_winprob": 21.960001000000002,
+      "kitchen_hi": "53.05267",
+      "kitchen_lo": "39.004475",
+      "kitchen_forecast": "43.86441"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "45.610332",
+      "pollonly_winprob": 61.274998999999994,
+      "pollonly_hi": "57.538902",
+      "pollonly_lo": "45.042374",
+      "pollonly_forecast": "49.431221",
+      "kitchen_winprob": 78.039998,
+      "kitchen_hi": "61.488708",
+      "kitchen_lo": "47.437271",
+      "kitchen_forecast": "52.555946"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "43.281467",
+      "pollonly_winprob": 39.475,
+      "pollonly_hi": "54.919418",
+      "pollonly_lo": "42.911751",
+      "pollonly_forecast": "47.157352",
+      "kitchen_winprob": 22,
+      "kitchen_hi": "53.042755",
+      "kitchen_lo": "39.379868",
+      "kitchen_forecast": "44.042355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "45.4939",
+      "pollonly_winprob": 60.525,
+      "pollonly_hi": "57.157448",
+      "pollonly_lo": "45.110817",
+      "pollonly_forecast": "49.281796",
+      "kitchen_winprob": 77.999997,
+      "kitchen_hi": "61.141212",
+      "kitchen_lo": "47.444641",
+      "kitchen_forecast": "52.396786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "43.281467",
+      "pollonly_winprob": 39.405,
+      "pollonly_hi": "54.699814",
+      "pollonly_lo": "43.127216",
+      "pollonly_forecast": "47.157352",
+      "kitchen_winprob": 21.945,
+      "kitchen_hi": "52.89399",
+      "kitchen_lo": "39.616165",
+      "kitchen_forecast": "44.042355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "45.4939",
+      "pollonly_winprob": 60.595,
+      "pollonly_hi": "56.942337",
+      "pollonly_lo": "45.326534",
+      "pollonly_forecast": "49.281796",
+      "kitchen_winprob": 78.05499999999999,
+      "kitchen_hi": "60.977036",
+      "kitchen_lo": "47.615089",
+      "kitchen_forecast": "52.396786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "43.273659",
+      "pollonly_winprob": 38.554999,
+      "pollonly_hi": "54.480034",
+      "pollonly_lo": "43.345497",
+      "pollonly_forecast": "47.155701",
+      "kitchen_winprob": 21.175,
+      "kitchen_hi": "52.599564",
+      "kitchen_lo": "39.825211",
+      "kitchen_forecast": "44.326832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "45.486046",
+      "pollonly_winprob": 61.444998,
+      "pollonly_hi": "56.724491",
+      "pollonly_lo": "45.550369",
+      "pollonly_forecast": "49.280212",
+      "kitchen_winprob": 78.82500300000001,
+      "kitchen_hi": "60.399734",
+      "kitchen_lo": "47.60556",
+      "kitchen_forecast": "52.109077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "43.482189",
+      "pollonly_winprob": 39.96,
+      "pollonly_hi": "54.395336",
+      "pollonly_lo": "43.724525",
+      "pollonly_forecast": "47.311779",
+      "kitchen_winprob": 18.85,
+      "kitchen_hi": "52.169922",
+      "kitchen_lo": "39.14505",
+      "kitchen_forecast": "43.727676"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "45.406929",
+      "pollonly_winprob": 60.039997,
+      "pollonly_hi": "56.347183",
+      "pollonly_lo": "45.642387",
+      "pollonly_forecast": "49.150726",
+      "kitchen_winprob": 81.150001,
+      "kitchen_hi": "61.153496",
+      "kitchen_lo": "48.103531",
+      "kitchen_forecast": "52.734825"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "43.710705",
+      "pollonly_winprob": 40.145001,
+      "pollonly_hi": "54.254738",
+      "pollonly_lo": "44.040115",
+      "pollonly_forecast": "47.425579",
+      "kitchen_winprob": 18.82,
+      "kitchen_hi": "52.074425",
+      "kitchen_lo": "39.459221",
+      "kitchen_forecast": "43.915615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "45.466076",
+      "pollonly_winprob": 59.855002,
+      "pollonly_hi": "56.032028",
+      "pollonly_lo": "45.777336",
+      "pollonly_forecast": "49.095463",
+      "kitchen_winprob": 81.17999999999999,
+      "kitchen_hi": "60.786732",
+      "kitchen_lo": "48.146271",
+      "kitchen_forecast": "52.605427"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "29.108501"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "41.807014"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "29.105804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "41.797951"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "29.103134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "41.803493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "29.098385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "41.80492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "29.099726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "41.8013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "29.101027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "41.799755"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "14.358679"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "42.435207"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "14.361001"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "42.427719"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "14.357817"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "42.422199"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "14.34212"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "42.447483"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "14.333161"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "42.472977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "14.339525"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "42.471867"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "14.335913"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "42.472908"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "14.348127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "42.486458"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "14.345096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "42.48967"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "14.341441"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "42.484676"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "1.6649435"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "14.329888"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "42.49575"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "1.6667799"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "14.325549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "42.505524"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "1.6666005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "14.327286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "42.519333"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "1.6731046"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "14.297654"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "42.527382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "1.6605706"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "14.338333"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "42.511147"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "1.6733087"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "14.331026"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "42.532551"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "1.7070245"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "14.33238"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "42.536644"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "1.6994251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "14.363113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "42.122334"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "1.7287313"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "14.367443"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "42.114494"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "1.7285964"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "14.36768"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "42.119946"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "1.7275144"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "14.375027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "42.135681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "1.7296894"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "14.388165"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "42.146065"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "1.7285122"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "14.370199"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "42.226505"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "1.730725"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "14.405544"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "42.244102"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "1.7373651"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "14.407323"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "42.219662"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "1.7382207"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "14.4049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "42.21331"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "1.7392281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "14.404899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "42.21331"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "1.7392281"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "14.414183"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "42.209545"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "1.7366382"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "14.428792"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "42.219315"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "1.7406837"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "14.426374"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "42.232037"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "1.7440771"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "14.438629"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "42.227367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "1.7526492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "14.45848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "42.218876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "1.7513707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "14.45848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "42.218876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "1.7513707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "14.45848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "42.218876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "1.7513707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "14.45848"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "42.218876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "1.7513707"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "14.453"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "42.195065"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "1.7550569"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "14.460227"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "42.196701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "1.7475176"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "14.460227"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "42.196701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "1.7475176"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "14.460227"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "42.196701"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "1.7475176"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "14.429763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "42.19693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "1.7536495"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "14.432567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "42.197166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "1.7526293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "14.432567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "42.197166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "1.7526294"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "14.432567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "42.197166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "1.7526293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "14.432567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "42.197166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "1.7526293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "14.432567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "42.197166"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "1.7526293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "14.445411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "42.191727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "1.7508247"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "14.444238"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "42.190712"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "1.7601311"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "14.439673"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "42.193012"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "1.7642405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "14.439674"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "42.193012"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "1.7642405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "14.439673"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "42.193012"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "1.7642405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "14.447604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "42.213516"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "1.7619948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "14.447604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "42.213516"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "1.7619948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "14.451052"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "42.211746"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "1.761912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "14.451052"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "42.211746"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "1.761912"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "14.440796"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "42.220383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "1.7395931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "14.440795"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "42.220383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "1.7395931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "14.440795"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "42.220383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "1.7395931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "14.430099"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "42.229233"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "1.7438567"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "14.418515"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "42.226406"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "1.7455629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "14.417049"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "42.220577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "1.7468339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "14.410203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "42.230099"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "1.7645205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "14.429947"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "42.191246"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "1.7768205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "14.429946"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "42.191246"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "1.7768205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "14.43464"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "42.196911"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "1.7793528"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "14.425427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "42.202564"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "1.7762111"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "14.436473"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "42.203102"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "1.7675416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "14.436411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "42.199181"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "1.7682573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "14.434852"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "42.190765"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "1.7718501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "14.436373"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "42.191128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "1.7715051"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "14.413683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "42.198463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "1.7707931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "14.413683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "42.198463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "1.7707931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "14.413683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "42.198463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "1.7707931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "14.390513"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "42.22961"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "1.7802279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "14.390513"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "42.22961"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "1.7802278"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "14.387355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "42.230793"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "1.7632866"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "14.390027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "42.19313"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "1.7689003"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "20.89554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "29.907476"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "1.0452415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "20.89554"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "29.907476"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "1.0452415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "20.896362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "29.90365"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "1.0393754"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "20.896362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "29.90365"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "1.0393754"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "20.886417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "29.905617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "1.0386429"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "20.894922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "29.90279"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "1.0414158"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "20.898369"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "29.884073"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "1.0446488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "20.948105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "30.012941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "1.0447615"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "20.948105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "30.012941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "1.0447615"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "20.972549"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "29.997807"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "1.0553603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "20.994581"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "30.008539"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "1.0512351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "20.983177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "29.992193"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "1.0663389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "20.97905"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "30.011896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "1.0667588"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "20.955187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "29.991451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "1.0741482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "20.903311"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "29.864269"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".98124248"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "20.905973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "29.868807"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".98302859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "20.905973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "29.868807"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".98302859"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "20.902235"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "29.875216"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".98345351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "20.902235"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "29.875216"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".98345351"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "20.902758"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "29.869751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".98275226"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "20.888237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "29.863831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".99030936"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "20.88632"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "29.891636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "1.0155817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "20.927334"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "29.823643"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".99551803"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "20.984028"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "29.83287"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Oklahoma",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "1.0000204"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50021",
+      "population": "lv",
+      "pollId": "36492",
+      "cycle": "2016",
+      "sampleSize": "300",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "320",
+      "pollster": "Monmouth University",
+      "startDate": "2016-02-25",
+      "endDate": "2016-02-28",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456745700,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "48.0"
+        }
+      ],
+      "weight": ".7065834403038025"
+    },
+    {
+      "id": "50047",
+      "population": "lv",
+      "pollId": "36507",
+      "cycle": "2016",
+      "sampleSize": "510",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "441",
+      "pollster": "SoonerPoll.com",
+      "startDate": "2016-02-23",
+      "endDate": "2016-02-25",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://soonerpoll.com/news9newson6-trump-leads-rubio-cruz-in-oklahoma-before-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456780500,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "40.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        }
+      ],
+      "weight": ".5399659872055054"
+    },
+    {
+      "id": "49368",
+      "population": "lv",
+      "pollId": "36362",
+      "cycle": "2016",
+      "sampleSize": "542",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "46.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".0590086355805397"
+    },
+    {
+      "id": "49034",
+      "population": "lv",
+      "pollId": "36093",
+      "cycle": "2016",
+      "sampleSize": "382",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "441",
+      "pollster": "SoonerPoll.com",
+      "startDate": "2016-02-06",
+      "endDate": "2016-02-09",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://newsok.com/trump-slips-rubio-surges-in-new-oklahoma-presidential-poll/article/5477901",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455126120,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "44.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "28.0"
+        }
+      ],
+      "weight": ".0008385745459236"
+    },
+    {
+      "id": "49460",
+      "population": "lv",
+      "pollId": "36408",
+      "cycle": "2016",
+      "sampleSize": "300",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "102",
+      "pollster": "Cole Hargrave",
+      "startDate": "2016-01-25",
+      "endDate": "2016-01-28",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://newsok.com/article/5475793",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456138680,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "36.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        }
+      ],
+      "weight": ".000018405058654"
+    },
+    {
+      "id": "49390",
+      "population": "rv",
+      "pollId": "36377",
+      "cycle": "2016",
+      "sampleSize": "485",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "441",
+      "pollster": "SoonerPoll.com",
+      "startDate": "2016-01-17",
+      "endDate": "2016-01-19",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://ftpcontent.worldnow.com/griffin/NEWS9/PDF/1212/PPOL.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455729780,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "41.4"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "16.1"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "6.2"
+        }
+      ],
+      "weight": "6.47476213089e-07"
+    },
+    {
+      "id": "47417",
+      "population": "lv",
+      "pollId": "35418",
+      "cycle": "2016",
+      "sampleSize": "369",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "441",
+      "pollster": "SoonerPoll.com",
+      "startDate": "2015-11-12",
+      "endDate": "2015-11-15",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://ftpcontent.worldnow.com/griffin/NEWS9/PDF/1212/SoonerPoll.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1449497040,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "47.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "12.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "1.93252884398e-13"
+    },
+    {
+      "id": "46847",
+      "population": "rv",
+      "pollId": "35319",
+      "cycle": "2016",
+      "sampleSize": "350",
+      "state": "OK",
+      "officeType": "U.S. President",
+      "pollsterId": "102",
+      "pollster": "Cole Hargrave",
+      "startDate": "2015-10-19",
+      "endDate": "2015-10-22",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://newsok.com/article/5455817",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1447066860,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "30.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "21.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "8.78020747657e-16"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "7.9460683e-08",
+          "1.5719955e-06",
+          "6.1516084e-06",
+          ".000013052363",
+          ".000020554986",
+          ".00002727151",
+          ".0000324272",
+          ".000035758949",
+          ".000037336602",
+          ".000037408572",
+          ".000036294463",
+          ".000034318378",
+          ".000031772946",
+          ".000028903289",
+          ".000025903033",
+          ".000022917347",
+          ".000020049216",
+          ".000017366488",
+          ".000014909509",
+          ".000012697654",
+          ".00001073478",
+          "9.0141511e-06",
+          "7.5218227e-06",
+          "6.2396402e-06",
+          "5.1472862e-06",
+          "4.2237152e-06",
+          "3.4483319e-06",
+          "2.8015418e-06",
+          "2.2653110e-06",
+          "1.8232788e-06",
+          "1.4608637e-06",
+          "1.1652864e-06",
+          "9.2543650e-07",
+          "7.3185583e-07",
+          "5.7775321e-07",
+          "4.7037250e-07",
+          "5.2562677e-07",
+          "1.5993130e-06",
+          "8.6982891e-06",
+          ".000045868615",
+          ".00020815372",
+          ".00080358901",
+          ".0026431712",
+          ".0074280258",
+          ".01788225",
+          ".036961365",
+          ".06571269",
+          ".10063846",
+          ".1329117",
+          ".15147914",
+          ".14903522",
+          ".1265803",
+          ".092773408",
+          ".058633279",
+          ".03191841",
+          ".014944459",
+          ".0060068169",
+          ".0020679703",
+          ".00060814311",
+          ".00015228639",
+          ".000032353964",
+          "5.8079572e-06",
+          "8.7685851e-07",
+          "1.1078313e-07",
+          "1.1665557e-08",
+          "1.0325396e-09",
+          "8.6795418e-11",
+          "1.3588890e-11",
+          "6.0457342e-12",
+          "3.5862255e-12",
+          "2.1565991e-12",
+          "1.2786878e-12",
+          "7.4541008e-13",
+          "4.2667099e-13",
+          "2.3947557e-13",
+          "1.3159393e-13",
+          "7.0675846e-14",
+          "3.7027652e-14",
+          "1.8881997e-14",
+          "9.3484536e-15",
+          "4.4808754e-15",
+          "2.0724171e-15",
+          "9.2131657e-16",
+          "3.9186648e-16",
+          "1.5863994e-16",
+          "6.0759387e-17",
+          "2.1802234e-17",
+          "7.2865364e-18",
+          "2.2375978e-18",
+          "6.3111730e-19",
+          "1.1474860e-19",
+          "5.7374301e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.4313229e-10",
+          "1.3032102e-09",
+          "2.4948286e-09",
+          "3.4506522e-09",
+          "4.1125752e-09",
+          "4.5104356e-09",
+          "4.6952913e-09",
+          "4.7178288e-09",
+          "4.6218012e-09",
+          "4.4427089e-09",
+          "4.2084323e-09",
+          "3.9403441e-09",
+          "3.6545298e-09",
+          "3.3628724e-09",
+          "3.0739569e-09",
+          "2.7938269e-09",
+          "2.5265880e-09",
+          "2.2748414e-09",
+          "2.0400912e-09",
+          "1.8230243e-09",
+          "1.6237049e-09",
+          "1.4417892e-09",
+          "1.2766160e-09",
+          "1.1273340e-09",
+          "9.9297248e-10",
+          "8.7248336e-10",
+          "7.6480727e-10",
+          "6.6887634e-10",
+          "5.8366839e-10",
+          "5.0824728e-10",
+          "4.4265086e-10",
+          "4.0063841e-10",
+          "5.6150323e-10",
+          "2.7618434e-09",
+          "2.2634955e-08",
+          "1.7174237e-07",
+          "1.1205843e-06",
+          "6.2740010e-06",
+          ".000030267003",
+          ".00012635472",
+          ".00045824537",
+          ".0014487468",
+          ".0040049003",
+          ".009705862",
+          ".020668248",
+          ".03874604",
+          ".064044133",
+          ".093454517",
+          ".12050085",
+          ".13737567",
+          ".13851494",
+          ".12352403",
+          ".097396977",
+          ".067860946",
+          ".041741893",
+          ".022640107",
+          ".010810897",
+          ".0045362869",
+          ".0016688576",
+          ".00053688494",
+          ".00015058029",
+          ".000036694044",
+          "7.7386603e-06",
+          "1.4062787e-06",
+          "2.1911524e-07",
+          "2.9112488e-08",
+          "3.2782630e-09",
+          "3.1096106e-10",
+          "2.4836326e-11",
+          "1.7982140e-12",
+          "2.2532540e-13",
+          "1.0581040e-13",
+          "7.4493065e-14",
+          "5.3662024e-14",
+          "3.8282891e-14",
+          "2.6983580e-14",
+          "1.8772554e-14",
+          "1.2876343e-14",
+          "8.6968295e-15",
+          "5.7755827e-15",
+          "3.7651987e-15",
+          "2.4049444e-15",
+          "1.5016976e-15",
+          "9.1429933e-16",
+          "5.4110879e-16",
+          "3.1014220e-16",
+          "1.7139050e-16",
+          "9.0820123e-17",
+          "4.5834200e-17",
+          "2.1840680e-17",
+          "9.7180429e-18",
+          "3.9785270e-18",
+          "1.4689255e-18",
+          "4.7545975e-19",
+          "1.2940508e-19",
+          "2.7741295e-20",
+          "4.2006287e-21",
+          "3.6862660e-22",
+          "8.5727116e-24",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "2.1597689e-08",
+          "4.3168683e-07",
+          "1.7008279e-06",
+          "3.6267129e-06",
+          "5.7335124e-06",
+          "7.6311508e-06",
+          "9.0982849e-06",
+          ".000010056633",
+          ".000010522168",
+          ".000010562186",
+          ".000010265081",
+          "9.7213833e-06",
+          "9.0133835e-06",
+          "8.2103925e-06",
+          "7.3674437e-06",
+          "6.5260165e-06",
+          "5.7157176e-06",
+          "4.9562154e-06",
+          "4.2593588e-06",
+          "3.6310084e-06",
+          "3.0725714e-06",
+          "2.5823940e-06",
+          "2.1567264e-06",
+          "1.7905739e-06",
+          "1.4782895e-06",
+          "1.2139839e-06",
+          "9.9186843e-07",
+          "8.0641604e-07",
+          "6.5252618e-07",
+          "5.2556067e-07",
+          "4.2137759e-07",
+          "3.3634052e-07",
+          "2.6728458e-07",
+          "2.1153811e-07",
+          "1.6755091e-07",
+          "1.4183013e-07",
+          "2.0865315e-07",
+          "9.2530377e-07",
+          "5.6769536e-06",
+          ".000031399362",
+          ".00014795079",
+          ".00059217255",
+          ".0020188293",
+          ".0058799949",
+          ".014670619",
+          ".031427",
+          ".057909373",
+          ".091925047",
+          ".12584567",
+          ".1486885",
+          ".15167598",
+          ".13358591",
+          ".10154484",
+          ".066573508",
+          ".037602324",
+          ".018271469",
+          ".0076238113",
+          ".002725414",
+          ".00083251466",
+          ".00021661817",
+          ".000047837766",
+          "8.9299401e-06",
+          "1.4025106e-06",
+          "1.8436883e-07",
+          "2.0173127e-08",
+          "1.8296347e-09",
+          "1.3960712e-10",
+          "1.0933184e-11",
+          "2.1173419e-12",
+          "1.0678084e-12",
+          "6.3476953e-13",
+          "3.7629651e-13",
+          "2.1945175e-13",
+          "1.2566510e-13",
+          "7.0560311e-14",
+          "3.8789379e-14",
+          "2.0841361e-14",
+          "1.0923417e-14",
+          "5.5726145e-15",
+          "2.7601257e-15",
+          "1.3235338e-15",
+          "6.1239217e-16",
+          "2.7234034e-16",
+          "1.1590056e-16",
+          "4.6938427e-17",
+          "1.7979528e-17",
+          "6.4479432e-18",
+          "2.1601421e-18",
+          "6.6590847e-19",
+          "1.7865837e-19",
+          "4.8725009e-20",
+          "1.6241670e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "4.1330482e-06",
+          ".000022129767",
+          ".000042329197",
+          ".000058507496",
+          ".000069691574",
+          ".000076396056",
+          ".000079491823",
+          ".000079840953",
+          ".000078186356",
+          ".000075130076",
+          ".000071144437",
+          ".000066591121",
+          ".000061742066",
+          ".000056797937",
+          ".000051903527",
+          ".0000471606",
+          ".000042638148",
+          ".000038379752",
+          ".000034410448",
+          ".000030741518",
+          ".000027373742",
+          ".000024301042",
+          ".00002151202",
+          ".000018992092",
+          ".000016724689",
+          ".000014691966",
+          ".000012875904",
+          ".000011258368",
+          "9.8219734e-06",
+          "8.5499441e-06",
+          "7.4263598e-06",
+          "6.4364754e-06",
+          "5.5666951e-06",
+          "4.8062466e-06",
+          "4.1604590e-06",
+          "3.7395282e-06",
+          "4.2594329e-06",
+          "9.3899544e-06",
+          ".000034890196",
+          ".0001379023",
+          ".00049318484",
+          ".0015490459",
+          ".0042587197",
+          ".01026154",
+          ".021712741",
+          ".040418323",
+          ".066293083",
+          ".095922805",
+          ".12255681",
+          ".13834846",
+          ".13802806",
+          ".12170677",
+          ".094816513",
+          ".065224692",
+          ".039581407",
+          ".021163721",
+          ".0099547608",
+          ".0041113035",
+          ".0014874998",
+          ".00047024703",
+          ".00012950653",
+          ".000030973417",
+          "6.4162946e-06",
+          "1.1537181e-06",
+          "1.8566166e-07",
+          "3.1956521e-08",
+          "9.7090922e-09",
+          "5.7318630e-09",
+          "4.1722270e-09",
+          "3.1126339e-09",
+          "2.3106388e-09",
+          "1.7003282e-09",
+          "1.2391420e-09",
+          "8.9369562e-10",
+          "6.3737271e-10",
+          "4.4910814e-10",
+          "3.1234407e-10",
+          "2.1416902e-10",
+          "1.4460208e-10",
+          "9.5996121e-11",
+          "6.2558216e-11",
+          "3.9942365e-11",
+          "2.4930816e-11",
+          "1.5172596e-11",
+          "8.9756267e-12",
+          "5.1420920e-12",
+          "2.8402289e-12",
+          "1.5042615e-12",
+          "7.5873596e-13",
+          "3.6133444e-13",
+          "1.6067314e-13",
+          "6.5733009e-14",
+          "2.4250723e-14",
+          "7.8426433e-15",
+          "2.1324491e-15",
+          "4.5679815e-16",
+          "6.8961598e-17",
+          "6.0848469e-18",
+          "1.4487731e-19",
+          "0"
+        ]
+      }
+    }
+  ]
+}

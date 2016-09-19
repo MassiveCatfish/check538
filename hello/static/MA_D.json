@@ -1,0 +1,5758 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "43.175793",
+      "pollonly_winprob": 7.0699997,
+      "pollonly_hi": "49.223953",
+      "pollonly_lo": "42.990395",
+      "pollonly_forecast": "44.751091",
+      "kitchen_winprob": 6.1850000000000005,
+      "kitchen_hi": "49.078827",
+      "kitchen_lo": "43.18808",
+      "kitchen_forecast": "44.775185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "50.884743",
+      "pollonly_winprob": 92.93000099999999,
+      "pollonly_hi": "57.020149",
+      "pollonly_lo": "50.793724",
+      "pollonly_forecast": "52.35051",
+      "kitchen_winprob": 93.814999,
+      "kitchen_hi": "56.824219",
+      "kitchen_lo": "50.940765",
+      "kitchen_forecast": "52.326405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "43.183136",
+      "pollonly_winprob": 7.6399997,
+      "pollonly_hi": "49.472435",
+      "pollonly_lo": "43.232437",
+      "pollonly_forecast": "44.950764",
+      "kitchen_winprob": 5.5799998,
+      "kitchen_hi": "48.986061",
+      "kitchen_lo": "43.128929",
+      "kitchen_forecast": "44.661743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "50.400757",
+      "pollonly_winprob": 92.360002,
+      "pollonly_hi": "56.788712",
+      "pollonly_lo": "50.558792",
+      "pollonly_forecast": "52.091427",
+      "kitchen_winprob": 94.419998,
+      "kitchen_hi": "56.893684",
+      "kitchen_lo": "51.048687",
+      "kitchen_forecast": "52.380444"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "44.096615",
+      "pollonly_winprob": 14.87,
+      "pollonly_hi": "50.62429",
+      "pollonly_lo": "44.364799",
+      "pollonly_forecast": "46.021591",
+      "kitchen_winprob": 12.445,
+      "kitchen_hi": "50.37738",
+      "kitchen_lo": "42.793938",
+      "kitchen_forecast": "45.146282"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "49.066113",
+      "pollonly_winprob": 85.13,
+      "pollonly_hi": "55.671822",
+      "pollonly_lo": "49.428085",
+      "pollonly_forecast": "50.970139",
+      "kitchen_winprob": 87.554997,
+      "kitchen_hi": "57.224121",
+      "kitchen_lo": "49.664116",
+      "kitchen_forecast": "51.845448"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "45.349911",
+      "pollonly_winprob": 37.494999,
+      "pollonly_hi": "53.429283",
+      "pollonly_lo": "44.524769",
+      "pollonly_forecast": "47.443073",
+      "kitchen_winprob": 18.65,
+      "kitchen_hi": "51.862846",
+      "kitchen_lo": "40.843323",
+      "kitchen_forecast": "44.827133"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "47.444717",
+      "pollonly_winprob": 62.50500100000001,
+      "pollonly_hi": "55.557076",
+      "pollonly_lo": "46.670433",
+      "pollonly_forecast": "49.581394",
+      "kitchen_winprob": 81.349999,
+      "kitchen_hi": "59.267235",
+      "kitchen_lo": "48.286747",
+      "kitchen_forecast": "52.197334"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "45.349911",
+      "pollonly_winprob": 36.575001,
+      "pollonly_hi": "53.138634",
+      "pollonly_lo": "44.817001",
+      "pollonly_forecast": "47.443073",
+      "kitchen_winprob": 18.245,
+      "kitchen_hi": "51.641739",
+      "kitchen_lo": "41.072292",
+      "kitchen_forecast": "44.823372"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "47.444717",
+      "pollonly_winprob": 63.42499900000001,
+      "pollonly_hi": "55.268925",
+      "pollonly_lo": "46.960983",
+      "pollonly_forecast": "49.581394",
+      "kitchen_winprob": 81.755,
+      "kitchen_hi": "59.050842",
+      "kitchen_lo": "48.510235",
+      "kitchen_forecast": "52.201088"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "45.331516",
+      "pollonly_winprob": 35.530001,
+      "pollonly_hi": "52.839806",
+      "pollonly_lo": "45.099361",
+      "pollonly_forecast": "47.428631",
+      "kitchen_winprob": 16.72,
+      "kitchen_hi": "51.363724",
+      "kitchen_lo": "41.190311",
+      "kitchen_forecast": "44.744743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "47.453594",
+      "pollonly_winprob": 64.469999,
+      "pollonly_hi": "54.994705",
+      "pollonly_lo": "47.265633",
+      "pollonly_forecast": "49.594131",
+      "kitchen_winprob": 83.279997,
+      "kitchen_hi": "58.937859",
+      "kitchen_lo": "48.787846",
+      "kitchen_forecast": "52.278019"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "47.353905",
+      "pollonly_winprob": 66.65499799999999,
+      "pollonly_hi": "56.668808",
+      "pollonly_lo": "46.578136",
+      "pollonly_forecast": "49.949585",
+      "kitchen_winprob": 39.01,
+      "kitchen_hi": "54.77076",
+      "kitchen_lo": "43.183655",
+      "kitchen_forecast": "47.003708"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "44.243717",
+      "pollonly_winprob": 33.344998999999994,
+      "pollonly_hi": "53.51379",
+      "pollonly_lo": "43.454426",
+      "pollonly_forecast": "46.907352",
+      "kitchen_winprob": 60.99,
+      "kitchen_hi": "57.296692",
+      "kitchen_lo": "45.625717",
+      "kitchen_forecast": "49.85323"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "47.421661",
+      "pollonly_winprob": 67.989999,
+      "pollonly_hi": "56.462395",
+      "pollonly_lo": "46.905518",
+      "pollonly_forecast": "50.008106",
+      "kitchen_winprob": 42.985001,
+      "kitchen_hi": "54.819149",
+      "kitchen_lo": "43.967148",
+      "kitchen_forecast": "47.456738"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "44.199482",
+      "pollonly_winprob": 32.010001,
+      "pollonly_hi": "53.196457",
+      "pollonly_lo": "43.661789",
+      "pollonly_forecast": "46.853203",
+      "kitchen_winprob": 57.015002,
+      "kitchen_hi": "56.465012",
+      "kitchen_lo": "45.535076",
+      "kitchen_forecast": "49.404572"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "47.413078",
+      "pollonly_winprob": 68.529999,
+      "pollonly_hi": "56.182171",
+      "pollonly_lo": "47.159954",
+      "pollonly_forecast": "49.998436",
+      "kitchen_winprob": 42.344999,
+      "kitchen_hi": "54.57859",
+      "kitchen_lo": "44.126358",
+      "kitchen_forecast": "47.410061"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "44.211128",
+      "pollonly_winprob": 31.470000999999996,
+      "pollonly_hi": "52.937851",
+      "pollonly_lo": "43.932007",
+      "pollonly_forecast": "46.863438",
+      "kitchen_winprob": 57.65500099999999,
+      "kitchen_hi": "56.325157",
+      "kitchen_lo": "45.771317",
+      "kitchen_forecast": "49.451817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "50.12009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "41.936695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "50.12009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "41.936695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "50.109959"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "41.928314"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "50.340466"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "41.841835"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "50.59063"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "41.90102"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "29.79287"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "55.016407"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "29.790173"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "55.007343"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "29.787502"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "55.012886"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "29.782753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "55.014309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "29.784094"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "55.010693"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "29.785395"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "55.009148"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "29.792187"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "55.006878"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "29.79451"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "54.99939"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "29.791325"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "54.99387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "29.761908"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "54.987614"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "29.696047"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "54.992878"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "29.686241"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "54.980515"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "29.35655"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "55.112793"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "29.37582"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "55.121605"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "29.374193"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "55.12347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "29.365255"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "55.119881"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "3.2629507"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "29.311638"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "55.181576"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "3.2750347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "29.293127"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "55.20726"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "3.2805831"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "29.293877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "55.220722"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "3.2873411"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "29.205465"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "55.25737"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "3.2627442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "29.198498"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "55.267433"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "3.2760456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "29.077669"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "55.365791"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "3.2815576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "29.085119"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "55.37439"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "3.2737892"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "29.017269"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "54.963699"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "3.3067865"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "28.980398"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "54.95858"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "3.2808666"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "28.980291"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "54.9641"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "3.2781968"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "29.02088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "54.975716"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "3.266011"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "29.032234"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "54.988968"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "3.2453556"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "29.010767"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "55.068378"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "3.2475171"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "29.042587"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "55.087391"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "3.2558165"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "29.044092"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "55.062752"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "3.2569451"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "29.044853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "55.057602"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "3.2602358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "29.044853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "55.057602"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "3.2602358"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "29.047079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "55.055538"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "3.256906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "29.061123"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "55.060978"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "3.2612576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "29.05588"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "55.07534"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "3.2669439"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "29.074743"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "55.071285"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "3.2765059"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "29.087122"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "55.065582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "3.2738893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "29.087122"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "55.065582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "3.2738893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "29.087122"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "55.065582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "3.2738893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "29.087122"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "55.065582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "3.2738893"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "29.081402"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "55.042465"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "3.2810757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "29.082386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "55.043804"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "3.2760167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "29.082386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "55.043804"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "3.2760167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "29.082386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "55.043804"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "3.2760167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "29.049332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "55.044704"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "3.2828276"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "29.052137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "55.044941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "3.2818074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "29.052137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "55.044941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "3.2818074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "29.052137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "55.044941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "3.2818074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "29.052137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "55.044941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "3.2818074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "29.052137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "55.044941"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "3.2818074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "29.063725"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "55.03812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "3.2795734"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "29.0592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "55.044106"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "3.2847199"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "29.065821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "55.039669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "3.272352"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "29.065821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "55.039669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "3.272352"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "29.065821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "55.039669"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "3.272352"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "29.088842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "55.048199"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "3.2642231"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "29.088842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "55.048199"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "3.2642231"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "29.09757"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "55.048492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "3.2679389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "29.09757"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "55.048492"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "3.2679389"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "29.10482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "55.050079"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "3.2460864"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "29.10482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "55.050079"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "3.2460864"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "29.10482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "55.050079"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "3.2460864"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "29.101404"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "55.052139"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "3.2501674"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "29.052429"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "55.050461"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "3.2581449"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "29.045458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "55.04464"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "3.25646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "29.050968"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "55.056839"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "3.2786176"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "29.178598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "55.03516"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "3.3547986"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "29.178598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "55.035164"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "3.3547986"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "29.178028"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "55.04179"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "3.3579178"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "29.170464"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "55.047741"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "3.3568671"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "29.16748"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "55.047054"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "3.3435116"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "29.168701"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "55.043907"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "3.3448119"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "29.167643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "55.035336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "3.3482542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "29.165012"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "55.035805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "3.3466828"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "24.872084"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "58.902275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "2.9232624"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "24.872084"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "58.902275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "2.9232624"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "24.872084"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "58.902275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "2.9232624"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "24.848913"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "58.933414"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "2.9321942"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "24.848913"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "58.933414"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "2.9321942"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "24.845757"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "58.934593"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "2.9071894"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "24.848427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "58.896927"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "2.9303637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "24.862309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "58.873253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "2.9279974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "24.862309"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "58.873253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "2.9279974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "24.863131"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "58.869427"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "2.9176419"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "24.863131"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "58.869427"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "2.9176419"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "24.853186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "58.871403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "2.9169092"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "24.861691"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "58.868576"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "2.9058585"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "24.865137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "58.849857"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "2.9094851"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "24.914873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "58.978722"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "2.9089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "24.914873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "58.978722"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "2.9089"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "24.939318"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "58.963589"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "2.9071629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "24.961349"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "58.974323"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "2.9030375"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "24.949945"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "58.957977"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "2.9104104"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "24.945818"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "58.977684"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "2.9105542"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "24.921955"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "58.957241"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "2.924397"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "24.870079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "58.830044"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "2.8326879"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "24.872742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "58.834602"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "2.8344738"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "24.872742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "58.834602"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "2.8344738"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "24.869003"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "58.841015"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "2.8390882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "24.869003"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "58.841015"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "2.8390882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "24.869526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "58.835545"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "2.8393052"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "24.855005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "58.829689"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "2.8473344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "24.853088"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "58.857487"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "2.8661098"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "24.894102"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "58.789494"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "3.0203712"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "2.846046"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "24.950796"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "58.798733"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "3.0203712"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "2.8505485"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "24.942833"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "58.854763"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "3.0168171"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "2.8321371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "24.942833"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "58.854763"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "5.3711767"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "3.0168171"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "2.8321371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "24.989769"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "58.93705"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "5.386694"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "2.9932086"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "2.8170519"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "24.980669"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "58.916996"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "5.3930035"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "2.999722"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "2.8395309"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "6.0171065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "43.714664"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.874121"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "6.3316278"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "44.227913"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "2.0141881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "6.3316278"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "44.227913"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "2.0141881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "6.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "44.215515"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "2.0064471"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "6.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "44.215515"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "2.0064471"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "6.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "44.215515"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "2.0064471"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "6.3136096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "44.205997"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "2.0023561"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "6.3239341"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "44.204041"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "2.0034277"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "6.3021288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "44.221745"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0298631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "6.3021288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "44.221745"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0298631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "6.2328763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "44.349979"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0189559"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "6.2328763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "44.349979"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0189559"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "6.2311592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "44.342148"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.0174234"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "6.2767229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "44.363567"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.0445786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "6.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "44.179214"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.043488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "6.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "44.179214"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.043488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "6.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "44.179214"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.043488"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "6.2481608"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "44.254025"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "2.0402663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "6.216258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "44.250206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "2.0431199"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "6.2124791"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "44.249104"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "2.0392516"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "6.0759249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "44.312805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "2.044848"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "6.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "44.269447"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "2.0188637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "6.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "44.269447"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "2.0188637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "6.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "44.269447"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "2.0188637"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "6.1148863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "44.249908"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "2.0203187"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "6.1057196"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "44.256138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "2.0148394"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "6.1012688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "44.241261"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "2.0093935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "6.0520778"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "44.322128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "2.0507236"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "6.0854897"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "44.288483"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "2.0479133"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "6.1330824"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "44.345665"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "2.0376036"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "6.1175828"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "44.358734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "2.0420368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "6.0981717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "44.384159"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "2.0420368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "6.0981717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "44.384159"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "2.0420368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "6.0932283"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "44.387363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "2.0424361"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "6.1345911"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "44.455734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "2.0424974"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "6.2038407"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "44.410854"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "2.0334971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "6.2038407"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "44.410854"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "2.0334971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "6.1676416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "44.377903"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "2.0321715"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "6.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "44.189178"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.991506"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "6.234066"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "44.189178"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.991506"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "4.4809399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "44.182922"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.8336164"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "4.4785976"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "44.187988"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.8341984"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "4.4784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "44.194824"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.8283956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "4.4784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "44.194824"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.8283956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "4.4784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "44.194824"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.8283956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "4.4784598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "44.194824"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.8283956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "4.4887242"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "44.211163"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.8350546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "4.5364943"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "44.209625"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.821705"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "4.5381427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "44.181499"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.8171965"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "4.5615664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "44.183907"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.8081591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "4.5615664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "44.183907"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.8081591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "4.5615664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "44.183907"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.8081591"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "4.540988"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "44.201698"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.7885761"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "4.4542871"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "44.259518"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "1.7555428"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "4.4687934"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "44.311596"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "1.759638"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "4.5171618"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "44.363773"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.7610313"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "4.5171618"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "44.363773"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.7610313"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "4.5337129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "44.360138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "1.7600808"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "4.5337129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "44.360138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "1.7600808"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "4.5337129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "44.360138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "1.7600808"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "4.5337129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "44.360138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "1.7600808"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "4.5377798"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "44.381035"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "1.7589778"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "4.5377798"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "44.381035"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "1.7589778"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.3961458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "44.413582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "1.7410625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.3961458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "44.413582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "1.7410625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.3961458"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "44.413582"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "1.7410625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.4394584"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "44.447456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "1.7470369"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.4394584"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "44.447456"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "1.7470369"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.4760251"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "44.481918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "1.7382566"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.4692712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "44.496819"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "1.7427373"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "4.4685621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "44.488064"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "1.7240711"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "4.4685621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "44.488064"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "1.7240711"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "4.4685621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "44.488064"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "1.7240711"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "4.4685621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "44.488064"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "1.7240711"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "4.4696908"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "44.487206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "1.7245234"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "4.5512152"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "44.531898"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "1.7200067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "4.589879"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "44.496445"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "1.7155464"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "5.0076079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "44.424332"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "1.7424766"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "5.2761202"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "44.403702"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "1.713084"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "5.2761202"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "44.403702"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "1.713084"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "5.6208019"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "44.347168"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "1.6755631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "5.6442351"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "44.314262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "1.6729425"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "6.0576777"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "43.535843"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "1.8917145"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "6.0647941"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "43.547207"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "1.9100872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "6.0647941"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "43.547207"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "1.9100872"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "6.0535121"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "43.535267"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "1.9081892"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "6.0535121"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "43.535267"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "1.9081892"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "6.0469079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "43.541073"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "1.9296362"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "6.0469079"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "43.541073"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "1.9296362"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "6.0164504"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "43.526066"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "1.9222851"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "6.0172682"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "43.502689"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "1.9064072"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "6.0272923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "43.510681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "1.9009143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "6.0272923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "43.510681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "1.9009143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "6.0272923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "43.510681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "1.9009143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "6.0272923"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "43.510681"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "1.9009143"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "6.1573024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "43.398754"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "1.9091163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "6.1683903"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "43.397999"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "1.9034649"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "6.1675053"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "43.396797"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "1.9030755"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "6.1767969"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "43.431553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "1.8997371"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "6.1767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "43.412586"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "1.8917639"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "6.2844615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "43.4645"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "1.9049047"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "6.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "43.460815"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "1.8995881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "6.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "43.460815"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "1.8995881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "6.286345"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "43.460815"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "1.8995881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "6.2938647"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "43.476055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "1.8995881"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "6.2901416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "43.474461"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "1.9033329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "6.2973375"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "43.483231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "1.9035375"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "6.283258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "43.51696"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "1.9168642"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "6.1834416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "43.521473"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "1.8799938"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "6.3222804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "43.526291"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "1.9152788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "6.3222804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "43.526291"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "1.9152788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "6.3362851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "43.547962"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "1.9144634"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "6.2936087"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "43.56451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "1.8457506"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "6.2936087"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "43.56451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "1.8457506"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "6.243547"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "43.601746"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "1.8389925"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "6.2284064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "43.611954"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "1.8348414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "6.228898"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "43.608883"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "1.8400691"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "6.2325406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "43.610386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "1.834546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "6.2325406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "43.610386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "1.834546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "6.2325406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "43.610386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "1.834546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "6.2325406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "43.610386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "1.834546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "6.2325406"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "43.610386"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "1.834546"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "6.2393775"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "43.617504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Massachusetts",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "1.8346941"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50056",
+      "population": "rv",
+      "pollId": "36515",
+      "cycle": "2016",
+      "sampleSize": "1224",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "1193",
+      "pollster": "SurveyMonkey",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-29",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "https://www.surveymonkey.com/blog/2016/02/29/trumps-lead-looks-solid-in-run-up-to-super-tuesday/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456784580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "46.0"
+        }
+      ],
+      "weight": ".4483460187911987"
+    },
+    {
+      "id": "50040",
+      "population": "lv",
+      "pollId": "36502",
+      "cycle": "2016",
+      "sampleSize": "670",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2016-02-26",
+      "endDate": "2016-02-28",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_9816c1e566554e4ca2b1ba998c4d6110.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456770780,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "53.9"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "42.8"
+        }
+      ],
+      "weight": ".9100423082709312"
+    },
+    {
+      "id": "50016",
+      "population": "lv",
+      "pollId": "36489",
+      "cycle": "2016",
+      "sampleSize": "500",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "458",
+      "pollster": "Suffolk University",
+      "startDate": "2016-02-25",
+      "endDate": "2016-02-27",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://www.usatoday.com/story/news/politics/onpolitics/2016/02/28/clinton-leads-sanders-massachusetts/81078554/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456686960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "42.0"
+        }
+      ],
+      "weight": ".7304713129997253"
+    },
+    {
+      "id": "50020",
+      "population": "lv",
+      "pollId": "36491",
+      "cycle": "2016",
+      "sampleSize": "400",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "568",
+      "pollster": "YouGov",
+      "startDate": "2016-02-19",
+      "endDate": "2016-02-25",
+      "methodology": "Online",
+      "tracking": null,
+      "url": "http://boston.cbslocal.com/2016/02/29/massachusetts-primary-wbz-umass-poll-super-tuesday-donald-trump-hillary-clinton-bernie-sanders/?cid=twitter_cbsboston",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456739640,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "47.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".1933290511369705"
+    },
+    {
+      "id": "49973",
+      "population": "lv",
+      "pollId": "36470",
+      "cycle": "2016",
+      "sampleSize": "418",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "290",
+      "pollster": "MassINC Polling Group",
+      "startDate": "2016-02-21",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.wbur.org/2016/02/25/wbur-poll-trump-clinton-sanders",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456438920,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "49.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".2283646762371063"
+    },
+    {
+      "id": "49454",
+      "population": "lv",
+      "pollId": "36406",
+      "cycle": "2016",
+      "sampleSize": "417",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2016-02-19",
+      "endDate": "2016-02-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_d5ea765bda3b4fa580d9d6e2908ea509.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456134600,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "46.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "46.0"
+        }
+      ],
+      "weight": ".0203133430331945"
+    },
+    {
+      "id": "49365",
+      "population": "lv",
+      "pollId": "36359",
+      "cycle": "2016",
+      "sampleSize": "538",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "42.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "49.0"
+        }
+      ],
+      "weight": ".0427160710096359"
+    },
+    {
+      "id": "47385",
+      "population": "lv",
+      "pollId": "35409",
+      "cycle": "2016",
+      "sampleSize": "241",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "458",
+      "pollster": "Suffolk University",
+      "startDate": "2015-11-19",
+      "endDate": "2015-11-22",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://www.bostonglobe.com/metro/2015/11/24/mass-poll-shows-voters-split-baker-refugee-stance/sbUwD3b1gyaaf6m6xXq7rL/story.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1449493080,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "54.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "3.0"
+        }
+      ],
+      "weight": "1.06425488539e-13"
+    },
+    {
+      "id": "46633",
+      "population": "lv",
+      "pollId": "35272",
+      "cycle": "2016",
+      "sampleSize": "265",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2015-10-16",
+      "endDate": "2015-10-18",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_82a741918bee4d2aa3685dddc0aebff1.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1446648540,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "59.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "3.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "25.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "5.0"
+        }
+      ],
+      "weight": "3.75749150717e-18"
+    },
+    {
+      "id": "43733",
+      "population": "a",
+      "pollId": "34826",
+      "cycle": "2016",
+      "sampleSize": "0",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "1102",
+      "pollster": "Emerson College",
+      "startDate": "2015-03-14",
+      "endDate": "2015-03-19",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://media.wix.com/ugd/3bebb2_bcbf2f7273744af089da0d4d587120e1.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332500,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "10.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "43.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "6.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "16.0"
+        }
+      ],
+      "weight": "0"
+    },
+    {
+      "id": "48079",
+      "population": "rv",
+      "pollId": "35820",
+      "cycle": "2016",
+      "sampleSize": "358",
+      "state": "MA",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-01-19",
+      "endDate": "2015-01-21",
+      "methodology": null,
+      "tracking": null,
+      "url": "http://gravismarketing.com/polling-and-market-research/clinton-scalps-warren-in-howie-carrgravis-poll-of-bay-state-dems/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466320,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "46.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "22.0"
+        }
+      ],
+      "weight": "0"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "2.5436844e-09",
+          "5.5399770e-08",
+          "2.3027752e-07",
+          "5.0959716e-07",
+          "8.2827893e-07",
+          "1.1267687e-06",
+          "1.3676176e-06",
+          "1.5345339e-06",
+          "1.6263526e-06",
+          "1.6509080e-06",
+          "1.6203563e-06",
+          "1.5480337e-06",
+          "1.4466012e-06",
+          "1.3270849e-06",
+          "1.1985005e-06",
+          "1.0678423e-06",
+          "9.4026177e-07",
+          "8.1932097e-07",
+          "7.0729698e-07",
+          "6.0545773e-07",
+          "5.1430141e-07",
+          "4.3378068e-07",
+          "3.6346145e-07",
+          "3.0266648e-07",
+          "2.5057716e-07",
+          "2.0630664e-07",
+          "1.6896129e-07",
+          "1.3767189e-07",
+          "1.1162513e-07",
+          "9.0072874e-08",
+          "7.2340718e-08",
+          "5.7831841e-08",
+          "4.6022649e-08",
+          "3.6459436e-08",
+          "2.8753803e-08",
+          "2.2575117e-08",
+          "1.7644668e-08",
+          "1.3735736e-08",
+          "1.0771102e-08",
+          "1.0281378e-08",
+          "3.1873725e-08",
+          "2.6213536e-07",
+          "2.1346859e-06",
+          ".000014593393",
+          ".000082898718",
+          ".00039205523",
+          ".0015475497",
+          ".0051095444",
+          ".014135374",
+          ".032807205",
+          ".063934833",
+          ".10466235",
+          ".14392027",
+          ".16616599",
+          ".1609392",
+          ".13059185",
+          ".08862",
+          ".050180327",
+          ".023644624",
+          ".0092409449",
+          ".0029841908",
+          ".00079280813",
+          ".00017240889",
+          ".000030516198",
+          "4.3680752e-06",
+          "5.0199668e-07",
+          "4.5944780e-08",
+          "3.3189989e-09",
+          "1.8754212e-10",
+          "8.3378382e-12",
+          "3.7767478e-13",
+          "6.9734244e-14",
+          "3.6713420e-14",
+          "2.0889286e-14",
+          "1.1687422e-14",
+          "6.4006583e-15",
+          "3.4252267e-15",
+          "1.7875682e-15",
+          "9.0778575e-16",
+          "4.4745061e-16",
+          "2.1344876e-16",
+          "9.8214728e-17",
+          "4.3422707e-17",
+          "1.8357317e-17",
+          "7.3860719e-18",
+          "2.8070155e-18",
+          "1.0015883e-18",
+          "3.3129460e-19",
+          "1.0015883e-19",
+          "2.8249927e-20",
+          "5.1363505e-21",
+          "2.5681753e-21",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "5.7995626e-11",
+          "3.0697456e-10",
+          "5.8678501e-10",
+          "8.1363732e-10",
+          "9.7373820e-10",
+          "1.0732109e-09",
+          "1.1231741e-09",
+          "1.1348682e-09",
+          "1.1181273e-09",
+          "1.0810313e-09",
+          "1.0300077e-09",
+          "9.7005115e-10",
+          "9.0497704e-10",
+          "8.3765300e-10",
+          "7.7019302e-10",
+          "7.0412332e-10",
+          "6.4051642e-10",
+          "5.8008659e-10",
+          "5.2328325e-10",
+          "4.7035464e-10",
+          "4.2139259e-10",
+          "3.7638306e-10",
+          "3.3522762e-10",
+          "2.9777408e-10",
+          "2.6383401e-10",
+          "2.3319302e-10",
+          "2.0562775e-10",
+          "1.8090661e-10",
+          "1.5880357e-10",
+          "1.3909648e-10",
+          "1.2157104e-10",
+          "1.0602626e-10",
+          "9.2271864e-11",
+          "8.0129681e-11",
+          "6.9436255e-11",
+          "6.0040341e-11",
+          "5.1816624e-11",
+          "4.5097055e-11",
+          "5.1462702e-11",
+          "3.0517763e-10",
+          "4.5111488e-09",
+          "5.9068345e-08",
+          "6.2558581e-07",
+          "5.3567737e-06",
+          ".000037226622",
+          ".00021069814",
+          ".00097411085",
+          ".0036877489",
+          ".011454077",
+          ".029229587",
+          ".061342932",
+          ".1059224",
+          ".150483",
+          ".17581345",
+          ".1687519",
+          ".13287541",
+          ".085659504",
+          ".045097228",
+          ".019330196",
+          ".0067212936",
+          ".0018877382",
+          ".0004261657",
+          ".000076898541",
+          ".000011020209",
+          "1.2452724e-06",
+          "1.1005795e-07",
+          "7.5388797e-09",
+          "3.9629044e-10",
+          "1.5881619e-11",
+          "5.3994103e-13",
+          "6.1760438e-14",
+          "3.8483621e-14",
+          "2.8195164e-14",
+          "2.0568789e-14",
+          "1.4843351e-14",
+          "1.0587046e-14",
+          "7.4562845e-15",
+          "5.1797242e-15",
+          "3.5448532e-15",
+          "2.3866244e-15",
+          "1.5782554e-15",
+          "1.0232258e-15",
+          "6.4898087e-16",
+          "4.0166292e-16",
+          "2.4186012e-16",
+          "1.4118177e-16",
+          "7.9548861e-17",
+          "4.3035097e-17",
+          "2.2206398e-17",
+          "1.0838527e-17",
+          "4.9500742e-18",
+          "2.0854036e-18",
+          "7.9480657e-19",
+          "2.6662262e-19",
+          "7.5595442e-20",
+          "1.7005140e-20",
+          "2.7266165e-21",
+          "2.5562029e-22",
+          "8.5206768e-24",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "1.5567890e-07",
+          "2.6166149e-06",
+          "9.0764333e-06",
+          ".000017511727",
+          ".000025485593",
+          ".000031588261",
+          ".000035359943",
+          ".000036921057",
+          ".000036665082",
+          ".000035064564",
+          ".000032567532",
+          ".000029551105",
+          ".000026308686",
+          ".000023054035",
+          ".00001993281",
+          ".000017036344",
+          ".000014414833",
+          ".00001208849",
+          ".000010057016",
+          "8.3067362e-06",
+          "6.8158479e-06",
+          "5.5585047e-06",
+          "4.5073480e-06",
+          "3.6354306e-06",
+          "2.9173211e-06",
+          "2.3297082e-06",
+          "1.8517840e-06",
+          "1.4652438e-06",
+          "1.1542885e-06",
+          "9.0540334e-07",
+          "7.0716669e-07",
+          "5.5017887e-07",
+          "4.2915843e-07",
+          "3.7268825e-07",
+          "7.3620231e-07",
+          "4.4169319e-06",
+          ".000029750705",
+          ".00016789614",
+          ".00077405787",
+          ".0029224807",
+          ".0090776952",
+          ".023298599",
+          ".049597923",
+          ".087858863",
+          ".12986422",
+          ".16052836",
+          ".16624163",
+          ".14442135",
+          ".10534361",
+          ".064544551",
+          ".033219807",
+          ".014356235",
+          ".0052050534",
+          ".0015812432",
+          ".00040179782",
+          ".000085215601",
+          ".000015044654",
+          "2.2041859e-06",
+          "2.6706780e-07",
+          "2.6690772e-08",
+          "2.2198392e-09",
+          "1.7386453e-10",
+          "2.6576061e-11",
+          "1.2354902e-11",
+          "7.6236500e-12",
+          "4.7671103e-12",
+          "2.9488723e-12",
+          "1.8008691e-12",
+          "1.0848234e-12",
+          "6.4404016e-13",
+          "3.7647207e-13",
+          "2.1645491e-13",
+          "1.2226700e-13",
+          "6.7765773e-14",
+          "3.6800132e-14",
+          "1.9549353e-14",
+          "1.0141121e-14",
+          "5.1266136e-15",
+          "2.5197860e-15",
+          "1.2010941e-15",
+          "5.5351808e-16",
+          "2.4582161e-16",
+          "1.0473476e-16",
+          "4.2605691e-17",
+          "1.6523687e-17",
+          "5.9993693e-18",
+          "2.0336845e-18",
+          "6.6094750e-19",
+          "2.0336845e-19",
+          "5.0842114e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "3.2778757e-06",
+          ".000014695421",
+          ".000025107884",
+          ".000032082451",
+          ".000035982554",
+          ".000037560905",
+          ".000037501559",
+          ".000036341142",
+          ".000034478639",
+          ".000032202326",
+          ".000029716684",
+          ".000027163851",
+          ".000024640483",
+          ".000022210263",
+          ".000019913072",
+          ".000017771901",
+          ".000015797861",
+          ".000013993606",
+          ".000012356221",
+          ".000010879111",
+          "9.5532232e-06",
+          "8.3682989e-06",
+          "7.3133524e-06",
+          "6.3773186e-06",
+          "5.5493642e-06",
+          "4.8190300e-06",
+          "4.1765074e-06",
+          "3.6125696e-06",
+          "3.1187701e-06",
+          "2.6873283e-06",
+          "2.3111422e-06",
+          "1.9838392e-06",
+          "1.6999684e-06",
+          "1.4603887e-06",
+          "1.3448390e-06",
+          "2.2460506e-06",
+          ".000011475959",
+          ".000074910487",
+          ".00041339712",
+          ".0018368321",
+          ".0065663741",
+          ".018962823",
+          ".044421561",
+          ".084716171",
+          ".13193327",
+          ".16820951",
+          ".17591947",
+          ".15114373",
+          ".10678374",
+          ".062068336",
+          ".029682174",
+          ".011672905",
+          ".0037714692",
+          ".00099971262",
+          ".0002169971",
+          ".000038489368",
+          "5.5737351e-06",
+          "6.6699192e-07",
+          "7.4613766e-08",
+          "1.4994425e-08",
+          "8.4095610e-09",
+          "6.3878192e-09",
+          "4.9751256e-09",
+          "3.8607180e-09",
+          "2.9785174e-09",
+          "2.2835751e-09",
+          "1.7391845e-09",
+          "1.3153045e-09",
+          "9.8733688e-10",
+          "7.3528494e-10",
+          "5.4296273e-10",
+          "3.9733791e-10",
+          "2.8796604e-10",
+          "2.0654511e-10",
+          "1.4649944e-10",
+          "1.0266491e-10",
+          "7.1013986e-11",
+          "4.8430312e-11",
+          "3.2523338e-11",
+          "2.1475530e-11",
+          "1.3920465e-11",
+          "8.8408083e-12",
+          "5.4889999e-12",
+          "3.3229630e-12",
+          "1.9554670e-12",
+          "1.1144445e-12",
+          "6.1237804e-13",
+          "3.2266759e-13",
+          "1.6192389e-13",
+          "7.6726921e-14",
+          "3.3949867e-14",
+          "1.3822532e-14",
+          "5.0759305e-15",
+          "1.6343504e-15",
+          "4.4260322e-16",
+          "9.4504928e-17",
+          "1.4221915e-17",
+          "1.2313346e-18",
+          "6.1566730e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

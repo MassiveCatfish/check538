@@ -1,0 +1,6938 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "22.6922"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "51.101631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "22.695507"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "51.102654"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "22.708927"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "51.108166"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "22.708998"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "51.108364"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "22.714285"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "51.102741"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "22.714285"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "51.102737"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "22.661728"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "51.15789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "22.690853"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "51.135956"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "21.103502"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "55.873669"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "21.217478"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "55.88583"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "21.376215"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "55.847984"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "21.368252"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "55.864765"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "21.348742"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "55.895527"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "21.334288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "55.922462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "21.354717"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "55.943523"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "21.347719"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "55.958462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "21.325281"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "55.961517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "21.35997"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "55.966885"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "21.356455"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "55.966293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "21.356499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "55.966545"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "21.369137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "55.962521"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "21.456671"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "55.949203"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "21.46431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "55.949482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "22.457357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "49.389927"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "22.546684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "49.418201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "22.546684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "49.418201"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "22.527809"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "49.426739"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "22.547237"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "49.430573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "22.526102"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "49.470299"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "22.526846"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "49.476822"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "22.569353"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "49.551971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "22.569353"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "49.551971"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "22.579609"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "49.54821"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "22.626265"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "49.526463"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "22.734501"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "49.593536"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "22.823292"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "49.551422"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "22.824484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "49.544712"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "22.854042"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "49.550564"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "22.849293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "49.551991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "22.850647"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "49.548405"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "22.85191"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "49.546829"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "22.85874"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "49.54459"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "22.860678"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "49.537212"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "22.857492"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "49.531693"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "22.844851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "49.555569"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "22.862947"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "49.583534"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "22.875517"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "49.582577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "22.930635"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "49.602459"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "22.942448"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "49.61573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "22.93936"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "49.618935"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "22.93539"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "49.614105"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "1.5342114"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "22.917431"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "49.628479"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "1.538239"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "22.910734"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "49.638916"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "1.5381055"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "22.913803"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "49.655148"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "1.5473423"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "22.88308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "49.674026"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "1.5310512"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "22.917934"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "49.661926"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "1.5459745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "22.894384"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "49.689911"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "1.575969"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "22.891232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "49.696033"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "1.5742809"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "22.915104"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "49.278835"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "1.6068747"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "22.91412"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "49.272057"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "1.6052746"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "22.906702"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "49.279747"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "1.6084347"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "22.912481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "49.296761"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "1.6100246"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "22.92016"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "49.309948"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "1.6143713"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "22.890007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "49.393375"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "1.6109884"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "22.421326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "49.109329"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "1.6536627"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "22.422417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "49.085148"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "1.6554117"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "22.419109"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "49.079552"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "1.6586798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "22.419109"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "49.079552"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "1.6586798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "22.423765"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "49.078186"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "1.6603976"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "22.434124"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "49.091415"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "1.6679026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "22.416386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "49.115772"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "1.6795096"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "22.427319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "49.112762"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "1.6902202"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "22.434078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "49.115879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "1.7024796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "22.434078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "49.115879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "1.7024796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "22.434078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "49.115879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "1.7024796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "22.434078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "49.115879"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "1.7024796"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "22.425308"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "49.093651"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "1.7090079"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "22.432804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "49.095169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "1.7018501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "22.432804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "49.095169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "1.7018501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "22.432804"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "49.095169"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "1.7018501"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "22.401747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "1.708254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "22.401747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "1.708254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "22.401745"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "1.708254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "22.401745"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "1.708254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "22.401747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "1.7082539"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "22.401747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "1.708254"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "22.401747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "49.095131"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "1.7082539"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "22.403921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "49.095146"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "1.707162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "22.403921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "49.095146"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "1.707162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "22.403921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "49.095146"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "1.707162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "22.403921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "49.095146"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "1.707162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "22.403921"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "49.095146"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "1.7071621"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "22.417286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "49.089504"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "1.7053536"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "22.395847"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "49.086136"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "1.7397388"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "22.39432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "49.087467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "1.7470334"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "22.39432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "49.087467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "1.7470335"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "22.39432"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "49.087467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "1.7470335"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "22.404009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "49.10812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "1.7475946"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "22.404009"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "49.10812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "1.7475946"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "22.408665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "49.107254"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "1.748987"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "22.408665"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "49.107254"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "1.7489871"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "22.400881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "49.116692"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "1.729629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "22.400883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "49.116692"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "1.729629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "22.400881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "49.116692"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "1.729629"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "22.389387"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "49.126263"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "1.7326212"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "22.370296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "49.125603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "1.7393788"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "22.377567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "49.137703"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "1.7743809"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "22.374445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "49.148109"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "1.7932576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "22.395693"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "49.113964"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "1.8053703"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "22.395693"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "49.113964"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "1.8053703"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "22.399279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "49.119911"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "1.8097621"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "22.397655"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "49.126293"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "1.8087181"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "22.409174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "49.126514"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "1.798897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "22.409967"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "49.122665"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "1.8007597"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "22.409321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "49.113422"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "1.8060068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "22.435625"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "49.124493"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "1.8360128"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "22.410599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "49.132801"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "1.8347461"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "22.410599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "49.132801"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "1.8347462"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "22.410599"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "49.132801"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "1.8347461"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "22.398726"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "49.162624"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "1.8427511"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "22.398724"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "49.162624"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "1.8427511"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "22.401644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "49.162441"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "1.8221694"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "22.404995"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "49.123535"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "1.8268734"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "22.415602"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "49.102859"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "1.8246442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "22.415604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "49.102859"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "1.8246442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "22.416142"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "49.098389"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "1.8179789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "22.416142"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "49.098389"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "1.8179789"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "22.419289"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "49.10508"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "1.8185873"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "22.425642"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "49.102993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "1.8187197"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "22.428831"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "49.083893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "1.8220088"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "22.475733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "49.211235"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "1.821695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "22.475733"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "49.211235"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "1.821695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "22.495787"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "49.197803"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "1.8300235"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "32.668732"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "56.521332"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "1.2524682"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "32.619419"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "56.511452"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "1.2539682"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "32.612495"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "56.534389"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "1.2542176"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "32.585728"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "56.516186"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "1.2655095"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "32.487957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "56.371326"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "1.1487033"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "32.403759"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "56.415775"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "1.1036078"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "32.403759"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "56.415775"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "1.1036077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "32.376198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "56.419548"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "1.10645"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "32.376198"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "56.419548"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "1.10645"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "32.373619"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "56.408878"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "1.1061153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "32.274792"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "56.513535"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "1.1400617"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "32.280643"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "56.523556"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "1.1518048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "32.321655"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "56.455563"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "2.0142481"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "1.1317412"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "32.384781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "56.483925"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "2.0142479"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "1.1305184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "32.352203"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "56.453579"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "2.0169423"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "1.1175338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "32.3522"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "56.453579"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.1437466"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "2.0169425"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.1175338"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "32.387718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "56.528202"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.1592779"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.9929302"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.0957496"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "32.369022"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "56.494106"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.1650381"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "2.002888"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.1175733"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "32.301563"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "56.463776"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.1445837"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "2.0114856"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.1212909"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "32.617573"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "56.439335"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.1324428"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "2.0157921"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.1056674"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "32.617573"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "56.439335"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.1324428"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "2.0157921"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.1056674"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "32.59885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "56.4161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.1160188"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "2.0157585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.0941285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "32.59885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "56.4161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.1160189"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "2.0157585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.0941285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "32.59885"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "56.4161"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.1160189"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "2.0157585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.0941285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "32.590355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "56.401897"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.1248872"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "2.0190935"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.090428"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "32.602577"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "56.400829"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.1198891"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "2.0326231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.0909046"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "32.554821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "56.424446"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.1280078"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0541024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.0850991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "32.554821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "56.424446"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.1280078"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0541024"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.0850991"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "32.470829"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "56.532536"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.1422322"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0933778"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.0773876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "32.470825"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "56.532536"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.1422322"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0933778"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.0773876"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "32.433014"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "56.506413"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.126303"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.0888665"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.0763898"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "32.473186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "56.504169"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.141528"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.1133888"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.1090324"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "32.495552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "56.326313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.1578997"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.1143837"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.1108603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "32.495552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "56.326313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.1578997"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.1143839"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.1108603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "32.495552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "56.326313"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.1578997"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.1143837"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.1108603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "32.477028"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "56.276451"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.1980801"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "2.1597004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.1276951"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "32.432396"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "56.26899"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.2019697"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "2.159445"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.1212237"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "32.427948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "56.26664"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.2021893"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "2.1593287"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.1187413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "32.283764"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "56.271358"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.198988"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "2.1628311"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.1233695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "32.261868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "56.147736"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.1251743"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "2.1544363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.0157013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "32.261868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "56.147736"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.1251742"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "2.1544363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.0157013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "32.261868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "56.147736"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.1251742"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "2.1544363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.0157013"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "32.260677"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "56.123001"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.121302"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "2.1544363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.015074"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "32.244015"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "56.131405"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.1226969"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "2.1603408"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "1.0078315"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "32.234531"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "56.130398"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.1205415"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "2.1603408"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "1.0058377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "32.169884"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "56.122669"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.1598208"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "2.1999748"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.0499651"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "32.145592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "56.071991"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.1473081"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "2.1912055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.0414114"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "32.187881"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "56.151363"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.1452942"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "2.1912055"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.0382379"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "32.152264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "56.120884"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.1520425"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "2.2013798"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.0447959"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "32.132851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "56.146305"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.1520425"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "2.20138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.0447959"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "32.132851"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "56.146305"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.1520425"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "2.20138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.0447959"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "32.125305"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "56.14817"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.1540358"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "2.2034364"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.0457004"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "32.17355"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "56.225201"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.1430991"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "2.1925497"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.0486491"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "32.19186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "56.217991"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.1328795"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "2.1881351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.0392977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "32.19186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "56.217991"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.1328795"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "2.1881351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.0392977"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "32.126137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "56.164822"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.1198786"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "2.1526847"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.0429293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "32.223232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "56.08234"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.1080838"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "2.111501"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.0186981"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "32.223236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "56.08234"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.1080838"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "2.111501"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.0186981"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "32.205639"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "56.230469"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "1.0862597"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "2.111501"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".9937138"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "32.200188"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "56.234375"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "1.0881594"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "2.1121686"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".99418759"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "32.199718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "56.254471"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "1.0817094"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "2.1045623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".98656577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "32.199718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "56.254471"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "1.0817093"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "2.1045623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".98656577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "32.199718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "56.254471"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "1.0817093"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "2.1045623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".98656577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "32.199718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "56.254471"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "1.0817093"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "2.1045623"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".98656571"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "32.162518"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "56.271576"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.0747851"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "2.0619128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "1.0021578"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "32.198368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "56.268318"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "1.0595853"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "2.068042"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".98914921"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "31.979158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "56.173779"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.0118734"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "2.0679734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "1.0111415"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "31.982075"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "56.172939"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.0067263"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "2.0754218"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "1.0044931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "31.982077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "56.172939"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.0067263"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "2.0754218"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "1.004493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "31.982077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "56.172939"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.0067263"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "2.0754218"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "1.004493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "31.958172"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "56.192078"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "1.0039726"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "2.0694823"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".98651153"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "31.843174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "56.25552"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".98191595"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "2.0769603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".95085001"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "31.828497"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "56.293755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".99419397"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "2.0941882"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".95913041"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "31.804712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "56.32251"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "1.003245"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "2.0769594"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".95652169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "31.804712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "56.32251"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "1.0032451"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "2.0769594"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".95652169"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "31.804293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "56.279709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".94769585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "2.0495286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".94210595"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "31.804293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "56.279709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".94769585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "2.0495286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".94210595"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "31.804293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "56.279709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".94769585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "2.0495286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".94210595"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "31.804293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "56.279709"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".94769585"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "2.0495286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".94210595"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "31.776606"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "56.292076"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".95511276"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "2.0742834"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".94037908"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "31.776606"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "56.292076"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".95511281"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "2.0742834"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".94037908"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "15.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "57.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "15.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "57.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "15.906836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "57.902557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.2586212"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "4.1107893"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "3.0632517"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "15.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "57.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "3.066067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "15.89024"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "57.917294"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.2645226"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "3.066067"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "15.758535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "57.864368"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.3014793"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "4.1181145"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "3.1649902"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "15.745067"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "57.879047"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.3041749"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "4.1285744"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "3.1673005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "15.754027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "57.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "4.3124237"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "15.754027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "57.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "4.3124237"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "15.754027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "57.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "4.3124237"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "15.754027"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "57.851219"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "4.3124237"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "3.1901858"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "15.755156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "57.850361"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "4.3133945"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "4.0409403"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "3.1906381"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "15.757131"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "57.859749"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "4.3134685"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "4.0411081"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "3.1920998"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "15.764697"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "57.861412"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "4.3143554"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "4.052515"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "3.1889086"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "15.783831"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "57.856239"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "4.3282967"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "4.0428247"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "3.1847439"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "15.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "57.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "4.3583245"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "4.0575275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "3.191365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "15.808296"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "57.845943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "4.3583245"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "4.0575275"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "3.191365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "15.796504"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "57.841557"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "4.3588915"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "4.0560374"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "3.1828156"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "15.81986"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "57.808041"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "4.350862"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "4.0527201"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "3.1786625"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "15.768334"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "57.866905"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "4.3698621"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "4.0721006"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "3.1883512"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "15.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "57.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "4.3789701"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "3.1811817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "15.772322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "57.875755"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "4.3789701"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "3.1811817"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "15.757232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "57.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "4.3892751"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "3.1808093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "15.757232"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "57.844887"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "4.3892751"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "4.0802288"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "3.1808093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "15.750253"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "57.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "4.399694"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "4.0806527"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "3.2022066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "15.750253"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "57.850693"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "4.399694"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "4.0806527"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "3.2022066"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "15.90032"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "57.788342"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "4.5140643"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "4.105113"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "3.2050285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "15.887716"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "57.777222"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "4.500967"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "4.1064339"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "3.1979167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "15.888078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "57.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "4.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "3.1934891"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "15.888078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "57.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "4.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "3.1934891"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "15.888078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "57.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "4.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "3.1934891"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "15.888078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "57.792511"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "4.4914885"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "4.0973392"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "3.1934891"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "16.008101"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "57.682247"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "4.5254192"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "4.1316013"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "3.2047043"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "16.002367"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "57.683624"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "4.5310059"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "4.1304703"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "3.2064693"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "16.001482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "57.682426"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "4.5279498"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "4.1289897"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "3.20608"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "15.986057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "57.733543"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "4.540658"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "4.157248"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "3.2193344"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "16.025591"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "57.721252"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "4.5733352"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "4.1453352"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "3.2146833"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "16.106112"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "57.776077"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "4.5905042"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "4.1411443"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "3.222621"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "16.062735"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "57.770283"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "4.6116228"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "4.1182413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "3.22456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "16.062735"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "57.770283"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "4.6116228"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "4.1182413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "3.22456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "16.062735"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "57.770283"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "4.6116228"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "4.1182413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "3.22456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "16.078192"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "57.793449"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "4.6499763"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "4.1182413"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "3.22456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "16.066139"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "57.795063"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "4.6490026"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "4.1273818"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "3.2269943"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "16.05529"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "57.807346"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "4.6516724"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "4.1372252"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "3.2341938"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "16.023354"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "57.854225"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "4.6565461"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "4.170167"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "3.2508645"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "15.923537"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "57.858738"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "4.6526055"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "4.1486993"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "3.213994"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "16.059036"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "57.86026"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "4.6527147"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "4.1420331"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "3.2504973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "16.059036"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "57.86026"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "4.6527147"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "4.1420331"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "3.2504973"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "16.00556"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "57.847385"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "4.6507192"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "4.1714821"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "3.2682979"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "15.960103"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "57.864006"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "4.6507192"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "4.1714821"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "3.1981316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "15.960103"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "57.864006"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "4.6507192"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "4.1714821"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "3.1981316"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "15.893061"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "57.922104"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "4.6580029"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "4.2097597"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "3.2118318"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "15.813566"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "57.990654"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "4.7225614"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "4.2991958"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "3.2797897"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "15.801464"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "57.994244"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "4.73698"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "4.3264647"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "3.2928536"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "15.812615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "57.997128"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "4.7366781"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "4.3145051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "3.2876906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "15.812615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "57.997128"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "4.7366781"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "4.3145051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "3.2876906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "15.812615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "57.997128"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "4.7366781"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "4.3145051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "3.2876906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "15.812615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "57.997128"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "4.7366781"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "4.3145051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "3.2876906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "15.812615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "57.997128"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "4.7366781"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "4.3145051"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "3.2876906"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Arizona",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "15.815525"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Arizona",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "58.007805"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Arizona",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "4.7408524"
+    },
+    {
+      "candidate_name": "Chafee",
+      "state": "Arizona",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "4.3074479"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Arizona",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "3.2821412"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50264",
+      "population": "lv",
+      "pollId": "36621",
+      "cycle": "2016",
+      "sampleSize": "300",
+      "state": "AZ",
+      "officeType": "U.S. President",
+      "pollsterId": "1258",
+      "pollster": "Merrill Poll",
+      "startDate": "2016-03-07",
+      "endDate": "2016-03-11",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://twitter.com/Strategy_48/status/709804178621661185",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1458058260,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "24.0"
+        }
+      ],
+      "weight": ".146638348698616"
+    },
+    {
+      "id": "50031",
+      "population": "lv",
+      "pollId": "36496",
+      "cycle": "2016",
+      "sampleSize": "739",
+      "state": "AZ",
+      "officeType": "U.S. President",
+      "pollsterId": "1194",
+      "pollster": "MBQF",
+      "startDate": "2016-02-24",
+      "endDate": "2016-02-24",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://email.connectstrategic.com/t/j-ED4BF2D89A9575E7",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456755240,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "22.0"
+        }
+      ],
+      "weight": ".0253517162054777"
+    },
+    {
+      "id": "47419",
+      "population": "rv",
+      "pollId": "35366",
+      "cycle": "2016",
+      "sampleSize": "186",
+      "state": "AZ",
+      "officeType": "U.S. President",
+      "pollsterId": "69",
+      "pollster": "Behavior Research Center",
+      "startDate": "2015-10-24",
+      "endDate": "2015-11-05",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/BRC_AZ_Dem_Nov_2015.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1449498300,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "47.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "19.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "3.05049735472e-11"
+    },
+    {
+      "id": "43037",
+      "population": "lv",
+      "pollId": "34677",
+      "cycle": "2016",
+      "sampleSize": "427",
+      "state": "AZ",
+      "officeType": "U.S. President",
+      "pollsterId": "801",
+      "pollster": "Gravis Marketing",
+      "startDate": "2015-08-13",
+      "endDate": "2015-08-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.realclearpolitics.com/docs/2016/Gravis_AZ_August_13-16_2015.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445327940,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "6.0"
+        },
+        {
+          "choice": "Chafee",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "34.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "6.49446418681e-16"
+    },
+    {
+      "id": "42434",
+      "population": "v",
+      "pollId": "34547",
+      "cycle": "2016",
+      "sampleSize": "268",
+      "state": "AZ",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2015-05-01",
+      "endDate": "2015-05-03",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/PPP_Release_AZ_50615.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445274300,
+      "votingAnswers": [
+        {
+          "choice": "Chafee",
+          "pct": "5.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "58.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "16.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "5.0"
+        }
+      ],
+      "weight": "9.63726818557e-23"
+    }
+  ]
+}

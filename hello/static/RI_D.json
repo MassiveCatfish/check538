@@ -1,0 +1,1322 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "45.750038",
+      "pollonly_winprob": 57.560003,
+      "pollonly_hi": "54.748669",
+      "pollonly_lo": "46.399117",
+      "pollonly_forecast": "49.187401",
+      "kitchen_winprob": 58.915001000000004,
+      "kitchen_hi": "55.059784",
+      "kitchen_lo": "46.345802",
+      "kitchen_forecast": "49.315105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-26",
+      "poll_avg": "44.661301",
+      "pollonly_winprob": 42.44,
+      "pollonly_hi": "53.611732",
+      "pollonly_lo": "45.262169",
+      "pollonly_forecast": "48.073566",
+      "kitchen_winprob": 41.084998999999996,
+      "kitchen_hi": "53.658836",
+      "kitchen_lo": "44.93856",
+      "kitchen_forecast": "47.945866"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "45.750103",
+      "pollonly_winprob": 58.099997,
+      "pollonly_hi": "54.375179",
+      "pollonly_lo": "46.772339",
+      "pollonly_forecast": "49.187115",
+      "kitchen_winprob": 59.93499799999999,
+      "kitchen_hi": "54.853584",
+      "kitchen_lo": "46.671875",
+      "kitchen_forecast": "49.373093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-25",
+      "poll_avg": "44.662079",
+      "pollonly_winprob": 41.9,
+      "pollonly_hi": "53.240543",
+      "pollonly_lo": "45.636173",
+      "pollonly_forecast": "48.074009",
+      "kitchen_winprob": 40.064999,
+      "kitchen_hi": "53.334408",
+      "kitchen_lo": "45.144112",
+      "kitchen_forecast": "47.888027"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "32.671326"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-24",
+      "poll_avg": "43.036396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "39.574299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-23",
+      "poll_avg": "47.279339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "39.574299"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-22",
+      "poll_avg": "47.279339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "39.590816"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-21",
+      "poll_avg": "47.263157"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "39.612854"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-20",
+      "poll_avg": "47.244499"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "39.643303"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-19",
+      "poll_avg": "47.227634"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "39.646637"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-18",
+      "poll_avg": "47.228577"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "39.659752"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-17",
+      "poll_avg": "47.232986"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "39.71093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-16",
+      "poll_avg": "47.253437"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "39.709213"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-15",
+      "poll_avg": "47.25663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "39.709213"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-14",
+      "poll_avg": "47.25663"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "39.711712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-13",
+      "poll_avg": "47.257103"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "39.731991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-12",
+      "poll_avg": "47.254116"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "39.759747"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-11",
+      "poll_avg": "47.257553"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "39.767704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-10",
+      "poll_avg": "47.255432"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "39.774006"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-09",
+      "poll_avg": "47.247646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "39.774006"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-08",
+      "poll_avg": "47.247646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "39.899773"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-07",
+      "poll_avg": "47.377293"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "39.861603"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-06",
+      "poll_avg": "47.384132"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "39.937195"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-05",
+      "poll_avg": "47.377926"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "39.942661"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-04",
+      "poll_avg": "47.389874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "39.956825"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-03",
+      "poll_avg": "47.410011"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "39.971268"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-02",
+      "poll_avg": "47.411476"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "39.935638"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-04-01",
+      "poll_avg": "47.422882"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "39.938457"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-31",
+      "poll_avg": "47.41333"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "39.990601"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-30",
+      "poll_avg": "47.314655"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "39.900436"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-29",
+      "poll_avg": "47.329987"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "39.909157"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-28",
+      "poll_avg": "47.335533"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "39.899899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-27",
+      "poll_avg": "47.335526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "39.899899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-26",
+      "poll_avg": "47.335526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "39.899899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-25",
+      "poll_avg": "47.335526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "39.899899"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-24",
+      "poll_avg": "47.335526"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "39.910583"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-23",
+      "poll_avg": "47.335529"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "39.892506"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "47.381268"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "39.895813"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "47.38229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "39.909233"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "47.387802"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "39.909306"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "47.388"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "39.914593"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "47.382374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "39.914593"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "47.382374"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "39.862034"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "47.437527"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "39.891159"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "47.415596"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "39.886295"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "47.405857"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "40.000271"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "47.418018"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "40.159008"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "47.380173"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "40.151043"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "47.396954"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "40.131535"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "47.427715"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "40.117081"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "47.454651"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "40.137512"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "47.475712"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "40.130512"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "47.49065"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "40.108074"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "47.493706"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "40.142761"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "47.499073"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "40.139248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "47.498482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "40.139294"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "47.498734"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "40.151928"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "47.494709"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "40.239464"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "47.481392"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "40.247105"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "47.48167"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "40.345638"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "47.558323"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "40.435268"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "47.587189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "40.435268"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "47.587189"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "40.416348"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Rhode Island",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "47.595692"
+    }
+  ],
+  "polls": [
+    {
+      "id": "62697",
+      "population": "lv",
+      "pollId": "42730",
+      "cycle": "2016",
+      "sampleSize": "668",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-04-22",
+      "endDate": "2016-04-24",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/April26thPrimaryPolls.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461576600,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "45.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "49.0"
+        }
+      ],
+      "weight": "1.015450000762939"
+    },
+    {
+      "id": "62666",
+      "population": "lv",
+      "pollId": "42727",
+      "cycle": "2016",
+      "sampleSize": "436",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-04-19",
+      "endDate": "2016-04-21",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "https://news.brown.edu/files/Brown_Taubman_April_2016_Poll_Final.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1461501360,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "43.3"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "33.9"
+        }
+      ],
+      "weight": ".2439245879650116"
+    },
+    {
+      "id": "49539",
+      "population": "lv",
+      "pollId": "36443",
+      "cycle": "2016",
+      "sampleSize": "394",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-02-22",
+      "endDate": "2016-02-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://wpri.com/2016/02/25/poll-clinton-trump-on-top-in-ri-primary-races/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456407900,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "48.7"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "39.6"
+        }
+      ],
+      "weight": "5.44404237246e-08"
+    },
+    {
+      "id": "49540",
+      "population": "lv",
+      "pollId": "36444",
+      "cycle": "2016",
+      "sampleSize": "396",
+      "state": "RI",
+      "officeType": "U.S. President",
+      "pollsterId": "70",
+      "pollster": "Brown University",
+      "startDate": "2016-02-17",
+      "endDate": "2016-02-20",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://wpri.com/2016/02/25/poll-clinton-trump-on-top-in-ri-primary-races/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456407900,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "40.9"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "47.5"
+        }
+      ],
+      "weight": "9.59219459418e-09"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "1.3484565e-07",
+          "1.8436883e-06",
+          "5.7946399e-06",
+          ".000010650701",
+          ".000015148642",
+          ".000018620849",
+          ".00002086393",
+          ".000021942475",
+          ".000022045848",
+          ".000021401424",
+          ".000020228455",
+          ".000018716586",
+          ".000017018909",
+          ".000015252517",
+          ".000013502541",
+          ".000011827587",
+          ".000010265226",
+          "8.8367769e-06",
+          "7.5516978e-06",
+          "6.4109695e-06",
+          "5.4097118e-06",
+          "4.5394113e-06",
+          "3.7893362e-06",
+          "3.1477550e-06",
+          "2.6027149e-06",
+          "2.1425408e-06",
+          "1.7562501e-06",
+          "1.4336867e-06",
+          "1.1656989e-06",
+          "9.4415338e-07",
+          "7.6227565e-07",
+          "6.1720982e-07",
+          "5.2637461e-07",
+          "6.1636723e-07",
+          "1.5334689e-06",
+          "6.0618595e-06",
+          ".000024564546",
+          ".000090516252",
+          ".00029776347",
+          ".00087403873",
+          ".0022945781",
+          ".0054013235",
+          ".011427217",
+          ".021772638",
+          ".037426647",
+          ".058129169",
+          ".081671856",
+          ".10390409",
+          ".11977839",
+          ".1251705",
+          ".11860357",
+          ".10189442",
+          ".079348892",
+          ".055981744",
+          ".035754215",
+          ".0206514",
+          ".010773429",
+          ".0050683455",
+          ".002146289",
+          ".00081638049",
+          ".00027823044",
+          ".000084726409",
+          ".000022980339",
+          "5.5318642e-06",
+          "1.1771552e-06",
+          "2.2045602e-07",
+          "3.6161129e-08",
+          "5.1711542e-09",
+          "6.4402750e-10",
+          "7.1650040e-11",
+          "8.5705514e-12",
+          "1.9658424e-12",
+          "9.3537060e-13",
+          "5.4021555e-13",
+          "3.1493344e-13",
+          "1.8045674e-13",
+          "1.0128653e-13",
+          "5.5568272e-14",
+          "2.9738653e-14",
+          "1.5489090e-14",
+          "7.8307069e-15",
+          "3.8310152e-15",
+          "1.8072621e-15",
+          "8.1871256e-16",
+          "3.5436317e-16",
+          "1.4569774e-16",
+          "5.6501809e-17",
+          "2.0491855e-17",
+          "6.8637764e-18",
+          "2.0889754e-18",
+          "5.9685010e-19",
+          "1.3263336e-19",
+          "3.3158339e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.2601355e-08",
+          "5.4942333e-08",
+          "9.3467946e-08",
+          "1.1991879e-07",
+          "1.3550682e-07",
+          "1.4274963e-07",
+          "1.4396142e-07",
+          "1.4098603e-07",
+          "1.3522011e-07",
+          "1.2769475e-07",
+          "1.1915998e-07",
+          "1.1015298e-07",
+          "1.0105261e-07",
+          "9.2120516e-08",
+          "8.3531830e-08",
+          "7.5398503e-08",
+          "6.7786800e-08",
+          "6.0729128e-08",
+          "5.4234619e-08",
+          "4.8296041e-08",
+          "4.2894342e-08",
+          "3.8003659e-08",
+          "3.3593132e-08",
+          "2.9629691e-08",
+          "2.6079432e-08",
+          "2.2908333e-08",
+          "2.0083881e-08",
+          "1.7577923e-08",
+          "1.5398548e-08",
+          "1.3848218e-08",
+          "1.5366673e-08",
+          "3.5732754e-08",
+          "1.6241684e-07",
+          "8.1594760e-07",
+          "3.7583320e-06",
+          ".000015443811",
+          ".000056578436",
+          ".0001853698",
+          ".00054499594",
+          ".0014423783",
+          ".0034459662",
+          ".0074502341",
+          ".014608331",
+          ".02602654",
+          ".042200789",
+          ".062359139",
+          ".084067859",
+          ".10348781",
+          ".11639997",
+          ".11967226",
+          ".11248504",
+          ".096658304",
+          ".075912662",
+          ".054464374",
+          ".035671264",
+          ".021307457",
+          ".011594054",
+          ".0057386234",
+          ".002579368",
+          ".001050747",
+          ".00038705464",
+          ".00012859578",
+          ".000038423135",
+          ".000010290762",
+          "2.4614867e-06",
+          "5.2368063e-07",
+          "9.8647391e-08",
+          "1.6375511e-08",
+          "2.3865032e-09",
+          "3.0722791e-10",
+          "3.7761353e-11",
+          "6.7364695e-12",
+          "2.9521186e-12",
+          "2.0007860e-12",
+          "1.4404469e-12",
+          "1.0324198e-12",
+          "7.3147207e-13",
+          "5.1140575e-13",
+          "3.5240875e-13",
+          "2.3902627e-13",
+          "1.5932963e-13",
+          "1.0418791e-13",
+          "6.6696269e-14",
+          "4.1695180e-14",
+          "2.5381271e-14",
+          "1.4992400e-14",
+          "8.5574900e-15",
+          "4.6957334e-15",
+          "2.4612997e-15",
+          "1.2224005e-15",
+          "5.6925897e-16",
+          "2.4515240e-16",
+          "9.5810875e-17",
+          "3.3089378e-17",
+          "9.7095015e-18",
+          "2.2768060e-18",
+          "3.8461425e-19",
+          "3.8411214e-20",
+          "1.5063221e-21",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          "3.8279293e-08",
+          "5.4198921e-07",
+          "1.7454314e-06",
+          "3.2671915e-06",
+          "4.7153176e-06",
+          "5.8675687e-06",
+          "6.6445846e-06",
+          "7.0542342e-06",
+          "7.1480099e-06",
+          "6.9932671e-06",
+          "6.6576958e-06",
+          "6.2015529e-06",
+          "5.6746699e-06",
+          "5.1160432e-06",
+          "4.5547185e-06",
+          "4.0112714e-06",
+          "3.4994071e-06",
+          "3.0274141e-06",
+          "2.5995373e-06",
+          "2.2170650e-06",
+          "1.8791831e-06",
+          "1.5837172e-06",
+          "1.3276170e-06",
+          "1.1073763e-06",
+          "9.1931150e-07",
+          "7.5974515e-07",
+          "6.2516136e-07",
+          "5.1226425e-07",
+          "4.1805046e-07",
+          "3.3981442e-07",
+          "2.7519633e-07",
+          "2.2252887e-07",
+          "1.8335002e-07",
+          "1.7815670e-07",
+          "3.3016099e-07",
+          "1.2468223e-06",
+          "5.5109726e-06",
+          ".000022674012",
+          ".000083514686",
+          ".00027441973",
+          ".00080596353",
+          ".0021211773",
+          ".0050147139",
+          ".010671896",
+          ".020481598",
+          ".035504859",
+          ".055662818",
+          ".079002783",
+          ".10159033",
+          ".11841754",
+          ".12515743",
+          ".11994651",
+          ".10421224",
+          ".082045838",
+          ".0584912",
+          ".037723903",
+          ".021983976",
+          ".011558897",
+          ".0054737031",
+          ".0023297365",
+          ".00088910491",
+          ".00030342402",
+          ".000092311675",
+          ".000024949715",
+          "5.9673889e-06",
+          "1.2575344e-06",
+          "2.3235458e-07",
+          "3.7440934e-08",
+          "5.2307922e-09",
+          "6.3019012e-10",
+          "6.5572443e-11",
+          "6.2364419e-12",
+          "7.8499620e-13",
+          "2.4852714e-13",
+          "1.3253801e-13",
+          "7.5493031e-14",
+          "4.2536975e-14",
+          "2.3429384e-14",
+          "1.2589727e-14",
+          "6.5845957e-15",
+          "3.3432018e-15",
+          "1.6428227e-15",
+          "7.7853620e-16",
+          "3.5433988e-16",
+          "1.5412113e-16",
+          "6.3695534e-17",
+          "2.4829353e-17",
+          "9.0556681e-18",
+          "3.0586091e-18",
+          "9.3942995e-19",
+          "2.6216649e-19",
+          "6.5541624e-20",
+          "1.0923604e-20",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "2.9781148e-07",
+          "1.3374760e-06",
+          "2.3208227e-06",
+          "3.0206538e-06",
+          "3.4523600e-06",
+          "3.6716538e-06",
+          "3.7334466e-06",
+          "3.6830911e-06",
+          "3.5558355e-06",
+          "3.3782687e-06",
+          "3.1701188e-06",
+          "2.9457960e-06",
+          "2.7156802e-06",
+          "2.4871149e-06",
+          "2.2651636e-06",
+          "2.0531993e-06",
+          "1.8533514e-06",
+          "1.6668105e-06",
+          "1.4941080e-06",
+          "1.3353015e-06",
+          "1.1900955e-06",
+          "1.0579801e-06",
+          "9.3828169e-07",
+          "8.3024173e-07",
+          "7.3305648e-07",
+          "6.4589864e-07",
+          "5.6795739e-07",
+          "4.9843413e-07",
+          "4.3657786e-07",
+          "3.8169375e-07",
+          "3.3330915e-07",
+          "2.9231956e-07",
+          "2.6793842e-07",
+          "3.1449505e-07",
+          "6.9958821e-07",
+          "2.5694392e-06",
+          ".000010228578",
+          ".000037887999",
+          ".00012682039",
+          ".00038236988",
+          ".001040046",
+          ".0025578956",
+          ".0057006632",
+          ".011535143",
+          ".021228215",
+          ".035581131",
+          ".054381546",
+          ".07586167",
+          ".096658789",
+          ".11254189",
+          ".11977262",
+          ".11651627",
+          ".10359087",
+          ".084137112",
+          ".062388156",
+          ".042198539",
+          ".026007019",
+          ".014584584",
+          ".0074303146",
+          ".0034325132",
+          ".0014346837",
+          ".0005412132",
+          ".00018374715",
+          ".000055967172",
+          ".000015239183",
+          "3.6948222e-06",
+          "7.9428986e-07",
+          "1.5080438e-07",
+          "2.5279533e-08",
+          "3.8290784e-09",
+          "6.0955818e-10",
+          "1.6510079e-10",
+          "9.0703188e-11",
+          "6.3728994e-11",
+          "4.6135974e-11",
+          "3.3175795e-11",
+          "2.3577185e-11",
+          "1.6536226e-11",
+          "1.1432168e-11",
+          "7.7799486e-12",
+          "5.2037771e-12",
+          "3.4148916e-12",
+          "2.1940687e-12",
+          "1.3768329e-12",
+          "8.4143407e-13",
+          "4.9907095e-13",
+          "2.8609160e-13",
+          "1.5769749e-13",
+          "8.3053647e-14",
+          "4.1458102e-14",
+          "1.9411540e-14",
+          "8.4086028e-15",
+          "3.3072321e-15",
+          "1.1502224e-15",
+          "3.4017590e-16",
+          "8.0479466e-17",
+          "1.3740233e-17",
+          "1.3947105e-18",
+          "5.3386046e-20",
+          "0"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3882 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "51.097832"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-22",
+      "poll_avg": "43.848202"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "51.101139"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-21",
+      "poll_avg": "43.849228"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "51.118046"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-20",
+      "poll_avg": "43.851688"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "42.947174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-19",
+      "poll_avg": "50.769413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "42.952461"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-18",
+      "poll_avg": "50.763786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "42.952461"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-17",
+      "poll_avg": "50.763786"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "42.899902"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-16",
+      "poll_avg": "50.818939"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "42.929028"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-15",
+      "poll_avg": "50.797009"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "42.924164"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-14",
+      "poll_avg": "50.78727"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "43.030945"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-13",
+      "poll_avg": "50.802814"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "43.18185"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-12",
+      "poll_avg": "50.76329"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "43.173344"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-11",
+      "poll_avg": "50.780933"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "43.156712"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-10",
+      "poll_avg": "50.812355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "43.160385"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-09",
+      "poll_avg": "50.828068"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "43.177723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-08",
+      "poll_avg": "50.842712"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "43.168083"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-07",
+      "poll_avg": "50.861931"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "43.145645"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-06",
+      "poll_avg": "50.864986"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "43.180332"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "50.870354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "43.176819"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "50.869762"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "43.176865"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "50.870014"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "43.189499"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "50.86599"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "43.277035"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "50.852673"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "43.284676"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "50.852955"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "43.37878"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "50.932026"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "43.442883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "50.96497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "43.442883"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "50.96497"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "43.423962"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "50.973473"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "43.438293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "50.975342"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "43.398819"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "51.022915"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "43.399933"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "51.029232"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "38.743084"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "49.912258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "38.743084"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "49.912258"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "38.753639"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "49.908562"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "38.788452"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "49.887657"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "38.569897"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "49.456573"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "38.658684"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "49.414459"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "38.655987"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "49.405396"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "38.653316"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "49.410938"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "38.648567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "49.412365"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "38.64991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "49.408745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "38.651211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "49.4072"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "38.658001"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "49.40493"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "38.660324"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "49.397442"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "38.657143"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "49.391922"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "38.641445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "49.417202"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "38.632484"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "49.442699"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "38.638847"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "49.441589"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "38.635239"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "49.442631"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "38.647449"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "49.456181"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "38.644421"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "49.459393"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "38.640766"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "49.454399"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "1.5855145"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "38.629211"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "49.465473"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "1.5873508"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "38.624874"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "49.475246"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "1.5871716"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "38.62661"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "49.489056"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "1.5936757"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "38.596977"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "49.497105"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "1.5811417"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "38.637657"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "49.480869"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "1.5938798"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "38.632275"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "49.503231"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "1.6275954"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "38.633629"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "49.50732"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "1.6199961"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "38.647568"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "49.098713"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "1.6512119"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "38.651897"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "49.090874"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "1.651077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "38.652134"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "49.096325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "1.649995"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "38.659481"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "49.112061"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "1.6521699"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "38.672623"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "49.122444"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "1.6509929"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "38.637753"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "49.171535"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "1.6670966"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Utah",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "38.673096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "49.189133"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "1.6737368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "56.395111"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "1.0169281"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "56.38876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "1.0179356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "56.38876"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "1.0179356"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "56.384995"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "1.0153457"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "56.394768"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "1.0193912"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "56.407486"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "1.0227845"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "56.402821"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "1.0313567"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "56.394325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "1.0300782"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "56.394325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "1.0300782"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "56.394325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "1.0300782"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "56.394325"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "1.0300782"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "56.370518"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "1.0337644"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "56.37215"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "1.0262251"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "56.37215"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "1.0262251"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "56.37215"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "1.0262251"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "56.372383"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "1.032357"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "56.37262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "1.0313368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "56.37262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "1.0313368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "56.37262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "1.0313368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "56.37262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "1.0313368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "56.37262"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "1.0313368"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "56.36718"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "1.0295322"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "56.366161"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "1.0388386"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "56.368462"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "1.0429479"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "56.368462"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "1.0429479"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "56.368462"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "1.0429479"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "56.388969"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "1.0407022"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "56.388969"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "1.0407022"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "56.387199"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "1.0406195"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "56.387199"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "1.0406195"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "56.395836"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "1.0183007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "56.395836"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "1.0183007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "56.395836"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "1.0183007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "56.404682"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "1.0225641"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "56.401859"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "1.0242704"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "56.396027"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "1.0255414"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "56.405548"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "1.0432279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "56.366695"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "1.055528"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "56.366695"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "1.055528"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "56.37236"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "1.0580602"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "56.378014"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "1.0549186"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "56.378551"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "1.0462492"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "56.37463"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "1.0469646"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "56.366219"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "1.0505576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "56.366577"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "1.0502125"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "56.373917"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "1.0495005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "56.373917"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "1.0495005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "56.373917"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "1.0495005"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "56.40506"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "1.0589354"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "56.40506"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "1.0589354"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "56.406242"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "1.0419942"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "56.36858"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "1.0476077"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "56.344902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "1.0452415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "56.344902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "1.0452415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "56.341076"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "1.0393754"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "56.341076"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "1.0393754"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "56.34304"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "1.0386429"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "56.340214"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "1.0414158"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "56.321495"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "1.0446488"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "56.450367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "1.0447615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "56.450367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "1.0447615"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "56.43523"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "1.0553603"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "56.445965"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "1.0512351"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "56.429615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "1.0663389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "56.449322"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "1.0667588"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "56.428875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "1.0741482"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "56.301693"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-31",
+      "poll_avg": ".98124248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "56.306229"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-30",
+      "poll_avg": ".98302859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "56.306229"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-29",
+      "poll_avg": ".98302859"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "56.312641"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-28",
+      "poll_avg": ".98345351"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "56.312641"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-27",
+      "poll_avg": ".98345351"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "56.307175"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-26",
+      "poll_avg": ".98275226"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "56.301254"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-25",
+      "poll_avg": ".99030936"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "56.32906"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "1.0155817"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "56.261066"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-23",
+      "poll_avg": ".99551803"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "56.270294"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "1.0000204"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "56.32637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "1.0047752"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "56.32637"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.0047752"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "56.408661"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-19",
+      "poll_avg": ".98969007"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "56.388615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.0057838"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "56.395832"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.0058093"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "56.401257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-16",
+      "poll_avg": ".99856639"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "56.401257"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-15",
+      "poll_avg": ".99856639"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "56.414043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-14",
+      "poll_avg": ".9970575"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "56.414043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-13",
+      "poll_avg": ".9970575"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "56.414043"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-12",
+      "poll_avg": ".9970575"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "56.410213"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-11",
+      "poll_avg": ".994766"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "56.408253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-10",
+      "poll_avg": ".99583763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "56.424057"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.0222729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "56.424057"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.0222729"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "56.537277"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.0173417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "56.537277"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.0173417"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "56.536293"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.0158092"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "56.537121"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.0413632"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "56.394108"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.0313162"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "56.394108"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.0313162"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "56.394108"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.0313162"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "56.37812"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.0260868"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "56.375366"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.0289403"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "56.372482"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.0266724"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "56.366619"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.0311252"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "56.292599"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.0014184"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "56.292599"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.0014184"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "56.292599"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.0014184"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "56.264153"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-23",
+      "poll_avg": ".9989683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-22",
+      "poll_avg": "56.269844"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-22",
+      "poll_avg": ".99348897"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-21",
+      "poll_avg": "56.269173"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-21",
+      "poll_avg": ".99231893"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "56.243835"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-20",
+      "poll_avg": "1.0325048"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "56.20734"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-19",
+      "poll_avg": "1.0328604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "56.287296"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-18",
+      "poll_avg": "1.029888"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "56.23896"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-17",
+      "poll_avg": "1.0321167"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "56.232834"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-16",
+      "poll_avg": "1.0321167"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "56.232834"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-15",
+      "poll_avg": "1.0321167"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "56.23222"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-14",
+      "poll_avg": "1.0323071"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "56.298264"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-13",
+      "poll_avg": "1.0323683"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "56.296944"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-12",
+      "poll_avg": "1.028055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "56.296944"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-11",
+      "poll_avg": "1.028055"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "56.271301"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-10",
+      "poll_avg": "1.0267293"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "56.067585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-09",
+      "poll_avg": "1.0030398"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "56.067585"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-08",
+      "poll_avg": "1.0030398"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-07",
+      "poll_avg": "56.209446"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-07",
+      "poll_avg": ".97001374"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-06",
+      "poll_avg": "56.210495"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-06",
+      "poll_avg": ".96770686"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-05",
+      "poll_avg": "56.211395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-05",
+      "poll_avg": ".96190411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-04",
+      "poll_avg": "56.211395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-04",
+      "poll_avg": ".96190411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-03",
+      "poll_avg": "56.211395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-03",
+      "poll_avg": ".96190411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-02",
+      "poll_avg": "56.211395"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-02",
+      "poll_avg": ".96190411"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-09-01",
+      "poll_avg": "56.214092"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-09-01",
+      "poll_avg": ".96744078"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-31",
+      "poll_avg": "56.202827"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-31",
+      "poll_avg": ".95480973"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-30",
+      "poll_avg": "56.199554"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-30",
+      "poll_avg": ".95030129"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-29",
+      "poll_avg": "56.194382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-29",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-28",
+      "poll_avg": "56.194382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-28",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-27",
+      "poll_avg": "56.194382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-27",
+      "poll_avg": ".94357216"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-26",
+      "poll_avg": "56.211967"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-26",
+      "poll_avg": ".92398918"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-25",
+      "poll_avg": "56.269299"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-25",
+      "poll_avg": ".89095581"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-24",
+      "poll_avg": "56.288723"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-24",
+      "poll_avg": ".89319587"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-23",
+      "poll_avg": "56.321342"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-23",
+      "poll_avg": ".89621788"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-22",
+      "poll_avg": "56.321342"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-22",
+      "poll_avg": ".89621788"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-21",
+      "poll_avg": "56.325615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-21",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-20",
+      "poll_avg": "56.325615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-20",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-19",
+      "poll_avg": "56.325615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-19",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-18",
+      "poll_avg": "56.325615"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-18",
+      "poll_avg": ".88615096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-17",
+      "poll_avg": "56.332367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-17",
+      "poll_avg": ".88350177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-16",
+      "poll_avg": "56.332367"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-16",
+      "poll_avg": ".88350177"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-15",
+      "poll_avg": "56.335766"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-15",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-14",
+      "poll_avg": "56.335766"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-14",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-13",
+      "poll_avg": "56.335766"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-13",
+      "poll_avg": ".87229013"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-12",
+      "poll_avg": "56.344013"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-12",
+      "poll_avg": ".87469053"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-11",
+      "poll_avg": "56.344013"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-11",
+      "poll_avg": ".87469053"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-10",
+      "poll_avg": "56.383503"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-10",
+      "poll_avg": ".86591017"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-09",
+      "poll_avg": "56.396709"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-09",
+      "poll_avg": ".87039089"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-08",
+      "poll_avg": "56.389736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-08",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-07",
+      "poll_avg": "56.389736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-07",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-06",
+      "poll_avg": "56.389736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-06",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-05",
+      "poll_avg": "56.389736"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-05",
+      "poll_avg": ".85172474"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-04",
+      "poll_avg": "56.388878"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-04",
+      "poll_avg": ".85217708"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-03",
+      "poll_avg": "56.380772"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-03",
+      "poll_avg": ".85846245"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-02",
+      "poll_avg": "56.386909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-02",
+      "poll_avg": ".85410339"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-08-01",
+      "poll_avg": "56.379108"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-08-01",
+      "poll_avg": ".84835297"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-31",
+      "poll_avg": "56.356117"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-31",
+      "poll_avg": ".87110996"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-30",
+      "poll_avg": "56.356117"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-30",
+      "poll_avg": ".87110996"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-29",
+      "poll_avg": "56.334633"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-29",
+      "poll_avg": ".87934548"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-28",
+      "poll_avg": "56.301727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-28",
+      "poll_avg": ".8767249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-27",
+      "poll_avg": "56.334995"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-27",
+      "poll_avg": ".89171445"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-26",
+      "poll_avg": "56.346359"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-26",
+      "poll_avg": ".91008723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-25",
+      "poll_avg": "56.346359"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-25",
+      "poll_avg": ".91008723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-24",
+      "poll_avg": "56.334419"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-24",
+      "poll_avg": ".90818912"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-23",
+      "poll_avg": "56.334419"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-23",
+      "poll_avg": ".90818912"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-22",
+      "poll_avg": "56.340221"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-22",
+      "poll_avg": ".9296363"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-21",
+      "poll_avg": "56.340221"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-21",
+      "poll_avg": ".9296363"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-20",
+      "poll_avg": "56.293388"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-20",
+      "poll_avg": ".92228514"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-19",
+      "poll_avg": "56.270012"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-19",
+      "poll_avg": ".90640724"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-18",
+      "poll_avg": "56.278004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-18",
+      "poll_avg": ".90091437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-17",
+      "poll_avg": "56.278004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-17",
+      "poll_avg": ".90091437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-16",
+      "poll_avg": "56.278004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-16",
+      "poll_avg": ".90091437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-15",
+      "poll_avg": "56.278004"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-15",
+      "poll_avg": ".90091437"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-14",
+      "poll_avg": "56.166077"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-14",
+      "poll_avg": ".90911627"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-13",
+      "poll_avg": "56.165321"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-13",
+      "poll_avg": ".90346491"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-12",
+      "poll_avg": "56.164124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-12",
+      "poll_avg": ".90307552"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-11",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-11",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-10",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-10",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-09",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-09",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-08",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-08",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-07",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-07",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-06",
+      "poll_avg": "56.198875"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-06",
+      "poll_avg": ".89973718"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-05",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-05",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-04",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-04",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-03",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-03",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-02",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-02",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-07-01",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-07-01",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-30",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-30",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-29",
+      "poll_avg": "56.179909"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-29",
+      "poll_avg": ".89176399"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-28",
+      "poll_avg": "56.231823"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-28",
+      "poll_avg": ".90490472"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-27",
+      "poll_avg": "56.228138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-27",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-26",
+      "poll_avg": "56.228138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-26",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-25",
+      "poll_avg": "56.228138"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-25",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-24",
+      "poll_avg": "56.243382"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-24",
+      "poll_avg": ".89958811"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-23",
+      "poll_avg": "56.241787"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-23",
+      "poll_avg": ".90333295"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-22",
+      "poll_avg": "56.250553"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-22",
+      "poll_avg": ".90353757"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-21",
+      "poll_avg": "56.284283"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-21",
+      "poll_avg": ".91686416"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-20",
+      "poll_avg": "56.288799"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-20",
+      "poll_avg": ".8799938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-19",
+      "poll_avg": "56.293617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-19",
+      "poll_avg": ".91527879"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-18",
+      "poll_avg": "56.293617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-18",
+      "poll_avg": ".91527879"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-17",
+      "poll_avg": "56.315285"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-17",
+      "poll_avg": ".9144634"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-16",
+      "poll_avg": "56.331833"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-16",
+      "poll_avg": ".84575057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-15",
+      "poll_avg": "56.331833"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-15",
+      "poll_avg": ".84575057"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-14",
+      "poll_avg": "56.369068"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-14",
+      "poll_avg": ".83899248"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-13",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-13",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-12",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-12",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-11",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-11",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-10",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-10",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-09",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-09",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-08",
+      "poll_avg": "56.37928"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-08",
+      "poll_avg": ".83484137"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-07",
+      "poll_avg": "56.376205"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-07",
+      "poll_avg": ".84006906"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-06",
+      "poll_avg": "56.377708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-06",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-05",
+      "poll_avg": "56.377708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-05",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-04",
+      "poll_avg": "56.377708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-04",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-03",
+      "poll_avg": "56.377708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-03",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-02",
+      "poll_avg": "56.377708"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-02",
+      "poll_avg": ".83454597"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Utah",
+      "forecastdate": "2015-06-01",
+      "poll_avg": "56.38483"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Utah",
+      "forecastdate": "2015-06-01",
+      "poll_avg": ".83469415"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50295",
+      "population": "lv",
+      "pollId": "36635",
+      "cycle": "2016",
+      "sampleSize": "194",
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2016-03-08",
+      "endDate": "2016-03-15",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://www.deseretnews.com/article/865650529/Cruz-Sanders-top-picks-in-Tuesdays-Utah-caucuses-poll-says.html",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1458513840,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "44.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "52.0"
+        }
+      ],
+      "weight": ".1479404121637344"
+    },
+    {
+      "id": "49467",
+      "population": "rv",
+      "pollId": "36412",
+      "cycle": "2016",
+      "sampleSize": "102",
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2016-02-10",
+      "endDate": "2016-02-15",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://utahpolicy.com/index.php/features/today-at-utah-policy/8602-",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456151640,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "51.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "44.0"
+        }
+      ],
+      "weight": ".0002194745757151"
+    },
+    {
+      "id": "48208",
+      "population": "rv",
+      "pollId": "35875",
+      "cycle": "2016",
+      "sampleSize": "188",
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "460",
+      "pollster": "SurveyUSA",
+      "startDate": "2016-01-06",
+      "endDate": "2016-01-13",
+      "methodology": "IVR/Online",
+      "tracking": null,
+      "url": "http://www.sltrib.com/home/3426560-155/poll-4-way-tie-among-gop-presidential?fullpage=1",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1453122480,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "40.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        }
+      ],
+      "weight": "3.92307896391e-07"
+    },
+    {
+      "id": "48093",
+      "population": "a",
+      "pollId": "34734",
+      "cycle": "2016",
+      "sampleSize": null,
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2015-09-08",
+      "endDate": "2015-09-17",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://utahpolicy.com/index.php/features/today-at-utah-policy/7050-",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466560,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "30.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "20.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "31.0"
+        }
+      ],
+      "weight": "0"
+    },
+    {
+      "id": "48094",
+      "population": "a",
+      "pollId": "34659",
+      "cycle": "2016",
+      "sampleSize": null,
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2015-07-14",
+      "endDate": "2015-07-21",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://utahpolicy.com/index.php/features/today-at-utah-policy/6612-utahns-still-mostly-undecided-on-presidential-field-bush-and-clinton-in-the-lead",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466560,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "50.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "12.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "30.0"
+        }
+      ],
+      "weight": "0"
+    },
+    {
+      "id": "48092",
+      "population": "rv",
+      "pollId": "34539",
+      "cycle": "2016",
+      "sampleSize": "96",
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2015-03-30",
+      "endDate": "2015-04-07",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://utahpolicy.com/index.php/features/today-at-utah-policy/5471-utah-republicans-split-on-2016-nominee-democrats-solidly-behind-hillary",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1452466560,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "25.0"
+        },
+        {
+          "choice": "Biden",
+          "pct": "9.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "3.74691789203e-28"
+    },
+    {
+      "id": "43695",
+      "population": "rv",
+      "pollId": "34820",
+      "cycle": "2016",
+      "sampleSize": "406",
+      "state": "UT",
+      "officeType": "U.S. President",
+      "pollsterId": "120",
+      "pollster": "Dan Jones & Associates",
+      "startDate": "2015-03-03",
+      "endDate": "2015-03-05",
+      "methodology": "Live Phone/Online",
+      "tracking": null,
+      "url": "http://utahpolicy.com/index.php/features/today-at-utah-policy/5104-bush-clinton-are-frontrunners-for-2016-nomination-among-utahns",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445332440,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "4.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "56.0"
+        },
+        {
+          "choice": "Warren",
+          "pct": "25.0"
+        }
+      ],
+      "weight": "7.62272313864e-30"
+    }
+  ]
+}

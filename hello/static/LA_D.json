@@ -1,0 +1,3532 @@
+{
+  "model": [
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "15.789016",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "28.2535",
+      "pollonly_lo": "14.92556",
+      "pollonly_forecast": "20.247524",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "25.079872",
+      "kitchen_lo": "14.120321",
+      "kitchen_forecast": "17.883163"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-05",
+      "poll_avg": "60.648491",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "82.594162",
+      "pollonly_lo": "73.484543",
+      "pollonly_forecast": "72.635941",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "85.525429",
+      "kitchen_lo": "75.503548",
+      "kitchen_forecast": "75.000313"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "15.789565",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "27.984962",
+      "pollonly_lo": "15.229835",
+      "pollonly_forecast": "20.248983",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "24.833538",
+      "kitchen_lo": "14.242416",
+      "kitchen_forecast": "17.859781"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-04",
+      "poll_avg": "60.644577",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "82.34404",
+      "pollonly_lo": "73.749023",
+      "pollonly_forecast": "72.633293",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "85.373276",
+      "kitchen_lo": "75.707695",
+      "kitchen_forecast": "75.022499"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "15.78961",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "27.665907",
+      "pollonly_lo": "15.641165",
+      "pollonly_forecast": "20.24897",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "24.621326",
+      "kitchen_lo": "14.406733",
+      "kitchen_forecast": "17.854723"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-03",
+      "poll_avg": "60.644829",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "82.112717",
+      "pollonly_lo": "74.037987",
+      "pollonly_forecast": "72.633415",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "85.221352",
+      "kitchen_lo": "75.926392",
+      "kitchen_forecast": "75.027657"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "15.799485",
+      "pollonly_winprob": 0,
+      "pollonly_hi": "27.438446",
+      "pollonly_lo": "16.115292",
+      "pollonly_forecast": "20.266241",
+      "kitchen_winprob": 0,
+      "kitchen_hi": "24.452789",
+      "kitchen_lo": "14.627319",
+      "kitchen_forecast": "17.884739"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-02",
+      "poll_avg": "60.640621",
+      "pollonly_winprob": 100,
+      "pollonly_hi": "81.844772",
+      "pollonly_lo": "74.28537",
+      "pollonly_forecast": "72.618164",
+      "kitchen_winprob": 100,
+      "kitchen_hi": "85.009583",
+      "kitchen_lo": "76.080841",
+      "kitchen_forecast": "74.999664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "29.624243"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-03-01",
+      "poll_avg": "59.843918"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "29.687662"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-29",
+      "poll_avg": "59.854832"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "29.870842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-28",
+      "poll_avg": "59.905907"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "29.939415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-27",
+      "poll_avg": "59.893299"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "29.939415"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-26",
+      "poll_avg": "59.893299"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "29.92371"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-25",
+      "poll_avg": "59.904087"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "30.018593"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-24",
+      "poll_avg": "59.84557"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "30.000877"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-23",
+      "poll_avg": "59.860409"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "29.976051"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-22",
+      "poll_avg": "59.880978"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "30.1201"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-21",
+      "poll_avg": "59.936687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "30.1201"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-20",
+      "poll_avg": "59.936687"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "30.10997"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-19",
+      "poll_avg": "59.928307"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "30.340475"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-18",
+      "poll_avg": "59.841827"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "30.590639"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-17",
+      "poll_avg": "59.901012"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "6.8509932"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-16",
+      "poll_avg": "57.182766"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "6.8482957"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-15",
+      "poll_avg": "57.173698"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "6.8456264"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-14",
+      "poll_avg": "57.179241"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "6.8408766"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-13",
+      "poll_avg": "57.180668"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "6.8422174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-12",
+      "poll_avg": "57.177048"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "6.8435183"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-11",
+      "poll_avg": "57.175503"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "6.8503108"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-10",
+      "poll_avg": "57.173233"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "6.8526335"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-09",
+      "poll_avg": "57.165745"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "6.8494496"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-08",
+      "poll_avg": "57.160229"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "6.8337526"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-07",
+      "poll_avg": "57.185509"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "6.8247938"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-06",
+      "poll_avg": "57.211002"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "6.8311572"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-05",
+      "poll_avg": "57.209896"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "6.8275456"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-04",
+      "poll_avg": "57.210934"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "6.8397598"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-03",
+      "poll_avg": "57.224483"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "6.8367286"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-02",
+      "poll_avg": "57.227695"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "6.8330731"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "57.222702"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-02-01",
+      "poll_avg": "1.943651"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "6.8215208"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "57.233776"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-31",
+      "poll_avg": "1.9454874"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "6.8171821"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "57.243549"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-30",
+      "poll_avg": "1.945308"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "6.8189182"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "57.257362"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-29",
+      "poll_avg": "1.9518121"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "6.7892866"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "57.265408"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-28",
+      "poll_avg": "1.9392781"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "6.8299656"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "57.249176"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-27",
+      "poll_avg": "1.9520162"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "6.8226581"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "57.27058"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-26",
+      "poll_avg": "1.985732"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "6.8240132"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "57.27467"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-25",
+      "poll_avg": "1.9781325"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "6.8547459"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "56.860363"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-24",
+      "poll_avg": "2.0074387"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "6.859076"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "56.85252"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-23",
+      "poll_avg": "2.007304"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "6.8593125"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "56.857975"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-22",
+      "poll_avg": "2.0062218"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "6.8666596"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "56.873707"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-21",
+      "poll_avg": "2.0083969"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "6.8797979"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "56.88409"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-20",
+      "poll_avg": "2.0072198"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "6.8618321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "56.964531"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-19",
+      "poll_avg": "2.0094326"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "6.8971763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "56.982128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-18",
+      "poll_avg": "2.0160725"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "6.8989553"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "56.957687"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-17",
+      "poll_avg": "2.0169282"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "6.8965321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "56.951336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-16",
+      "poll_avg": "2.0179355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "6.8965321"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "56.951336"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-15",
+      "poll_avg": "2.0179355"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "6.9058156"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "56.947571"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-14",
+      "poll_avg": "2.0153456"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "6.9204249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "56.957344"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-13",
+      "poll_avg": "2.0193913"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "6.9180064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "56.970062"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-12",
+      "poll_avg": "2.0227845"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "6.9302621"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "56.965397"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-11",
+      "poll_avg": "2.0313566"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "6.9501128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "56.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-10",
+      "poll_avg": "2.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "6.9501128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "56.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-09",
+      "poll_avg": "2.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "6.9501128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "56.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-08",
+      "poll_avg": "2.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "6.9501128"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "56.956902"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-07",
+      "poll_avg": "2.0300782"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "6.944633"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "56.933094"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-06",
+      "poll_avg": "2.0337644"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "6.9518595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "56.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-05",
+      "poll_avg": "2.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "6.9518595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "56.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-04",
+      "poll_avg": "2.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "6.9518595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "56.934727"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-03",
+      "poll_avg": "2.0262251"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-02",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2016-01-01",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-31",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-30",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-29",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-28",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "6.9213948"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "56.934959"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-27",
+      "poll_avg": "2.032357"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "6.9241991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "56.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-26",
+      "poll_avg": "2.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "6.9241991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "56.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-25",
+      "poll_avg": "2.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "6.9241991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "56.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-24",
+      "poll_avg": "2.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "6.9241991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "56.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-23",
+      "poll_avg": "2.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "6.9241991"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "56.935196"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-22",
+      "poll_avg": "2.0313368"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "6.9370427"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "56.929756"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-21",
+      "poll_avg": "2.0295322"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "6.9358706"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "56.928738"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-20",
+      "poll_avg": "2.0388386"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "6.9313064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "56.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-19",
+      "poll_avg": "2.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "6.9313064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "56.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-18",
+      "poll_avg": "2.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "6.9313064"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "56.931038"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-17",
+      "poll_avg": "2.042948"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "6.9392362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "56.951546"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-16",
+      "poll_avg": "2.0407023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "6.9392362"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "56.951546"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-15",
+      "poll_avg": "2.0407023"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "6.9426842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "56.949776"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-14",
+      "poll_avg": "2.0406196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "6.9426842"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "56.949776"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-13",
+      "poll_avg": "2.0406196"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "6.9324279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "56.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-12",
+      "poll_avg": "2.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "6.9324279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "56.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-11",
+      "poll_avg": "2.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "6.9324279"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "56.958412"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-10",
+      "poll_avg": "2.0183005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "6.9217319"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "56.967258"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-09",
+      "poll_avg": "2.0225642"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "6.9101477"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "56.964436"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-08",
+      "poll_avg": "2.0242703"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "6.9086819"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "56.958603"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-07",
+      "poll_avg": "2.0255413"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "6.901835"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "56.968124"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-06",
+      "poll_avg": "2.0432279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "6.9215794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "56.929272"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-05",
+      "poll_avg": "2.0555279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "6.9215794"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "56.929272"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-04",
+      "poll_avg": "2.0555279"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "6.9262724"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "56.934937"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-03",
+      "poll_avg": "2.0580602"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "6.9170604"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "56.94059"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-02",
+      "poll_avg": "2.0549185"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "6.9281054"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "56.941128"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-12-01",
+      "poll_avg": "2.0462492"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "6.9280434"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "56.937206"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-30",
+      "poll_avg": "2.0469646"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-29",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-28",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-27",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-26",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-25",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-24",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "6.9264836"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "56.928795"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-23",
+      "poll_avg": "2.0505576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "6.9280052"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "56.929153"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-22",
+      "poll_avg": "2.0502126"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "6.9053154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "56.936493"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-21",
+      "poll_avg": "2.0495005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "6.9053154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "56.936493"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-20",
+      "poll_avg": "2.0495005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "6.9053154"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "56.936493"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-19",
+      "poll_avg": "2.0495005"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "6.8821459"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "56.967636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-18",
+      "poll_avg": "2.0589354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "6.8821459"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "56.967636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-17",
+      "poll_avg": "2.0589354"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "6.8789873"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "56.968819"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-16",
+      "poll_avg": "2.0419941"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "6.8816595"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "56.931156"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-15",
+      "poll_avg": "2.0476077"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "6.8955398"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "56.907478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-14",
+      "poll_avg": "2.0452414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "6.8955398"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "56.907478"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-13",
+      "poll_avg": "2.0452414"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "6.8963618"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "56.903652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-12",
+      "poll_avg": "2.0393755"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "6.8963618"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "56.903652"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-11",
+      "poll_avg": "2.0393755"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "6.8864174"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "56.905617"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-10",
+      "poll_avg": "2.0386429"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "6.8949213"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "56.90279"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-09",
+      "poll_avg": "2.0414159"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "6.8983688"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "56.884071"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-08",
+      "poll_avg": "2.0446489"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "6.9481039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "57.012943"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-07",
+      "poll_avg": "2.0447614"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "6.9481039"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "57.012943"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-06",
+      "poll_avg": "2.0447614"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "6.9725504"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "56.997807"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-05",
+      "poll_avg": "2.0553603"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "6.9945812"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "57.008541"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-04",
+      "poll_avg": "2.0512352"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "6.9831777"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "56.992191"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-03",
+      "poll_avg": "2.066339"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "6.9790487"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "57.011898"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-02",
+      "poll_avg": "2.0667586"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "6.9551864"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "56.991451"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-11-01",
+      "poll_avg": "2.0741482"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "6.9033113"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "56.864269"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-31",
+      "poll_avg": "1.9812424"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "6.9059734"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "56.868805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-30",
+      "poll_avg": "1.9830285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "6.9059734"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "56.868805"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-29",
+      "poll_avg": "1.9830285"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "6.902236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "56.875217"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-28",
+      "poll_avg": "1.9834535"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "6.902236"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "56.875217"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-27",
+      "poll_avg": "1.9834535"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "6.9027576"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "56.869751"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-26",
+      "poll_avg": "1.9827522"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "6.8882365"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "56.863831"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-25",
+      "poll_avg": "1.9903094"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "6.8863206"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "56.891636"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-24",
+      "poll_avg": "2.0155818"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "6.9273334"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "56.823643"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-23",
+      "poll_avg": "1.995518"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "6.9840274"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "56.83287"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-22",
+      "poll_avg": "2.0000205"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "6.9760652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "56.888947"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-21",
+      "poll_avg": "2.0047753"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "6.9760652"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "56.888947"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "1.004318"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-20",
+      "poll_avg": "2.0047753"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "7.0230002"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "56.971237"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.0198351"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-19",
+      "poll_avg": "1.9896901"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "7.0139003"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "56.951191"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "1.0234419"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-18",
+      "poll_avg": "2.0057838"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "7.0171065"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "56.958408"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "1.0204173"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-17",
+      "poll_avg": "2.0058093"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "7.3316278"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "56.963833"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.0169117"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-16",
+      "poll_avg": "1.9985664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "7.3316278"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "56.963833"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.0169117"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-15",
+      "poll_avg": "1.9985664"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "7.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "56.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.0213728"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-14",
+      "poll_avg": "1.9970576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "7.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "56.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.0213728"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-13",
+      "poll_avg": "1.9970576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "7.324389"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "56.97662"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.0213728"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-12",
+      "poll_avg": "1.9970576"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "7.3136096"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "56.97279"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.0258112"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-11",
+      "poll_avg": "1.994766"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "7.3239341"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "56.970829"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.0217705"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-10",
+      "poll_avg": "1.9958377"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "7.3021288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "56.986633"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "1.0325234"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-09",
+      "poll_avg": "2.0222731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "7.3021288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "56.986633"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "1.0325234"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-08",
+      "poll_avg": "2.0222731"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "7.2328763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "57.099854"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "1.0474253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-07",
+      "poll_avg": "2.0173416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "7.2328763"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "57.099854"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "1.0474253"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-06",
+      "poll_avg": "2.0173416"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "7.2311592"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "57.098869"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "1.0457953"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-05",
+      "poll_avg": "2.0158091"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "7.2767229"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "57.099697"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "1.0495286"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-04",
+      "poll_avg": "2.0413632"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "7.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "56.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "1.0544304"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-03",
+      "poll_avg": "2.0313163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "7.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "56.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "1.0544304"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-02",
+      "poll_avg": "2.0313163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "7.2589664"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "56.956684"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "1.0544304"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-10-01",
+      "poll_avg": "2.0313163"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "7.2481608"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "56.940697"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "1.0472591"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-30",
+      "poll_avg": "2.0260868"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "7.216258"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "56.937943"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "1.0501788"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-29",
+      "poll_avg": "2.0289402"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "7.2124791"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "56.935059"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "1.0503454"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-28",
+      "poll_avg": "2.0266724"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "7.0759249"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "56.929195"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "1.0452768"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-27",
+      "poll_avg": "2.0311253"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "7.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "56.855175"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "1.0183918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-26",
+      "poll_avg": "2.0014184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "7.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "56.855175"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "1.0183918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-25",
+      "poll_avg": "2.0014184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "7.1118288"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "56.855175"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "1.0183918"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-24",
+      "poll_avg": "2.0014184"
+    },
+    {
+      "candidate_name": "Sanders",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "7.1148863"
+    },
+    {
+      "candidate_name": "Clinton",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "56.826729"
+    },
+    {
+      "candidate_name": "Webb",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.0141435"
+    },
+    {
+      "candidate_name": "O'Malley",
+      "state": "Louisiana",
+      "forecastdate": "2015-09-23",
+      "poll_avg": "1.9989684"
+    }
+  ],
+  "polls": [
+    {
+      "id": "50082",
+      "population": "lv",
+      "pollId": "36526",
+      "cycle": "2016",
+      "sampleSize": "865",
+      "state": "LA",
+      "officeType": "U.S. President",
+      "pollsterId": "270",
+      "pollster": "Magellan Strategies",
+      "startDate": "2016-03-01",
+      "endDate": "2016-03-01",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://thehayride.com/wp-content/uploads/2016/03/LA-PRESPRIM-030116-TOPLINES.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1456961580,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "61.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "14.0"
+        }
+      ],
+      "weight": ".6219951510429382"
+    },
+    {
+      "id": "49364",
+      "population": "lv",
+      "pollId": "36358",
+      "cycle": "2016",
+      "sampleSize": "548",
+      "state": "LA",
+      "officeType": "U.S. President",
+      "pollsterId": "383",
+      "pollster": "Public Policy Polling",
+      "startDate": "2016-02-14",
+      "endDate": "2016-02-16",
+      "methodology": "Automated Phone",
+      "tracking": null,
+      "url": "http://www.publicpolicypolling.com/pdf/2015/March2016PrimariesPollingProject.pdf",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1455708960,
+      "votingAnswers": [
+        {
+          "choice": "Clinton",
+          "pct": "60.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "29.0"
+        }
+      ],
+      "weight": ".0265979897230864"
+    },
+    {
+      "id": "43351",
+      "population": "lv",
+      "pollId": "34754",
+      "cycle": "2016",
+      "sampleSize": "800",
+      "state": "LA",
+      "officeType": "U.S. President",
+      "pollsterId": "98",
+      "pollster": "Clarus Research Group",
+      "startDate": "2015-09-20",
+      "endDate": "2015-09-23",
+      "methodology": "Live Phone",
+      "tracking": null,
+      "url": "http://www.wwltv.com/longform/news/politics/2015/09/30/wwl-tvadvocate-poll-ben-carson-the-favorite-of-states-republicans/73115256/",
+      "stage": "primary",
+      "party": "DEM",
+      "created_at": 1445330880,
+      "votingAnswers": [
+        {
+          "choice": "Biden",
+          "pct": "22.0"
+        },
+        {
+          "choice": "Clinton",
+          "pct": "57.0"
+        },
+        {
+          "choice": "O'Malley",
+          "pct": "2.0"
+        },
+        {
+          "choice": "Sanders",
+          "pct": "7.0"
+        },
+        {
+          "choice": "Webb",
+          "pct": "1.0"
+        }
+      ],
+      "weight": "6.01970144233e-18"
+    }
+  ],
+  "distributions": [
+    {
+      "candidate": "Clinton",
+      "probs": {
+        "pollonly": [
+          "2.2490221e-11",
+          "4.8038251e-10",
+          "2.1489481e-09",
+          "5.2795355e-09",
+          "9.6252446e-09",
+          "1.4732498e-08",
+          "2.0125402e-08",
+          "2.5393994e-08",
+          "3.0226090e-08",
+          "3.4409297e-08",
+          "3.7819824e-08",
+          "4.0405759e-08",
+          "4.2170083e-08",
+          "4.3155161e-08",
+          "4.3429448e-08",
+          "4.3077065e-08",
+          "4.2189768e-08",
+          "4.0860304e-08",
+          "3.9178598e-08",
+          "3.7228855e-08",
+          "3.5087119e-08",
+          "3.2821177e-08",
+          "3.0489367e-08",
+          "2.8141255e-08",
+          "2.5817958e-08",
+          "2.3552399e-08",
+          "2.1370656e-08",
+          "1.9292015e-08",
+          "1.7330610e-08",
+          "1.5495580e-08",
+          "1.3791910e-08",
+          "1.2221528e-08",
+          "1.0783480e-08",
+          "9.4745900e-09",
+          "8.2902112e-09",
+          "7.2243487e-09",
+          "6.2700951e-09",
+          "5.4201061e-09",
+          "4.6666457e-09",
+          "4.0019126e-09",
+          "3.4181302e-09",
+          "2.9077911e-09",
+          "2.4636448e-09",
+          "2.0787974e-09",
+          "1.7468255e-09",
+          "1.4617659e-09",
+          "1.2182851e-09",
+          "1.0123336e-09",
+          "8.4375479e-10",
+          "7.2710932e-10",
+          "7.3353129e-10",
+          "1.1442152e-09",
+          "2.9849236e-09",
+          "9.7923856e-09",
+          "3.3153238e-08",
+          "1.0918293e-07",
+          "3.4499232e-07",
+          "1.0427551e-06",
+          "3.0128763e-06",
+          "8.3197856e-06",
+          ".000021951897",
+          ".000055326564",
+          ".00013313926",
+          ".00030573027",
+          ".00066944305",
+          ".0013965179",
+          ".0027724353",
+          ".0052313539",
+          ".0093682287",
+          ".01589434",
+          ".025497889",
+          ".03858785",
+          ".054945301",
+          ".073390789",
+          ".091638759",
+          ".10654167",
+          ".11481033",
+          ".11407244",
+          ".10386837",
+          ".086063914",
+          ".064363137",
+          ".043028235",
+          ".025424359",
+          ".013100539",
+          ".0057928371",
+          ".0021558795",
+          ".00065951812",
+          ".00016107247",
+          ".000030280047",
+          "4.1829549e-06",
+          "3.9984852e-07",
+          "2.4421261e-08",
+          "8.5483998e-10",
+          "1.4703560e-11",
+          "9.8920912e-14",
+          "2.2206308e-16",
+          "1.7063993e-21",
+          "1.0037643e-22",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          "1.2514140e-11",
+          "9.9895973e-11",
+          "2.5587810e-10",
+          "4.4268900e-10",
+          "6.3440841e-10",
+          "8.1543150e-10",
+          "9.7704500e-10",
+          "1.1149656e-09",
+          "1.2277226e-09",
+          "1.3155910e-09",
+          "1.3799080e-09",
+          "1.4226081e-09",
+          "1.4459280e-09",
+          "1.4522108e-09",
+          "1.4437758e-09",
+          "1.4228436e-09",
+          "1.3914963e-09",
+          "1.3516305e-09",
+          "1.3049669e-09",
+          "1.2530473e-09",
+          "1.1972204e-09",
+          "1.1386803e-09",
+          "1.0784484e-09",
+          "1.0174065e-09",
+          "9.5630637e-10",
+          "8.9576924e-10",
+          "8.3632096e-10",
+          "7.7837570e-10",
+          "7.2227946e-10",
+          "6.6829514e-10",
+          "6.1661570e-10",
+          "5.6738958e-10",
+          "5.2070986e-10",
+          "4.7662441e-10",
+          "4.3515505e-10",
+          "3.9628895e-10",
+          "3.5998571e-10",
+          "3.2619205e-10",
+          "2.9483352e-10",
+          "2.6582525e-10",
+          "2.3907049e-10",
+          "2.1447429e-10",
+          "1.9195150e-10",
+          "1.7147916e-10",
+          "1.5328190e-10",
+          "1.3844854e-10",
+          "1.3100528e-10",
+          "1.4456006e-10",
+          "2.2277985e-10",
+          "5.0019011e-10",
+          "1.3760156e-09",
+          "3.9930095e-09",
+          "1.1508483e-08",
+          "3.2346108e-08",
+          "8.8210612e-08",
+          "2.3312742e-07",
+          "5.9698351e-07",
+          "1.4813602e-06",
+          "3.5622927e-06",
+          "8.3021778e-06",
+          ".000018751045",
+          ".000041038111",
+          ".000087013599",
+          ".00017868746",
+          ".00035524904",
+          ".00068341393",
+          ".0012713429",
+          ".0022853089",
+          ".0039658337",
+          ".0066369455",
+          ".010698088",
+          ".016585359",
+          ".024688333",
+          ".035219144",
+          ".048041973",
+          ".062503971",
+          ".077331677",
+          ".090675086",
+          ".10036507",
+          ".10438349",
+          ".10146207",
+          ".09158951",
+          ".076209024",
+          ".057931431",
+          ".039803803",
+          ".024400629",
+          ".013135974",
+          ".0060893339",
+          ".0023713866",
+          ".00075175537",
+          ".00018620859",
+          ".000034127635",
+          "4.2963402e-06",
+          "3.3446409e-07",
+          "1.3790926e-08",
+          "2.3641611e-10",
+          "1.1168864e-12",
+          "6.6641429e-16",
+          "1.5396846e-20",
+          "0"
+        ]
+      }
+    },
+    {
+      "candidate": "Sanders",
+      "probs": {
+        "pollonly": [
+          ".0017651631",
+          ".0075418903",
+          ".011155552",
+          ".012128857",
+          ".011573481",
+          ".010316898",
+          ".0088359145",
+          ".0073771337",
+          ".0060543274",
+          ".004908971",
+          ".0039454177",
+          ".0031513076",
+          ".0025134457",
+          ".0020441394",
+          ".0018421892",
+          ".002208319",
+          ".0037880996",
+          ".0076274639",
+          ".014972292",
+          ".026733624",
+          ".04278386",
+          ".061482552",
+          ".079816535",
+          ".094230741",
+          ".10180617",
+          ".10122328",
+          ".093084566",
+          ".079517633",
+          ".063344873",
+          ".047215708",
+          ".033027075",
+          ".021736749",
+          ".013491183",
+          ".0079123406",
+          ".0043927561",
+          ".0023122956",
+          ".0011557826",
+          ".00054942811",
+          ".00024885105",
+          ".00010767071",
+          ".00004470053",
+          ".000017958175",
+          "7.0988726e-06",
+          "2.8494283e-06",
+          "1.2215999e-06",
+          "5.9186863e-07",
+          "3.3231356e-07",
+          "2.1064795e-07",
+          "1.4353981e-07",
+          "1.0112873e-07",
+          "7.2089385e-08",
+          "5.1477024e-08",
+          "3.6665856e-08",
+          "2.6004907e-08",
+          "1.8350278e-08",
+          "1.2877712e-08",
+          "8.9845136e-09",
+          "6.2298016e-09",
+          "4.2917940e-09",
+          "2.9365941e-09",
+          "1.9949193e-09",
+          "1.3450040e-09",
+          "8.9961127e-10",
+          "5.9665700e-10",
+          "3.9221390e-10",
+          "2.5540192e-10",
+          "1.6465479e-10",
+          "1.0503001e-10",
+          "6.6243837e-11",
+          "4.1281041e-11",
+          "2.5396695e-11",
+          "1.5411389e-11",
+          "9.2152857e-12",
+          "5.4239564e-12",
+          "3.1385864e-12",
+          "1.7831013e-12",
+          "9.9307390e-13",
+          "5.4126045e-13",
+          "2.8815977e-13",
+          "1.4950530e-13",
+          "7.5398800e-14",
+          "3.6875003e-14",
+          "1.7412577e-14",
+          "7.9097436e-15",
+          "3.4424097e-15",
+          "1.4259820e-15",
+          "5.6816471e-16",
+          "2.0052871e-16",
+          "6.6842904e-17",
+          "2.2280968e-17",
+          "1.1140484e-17",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0"
+        ],
+        "kitchen": [
+          ".00060636475",
+          ".0011828825",
+          ".0011994631",
+          ".0010638543",
+          ".00089905661",
+          ".00074372435",
+          ".00061023026",
+          ".00051009003",
+          ".00049045903",
+          ".00071095163",
+          ".0015575786",
+          ".0037237939",
+          ".008142191",
+          ".015698394",
+          ".026798625",
+          ".040993903",
+          ".056876771",
+          ".072339632",
+          ".085107118",
+          ".093328498",
+          ".096009389",
+          ".09316168",
+          ".085664965",
+          ".07494469",
+          ".062594824",
+          ".050058234",
+          ".038429447",
+          ".028383171",
+          ".020207116",
+          ".013890523",
+          ".0092327213",
+          ".0059413984",
+          ".003705696",
+          ".0022422401",
+          ".0013173174",
+          ".00075199071",
+          ".00041738321",
+          ".00022539448",
+          ".00011850535",
+          ".000060714941",
+          ".000030349696",
+          ".000014831832",
+          "7.1109894e-06",
+          "3.3654042e-06",
+          "1.5893149e-06",
+          "7.6243253e-07",
+          "3.8137924e-07",
+          "2.0503921e-07",
+          "1.2112636e-07",
+          "7.8699379e-08",
+          "5.5152956e-08",
+          "4.0595413e-08",
+          "3.0694569e-08",
+          "2.3498998e-08",
+          "1.8066455e-08",
+          "1.3888878e-08",
+          "1.0653027e-08",
+          "8.1431910e-09",
+          "6.1994534e-09",
+          "4.6986077e-09",
+          "3.5439722e-09",
+          "2.6594538e-09",
+          "1.9849038e-09",
+          "1.4729626e-09",
+          "1.0864259e-09",
+          "7.9617074e-10",
+          "5.7946697e-10",
+          "4.1868470e-10",
+          "3.0017377e-10",
+          "2.1343274e-10",
+          "1.5042009e-10",
+          "1.0501195e-10",
+          "7.2569423e-11",
+          "4.9605355e-11",
+          "3.3511423e-11",
+          "2.2353031e-11",
+          "1.4706167e-11",
+          "9.5315622e-12",
+          "6.0777897e-12",
+          "3.8068754e-12",
+          "2.3381711e-12",
+          "1.4053421e-12",
+          "8.2463024e-13",
+          "4.7109278e-13",
+          "2.6115666e-13",
+          "1.3993989e-13",
+          "7.2141105e-14",
+          "3.5571308e-14",
+          "1.6656650e-14",
+          "7.3407568e-15",
+          "3.0083605e-15",
+          "1.1285074e-15",
+          "3.8013925e-16",
+          "1.1215598e-16",
+          "2.6798329e-17",
+          "4.9626535e-18",
+          "9.9253071e-19",
+          "0",
+          "0",
+          "0"
+        ]
+      }
+    }
+  ]
+}
