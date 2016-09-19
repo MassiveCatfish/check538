@@ -61,19 +61,13 @@
           selectedColor: null,
           hoverColor: '#C9DFAF',
           onRegionClick: function(event, code, region){
-			console.log("Hello");
-			console.log(event);
-			console.log("code");
-			console.log(code);
-			console.log("region");
-			console.log(region);
             $.post(
 				"#",
-				{'a':code,'b':code,'c':region,   'csrfmiddlewaretoken': '{{ csrf_token }}',},
+				{'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
 				function(data, status){
 					// do something with returned data
 					$('#candidateName').html(data.candidate);
-              
+                    $('#stateChosen').html(" in " +data.stateChosen);
                     // Graphing the lines 
 
                     var plot = $.plot("#predictWiseHistoryGraph", 
@@ -86,6 +80,10 @@
                                 show: true
                             }
                         },
+                        yaxis: {
+                            min: -10,
+                            max: 110
+                        }
                     });
 
                     
