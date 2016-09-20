@@ -9,6 +9,7 @@
 <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="{% static 'check538.css' %}" />
 <style type="text/css">
 .jumbotron {
     background: #532f8c;
@@ -114,9 +115,9 @@
                         [totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus] =JSON.parse("[" + eachCandidate.investmentDataPlus + "]");
                 
                         // do something with returned data
-                        $('#graphsDemocrat').append('<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span>'+
+                        $('#graphsDemocrat').append('<div class="candidateSection"><h3><span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+
                         "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+". The maximum potential loss[info icon] could be up to $"+totalRiskPoll+".</div>"+
-                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div>"
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div></div>"
                         );
                         
                         // Graphing the lines 
@@ -177,9 +178,9 @@
                         
                 
                         // do something with returned data
-                        $('#graphsRepublican').append('<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span>'+
+                        $('#graphsRepublican').append('<div class="candidateSection"><h3><span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+
                         "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+". The maximum potential loss[info icon] could be up to $"+totalRiskPoll+".</div>"+
-                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div>"
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div></div>"
                         );
                         
                         // Graphing the lines 

@@ -1,0 +1,14 @@
+#vmapDemocrat, #vmapRepublican {
+    width: 550px; 
+    height: 370px;
+}
+
+.candidateSection {
+    margin: 5px;
+}
+.eachGraph {
+    width: 550px;
+    height: 350px;
+    /*position: relative;
+    left: -40px;*/
+}
