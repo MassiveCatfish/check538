@@ -65,27 +65,38 @@
 				"#",
 				{'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
 				function(data, status){
-					// do something with returned data
-					$('#candidateName').html(data.candidate);
-                    $('#stateChosen').html(" in " +data.stateChosen);
-                    // Graphing the lines 
-
-                    var plot = $.plot("#predictWiseHistoryGraph", 
-                        data.graphs, {
-                        series: {
-                            lines: {
-                                show: true
+                    // Clear previous charts
+                     $('#graphsForDemocrats').html("");
+                
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i]
+                
+                        // do something with returned data
+                        $('#graphsForDemocrats').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsForDemocrats'), 
+                            eachCandidate.graphs, {
+                            series: {
+                                lines: {
+                                    show: true
+                                },
+                                points: {
+                                    show: true
+                                }
                             },
-                            points: {
-                                show: true
+                            yaxis: {
+                                min: -10,
+                                max: 110
                             }
-                        },
-                        yaxis: {
-                            min: -10,
-                            max: 110
-                        }
-                    });
-
+                        });
+                        
+                    }    
                     
 				}
 			);

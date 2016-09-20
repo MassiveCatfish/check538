@@ -16,6 +16,10 @@ from time import mktime
 
 import os
 
+pollHistory = []
+kitchenHistory = []
+PWHistory = []
+
 #read and load all files from 538
 SITE_ROOT = os.path.realpath(os.path.dirname(__file__))
 AL_D_json=open(os.path.join(SITE_ROOT, "static", "AL_D.json")).read()
@@ -409,7 +413,7 @@ dataNameListPW = ['IA_R', 'NH_R', 'SC_R', 'NV_R', 'AL_R', 'AK_R', 'AR_R', 'GA_R'
 'HI_R', 'ID_R', 'MI_R', 'MS_R', 'DC_R', 'FL_R', 'IL_R', 'MO_R', 'NC_R', 'OH_R',
 'AZ_R', 'UT_R', 'IA_D', 'NH_D', 'NV_D', 'SC_D', 'AL_D', 'AR_D', 'CO_D', 'GA_D',
 'MA_D', 'MN_D', 'OK_D', 'TN_D', 'TX_D', 'VT_D', 'VA_D', 'KS_D', 'LA_D', 'NE_D',
-'ME_D', 'MI_D', 'MS_D', 'FL_D', 'IL_D', 'MO_D', 'NC_D', 'OH_D', 'AZ_D', 'UH_D',
+'ME_D', 'MI_D', 'MS_D', 'FL_D', 'IL_D', 'MO_D', 'NC_D', 'OH_D', 'AZ_D', 'UT_D',
 'ID_D', 'AK_D', 'HI_D', 'WA_D', 'WI_R', 'WI_D', 'WY_D', 'NY_R', 'NY_D', 'CT_R',
 'DE_R', 'MD_R', 'PA_R', 'RI_R', 'CT_D', 'DE_D', 'MD_D', 'PA_D', 'RI_D', 'IN_R',
 'NE_R', 'WV_R', 'IN_D', 'WV_D', 'KY_D', 'OR_D', 'OR_R', 'WA_R', 'CA_R', 'MT_R',
@@ -764,73 +768,7 @@ def listAdd (listA, listB):
     return listC
 
 
-#saves the graphs of each candidate through time for every state
-#this function only works for 538 results
-        
-def GetPlots(state, candidate, pollHistory, kitchenHistory, PWHistory):
-    In538 = state in dataNameList538
-    InPW = state in dataNameListPW
 
-    threeGraphs = {'candidate':candidate, 'graphs':[]}
-    
-    if InPW:
-        i = dataNameListPW.index(state)
-        if candidate in PWHistory[i][0]:
-            j = PWHistory[i][0].index(candidate)
-            threeGraphs['graphs'].append({'data': PWHistory[i][j+1], 'label':'PredictWise', 'color':'red'})
-            #(tPW, vPW) = tupleIntoLst2(PWHistory[i][j+1])
-            #plt.plot(tPW, vPW, 'r-')
-    #plt.title(str(state)+' '+str(candidate))
-    
-    if In538:
-        i = dataNameList538.index(state)
-        if candidate in pollHistory[i][0]:
-            j = pollHistory[i][0].index(candidate)
-            threeGraphs['graphs'].append({'data': pollHistory[i][j+1], 'label':'538 Poll Only', 'color':'blue'})
-            threeGraphs['graphs'].append({'data': kitchenHistory[i][j+1], 'label':'538 Poll Plus', 'color':'green'})
-            #(tpoll,vpoll) =  tupleIntoLst2(pollHistory[i][j+1])
-            #(tkitchen,vkitchen) =  tupleIntoLst2(kitchenHistory[i][j+1])
-            #plt.plot(tpoll,vpoll, 'b-', tkitchen, vkitchen, 'g-')
-        
-
-    
-
-    ########print "Return if betting according to poll: "+str(calculateGains(state,candidate,pollHistory,PWHistory))
-    #########print "Return if betting according to kitchen: "+str(calculateGains(state,candidate,kitchenHistory,PWHistory))
-    #plt.show()
-    #print "HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII"
-    #print threeGraphs
-    #print "NTTTTTTTTTTTTTTTTTTTTTTT"
-    return threeGraphs
-
-def GetPlotsNoPlot(state, candidate, pollHistory, kitchenHistory, PWHistory):
-    In538 = state in dataNameList538
-    InPW = state in dataNameListPW
-
-    if In538:
-        i = dataNameList538.index(state)
-        if candidate in pollHistory[i][0]:
-            j = pollHistory[i][0].index(candidate)
-            #print i
-            #print j
-            (tpoll,vpoll) =  tupleIntoLst2(pollHistory[i][j+1])
-            (tkitchen,vkitchen) =  tupleIntoLst2(kitchenHistory[i][j+1])
-            ########plt.plot(tpoll,vpoll, 'b-', tkitchen, vkitchen, 'g-')
-        
-
-    if InPW:
-        i = dataNameListPW.index(state)
-        if candidate in PWHistory[i][0]:
-            j = PWHistory[i][0].index(candidate)
-            #print i
-            #print j
-            (tPW, vPW) = tupleIntoLst2(PWHistory[i][j+1])
-            #########plt.plot(tPW, vPW, 'r-')
-    #########plt.title(str(state)+' '+str(candidate))
-
-    ########print "Return if betting according to poll: "+str(calculateGains(state,candidate,pollHistory,PWHistory))
-    #########print "Return if betting according to kitchen: "+str(calculateGains(state,candidate,kitchenHistory,PWHistory))
-    ##########plt.show()
 
 
 
@@ -925,29 +863,66 @@ def AllStateGain(pollHistory, kitchenHistory, PWHistory):
     print "All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
     return "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk))+" and All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
     
-def main4(stateChosen, partyChosen):
+def populateHistories():
     pollWhite = []
     pollBlack = []
     kitchenWhite = []
     kitchenBlack = []
-    pollHistory = []
-    kitchenHistory = []
+    
+    #declare global when modifying
+    global pollHistory
+    global kitchenHistory
     for x in dataList:
         adddata(pollHistory, pollWhite, pollBlack, kitchenHistory, kitchenWhite, kitchenBlack, x)
     ##########
     pwWhite = []
     pwBlack = []
-    PWHistory = []
+    global PWHistory
     for x in dataListp:
         adddataPW(PWHistory, pwWhite, pwBlack, x)
     ########
+
+def getStatePartyCandidates(stateChosen, partyChosen):
+    candidateList = []
+    stateAndParty = stateChosen+'_'+partyChosen
+    if stateAndParty in dataNameList538:
+        i = dataNameList538.index(stateAndParty)
+        for candidate in pollHistory[i][0]:
+            if candidate not in candidateList:
+                candidateList.append(candidate)
+    if stateAndParty in dataNameListPW:
+        i = dataNameListPW.index(stateAndParty)
+        for candidate in PWHistory[i][0]:
+            if candidate not in candidateList:
+                candidateList.append(candidate)
+    return candidateList
     
-    stateAbbrev = stateChosen + '_' + partyChosen
-    candidate = 'Clinton'
-    #GetPlotsNoPlot(stateAbbrev, candidate, pollHistory, kitchenHistory, PWHistory)
-    return GetPlots(stateAbbrev, candidate, pollHistory, kitchenHistory, PWHistory)
-    #return AllStateGain(pollHistory, kitchenHistory, PWHistory)
-        
+#saves the graphs of each candidate through time for every state
+def GetPlotsForCandidate(stateChosen, partyChosen, candidate):
+    stateAndParty = stateChosen + '_' + partyChosen
+
+    In538 = stateAndParty in dataNameList538
+    InPW = stateAndParty in dataNameListPW
+
+    threeGraphs = {'candidate':candidate, 'graphs':[]}
+    
+    if InPW:
+        i = dataNameListPW.index(stateAndParty)
+        if candidate in PWHistory[i][0]:
+            j = PWHistory[i][0].index(candidate)
+            threeGraphs['graphs'].append({'data': PWHistory[i][j+1], 'label':'PredictWise', 'color':'red'})
+    
+    if In538:
+        i = dataNameList538.index(stateAndParty)
+        if candidate in pollHistory[i][0]:
+            j = pollHistory[i][0].index(candidate)
+            threeGraphs['graphs'].append({'data': pollHistory[i][j+1], 'label':'538 Poll Only', 'color':'blue'})
+            threeGraphs['graphs'].append({'data': kitchenHistory[i][j+1], 'label':'538 Poll Plus', 'color':'green'})
+
+    return threeGraphs
+
+
+# DJANGO VIEWS
 # Create your views here.
 def index(request):
     # return HttpResponse('Hello from Python!')
@@ -963,9 +938,29 @@ def index(request):
     if request.method == 'POST':
         stateChosen = request.POST['stateChosen'].upper()
         partyChosen = request.POST['partyChosen']
-        response_data = main4(stateChosen, partyChosen)
-        response_data['stateChosen'] = request.POST['stateLongName']
+        
+        # populate histories if histories are empty
+        if not pollHistory:
+            populateHistories()
+                
+        response_data = {}
+        response_data['stateLongName'] = request.POST['stateLongName']
+        response_data['allCandidatesData'] = []
+        
+        # get all candidates for the state and party chosen
+        targetCandidates = getStatePartyCandidates(stateChosen, partyChosen)
+        #targetCandidates = ['Clinton']
+        
+        # get data for each candidate
+        for candidate in targetCandidates:
+            response_data['allCandidatesData'].append(GetPlotsForCandidate(stateChosen, partyChosen, candidate))
+        
+        print "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+        print response_data
+        print "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+        
         return HttpResponse(json.dumps(response_data), content_type="application/json")
+        
     else:
         return render(request, 'index.html', {"message":"hi there ", "mydata":data})
 

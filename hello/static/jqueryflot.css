@@ -1,6 +1,6 @@
-#predictWiseHistoryGraph {
-    width: 850px;
-    height: 450px;
+.eachGraph {
+    width: 600px;
+    height: 350px;
 }
 
 * {	padding: 0; margin: 0; vertical-align: top; }
