@@ -52,73 +52,6 @@
 <script language="javascript" type="text/javascript" src="{% static 'jqueryflotaxislabels.js' %}"></script>
 <script type="text/javascript">
 
-$(function() {
-
-    var sin = [],
-        cos = [];
-
-    for (var i = 0; i < 14; i += 0.5) {
-        sin.push([i, Math.sin(i)]);
-        cos.push([i, Math.cos(i)]);
-    }
-
-    // Graphing the lines and set line options
-    var plot = $.plot("#placeholder", [
-        { data: sin, label: "sin(x)"},
-        { data: {{mydata}}, label: "cos(x)"}
-    ], {
-        series: {
-            lines: {
-                show: true
-            },
-            points: {
-                show: true
-            }
-        },
-        grid: {
-            hoverable: true,
-            clickable: true
-        },
-    });
-
-    $("<div id='tooltip'></div>").css({
-        position: "absolute",
-        display: "none",
-        border: "1px solid #fdd",
-        padding: "2px",
-        "background-color": "#fee",
-        opacity: 0.80
-    }).appendTo("body");
-
-    $("#placeholder").bind("plothover", function (event, pos, item) {
-
-        if ($("#enablePosition:checked").length > 0) {
-            var str = "(" + pos.x.toFixed(2) + ", " + pos.y.toFixed(2) + ")";
-            $("#hoverdata").text(str);
-        }
-
-        if ($("#enableTooltip:checked").length > 0) {
-            if (item) {
-                var x = item.datapoint[0].toFixed(2),
-                    y = item.datapoint[1].toFixed(2);
-
-                $("#tooltip").html(item.series.label + " of " + x + " = " + y)
-                    .css({top: item.pageY+5, left: item.pageX+5})
-                    .fadeIn(200);
-            } else {
-                $("#tooltip").hide();
-            }
-        }
-    });
-
-    $("#placeholder").bind("plotclick", function (event, pos, item) {
-        if (item) {
-            $("#clickdata").text(" - click point " + item.dataIndex + " in " + item.series.label);
-            plot.highlight(item.series, item.datapoint);
-        }
-    });
-
-});
 </script>
 
 <!-- jQuery Map jqvmap -->
@@ -128,113 +61,164 @@ $(function() {
 <script type="text/javascript" src="{% static 'jqueryvmapusa.js' %}" charset="utf-8"></script>
 
 <script>
-  jQuery(document).ready(function () {
-  
-    // One for Democrats
-    jQuery('#vmapDemocrat').vectorMap({
-      map: 'usa_en',
-      enableZoom: false,
-      showTooltip: true,
-      selectedColor: null,
-      hoverColor: '#C9DFAF',
-      onRegionClick: function(event, code, region){
-        $.post(
-            "#",
-            {'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
-            function(data, status){
-                // Clear previous charts
-                 $('#graphsDemocrat').html("");
-            
-                stateLongName = data.stateLongName
-                allCandidatesData = data.allCandidatesData
-            
-                // loop through each candidate in chosen state and party
-                for (i = 0; i < allCandidatesData.length; i++){
-            
-                    eachCandidate = allCandidatesData[i]
-            
-                    // do something with returned data
-                    $('#graphsDemocrat').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
-                    
-                    // Graphing the lines 
-                    var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsDemocrat'), 
-                        eachCandidate.graphs, {
-                        series: {
-                            lines: {
-                                show: true
-                            },
-                            points: {
-                                show: true
-                            }
-                        },
-                        xaxis: {
-                            mode: "time"
-                        },
-                        yaxis: {
-                            min: -10,
-                            max: 110
-                        }
-                    });
-                    
-                }    
-                
+    var eachGraphOptions = {
+        series: {
+            lines: {
+                show: true
+            },
+            points: {
+                show: true
             }
-        );
-      }
+        },
+        grid: {
+            hoverable: false
+        },
+        xaxis: {
+            mode: "time"
+        },
+        yaxis: {
+            min: -10,
+            max: 110
+        }
+    }
+
+    jQuery(document).ready(function () {
+
+        // One for Democrats
+        jQuery('#vmapDemocrat').vectorMap({
+        map: 'usa_en',
+        enableZoom: false,
+        showTooltip: true,
+        selectedColor: null,
+        hoverColor: '#C9DFAF',
+        onRegionClick: function(event, code, region){
+            $.post(
+                "#",
+                {'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
+                function(data, status){
+                    // Clear previous charts
+                     $('#graphsDemocrat').html("");
+                
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i];
+                        
+                        // get explanation numbers data
+                        var totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll;
+                        [totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll] =JSON.parse("[" + eachCandidate.investmentDataPoll + "]");
+                        var totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus;
+                        [totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus] =JSON.parse("[" + eachCandidate.investmentDataPlus + "]");
+                
+                        // do something with returned data
+                        $('#graphsDemocrat').append('<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span>'+
+                        "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+". The maximum potential loss[info icon] could be up to $"+totalRiskPoll+".</div>"+
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div>"
+                        );
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsDemocrat'), 
+                            eachCandidate.graphs, eachGraphOptions);
+                        
+                    }    
+                    
+                }
+            );
+            
+            /*
+            // buggy hovering, works on other side, none if just predict wise
+            $(".eachGraph").bind("plothover", function(event, pos,item){
+                if (item){
+                    var x = item.datapoint[0].toFixed(2),
+                    y = item.datapoint[1].toFixed(2);
+                    var date = new Date(x);
+                    $("#tooltip").html(y+"% at "+x)
+                    .css({top: item.pageY+5, left: item.pageX+5})
+                    .fadeIn(200);
+                } else {
+                    $("#tooltop").hide();
+                }
+            });
+            */
+        }
     });
     
     // One for Republicans
     jQuery('#vmapRepublican').vectorMap({
-      map: 'usa_en',
-      enableZoom: false,
-      showTooltip: true,
-      selectedColor: null,
-      hoverColor: '#C9DFAF',
-      onRegionClick: function(event, code, region){
-        $.post(
-            "#",
-            {'stateLongName':region, 'stateChosen':code, 'partyChosen':'R','csrfmiddlewaretoken': '{{ csrf_token }}',},
-            function(data, status){
-                // Clear previous charts
-                 $('#graphsRepublican').html("");
-            
-                stateLongName = data.stateLongName
-                allCandidatesData = data.allCandidatesData
-            
-                // loop through each candidate in chosen state and party
-                for (i = 0; i < allCandidatesData.length; i++){
-            
-                    eachCandidate = allCandidatesData[i]
-            
-                    // do something with returned data
-                    $('#graphsRepublican').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
-                    
-                    // Graphing the lines 
-                    var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
-                        eachCandidate.graphs, {
-                        series: {
-                            lines: {
-                                show: true
-                            },
-                            points: {
-                                show: true
-                            }
-                        },
-                        xaxis: {
-                            mode: "time"
-                        },
-                        yaxis: {
-                            min: -10,
-                            max: 110
-                        }
-                    });
-                    
-                }    
+        map: 'usa_en',
+        enableZoom: false,
+        showTooltip: true,
+        selectedColor: null,
+        hoverColor: '#C9DFAF',
+        onRegionClick: function(event, code, region){
+            $.post(
+                "#",
+                {'stateLongName':region, 'stateChosen':code, 'partyChosen':'R','csrfmiddlewaretoken': '{{ csrf_token }}',},
+                function(data, status){
+                    // Clear previous charts
+                     $('#graphsRepublican').html("");
                 
-            }
-        );
-      }
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i];
+                        
+                        // get explanation numbers data
+                        var totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll;
+                        [totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll] =JSON.parse("[" + eachCandidate.investmentDataPoll + "]");
+                        var totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus;
+                        [totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus] =JSON.parse("[" + eachCandidate.investmentDataPlus + "]");
+                        
+                
+                        // do something with returned data
+                        $('#graphsRepublican').append('<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span>'+
+                        "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+". The maximum potential loss[info icon] could be up to $"+totalRiskPoll+".</div>"+
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+". The maximum potential loss[info icon] could be up to $"+totalRiskPlus+".</div>"
+                        );
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
+                            eachCandidate.graphs, eachGraphOptions);
+                        
+                        $("<div id='tooltip'></div>").css({
+                            position: "absolute",
+                            display: "none",
+                            border: "1px solid #fdd",
+                            padding: "2px",
+                            "background-color": "#fee",
+                            opacity: 0.80
+                        }).appendTo("body");
+                        
+                    }    
+                    
+                }
+            );
+
+            /*
+            // buggy hovering, works on other side, none if just predict wise
+            $(".eachGraph").bind("plothover", function(event, pos,item){
+                if (item){
+                    var x = item.datapoint[0].toFixed(2),
+                    y = item.datapoint[1].toFixed(2);
+                    var date = new Date(x);
+                    $("#tooltip").html(y+"% at "+x)
+                    .css({top: item.pageY+5, left: item.pageX+5})
+                    .fadeIn(200);
+                } else {
+                    $("#tooltop").hide();
+                }
+            });
+            */
+        }
     });
+     
+    
   });
   
 </script>

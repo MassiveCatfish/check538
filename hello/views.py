@@ -619,7 +619,8 @@ def adddata(pollHistory, pollWhite, pollBlack, kitchenHistory, kitchenWhite, kit
         curState = dataname["model"][i]["state"]
         curPoll = dataname["model"][i]["pollonly_winprob"]
         curKitchen = dataname["model"][i]["kitchen_winprob"]
-        curTime = mktime(datetime.strptime(dataname["model"][i]["forecastdate"],'%Y-%m-%d').timetuple())
+        # +43200 to add half a day for 538 so that predictions occur mid-day, to be fair
+        curTime = mktime(datetime.strptime(dataname["model"][i]["forecastdate"],'%Y-%m-%d').timetuple())+43200
         
         #adding data to white and black lists
         if (Winners[curState][0]==curCandidate) or (Winners[curState][1]==curCandidate):
@@ -782,87 +783,104 @@ def findNeighbors(value, arr):
 
 
 
-
-def calculateGains(state, candidate, seriesA, seriesB):
+# - returns floats: totalSpent, totalReturn, totalRisk, totalTrades 
+# 
+def calculateGains(stateAndParty, candidate, seriesA, seriesB):
     #buying or selling at market price B (PW), using price A(538) as reference
 
-    In538 = state in dataNameList538
-    InPW = state in dataNameListPW
+    In538 = stateAndParty in dataNameList538
+    InPW = stateAndParty in dataNameListPW
 
     if In538:
-        i = dataNameList538.index(state)
+        i = dataNameList538.index(stateAndParty)
         if candidate not in seriesA[i][0]:
-            return ((float(0),float(0),float(0)))
+            return ((float(0),float(0),float(0),0))
         j = seriesA[i][0].index(candidate)
         (tA,vA) =  tupleIntoLst2(seriesA[i][j+1])
 
     if InPW:
-        i = dataNameListPW.index(state)
+        i = dataNameListPW.index(stateAndParty)
         if candidate not in seriesB[i][0]:
-            return ((float(0),float(0),float(0)))
+            return ((float(0),float(0),float(0),0))
         j = seriesB[i][0].index(candidate)
         (tB, vB) = tupleIntoLst2(seriesB[i][j+1])
 
-
-    
-    dataname = dataList[dataNameList538.index(state)]
+    if not (In538 and InPW):
+        return [0,0,0,0]
+        
+    dataname = dataList[dataNameList538.index(stateAndParty)]
     curstate = dataname["model"][0]["state"]
     totalSpent = float(0)
     totalReturn = float(0)
     totalRisk = float(0)  #maximum possible money you can lose
+    totalTrades = 0 #total number of trades
     if candidate in Winners[curstate]:
         finalPrice = float(100)
     else:
         finalPrice = float(0)
+
+    minMargin = 0 #minimum margin before buying and selling
     
     for time in tB:
         if time > min(tA) and time < max(tA):
             (curLeftIndex, curRightIndex) = findNeighbors(time, tA)
             curPrice538 = vA[curLeftIndex]
             curPricePW = vB[tB.index(time)]
-            if curPricePW <= curPrice538: #buy at PW
-                totalSpent += curPricePW 
+            if curPricePW <= curPrice538-minMargin: #buy at PW
+                totalSpent += curPricePW
                 totalReturn += finalPrice
                 totalRisk += curPricePW
-            else:  #sell at PW
+                totalTrades += 1
+            if curPricePW >= curPrice538+minMargin:  #sell at PW
                 totalSpent += finalPrice
                 totalReturn += curPricePW
                 totalRisk += float(100)
+                totalTrades += 1
             
-    return (totalSpent, totalReturn, totalRisk)
+    return [totalSpent, totalReturn, totalRisk, totalTrades]
     
-
 
 def AllStateGain(pollHistory, kitchenHistory, PWHistory):
     totalPollSpent = float(0)
     totalPollReturn = float(0)
     totalPollRisk = float(0)
+    totalPollTrades = 0
     totalKitchenSpent = float(0)
     totalKitchenReturn = float(0)
     totalKitchenRisk = float(0)
+    totalKitchenTrades = 0
     for i in range(len(dataNameList538)):
-        state = dataNameList538[i]
-        #print state
+        stateAndParty = dataNameList538[i]
+        print stateAndParty
         for candidate in pollHistory[i][0]:
-            #print candidate
-            (curPollSpent, curPollReturn, curPollRisk) = calculateGains(state, candidate, pollHistory, PWHistory)
-            normPoll = curPollRisk+0.00001 #normalization constant for each (state,candidate) pair, add .01 to avoid division by 0normalization
-            totalPollSpent += curPollSpent/normPoll
-            totalPollReturn += curPollReturn/normPoll
-            totalPollRisk += curPollRisk/normPoll
-            (curKitchenSpent, curKitchenReturn, curKitchenRisk) = calculateGains(state, candidate, kitchenHistory, PWHistory)
-            normKitchen = curKitchenRisk+0.00001 #normalization constant for each (state,candidate) pair, add .01 to avoid division by 0normalization
-            totalKitchenSpent += curKitchenSpent/normKitchen
-            totalKitchenReturn += curKitchenReturn/normKitchen
-            totalKitchenRisk += curKitchenRisk/normKitchen
-            #print "------------"
-            #print str(state)+" "+str(candidate)+" Poll investment: " + str((curPollSpent, curPollReturn, curPollRisk))
-            #print str(state)+" "+str(candidate)+" Kitchen investment: " + str((curKitchenSpent, curKitchenReturn, curKitchenRisk))
+            print candidate
+            (curPollSpent, curPollReturn, curPollRisk, curPollTrades) = calculateGains(stateAndParty, candidate, pollHistory, PWHistory)
+            if curPollTrades == 0:
+                curPollWeight = 0
+            else:
+                curPollWeight = math.log(curPollTrades)
+            normPoll = curPollRisk+0.00001 #normalization constant for each (stateAndParty,candidate) pair, add .01 to avoid division by 0normalization
+            totalPollSpent += curPollSpent/normPoll*curPollWeight
+            totalPollReturn += curPollReturn/normPoll*curPollWeight
+            totalPollRisk += curPollRisk/normPoll*curPollWeight
+            totalPollTrades += curPollTrades
+            (curKitchenSpent, curKitchenReturn, curKitchenRisk, curKitchenTrades) = calculateGains(stateAndParty, candidate, kitchenHistory, PWHistory)
+            if curKitchenTrades == 0:
+                curKitchenWeight = 0
+            else:
+                curKitchenWeight = math.log(curKitchenTrades)
+            normKitchen = curKitchenRisk+0.00001 #normalization constant for each (stateAndParty,candidate) pair, add .01 to avoid division by 0normalization
+            totalKitchenSpent += curKitchenSpent/normKitchen*curKitchenWeight
+            totalKitchenReturn += curKitchenReturn/normKitchen*curKitchenWeight
+            totalKitchenRisk += curKitchenRisk/normKitchen*curKitchenWeight
+            totalKitchenTrades += curKitchenTrades
+            print "------------"
+            print str(stateAndParty)+" "+str(candidate)+" Poll investment: " + str((curPollSpent, curPollReturn, curPollRisk, curPollTrades))
+            print str(stateAndParty)+" "+str(candidate)+" Kitchen investment: " + str((curKitchenSpent, curKitchenReturn, curKitchenRisk, curKitchenTrades))
     print "$$$$$$$$$$$$$$$$$$$"
-    print "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk))
-    print "All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
-    return "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk))+" and All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk))
-    
+    print "All states poll investment: "+ str((totalPollSpent,totalPollReturn,totalPollRisk,totalPollTrades))
+    print "All states kitchen investment: "+ str((totalKitchenSpent,totalKitchenReturn,totalKitchenRisk,totalKitchenTrades))
+
 def populateHistories():
     pollWhite = []
     pollBlack = []
@@ -903,14 +921,15 @@ def getStatePartyCandidates(stateChosen, partyChosen):
 def toMillisecs(pointsArray):
     return [[p[0]*1000, p[1]] for p in pointsArray]
     
-#saves the graphs of each candidate through time for every state
-def GetPlotsForCandidate(stateChosen, partyChosen, candidate):
+# saves the graphs of each candidate through time for every state
+# saves investment gains for each candidate
+def GetDataForCandidate(stateChosen, partyChosen, candidate):
     stateAndParty = stateChosen + '_' + partyChosen
 
     In538 = stateAndParty in dataNameList538
     InPW = stateAndParty in dataNameListPW
 
-    threeGraphs = {'candidate':candidate, 'graphs':[]}
+    threeGraphs = {'candidate':candidate, 'graphs':[], 'investmentDataPoll':[], 'investmentDataPlus':[]}
     
     if InPW:
         i = dataNameListPW.index(stateAndParty)
@@ -925,22 +944,16 @@ def GetPlotsForCandidate(stateChosen, partyChosen, candidate):
             threeGraphs['graphs'].append({'data': toMillisecs(pollHistory[i][j+1]), 'label':'538 Poll Only', 'color':'blue'})
             threeGraphs['graphs'].append({'data': toMillisecs(kitchenHistory[i][j+1]), 'label':'538 Poll Plus', 'color':'green'})
 
+    threeGraphs['investmentDataPoll'].append(calculateGains(stateAndParty, candidate, pollHistory, PWHistory))
+    threeGraphs['investmentDataPlus'].append(calculateGains(stateAndParty, candidate, kitchenHistory, PWHistory))
+            
     return threeGraphs
 
 
 # DJANGO VIEWS
 # Create your views here.
 def index(request):
-    # return HttpResponse('Hello from Python!')
 
-    #return render(request, 'index.html')
-
-    #r = requests.get('http://httpbin.org/status/418')
-    #print r.text
-    #return HttpResponse('<pre>' + r.text + '</pre>')
-    data = [(0,1),(1,0.5),(2,1)]
-    data = [[1.0, -0.1438889007523827], [3.0, 2.5472694918443874], [5.0, 0.06880272011524013]]
-    
     if request.method == 'POST':
         stateChosen = request.POST['stateChosen'].upper()
         partyChosen = request.POST['partyChosen']
@@ -959,7 +972,7 @@ def index(request):
         
         # get data for each candidate
         for candidate in targetCandidates:
-            response_data['allCandidatesData'].append(GetPlotsForCandidate(stateChosen, partyChosen, candidate))
+            response_data['allCandidatesData'].append(GetDataForCandidate(stateChosen, partyChosen, candidate))
         
         #print "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
         #print response_data
@@ -968,7 +981,7 @@ def index(request):
         return HttpResponse(json.dumps(response_data), content_type="application/json")
         
     else:
-        return render(request, 'index.html', {"message":"hi there ", "mydata":data})
+        return render(request, 'index.html')
 
 def db(request):
 
