@@ -896,6 +896,12 @@ def getStatePartyCandidates(stateChosen, partyChosen):
             if candidate not in candidateList:
                 candidateList.append(candidate)
     return candidateList
+
+# Flot time must be in epoch time, but in milliseconds
+# Use this to convert epoch time from secs to milliseconds
+# pointsArray is in structure of [[t0,y0],[t1,y1],[t2,y2]]
+def toMillisecs(pointsArray):
+    return [[p[0]*1000, p[1]] for p in pointsArray]
     
 #saves the graphs of each candidate through time for every state
 def GetPlotsForCandidate(stateChosen, partyChosen, candidate):
@@ -910,14 +916,14 @@ def GetPlotsForCandidate(stateChosen, partyChosen, candidate):
         i = dataNameListPW.index(stateAndParty)
         if candidate in PWHistory[i][0]:
             j = PWHistory[i][0].index(candidate)
-            threeGraphs['graphs'].append({'data': PWHistory[i][j+1], 'label':'PredictWise', 'color':'red'})
+            threeGraphs['graphs'].append({'data': toMillisecs(PWHistory[i][j+1]), 'label':'PredictWise', 'color':'red'})
     
     if In538:
         i = dataNameList538.index(stateAndParty)
         if candidate in pollHistory[i][0]:
             j = pollHistory[i][0].index(candidate)
-            threeGraphs['graphs'].append({'data': pollHistory[i][j+1], 'label':'538 Poll Only', 'color':'blue'})
-            threeGraphs['graphs'].append({'data': kitchenHistory[i][j+1], 'label':'538 Poll Plus', 'color':'green'})
+            threeGraphs['graphs'].append({'data': toMillisecs(pollHistory[i][j+1]), 'label':'538 Poll Only', 'color':'blue'})
+            threeGraphs['graphs'].append({'data': toMillisecs(kitchenHistory[i][j+1]), 'label':'538 Poll Plus', 'color':'green'})
 
     return threeGraphs
 
