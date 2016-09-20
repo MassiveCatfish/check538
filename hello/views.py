@@ -955,9 +955,9 @@ def index(request):
         for candidate in targetCandidates:
             response_data['allCandidatesData'].append(GetPlotsForCandidate(stateChosen, partyChosen, candidate))
         
-        print "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
-        print response_data
-        print "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+        #print "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+        #print response_data
+        #print "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
         
         return HttpResponse(json.dumps(response_data), content_type="application/json")
         

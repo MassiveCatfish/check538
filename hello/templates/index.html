@@ -5,44 +5,48 @@
 
 <div class="jumbotron text-center">
   <div class="container">
-    <h1>Homepage</h1>
+    <h1>563 vs the Predictions Market Analysis</h1>
   </div>
 </div>
 <div class="container">
-  <div>
-    <h3><span class="glyphicon glyphicon-info-sign"></span> Data Analysis Graphs</h3>
-	More to come
-	hee {{message}} tee
-	{{mydata}}
-	
-	<hr />
-	Click on a state
-	<br />
-    <div id="vmap" style="width: 300px; height: 200px;"></div>
-    <div>Probability of Winning vs Time (epoch time for now)</div>
-    <div id="graphsForDemocrats"></div>
-    <div id=""></div>
-	<br />
-	End Working here 
-	<hr />
-	<div class="demo-container">
-			<div id="placeholder" class="demo-placeholder"></div>
-		</div>
+  <div class="row">
+    <div class="col-md-6">
+        <h3>Democratic Primaries</h3>
+        <div id="vmapDemocrat" style="width: 500px; height: 350px;"></div>
+        <div>Probability of Winning vs Time (epoch time for now)</div>
+        <div id="graphsDemocrat"></div>
+        <br />
+        End Working here 
+        <hr />
+        More to come
+        hee {{message}} tee
+        {{mydata}}
+        
+        <hr />
+        <div class="demo-container">
+            <div id="placeholder" class="demo-placeholder"></div>
+        </div>
 
-		<p>One of the goals of Flot is to support user interactions. Try pointing and clicking on the points.</p>
+        <p>One of the goals of Flot is to support user interactions. Try pointing and clicking on the points.</p>
 
-		<p>
-			<label><input id="enablePosition" type="checkbox" checked="checked"></input>Show mouse position</label>
-			<span id="hoverdata"></span>
-			<span id="clickdata"></span>
-		</p>
+        <p>
+            <label><input id="enablePosition" type="checkbox" checked="checked"></input>Show mouse position</label>
+            <span id="hoverdata"></span>
+            <span id="clickdata"></span>
+        </p>
 
-		<p>A tooltip is easy to build with a bit of jQuery code and the data returned from the plot.</p>
+        <p>A tooltip is easy to build with a bit of jQuery code and the data returned from the plot.</p>
 
-		<p><label><input id="enableTooltip" type="checkbox" checked="checked"></input>Enable tooltip</label></p>
-	</div>
+        <p><label><input id="enableTooltip" type="checkbox" checked="checked"></input>Enable tooltip</label></p>
 
-	<p>You don't have to do much to get an attractive plot.  Create a placeholder, make sure it has dimensions (so Flot knows at what size to draw the plot), then call the plot function with your data.</p>
+        <p>You don't have to do much to get an attractive plot.  Create a placeholder, make sure it has dimensions (so Flot knows at what size to draw the plot), then call the plot function with your data.</p>
+    </div>
+    <div class="col-md-6">
+        <h3>Republican Primaries</h3>
+        <div id="vmapRepublican" style="width: 500px; height: 350px;"></div>
+        <div>Probability of Winning vs Time (epoch time for now)</div>
+        <div id="graphsRepublican"></div>
+    </div>
   </div>
 </div>  
 {% endblock %}

@@ -54,7 +54,9 @@
 
     <script>
       jQuery(document).ready(function () {
-        jQuery('#vmap').vectorMap({
+      
+        // One for Democrats
+        jQuery('#vmapDemocrat').vectorMap({
           map: 'usa_en',
           enableZoom: false,
           showTooltip: true,
@@ -66,7 +68,7 @@
 				{'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
 				function(data, status){
                     // Clear previous charts
-                     $('#graphsForDemocrats').html("");
+                     $('#graphsDemocrat').html("");
                 
                     stateLongName = data.stateLongName
                     allCandidatesData = data.allCandidatesData
@@ -77,10 +79,60 @@
                         eachCandidate = allCandidatesData[i]
                 
                         // do something with returned data
-                        $('#graphsForDemocrats').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
+                        $('#graphsDemocrat').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
                         
                         // Graphing the lines 
-                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsForDemocrats'), 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsDemocrat'), 
+                            eachCandidate.graphs, {
+                            series: {
+                                lines: {
+                                    show: true
+                                },
+                                points: {
+                                    show: true
+                                }
+                            },
+                            yaxis: {
+                                min: -10,
+                                max: 110
+                            }
+                        });
+                        
+                    }    
+                    
+				}
+			);
+          }
+        });
+        
+        // One for Republicans
+        jQuery('#vmapRepublican').vectorMap({
+          map: 'usa_en',
+          enableZoom: false,
+          showTooltip: true,
+          selectedColor: null,
+          hoverColor: '#C9DFAF',
+          onRegionClick: function(event, code, region){
+            $.post(
+				"#",
+				{'stateLongName':region, 'stateChosen':code, 'partyChosen':'R','csrfmiddlewaretoken': '{{ csrf_token }}',},
+				function(data, status){
+                    // Clear previous charts
+                     $('#graphsRepublican').html("");
+                
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i]
+                
+                        // do something with returned data
+                        $('#graphsRepublican').append('<span id="candidateName">'+eachCandidate.candidate+'</span> in <span id="stateChosen">'+stateLongName+'</span>');
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
                             eachCandidate.graphs, {
                             series: {
                                 lines: {
