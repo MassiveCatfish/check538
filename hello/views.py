@@ -983,6 +983,12 @@ def index(request):
     else:
         return render(request, 'index.html')
 
+def info(request):
+    return render(request, 'info.html')
+    
+def sourcecode(request):
+    return render(request, 'sourcecode.html')
+    
 def db(request):
 
     greeting = Greeting()
