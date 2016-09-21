@@ -3,6 +3,56 @@
 
 {% block content %}
 
+<script type="text/javascript">
+    var graphOptions = {
+        series: {
+            lines: {
+                show: true
+            },
+            points: {
+                show: false
+            }
+        },
+        grid: {
+            hoverable: false
+        },
+        xaxis: {
+            min: 0,
+            max: 100
+        }
+    }
+    
+    var diagonalLine = [], horizontalLine = [];
+    
+    for (var i = 0; i < 100; i ++){
+        diagonalLine.push([i,i]);
+        horizontalLine.push([i,0]);
+    }
+
+    $(document).ready(function () {
+        $(function() {
+            $.plot("#pollData",
+                [ 
+                    {'data':{{ chartsData.0 }}, 'label':' 538 Poll Only', 'color':'blue'},
+                    {'data':{{ chartsData.2 }}, 'label':' 538 Poll Plus', 'color':'green'},
+                    {'data':{{ chartsData.4 }}, 'label':' PredictWise', 'color':'red'},
+                    {'data': diagonalLine, 'label':' Theoretical'}
+                ],
+                graphOptions
+            );
+            $.plot("#pollDiffData",
+                [
+                    {'data':{{ chartsData.1 }}, 'label':' 538 Poll Only Deviation', 'color':'blue'},
+                    {'data':{{ chartsData.3 }}, 'label':' 538 Poll Plus Deviation', 'color':'green'},
+                    {'data':{{ chartsData.5 }}, 'label':' PredictWise Deviation', 'color':'red'},
+                    {'data': horizontalLine, 'label':' Theoretical'}
+                ],
+                graphOptions
+            );
+        });
+    });
+</script>
+
 <div class="jumbotron text-center">
   <div class="container">
     <h1>538 vs the Predictions Market Analysis</h1>
@@ -12,10 +62,130 @@
 <div class="container">
   <div class="row">
   
-  
-    blah blah
-    
-    
+    <div id="pollData"></div>
+    <div id="pollDiffData"></div>
+
+<pre>    
+    =========================
+Introduction:
+
+TL;DR: How accurate is 538? Is 538 poll-plus actually better than poll-only? Is 538 more accurate than the predictions market?
+
+##############
+
+
+538 is well-known for its accurate predictions on political elections. But exactly how accurate is it? It would be nice to answer this question quantitatively. In most cases, 538 uses two models to give predictions: one “poll-only” model, and a “poll-plus” model which accounts for factors in addition to polls such as demographics and historical trends. Which model is actually better?
+
+In addition to 538, people often look to prediction markets for political forecasts as well. While 538's 50/50 perfect score during the 2012 presidential election is impressive, he could have gotten 49/50 if he simply bet according to prediction markets (intrade was the most popular site back then). The only toss-up was Florida.
+
+It is interesting to see how accurate 538 is compared to predictions markets.
+
+We would like to answer the following questions:
+
+1. Which 538 model is more accurate? Poll-only or poll-plus?
+2. How does 538 compare to prediction markets?
+
+================================
+Source of data:
+
+
+TL;DR: We use the primary results for both parties. Naively there are 100 data sets available (50 states and two parties each). In reality, 2 states (CO and ND) held no GOP primary. In addition, WY_R, VT_R are missing from PW, but it does include the data for the Republican Puerto Rico primary. For a total of 97. 538 on the other hand are missing more data, they only gave predictions for 59 states.
+
+
+################
+
+We will use the data from the 2016 presidential primaries for both parties. The prediction market data is taken from predictwise, which is in turn derived from betfair, a website where people can actually bet money against each other on the outcome of each primary. There are 99 such data available. Two states did not have a GOP primary, and we have one additional result from Puerto Rico. On the 538 side, there are 61 results available. The are fewer here because 538 did not choose to give a prediction on states with insufficient polling data.
+
+538 is currently making predictions for every state on the outcome of the general election. Therefore, there will be another surge of data after 11/8. On the prediction market side, there are similar data for each state on predictit.
+
+We are not only looking at the end result of the prediction, we will take into account the entire history of each predicted probability of winning.
+
+=========================================
+Data and metric
+
+
+TL;DR:
+
+1. If a predictor is truly accurate, the property we want to test is that: among all instances when it says something will happen with probability P, the actual probability of the events actually happening should be close to P. Note that this includes all instances in the past when the predictor made the prediction at P, so a single chart could in principle provide many instances at P for testing.
+
+Given an event, and a chart of predicted values over time that this event will occur. We will represent the predicted data on a line from 0% to 100%. If the event actually occurred, we mark white dots at all values that the predictor made a prediction. If the event didn't actually occur, we color the dots black instead. Over many events and many dots, we should see a trend where close to the 0% side of the line, there should be more black dots, and there should be more white dots closer to the 100% end of the line.
+
+We can plot the percentage of white dots in a small segment of the line. As we move the segment towards the right, we expect to see the percentage of white dots increase. For an ideal predictor over many events, we expect a linear increase of the white dot percentage from 0% to 100% as we move across. We plot 
+
+2.We can perform another test as follows:
+
+We will pretend to buy/sell contracts on the predictions market based on the 538 prediction. If the 538 prediction is lower, we buy, otherwise we sell. The expected result depends on the assumptions as follows:
+
+If 538 is truly accurate, and PW is not: then on average we would expect a positive return.
+
+If PW is truly accurate: then no matter what 538 says, we expect to neither gain or lose. In fact we can buy/sell based on random coin tosses and still expect to make exact 0 profit, since the PW values are already truly accurate, there's no room to make positive expected returns.
+
+#################################
+
+In order to decide which predictor is more accurate, we need a metric. Let's describe it here.
+
+All the history of the winning probability counts – For each state, both 538 and predictwise gives a prediction periodically. Usually one per day for 538, and multiple per day for predictwise, as the market price for each prediction changes from moment to moment. We will use all of them.
+
+Expected behavior for an accurate predictor. If at any given moment the predictor says something will happen with 60% probability, then, if the predictor is accurate, among all instances of such a predictor giving a 60% prediction, the event will actually happen with close to 60% probability. This leads us to the following idea. Go through all the data and find all instances of the predictor giving a probability P of an event happening. Then calculate the actual result P'. An accurate predictor will have P' very close to P after sufficient amount of data.
+
+We can imagine we have a line segment marked from 0% to 100%. We first go through our first data set containing a history of predictions of an event. WOLOG let's say in the end it turns out this event actually happened. Then, every time this predictor gives a prediction of P%, we mark the spot on the line segment at P%. We will mark this point white if the event actually happened, and black if it didn't turn out to happen. We then do the same for all the data sets.
+
+After many many data sets, if the predictor is any good, then we expect the left end of the line segment (the part with low probability predictions) to be mostly black, while the right end is mostly white. There will also be a gradual transition from black to white as one moves from left to right.
+
+If we take a small slice of the line segment at, say, 60%, we will find a number of white points and black points. If the predictor is accurate, we expect to see roughly 60% white dots and 40% black dots. We can plot the deviation from the expected value across the line segment at any slice.
+
+Therefore, a good predictor should have deviation values that are close to 0, and no systematic trends.
+
+====================
+Subtleties
+
+In reality, simply weighing each point the same is not a good idea because some data sets for a particular state are a few orders of magnitude larger than others. If we choose a uniform weighing, then a few states' results will end up dominating the distribution of white/black points on the line segment. Therefore we need to choose a weighing scheme.
+
+Simply making each state results have the same combined total weight is also not good because some states have less than 10 data points, while others have several hundred. We compromise by choosing the use the log of the number of points as the total weight of each state. This choice is completely arbitrary.
+
+Another subtlety is the time data given by 538. Whilte PW has timestamped their data up to the minute, 538 does so only up to each day. If we naively convert to epoch time, it would make it appear that 538 made the prediction at 0:00am each day, which will make it look more advanced.
+
+================
+Result
+
+We were able to perform the analysis for 538poll, 538plus, and PW. Also, since PW results have more data sets than 538 (99 vs 61), we also choose to do the analysis of PW on the restricted subset of states that 538 chose to use. We will call this PW_restricted.
+
+We can clearly see that PW seems to have the smallest deviations from the expected value. While PW_restricted and 538plus are very similar. 538Poll is the worst.
+
+We looked at small neighborhoods around every 2% interval for a total of 50 intervals. We then calculate the mean and standard deviation of the difference to the expected result in these intervals. We get that:
+
+538poll: 2.94/16.88
+538plus: 1.48/12.95
+PW: 0.85/9.33
+PW_restricted 1.04/12.21
+
+However, it has to be mentioned that the amount of data we have is still not conclusive enough to provide a definitive answer to which predictor is the most accurate. So far PW is leading, but it could be simply due to having more data sets to work with. It would be interesting to see the results after the general election.
+
+==================
+Simulations:
+
+To get a better feel of what a “truly accurate” predictor (from now referred to as the oracle) behaves like. We can make predictions on the following game.
+
+We toss the coin 201 times, and after each toss, we give a prediction on the probability of heads coming up more than tails. Notice that this probability is exactly calculable. So our predictor is exactly accurate. Given sufficient number of trials, the predicted values at any slice will approach the true value.
+
+Indeed we see this behavior after a large number of trials. Additionally, for small number of trials (60-100), we can see how likely it is to have deviations as large as the ones given by 538 or predictwise. It does seem like the deviations from both 538/predictwise are a bit too large. This is reasonable because many of the states are not contested. We would simply have a line staying very close to 100% or 0%. Either way, it won't contribute to any data points in the middle. Thus, the true number of “useful” data sets is much smaller than 65/99.
+
+We can also use the simulated results to get a better idea on how the standard deviation is supposed to change as we do more trials, so we can assess whether the improved results on PW compared to 538 is solely due to having access to more data.
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+        
+
   </div>
 </div>  
 {% endblock %}

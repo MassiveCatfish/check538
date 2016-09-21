@@ -3,6 +3,180 @@
 
 {% block content %}
 
+
+<!-- jQuery Map jqvmap -->
+<link href="{% static 'jqvmap.css' %}" media="screen" rel="stylesheet" type="text/css"/>
+<!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+<script type="text/javascript" src="{% static 'jqueryvmap.js' %}"></script>
+<script type="text/javascript" src="{% static 'jqueryvmapusa.js' %}" charset="utf-8"></script>
+
+<!-- custom vmap and flot -->
+<script type="text/javascript">
+    var eachGraphOptions = {
+        series: {
+            lines: {
+                show: true
+            },
+            points: {
+                show: true
+            }
+        },
+        grid: {
+            hoverable: false
+        },
+        xaxis: {
+            mode: "time"
+        },
+        yaxis: {
+            min: -10,
+            max: 110
+        }
+    }
+
+    jQuery(document).ready(function () {
+
+    
+        // One for Democrats
+        jQuery('#vmapDemocrat').vectorMap({
+        map: 'usa_en',
+        enableZoom: false,
+        showTooltip: true,
+        selectedColor: null,
+        hoverColor: '#C9DFAF',
+        onRegionClick: function(event, code, region){
+            $.post(
+                "#",
+                {'stateLongName':region, 'stateChosen':code, 'partyChosen':'D','csrfmiddlewaretoken': '{{ csrf_token }}',},
+                function(data, status){
+                    // Clear previous charts
+                     $('#graphsDemocrat').html("");
+                
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i];
+                        
+                        // get explanation numbers data
+                        var totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll;
+                        [totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll] =JSON.parse("[" + eachCandidate.investmentDataPoll + "]");
+                        var totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus;
+                        [totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus] =JSON.parse("[" + eachCandidate.investmentDataPlus + "]");
+                
+                        // do something with returned data
+                        $('#graphsDemocrat').append('<div class="candidateSection"><h3><span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+
+                        "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+".</div>"+
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+".</div></div>"
+                        );
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsDemocrat'), 
+                            eachCandidate.graphs, eachGraphOptions);
+                        
+                    }    
+                    
+                }
+            );
+            
+            /*
+            // buggy hovering, works on other side, none if just predict wise
+            $(".eachGraph").bind("plothover", function(event, pos,item){
+                if (item){
+                    var x = item.datapoint[0].toFixed(2),
+                    y = item.datapoint[1].toFixed(2);
+                    var date = new Date(x);
+                    $("#tooltip").html(y+"% at "+x)
+                    .css({top: item.pageY+5, left: item.pageX+5})
+                    .fadeIn(200);
+                } else {
+                    $("#tooltop").hide();
+                }
+            });
+            */
+        }
+    });
+    
+    // One for Republicans
+    jQuery('#vmapRepublican').vectorMap({
+        map: 'usa_en',
+        enableZoom: false,
+        showTooltip: true,
+        selectedColor: null,
+        hoverColor: '#C9DFAF',
+        onRegionClick: function(event, code, region){
+            $.post(
+                "#",
+                {'stateLongName':region, 'stateChosen':code, 'partyChosen':'R','csrfmiddlewaretoken': '{{ csrf_token }}',},
+                function(data, status){
+                    // Clear previous charts
+                     $('#graphsRepublican').html("");
+                
+                    stateLongName = data.stateLongName
+                    allCandidatesData = data.allCandidatesData
+                
+                    // loop through each candidate in chosen state and party
+                    for (i = 0; i < allCandidatesData.length; i++){
+                
+                        eachCandidate = allCandidatesData[i];
+                        
+                        // get explanation numbers data
+                        var totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll;
+                        [totalSpentPoll, totalReturnPoll, totalRiskPoll, totalTradesPoll] =JSON.parse("[" + eachCandidate.investmentDataPoll + "]");
+                        var totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus;
+                        [totalSpentPlus, totalReturnPlus, totalRiskPlus, totalTradesPlus] =JSON.parse("[" + eachCandidate.investmentDataPlus + "]");
+                        
+                
+                        // do something with returned data
+                        $('#graphsRepublican').append('<div class="candidateSection"><h3><span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+
+                        "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+".</div>"+
+                        "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+".</div></div>"
+                        );
+                        
+                        // Graphing the lines 
+                        var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
+                            eachCandidate.graphs, eachGraphOptions);
+                        
+                        $("<div id='tooltip'></div>").css({
+                            position: "absolute",
+                            display: "none",
+                            border: "1px solid #fdd",
+                            padding: "2px",
+                            "background-color": "#fee",
+                            opacity: 0.80
+                        }).appendTo("body");
+                        
+                    }    
+                    
+                }
+            );
+
+            /*
+            // buggy hovering, works on other side, none if just predict wise
+            $(".eachGraph").bind("plothover", function(event, pos,item){
+                if (item){
+                    var x = item.datapoint[0].toFixed(2),
+                    y = item.datapoint[1].toFixed(2);
+                    var date = new Date(x);
+                    $("#tooltip").html(y+"% at "+x)
+                    .css({top: item.pageY+5, left: item.pageX+5})
+                    .fadeIn(200);
+                } else {
+                    $("#tooltop").hide();
+                }
+            });
+            */
+        }
+    });
+     
+    
+  });
+  
+</script>
+
+
+<!-- page template -->
 <div class="jumbotron text-center">
   <div class="container">
     <h1>538 vs the Predictions Market Analysis</h1>

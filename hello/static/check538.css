@@ -1,3 +1,14 @@
+/* all */
+
+
+/* move legend to left */
+.legend > div, .legend > table {
+    left: 35px;
+} 
+
+
+
+/* homepage */
 #vmapDemocrat, #vmapRepublican {
     width: 550px; 
     height: 370px;
@@ -11,4 +22,10 @@
     height: 350px;
     /*position: relative;
     left: -40px;*/
+}
+
+/* info.html */
+#pollData, #pollDiffData {
+    width: 700px;
+    height: 500px;
 }
