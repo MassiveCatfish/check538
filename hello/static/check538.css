@@ -1,5 +1,27 @@
 /* all */
 
+/*
+ * .expandsection is a div that whenever one
+ * hovers over it, the .moreinfo section is shown.
+ *
+ * The .hoverover can be added to let the user know
+ * that the section is expandable
+ */
+.expandsection{
+    background-color: #fce8da;
+    padding: 0 10px;
+}
+.expandsection .hoverover {
+    text-align: center;
+    font-style: italic;
+    cursor: pointer; cursor: hand;
+}
+.expandsection .moreinfo {
+    display: none;
+}
+.expandsection:hover .moreinfo {
+    display: inline;
+}
 
 /* move legend to left */
 .legend > div, .legend > table {
@@ -25,6 +47,21 @@
 }
 
 /* info.html */
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.infoPage h1 {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.infoPage h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 #pollData, #pollDiffData {
     width: 700px;
     height: 500px;

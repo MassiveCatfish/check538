@@ -56,36 +56,72 @@
 <div class="jumbotron text-center">
   <div class="container">
     <h1>538 vs the Predictions Market Analysis</h1>
-    <h2>Information</h2>
+    <h2>How accurate is 538?</h2>
   </div>
 </div>
-<div class="container">
+<div class="container infoPage">
   <div class="row">
   
-    <div id="pollData"></div>
-    <div id="pollDiffData"></div>
+    <div class="col-md-8 col-centered">
 
+        <article>
+            <p><b><a href="http://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a> is well-known for its accurate predictions on political elections. But exactly how accurate is it? To find out, we answer these 2 questions:</b></p>
+            
+            <h2>1. Which 538 model is more accurate? Poll-only or poll-plus?</h2>
+            
+            <p>538 uses two models to give predictions: a “poll-only” model and a “poll-plus” model which accounts for factors in addition to polls such as demographics and historical trends.</p>
+            
+            <p><i>We found out that poll-plus is indeed better. [link to data]</i></p>
+            
+            <h2>2. How does 538 compare to prediction markets?</h2>
+            
+            <p>In addition to 538, people often look to prediction markets for political forecasts as well. While 538's 50/50 perfect score during the 2012 presidential election is impressive, he could have gotten 49/50 if he simply bet according to prediction markets (intrade was the most popular site back then). The only toss-up was Florida.</p>
+            
+            <p><i>We found out that 538 fared no better than the prediction markets. [link to data]</i></p>
+
+        </article>
+            
+        <article>
+        
+            <h1>Data and Metrics</small></h1>
+            
+            <p>To answer both of these questions, we performed these tests:</p>
+            
+            <p>1. Brief explanation of the 2 charts on this page [link to data]</p>
+            
+            <p>2. Brief explanation of the primaries page [link to data]</p>
+            
+            <p>Brief summary of sources of data</p>
+            
+        </article>
+        
+        <article>
+        
+            <h1>Better Title for the First Test</h2>
+            
+            <p>Running through the data, we produced the following charts, which tells us <b>big takeaway from these charts</b></p>
+            
+            <div id="pollData"></div>
+            <div id="pollDiffData"></div>
+        
+            <p>TLDR of important results on how the answer question 1 and 2</p>
+        
+            <p>Additional brief information of source of data of these two charts</p>
+            
+            <div class="expandsection">
+                <p class="hoverover">Method details and Subtleties (hover to read)</p>
+                
+                <div class="moreinfo">
+        
+                    <p>Detailed info  blah</p>
+                </div>
+            </div>
+                    
+        
+        </article>
+        
+        
 <pre>    
-    =========================
-Introduction:
-
-TL;DR: How accurate is 538? Is 538 poll-plus actually better than poll-only? Is 538 more accurate than the predictions market?
-
-##############
-
-
-538 is well-known for its accurate predictions on political elections. But exactly how accurate is it? It would be nice to answer this question quantitatively. In most cases, 538 uses two models to give predictions: one “poll-only” model, and a “poll-plus” model which accounts for factors in addition to polls such as demographics and historical trends. Which model is actually better?
-
-In addition to 538, people often look to prediction markets for political forecasts as well. While 538's 50/50 perfect score during the 2012 presidential election is impressive, he could have gotten 49/50 if he simply bet according to prediction markets (intrade was the most popular site back then). The only toss-up was Florida.
-
-It is interesting to see how accurate 538 is compared to predictions markets.
-
-We would like to answer the following questions:
-
-1. Which 538 model is more accurate? Poll-only or poll-plus?
-2. How does 538 compare to prediction markets?
-
-================================
 Source of data:
 
 
@@ -185,7 +221,19 @@ We can also use the simulated results to get a better idea on how the standard d
 
 </pre>
         
-
+    </div>
   </div>
 </div>  
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84582463-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 {% endblock %}
