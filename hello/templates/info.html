@@ -55,7 +55,7 @@
 
 <div class="jumbotron text-center">
   <div class="container">
-    <h1>538 vs the Predictions Market Analysis</h1>
+    <h1>538 vs Prediction Markets</h1>
     <h2>How accurate is 538?</h2>
   </div>
 </div>
@@ -65,61 +65,105 @@
     <div class="col-md-8 col-centered">
 
         <article>
-            <p><b><a href="http://fivethirtyeight.com/" target="_blank">FiveThirtyEight</a> is well-known for its accurate predictions on political elections. But exactly how accurate is it? To find out, we answer these 2 questions:</b></p>
+            <p><b><a href="http://fivethirtyeight.com/" target="_blank">FiveThirtyEight (538)</a> is well-known for its accurate predictions on political elections. But exactly how accurate is it? To find out, we answer these 2 questions:</b></p>
             
             <h2>1. Which 538 model is more accurate? Poll-only or poll-plus?</h2>
             
             <p>538 uses two models to give predictions: a “poll-only” model and a “poll-plus” model which accounts for factors in addition to polls such as demographics and historical trends.</p>
             
-            <p><i>We found out that poll-plus is indeed better. [link to data]</i></p>
+            <p><i>Based on our limited data, poll-plus appears to be better so far. [link to data]</i></p>
             
             <h2>2. How does 538 compare to prediction markets?</h2>
             
-            <p>In addition to 538, people often look to prediction markets for political forecasts as well. While 538's 50/50 perfect score during the 2012 presidential election is impressive, he could have gotten 49/50 if he simply bet according to prediction markets (intrade was the most popular site back then). The only toss-up was Florida.</p>
+            <p>In addition to 538, people often look to prediction markets for political forecasts as well. While 538's 50/50 perfect score during the 2012 presidential election is impressive, he could have gotten 49/50 if he simply bet according to prediction markets (InTrade was the most popular site back then). The only toss-up was Florida.</p>
             
-            <p><i>We found out that 538 fared no better than the prediction markets. [link to data]</i></p>
+            <p><i>Based on our limited data, it appears 538 fared no better than the prediction markets. [link to data]</i></p>
 
         </article>
             
         <article>
         
-            <h1>Data and Metrics</small></h1>
+            <h1>Analytic Metrics</small></h1>
             
-            <p>To answer both of these questions, we performed these tests:</p>
+            <p>To answer the above questions, we performed the following tests.<br />
+            The prediction markets are consolidated by <a href="http://predictwise.com/faq/" target="_blank">PredictWise (PW)</a>.</p>
             
-            <p>1. Brief explanation of the 2 charts on this page [link to data]</p>
+            <p>Metric A. Whenever the predictor, be it 538 or PW, says some event will occur with probability P, what is the actual observed probability P'? If we plot P' against P, we expect a linear relationship P'=P for a perfect predictor given sufficient amount of data. We can tell how good the predictor is by observing how close it is to this line. [link to charts]</p>
             
-            <p>2. Brief explanation of the primaries page [link to data]</p>
+            <p>Metric B. Another more concrete way of evaluating 538's accuracy is to use the 538 values as a reference to bet in the prediction markets. At any given time when 538's predicted value is above PW's value, we will back [] the contract. Otherwise, we will lay [] the contract. [link to: https://betting.betfair.com/what-is-lay-betting.html for an explanation of back and lay] [link to data]</p>
             
-            <p>Brief summary of sources of data</p>
+            <p>The money spent and gained data below the state map summarizes you total win/loss if you had bet this way. We ignore any transaction costs or bid/ask spread.</p>
+        
+        </article>
+        
+        <article>
+            <h1>Data Sources</h1>
             
+            <p> [[??? BOTH A AND B?? ]]We took our data from the 2016 primaries for both parties. PW has almost all the data sets, missing only a few, whereas 538 only gave predictions for about 60% of them due to lack of polling data, Of course, the second metric we use can only be applied to the states where both the 538 and PW data are available.</p> 
+
         </article>
         
         <article>
         
-            <h1>Better Title for the First Test</h2>
+            <h1>Metric A. Comparing accuracy of predictions</h1>
             
-            <p>Running through the data, we produced the following charts, which tells us <b>big takeaway from these charts</b></p>
+            <p>Running through the data, we produced the following charts, which tells us <b>PW seems to fit closest to the theoretical line, followed by 538 poll-plus, and 538 poll-only comes last.</b></p>
             
             <div id="pollData"></div>
             <div id="pollDiffData"></div>
         
             <p>TLDR of important results on how the answer question 1 and 2</p>
         
-            <p>Additional brief information of source of data of these two charts</p>
             
             <div class="expandsection">
                 <p class="hoverover">Method details and Subtleties (hover to read)</p>
                 
                 <div class="moreinfo">
-        
-                    <p>Detailed info  blah</p>
+
+<pre>                
+Metric A:
+The first plot graphs P' (the observed probability) vs P(the predicted probability). The theoretical result is a straight line from (0,0) to (100%, 100%). As seen, the 538 poll-only seems to fluctuate the most wildly from the theoretical line, followed by 538 poll-plus, then PW. However, it has to be noted that PW enjoys the benefit of having more data sets. If we restrict PW to those states that 538 have a prediction on (this graph is not show in the figure), then the results of PW-restricted are similar to that of 538 poll-plus.
+Note: we have chosen to weight each data set differently. If we treat each data point equally regardless of which set they come from, certain state results dominate since they have a lot more points than others. For 538 it ranges wildly from only a few dozen data points to more than 700. On the other hand, if we weight each dataset equally, regardless of how many data points are in it, we also over-represent certain predictions. To resolve this, we arbitrarily chose to use log(length) as the weight.
+
+The second graph shows basically the same thing except as a deviation from the theoretical value.
+If we compute the mean and standard deviation of the fluctuations, we find:
+538 poll-only:  mean: 2.94/ standard deviation: 16.88
+538 poll-plus: mean: 1.48/ standard deviation: 12.95
+PW: mean: 0.85/ standard deviation: 9.33
+PW-restricted: mean: 1.04/ standard deviation 12.21
+
+Metric B:
+We use the 538 value as a guide to decide whether we back or lay a contract on PW.
+As an example: Suppose Clinton-Win on PW is currently at 70%, but on 538 it is 82%. In this case, if we believe 538 to be more accurate than PW, we would consider Clinton-Win to be under-priced. Therefore we choose to back (buy) this contract at the PW market value, which is $70. If she ultimately wins, we get $100, if she loses, we get $0.
+On the flip side, if 538 reports Clinton-Win at anything below 70%, then we lay Clinton on PW. The lay contract will cost us $30. If Clinton wins, we get $0, if she loses, we get $100.
+We have ignored all transaction costs and bid/ask spread in this calculation.
+We have summed up the gain/loss from every state where it is applicable. Again weighted by log(length) of the number of times where 538 and PW report values at the same time. We get that:
+
+*******************************************
+If you bet according to 538 poll-only: For every 305.3 dollar spent, you gain 348.1 back. For a net profit of 42.8.
+If you bet according to 538 poll-plus: For every 343.9 dollar spent, you gain 327.9 back. For a net loss of 16.0
+******************************************
+
+However, it has to be noted that this second metric doesn't necessarily imply 538 poll-only is more accurate than 538 poll-plus, or even more accurate than PW.
+Note that this metric is a bit subtle:
+If 538 is truly accurate, and PW is not, then betting on PW with guidance from 538 will result in gains on average.
+However, if PW is truly accurate, then no matter how good/bad 538 is, you will gain exactly 0 profit on average. The reasoning being that if PW is already priced accurately, then there's no way for you to beat the “already true” odds.
+It is also possible for PW to be “more accurate” than 538 according to the first metric, while still allowing 538 to make money off of PW on average.
+As a contrived example, suppose both 538 and PW are betting on the outcome of a fair coin. In this case, the true odds is always 50%. Imagine if PW always predicts 49%, while 538 predicts 60%. Even though PW is more accurate by the first metric, 538 will end up making money because it signals us to buy the contract at 49%, resulting in gains on average.
+However, all of our conclusions should be taken with a grain of salt because we still don't have enough data. We are hoping to continue update the results of the analysis after the general election is over, where we expect the total number of data points for 538 to more than double.
+</pre>
                 </div>
             </div>
                     
         
         </article>
+     
+        <article>
         
+            <div class="expandsection">
+                <p class="hoverover">First writeup (hover to read)</p>
+                
+                <div class="moreinfo">
         
 <pre>    
 Source of data:
@@ -207,19 +251,12 @@ We toss the coin 201 times, and after each toss, we give a prediction on the pro
 Indeed we see this behavior after a large number of trials. Additionally, for small number of trials (60-100), we can see how likely it is to have deviations as large as the ones given by 538 or predictwise. It does seem like the deviations from both 538/predictwise are a bit too large. This is reasonable because many of the states are not contested. We would simply have a line staying very close to 100% or 0%. Either way, it won't contribute to any data points in the middle. Thus, the true number of “useful” data sets is much smaller than 65/99.
 
 We can also use the simulated results to get a better idea on how the standard deviation is supposed to change as we do more trials, so we can assess whether the improved results on PW compared to 538 is solely due to having access to more data.
-
-
-
-
-
-
-
-
-
-
-
-
 </pre>
+                </div>
+            </div>
+                    
+        
+        </article>
         
     </div>
   </div>
