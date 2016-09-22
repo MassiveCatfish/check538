@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+
+<div class="jumbotron text-center">
+  <div class="container">
+    <h1>538 vs the Predictions Market Analysis</h1>
+    <h2>Simulations with Coin Flips</h2>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+  
+   <p>Still making improvements - coin flip simulations page coming soon.</p>
+   
+   <p>If you really can't wait, you can see the <a href="https://github.com/MassiveCatfish/check538/blob/master/hello/python_original/simulation.py" target="_blank">finished Python simulation code on Github.</a></p>
+    
+  </div>
+</div>  
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84582463-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+{% endblock %}

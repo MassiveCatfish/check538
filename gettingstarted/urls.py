@@ -14,5 +14,6 @@ urlpatterns = [
     url(r'^db', hello.views.db, name='db'),
     url(r'^admin/', include(admin.site.urls)),
     url(r'^info/', hello.views.info, name='info'),
+    url(r'^simulations/', hello.views.simulations, name='simulations'),
     url(r'^sourcecode/', hello.views.sourcecode, name='sourcecode')
 ]

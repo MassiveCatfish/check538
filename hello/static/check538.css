@@ -1,5 +1,10 @@
 /* all */
 
+.jumbotron {
+    background: #ffffff;
+    color: black;
+}
+
 /*
  * .expandsection is a div that whenever one
  * hovers over it, the .moreinfo section is shown.

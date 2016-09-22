@@ -1000,6 +1000,9 @@ def info(request):
     chartsData = [pollData, pollDiffData, kitchenData, kitchenDiffData, pwData, pwDiffData]
 
     return render(request, 'info.html', {'chartsData': chartsData})
+
+def simulations(request):
+    return render(request, 'simulations.html')
     
 def sourcecode(request):
     return render(request, 'sourcecode.html')
