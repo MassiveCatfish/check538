@@ -84,10 +84,30 @@
                                 candidateNameHTML += '<i class="fa fa-trophy" aria-hidden="true"></i>';
                             }
                             
-                            $('#graphsDemocrat').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+
-                            "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+".</div>"+
-                            "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+".</div></div>"
-                            );
+                            textSummary = "";
+                            
+                            // Did you win?
+                            pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
+                            if (pollsonlyDiff > 0){
+                                // polls-only won
+                                textSummary += "<div class='graphExplain youWon'>You made <b>$"+pollsonlyDiff+"</b> with 538 polls-only!! You spent $"+totalSpentPoll+" and got a return of $"+totalReturnPoll+" from "+totalTradesPoll+" trades</div>";
+                            } else {
+                                // polls-only lost
+                                pollsonlyDiff = pollsonlyDiff*-1;
+                                textSummary += "<div class='graphExplain youLost'>You lost <b>$"+pollsonlyDiff+"</b> with 538 polls-only. You spent $"+totalSpentPoll+" and got a return of $"+totalReturnPoll+" from "+totalTradesPoll+" trades</div>";
+                            }
+                            
+                            pollsplusDiff = totalReturnPlus - totalSpentPlus;
+                            if (pollsplusDiff > 0){
+                                // polls-plus won
+                                textSummary += "<div class='graphExplain youWon'>You made <b>$"+pollsplusDiff+"</b> with 538 polls-plus!! You spent $"+totalSpentPlus+" and got a return of $"+totalReturnPlus+" from "+totalTradesPlus+" trades</div>";
+                            } else {
+                                // polls-plus lost
+                                pollsplusDiff = pollsplusDiff*-1;
+                                textSummary += "<div class='graphExplain youLost'>You lost <b>$"+pollsplusDiff+"</b> with 538 polls-plus. You spent $"+totalSpentPlus+" and got a return of $"+totalReturnPlus+" from "+totalTradesPlus+" trades</div>";
+                            }
+                            
+                            $('#graphsDemocrat').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+textSummary);
                             
                             // Graphing the lines 
                             var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsDemocrat'), 
@@ -171,10 +191,30 @@
                                 candidateNameHTML += '<i class="fa fa-trophy" aria-hidden="true"></i>';
                             }
                             
-                            $('#graphsRepublican').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3> '+
-                            "<div class='graphExplain'>If always betting according to 538 poll, you would execute "+totalTradesPoll+" number of trades, spend $"+totalSpentPoll+", and get a return of $"+totalReturnPoll+".</div>"+
-                            "<div class='graphExplain'>If always betting according to 538 poll plus [info icon], you would execute "+totalTradesPlus+" number of trades, spend $"+totalSpentPlus+", and get a return of $"+totalReturnPlus+".</div></div>"
-                            );
+                            textSummary = "";
+                            
+                            // Did you win?
+                            pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
+                            if (pollsonlyDiff > 0){
+                                // polls-only won
+                                textSummary += "<div class='graphExplain youWon'>You made <b>$"+pollsonlyDiff+"</b> with 538 polls-only!! You spent $"+totalSpentPoll+" and got a return of $"+totalReturnPoll+" from "+totalTradesPoll+" trades</div>";
+                            } else {
+                                // polls-only lost
+                                pollsonlyDiff = pollsonlyDiff*-1;
+                                textSummary += "<div class='graphExplain youLost'>You lost <b>$"+pollsonlyDiff+"</b> with 538 polls-only. You spent $"+totalSpentPoll+" and got a return of $"+totalReturnPoll+" from "+totalTradesPoll+" trades</div>";
+                            }
+                            
+                            pollsplusDiff = totalReturnPlus - totalSpentPlus;
+                            if (pollsplusDiff > 0){
+                                // polls-plus won
+                                textSummary += "<div class='graphExplain youWon'>You made <b>$"+pollsplusDiff+"</b> with 538 polls-plus!! You spent $"+totalSpentPlus+" and got a return of $"+totalReturnPlus+" from "+totalTradesPlus+" trades</div>";
+                            } else {
+                                // polls-plus lost
+                                pollsplusDiff = pollsplusDiff*-1;
+                                textSummary += "<div class='graphExplain youLost'>You lost <b>$"+pollsplusDiff+"</b> with 538 polls-plus. You spent $"+totalSpentPlus+" and got a return of $"+totalReturnPlus+" from "+totalTradesPlus+" trades</div>";
+                            }
+                            
+                            $('#graphsRepublican').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+textSummary);
                             
                             // Graphing the lines 
                             var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
@@ -231,7 +271,7 @@
     <div class="container">
         <h1>538 vs Prediction Markets</h1>
         <h2>If always betting according to 538</h2>
-        <h2>would you win or lose on PredictWise?</h2>
+        <h2>would you win or lose $$ on PredictWise?</h2>
     </div>
 </div>
 
@@ -263,7 +303,7 @@
         </a>
         <a href="/info/#metricBpartII">
             <div id="bottomBets" class="allStatesText alert alert-success text-center" role="alert">
-                <b>Would I win or lose overall?</b>
+                <b>Would I win or lose $$ overall?</b>
             </div>
         </a>
     </div>

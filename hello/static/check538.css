@@ -65,6 +65,10 @@
     padding-right: 10px;
 }
 
+.youWon {
+    background-color: #bdfdb9;
+}
+
 #bottomStuff a:hover {
     text-decoration: none;
 }
