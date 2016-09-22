@@ -966,6 +966,12 @@ def index(request):
         response_data['stateLongName'] = request.POST['stateLongName']
         response_data['allCandidatesData'] = []
         
+        # get winner of that state and party
+        if partyChosen == 'D':
+            response_data['winner'] = Winners[response_data['stateLongName']][0]
+        else:
+            response_data['winner'] = Winners[response_data['stateLongName']][1]
+        
         # get all candidates for the state and party chosen
         targetCandidates = getStatePartyCandidates(stateChosen, partyChosen)
         #targetCandidates = ['Clinton']

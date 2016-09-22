@@ -32,7 +32,7 @@
 
 /* move legend to left */
 .legend > div, .legend > table {
-    left: 35px;
+    left: 70px;
 } 
 
 
@@ -56,8 +56,29 @@
 .eachGraph {
     width: 550px;
     height: 350px;
+    margin-bottom: 10px;
     /*position: relative;
     left: -40px;*/
+}
+
+.fa-trophy {
+    padding-right: 10px;
+}
+
+#bottomStuff a:hover {
+    text-decoration: none;
+}
+.allStatesText {
+    margin-top: 20px;
+}
+#bottomQuestion:hover {
+    background-color: #0000ff;
+    color: white;
+}
+#bottomBets:hover {
+    text-decoration: none;
+    background-color: #00b300;
+    color: #ffffb3;
 }
 
 /**********************************/
@@ -69,15 +90,18 @@
 }
 
 .infoPage h1 {
-    padding-top: 40px;
-    padding-bottom: 30px;
+    padding-top: 35px;
+    padding-bottom: 20px;
 }
 
 .infoPage h2 {
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
-
+.infoGraphs {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 #pollData, #pollDiffData {
     width: 700px;
     height: 500px;
