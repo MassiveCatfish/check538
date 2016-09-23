@@ -62,6 +62,7 @@
                     
                         stateLongName = data.stateLongName;
                         allCandidatesData = data.allCandidatesData;
+                        
                         winner= data.winner;
                     
                         // loop through each candidate in chosen state and party
@@ -87,25 +88,31 @@
                             
                             textSummary = "";
                             
-                            // Did you win?
-                            pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
-                            if (pollsonlyDiff > 0){
-                                // polls-only won
-                                textSummary += "<div class='graphExplain youWon'>Using 538 <b>polls-only</b>, you'd <b>make $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                            if (totalTradesPoll == 0){
+                                textSummary += "538 did not make any predictions on this state.";
                             } else {
-                                // polls-only lost
-                                pollsonlyDiff = pollsonlyDiff*-1;
-                                textSummary += "<div class='graphExplain youLost'>Using 538 <b>polls-only</b>, you'd <b>lose $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
-                            }
-                            
-                            pollsplusDiff = totalReturnPlus - totalSpentPlus;
-                            if (pollsplusDiff > 0){
-                                // polls-plus won
-                                textSummary += "<div class='graphExplain youWon'>Using 538 polls-<b>plus</b>, you'd <b>make $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
-                            } else {
-                                // polls-plus lost
-                                pollsplusDiff = pollsplusDiff*-1;
-                                textSummary += "<div class='graphExplain youLost'>Using 538 polls-<b>plus</b>, you'd <b>lose $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
+                                // There is 538 betting
+                                
+                                // Did you win?
+                                pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
+                                if (pollsonlyDiff > 0){
+                                    // polls-only won
+                                    textSummary += "<div class='graphExplain youWon'>Using 538 <b>polls-only</b>, you'd <b>make $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                                } else {
+                                    // polls-only lost
+                                    pollsonlyDiff = pollsonlyDiff*-1;
+                                    textSummary += "<div class='graphExplain youLost'>Using 538 <b>polls-only</b>, you'd <b>lose $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                                }
+                                
+                                pollsplusDiff = totalReturnPlus - totalSpentPlus;
+                                if (pollsplusDiff > 0){
+                                    // polls-plus won
+                                    textSummary += "<div class='graphExplain youWon'>Using 538 polls-<b>plus</b>, you'd <b>make $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
+                                } else {
+                                    // polls-plus lost
+                                    pollsplusDiff = pollsplusDiff*-1;
+                                    textSummary += "<div class='graphExplain youLost'>Using 538 polls-<b>plus</b>, you'd <b>lose $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
+                                }
                             }
                             
                             $('#graphsDemocrat').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+textSummary);
@@ -169,6 +176,13 @@
                     
                         stateLongName = data.stateLongName;
                         allCandidatesData = data.allCandidatesData;
+                        
+                        // Empty data (only occurs in Republicans)
+                        if (allCandidatesData.length == 0){
+                            $('#graphsRepublican').html(stateLongName+" has no data. Pick another state.");
+                            return;
+                        }
+                        
                         winner= data.winner;
                     
                         // loop through each candidate in chosen state and party
@@ -194,28 +208,36 @@
                             
                             textSummary = "";
                             
-                            // Did you win?
-                            pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
-                            if (pollsonlyDiff > 0){
-                                // polls-only won
-                                textSummary += "<div class='graphExplain youWon'>Using 538 <b>polls-only</b>, you'd <b>make $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                            if (totalTradesPoll == 0){
+                                textSummary += "538 did not make any predictions on this state.";
                             } else {
-                                // polls-only lost
-                                pollsonlyDiff = pollsonlyDiff*-1;
-                                textSummary += "<div class='graphExplain youLost'>Using 538 <b>polls-only</b>, you'd <b>lose $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                                // There is 538 betting
+                                
+                                // Did you win?
+                                pollsonlyDiff = totalReturnPoll - totalSpentPoll;       
+                                if (pollsonlyDiff > 0){
+                                    // polls-only won
+                                    textSummary += "<div class='graphExplain youWon'>Using 538 <b>polls-only</b>, you'd <b>make $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                                } else {
+                                    // polls-only lost
+                                    pollsonlyDiff = pollsonlyDiff*-1;
+                                    textSummary += "<div class='graphExplain youLost'>Using 538 <b>polls-only</b>, you'd <b>lose $"+pollsonlyDiff+"</b> by spending $"+totalSpentPoll+" and getting $"+totalReturnPoll+" from "+totalTradesPoll+" trades.</div>";
+                                }
+                                
+                                pollsplusDiff = totalReturnPlus - totalSpentPlus;
+                                if (pollsplusDiff > 0){
+                                    // polls-plus won
+                                    textSummary += "<div class='graphExplain youWon'>Using 538 polls-<b>plus</b>, you'd <b>make $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
+                                } else {
+                                    // polls-plus lost
+                                    pollsplusDiff = pollsplusDiff*-1;
+                                    textSummary += "<div class='graphExplain youLost'>Using 538 polls-<b>plus</b>, you'd <b>lose $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
+                                }
+                                
                             }
-                            
-                            pollsplusDiff = totalReturnPlus - totalSpentPlus;
-                            if (pollsplusDiff > 0){
-                                // polls-plus won
-                                textSummary += "<div class='graphExplain youWon'>Using 538 polls-<b>plus</b>, you'd <b>make $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
-                            } else {
-                                // polls-plus lost
-                                pollsplusDiff = pollsplusDiff*-1;
-                                textSummary += "<div class='graphExplain youLost'>Using 538 polls-<b>plus</b>, you'd <b>lose $"+pollsplusDiff+"</b> by spending $"+totalSpentPlus+" and getting $"+totalReturnPlus+" from "+totalTradesPlus+" trades.</div>";
-                            }
-                            
+                                
                             $('#graphsRepublican').append(candidateNameHTML+'<span id="candidateName"><b>'+eachCandidate.candidate+'</b></span> in <span id="stateChosen">'+stateLongName+'</span></h3>'+textSummary);
+                            
                             
                             // Graphing the lines 
                             var plot = $.plot( $('<div class="eachGraph"></div>').appendTo('#graphsRepublican'), 
