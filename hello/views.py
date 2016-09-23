@@ -941,8 +941,8 @@ def GetDataForCandidate(stateChosen, partyChosen, candidate):
         i = dataNameList538.index(stateAndParty)
         if candidate in pollHistory[i][0]:
             j = pollHistory[i][0].index(candidate)
-            threeGraphs['graphs'].append({'data': toMillisecs(pollHistory[i][j+1]), 'label':'538 Poll Only', 'color':'blue'})
-            threeGraphs['graphs'].append({'data': toMillisecs(kitchenHistory[i][j+1]), 'label':'538 Poll Plus', 'color':'green'})
+            threeGraphs['graphs'].append({'data': toMillisecs(pollHistory[i][j+1]), 'label':'538 Polls-Only', 'color':'blue'})
+            threeGraphs['graphs'].append({'data': toMillisecs(kitchenHistory[i][j+1]), 'label':'538 Polls-Plus', 'color':'green'})
 
     threeGraphs['investmentDataPoll'].append(calculateGains(stateAndParty, candidate, pollHistory, PWHistory))
     threeGraphs['investmentDataPlus'].append(calculateGains(stateAndParty, candidate, kitchenHistory, PWHistory))
