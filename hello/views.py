@@ -978,7 +978,11 @@ def index(request):
         
         # get data for each candidate
         for candidate in targetCandidates:
-            response_data['allCandidatesData'].append(GetDataForCandidate(stateChosen, partyChosen, candidate))
+            if candidate == response_data['winner']:
+                #put winner in the front --> on top
+                response_data['allCandidatesData'].insert(0, GetDataForCandidate(stateChosen, partyChosen, candidate))
+            else:
+                response_data['allCandidatesData'].append(GetDataForCandidate(stateChosen, partyChosen, candidate))
         
         #print "RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
         #print response_data

@@ -63,12 +63,17 @@
 
 .fa-trophy {
     padding-right: 10px;
+    color: yellow;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: orange;
 }
 
 .youWon {
     background-color: #bdfdb9;
 }
-
+.youLost {
+    background-color: #ffcccc;
+}
 #bottomStuff a:hover {
     text-decoration: none;
 }
